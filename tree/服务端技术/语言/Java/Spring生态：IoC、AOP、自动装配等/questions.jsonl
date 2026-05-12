@@ -1,27 +1,7 @@
-{"qid":"q-2798609-0","question":"请讲解 Spring Boot 的核心知识点","content_id":"2798609","title":"深圳某小厂面经"}
-{"qid":"q-2798609-1","question":"Spring Bean 的生命周期和原理是什么","content_id":"2798609","title":"深圳某小厂面经"}
-{"qid":"q-858303196983259136-15","question":"SpringBoot的自动装配原理","content_id":"858303196983259136","title":"【面经】2026四方精创-港资金融银行中级java开发外包岗-18K"}
-{"qid":"q-858303196983259136-16","question":"自定义注解的设计方法","content_id":"858303196983259136","title":"【面经】2026四方精创-港资金融银行中级java开发外包岗-18K"}
-{"qid":"q-858303196983259136-18","question":"MyBatis-Plus的分页实现","content_id":"858303196983259136","title":"【面经】2026四方精创-港资金融银行中级java开发外包岗-18K"}
 {"qid":"q-2798105-0","question":"你对Spring Boot Admin（SBA）有什么看法？请解释其作用和原理。","content_id":"2798105","title":"苏州某小厂面经"}
-{"qid":"q-2798038-3","question":"Spring的依赖注入是什么","content_id":"2798038","title":"vivo后端一面"}
-{"qid":"q-858066489113313280-0","question":"AOP的实现原理是什么？","content_id":"858066489113313280","title":"2512，广州乐趣无限-Java游戏后端"}
-{"qid":"q-858066489113313280-1","question":"JDK动态代理和CGLIB的区别？","content_id":"858066489113313280","title":"2512，广州乐趣无限-Java游戏后端"}
-{"qid":"q-858066489113313280-2","question":"多个切面如何控制执行顺序？","content_id":"858066489113313280","title":"2512，广州乐趣无限-Java游戏后端"}
-{"qid":"q-858066489113313280-3","question":"切面能否按环境或配置开关控制？","content_id":"858066489113313280","title":"2512，广州乐趣无限-Java游戏后端"}
-{"qid":"q-2796483-5","question":"SQL事务失效的可能原因有哪些？","content_id":"2796483","title":"小厂技术面"}
 {"qid":"q-2796451-3","question":"项目中使用的Spring Boot版本是多少？","content_id":"2796451","title":"武汉小厂浮木科技java面经"}
-{"qid":"q-2796451-4","question":"Spring Boot配置如何编写？","content_id":"2796451","title":"武汉小厂浮木科技java面经"}
-{"qid":"q-2796046-3","question":"测试和开发环境用到不同的 yaml 配置，如何指定？","content_id":"2796046","title":"虾皮后端开发一面"}
-{"qid":"q-2796046-4","question":"加载顺序问题，同一个属性在命令行、application、环境都配置了，最终用哪个？","content_id":"2796046","title":"虾皮后端开发一面"}
-{"qid":"q-2796046-13","question":"auto-configuration 的理解。","content_id":"2796046","title":"虾皮后端开发一面"}
-{"qid":"q-2795731-0","question":"Spring Boot的@EnableAutoConfiguration注解的作用是什么？","content_id":"2795731","title":"社招 北京 Java后端工程师"}
-{"qid":"q-856850936549928960-4","question":"Spring框架的核心机制IoC和AOP","content_id":"856850936549928960","title":"招银网络科技 java后端开发 一面 面经"}
-{"qid":"q-856850936549928960-5","question":"Spring Boot的自动配置和起步依赖","content_id":"856850936549928960","title":"招银网络科技 java后端开发 一面 面经"}
-{"qid":"q-856601820829921280-0","question":"Spring Boot自动配置原理是什么？和Spring有什么区别？","content_id":"856601820829921280","title":"恒生电子 Java 一面 面经"}
-{"qid":"q-2795515-10","question":"请解释 AOP 的概念。","content_id":"2795515","title":"小雨智造服务端一二面"}
-{"qid":"q-2795144-2","question":"Spring Boot配置文件有哪些？","content_id":"2795144","title":"润科通用Java实习"}
 {"qid":"q-2795144-3","question":"Spring Cloud网关的作用是什么？","content_id":"2795144","title":"润科通用Java实习"}
-{"qid":"q-2795144-9","question":"Spring MVC的执行流程是什么？","content_id":"2795144","title":"润科通用Java实习"}
-{"qid":"q-2795144-10","question":"MyBatis的分页实现方式有哪些？","content_id":"2795144","title":"润科通用Java实习"}
-{"qid":"q-2795144-13","question":"配置文件通常写在哪里？比如MySQL的配置","content_id":"2795144","title":"润科通用Java实习"}
+{"qid":"q-2790633-3","question":"微服务架构如何进行统一异常处理？","content_id":"2790633","title":"鼎捷数智 Java一面"}
+{"qid":"q-846357926959644672-4","question":"Spring中如何解决循环依赖问题？","content_id":"846357926959644672","title":"智慧用能低碳研究院 - Java - 实习一面"}
+{"qid":"q-2782248-5","question":"IOC的好处在哪里？请举例说明","content_id":"2782248","title":"实在智能-Java开发工程师-终面-45min"}
+{"qid":"q-2780374-15","question":"在JDK和Spring中，你在哪些地方见到用到了什么设计模式？","content_id":"2780374","title":"得物秋招Java后端面试记录"}

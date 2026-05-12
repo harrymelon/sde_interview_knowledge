@@ -2,3 +2,10 @@
 {"qid":"q-2796046-7","question":"举几个例子，什么情况下会使用表锁？","content_id":"2796046","title":"虾皮后端开发一面"}
 {"qid":"q-2796046-8","question":"有排查过 MySQL 行锁问题吗？锁冲突、锁等待如何处理？","content_id":"2796046","title":"虾皮后端开发一面"}
 {"qid":"q-2795642-0","question":"MySQL 索引加锁用到了哪几种？","content_id":"2795642","title":"用友网络后端面试"}
+{"qid":"q-2788871-3","question":"两个事务并发执行：事务A SELECT ... FOR UPDATE (id=7)，事务B INSERT (6,8,11)，说明执行结果及原因","content_id":"2788871","title":"百度国际化后台开发日常实习一面"}
+{"qid":"q-2785913-6","question":"用MySQL实现分布式锁的思路是什么","content_id":"2785913","title":"度小满（数据库后端开发）"}
+{"qid":"q-2785913-7","question":"用MySQL实现乐观锁该怎么实现","content_id":"2785913","title":"度小满（数据库后端开发）"}
+{"qid":"q-2785913-14","question":"select发生时锁的粒度","content_id":"2785913","title":"度小满（数据库后端开发）"}
+{"qid":"q-2785913-15","question":"如果select一个不存在的数据会有间隙锁，间隙锁的间隙怎么确定的","content_id":"2785913","title":"度小满（数据库后端开发）"}
+{"qid":"q-2785298-12","question":"讲讲对MySQL锁的了解","content_id":"2785298","title":"记录下自己双非硕秋招面经"}
+{"qid":"q-2780420-7","question":"数据库中如果对一个数据有读有写的话，要加锁吗","content_id":"2780420","title":"蚂蚁金服后端校招一面 1h"}

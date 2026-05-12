@@ -1,0 +1,5 @@
+{"qid":"q-2787532-10","question":"跨线程的ThreadLocal如何实现？","content_id":"2787532","title":"字节日常实习一面"}
+{"qid":"q-2785774-18","question":"项目中用到了多线程吗？提到了TransmittableThreadLocal","content_id":"2785774","title":"实在智能-Java开发-实习一面"}
+{"qid":"q-2780728-3","question":"如何用TTL封装异步线程池实现上下文传递","content_id":"2780728","title":"蔚来后台开发 凉经"}
+{"qid":"q-2790248-9","question":"生产环境中如何实现主线程和子线程的日志异步串联","content_id":"2790248","title":"字节后端二面"}
+{"qid":"q-857348280399736832-2","question":"ThreadLocal底层原理：为什么Key是弱引用？为什么会发生内存泄露？在线程池环境下会有什么风险？","content_id":"857348280399736832","title":"新华通运一面"}

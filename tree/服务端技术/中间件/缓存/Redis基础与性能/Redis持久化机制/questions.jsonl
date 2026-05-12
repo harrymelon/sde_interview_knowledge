@@ -1,0 +1,10 @@
+{"qid":"q-2795144-12","question":"Redis的数据会一直存在吗？","content_id":"2795144","title":"润科通用Java实习"}
+{"qid":"q-2789062-8","question":"AOF和RDB持久化对比，分别如何实现？","content_id":"2789062","title":"牛客JAVA后端一面"}
+{"qid":"q-846045342515621888-9","question":"Redis持久化机制有哪些","content_id":"846045342515621888","title":"后端开发面试记录"}
+{"qid":"q-2785298-14","question":"实际项目里有用到Redis持久化相关内容吗？","content_id":"2785298","title":"记录下自己双非硕秋招面经"}
+{"qid":"q-2785316-23","question":"Redis的持久化机制","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2785774-14","question":"排行榜数据需要持久化到数据库吗？","content_id":"2785774","title":"实在智能-Java开发-实习一面"}
+{"qid":"q-2781621-6","question":"Redis如何保证数据不丢失？","content_id":"2781621","title":"16.上海哈啰后端校招一面"}
+{"qid":"q-2781621-7","question":"Redis为什么使用RDB+AOF混合持久化模式？","content_id":"2781621","title":"16.上海哈啰后端校招一面"}
+{"qid":"q-2781621-8","question":"提高RDB备份频率能否消除RDB的劣势？","content_id":"2781621","title":"16.上海哈啰后端校招一面"}
+{"qid":"q-2781624-17","question":"Redis线上丢失过数据吗？丢失原因是什么？","content_id":"2781624","title":"18.滴滴-效能平台后端实习一面"}

@@ -1,0 +1,18 @@
+{"qid":"q-858279900812210176-1","question":"Java面向对象的三大特性是什么？","content_id":"858279900812210176","title":"友邦咨询（成都）- Java开发 一面 面经"}
+{"qid":"q-2797570-6","question":"Java是值传递还是引用传递？","content_id":"2797570","title":"焦点科技java后端一面30min"}
+{"qid":"q-2797570-7","question":"main方法中new ArrayList并add(\"A\")，调用change(list)方法，change中new ArrayList并add(\"B\")，问输出结果是什么？","content_id":"2797570","title":"焦点科技java后端一面30min"}
+{"qid":"q-2790248-3","question":"方法重载和重写的区别","content_id":"2790248","title":"字节后端二面"}
+{"qid":"q-2790248-4","question":"哪些方法不能被重写","content_id":"2790248","title":"字节后端二面"}
+{"qid":"q-2789972-1","question":"请介绍Java面向对象的三大特性","content_id":"2789972","title":"友邦创新科技-- Java开发实习"}
+{"qid":"q-2789209-4","question":"多态是什么，详细介绍一下","content_id":"2789209","title":"腾讯2026技术提前批后台开发一面"}
+{"qid":"q-2789347-1","question":"对面向对象的理解","content_id":"2789347","title":"中海达（java实习一面）面经"}
+{"qid":"q-2789347-2","question":"继承、封装、多态的概念","content_id":"2789347","title":"中海达（java实习一面）面经"}
+{"qid":"q-2782135-2","question":"Java 的多态有哪些表现方式","content_id":"2782135","title":"弘云咨询 全栈实习"}
+{"qid":"q-2785298-5","question":"手撕代码：父子继承，多态控制","content_id":"2785298","title":"记录下自己双非硕秋招面经"}
+{"qid":"q-2796075-7","question":"深拷贝和浅拷贝的区别？除了new和clone，还有更好的对象复制方式吗？","content_id":"2796075","title":"实在智能java后端实习一面"}
+{"qid":"q-2796075-8","question":"除了new和clone，还有哪些创建类实例的方式？","content_id":"2796075","title":"实在智能java后端实习一面"}
+{"qid":"q-2791467-9","question":"static关键字的作用是什么？","content_id":"2791467","title":"momenta后端实习二面"}
+{"qid":"q-2790763-0","question":"final关键字的作用和用法是什么？","content_id":"2790763","title":"美团一面（挂）"}
+{"qid":"q-2788907-1","question":"final关键字的作用是什么？","content_id":"2788907","title":"字节国际化广告后端一面"}
+{"qid":"q-2788907-2","question":"可以用final修饰抽象类吗？","content_id":"2788907","title":"字节国际化广告后端一面"}
+{"qid":"q-840588378700541952-8","question":"如何访问私有方法？反射是否破坏了private的面向对象设计？","content_id":"840588378700541952","title":"上海禾赛科技 （java后端实习）一面"}

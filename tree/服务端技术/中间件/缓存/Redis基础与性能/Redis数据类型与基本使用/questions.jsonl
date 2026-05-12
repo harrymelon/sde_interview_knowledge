@@ -1,0 +1,23 @@
+{"qid":"q-2797609-2","question":"缓存设置了什么TTL，使用了什么数据结构","content_id":"2797609","title":"字节国际广告后端春招一面"}
+{"qid":"q-2796046-1","question":"Redis 数据结构怎么设计？","content_id":"2796046","title":"虾皮后端开发一面"}
+{"qid":"q-2795642-3","question":"Redis 的数据结构有哪些？","content_id":"2795642","title":"用友网络后端面试"}
+{"qid":"q-2795642-4","question":"Redis 的 Set 和 Zset 有什么区别？","content_id":"2795642","title":"用友网络后端面试"}
+{"qid":"q-2795073-4","question":"Redis 常用数据类型有哪些？","content_id":"2795073","title":"小厂全栈开发"}
+{"qid":"q-2793128-7","question":"Redis 缓存三剑客指什么？Redis 有哪些数据结构？","content_id":"2793128","title":"游族网络 golang面经"}
+{"qid":"q-2792583-5","question":"Redis常用的数据类型有哪些？","content_id":"2792583","title":"小厂Java电话面试"}
+{"qid":"q-2792583-6","question":"为什么在项目中使用Redis的哈希数据类型？","content_id":"2792583","title":"小厂Java电话面试"}
+{"qid":"q-2791345-7","question":"Redis支持哪些数据结构","content_id":"2791345","title":"字节 后端开发 (Agent中台)一面凉"}
+{"qid":"q-2789209-5","question":"你常用的Redis数据类型有哪些？","content_id":"2789209","title":"腾讯2026技术提前批后台开发一面"}
+{"qid":"q-2789347-6","question":"Redis常见数据结构有哪些","content_id":"2789347","title":"中海达（java实习一面）面经"}
+{"qid":"q-2788907-14","question":"Redis的基本数据结构有哪些？","content_id":"2788907","title":"字节国际化广告后端一面"}
+{"qid":"q-2788871-11","question":"Redis的常用数据类型有哪些？","content_id":"2788871","title":"百度国际化后台开发日常实习一面"}
+{"qid":"q-2787545-6","question":"Redis有哪些常见的数据结构？","content_id":"2787545","title":"字节后端面经，严刑烤打3小时"}
+{"qid":"q-2785774-12","question":"为什么排行榜不用List、Set、Hash，而要用ZSet？","content_id":"2785774","title":"实在智能-Java开发-实习一面"}
+{"qid":"q-2785298-0","question":"bitmap存储签到信息为什么不用数组？","content_id":"2785298","title":"记录下自己双非硕秋招面经"}
+{"qid":"q-2782135-8","question":"比如Redis实现一个点赞 用哪个数据类型","content_id":"2782135","title":"弘云咨询 全栈实习"}
+{"qid":"q-2782135-9","question":"redis有哪些数据类型","content_id":"2782135","title":"弘云咨询 全栈实习"}
+{"qid":"q-2781731-1","question":"Redis有哪些数据结构？","content_id":"2781731","title":"北京小厂- Java"}
+{"qid":"q-2781934-13","question":"场景题：实现每月签到功能（使用int32位或Redis位图），数据如何存储？","content_id":"2781934","title":"广州小厂爱奇创新Java实习面经"}
+{"qid":"q-2781464-6","question":"Redis支持哪些数据类型？","content_id":"2781464","title":"北京百度后端实习二面"}
+{"qid":"q-2783947-2","question":"项目中为什么要使用Redis的hash数据结构？","content_id":"2783947","title":"高顿教育后端实习岗位oc"}
+{"qid":"q-2784185-15","question":"Redis中ZSet和Set的区别","content_id":"2784185","title":"2025.1.8西安易谷网络小厂面试"}

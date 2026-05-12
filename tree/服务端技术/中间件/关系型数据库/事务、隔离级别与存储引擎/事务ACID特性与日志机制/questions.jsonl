@@ -1,0 +1,10 @@
+{"qid":"q-2797609-6","question":"数据库ACID特性中的隔离性是什么","content_id":"2797609","title":"字节国际广告后端春招一面"}
+{"qid":"q-2792732-5","question":"MySQL 的事务原理是什么？","content_id":"2792732","title":"滴滴后端一面"}
+{"qid":"q-2792249-5","question":"事务解决的都是什么问题","content_id":"2792249","title":"京东后端-二面"}
+{"qid":"q-2788871-4","question":"MySQL事务是什么？有哪些特性？","content_id":"2788871","title":"百度国际化后台开发日常实习一面"}
+{"qid":"q-2788871-5","question":"MySQL原子性底层如何实现（undo log）？","content_id":"2788871","title":"百度国际化后台开发日常实习一面"}
+{"qid":"q-2785316-13","question":"事务的四大特性（ACID）是如何实现的","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2789062-9","question":"undo log和redo log分别什么时候写入和刷盘？","content_id":"2789062","title":"牛客JAVA后端一面"}
+{"qid":"q-2788865-12","question":"MySQL日志介绍（包括binlog、redo log、undo log）","content_id":"2788865","title":"字节日常实习二面"}
+{"qid":"q-2785316-15","question":"redo log日志的作用","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2780420-2","question":"主机突然断电了，日志会丢失吗","content_id":"2780420","title":"蚂蚁金服后端校招一面 1h"}

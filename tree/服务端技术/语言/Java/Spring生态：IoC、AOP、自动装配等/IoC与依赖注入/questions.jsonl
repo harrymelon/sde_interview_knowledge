@@ -1,0 +1,25 @@
+{"qid":"q-2798038-3","question":"Spring的依赖注入是什么","content_id":"2798038","title":"vivo后端一面"}
+{"qid":"q-856850936549928960-4","question":"Spring框架的核心机制IoC和AOP","content_id":"856850936549928960","title":"招银网络科技 java后端开发 一面 面经"}
+{"qid":"q-2790248-15","question":"Spring中常用注解有哪些","content_id":"2790248","title":"字节后端二面"}
+{"qid":"q-2790248-16","question":"@Autowired注解的用法和可以使用的位置","content_id":"2790248","title":"字节后端二面"}
+{"qid":"q-2790248-17","question":"Spring注册Bean的方式","content_id":"2790248","title":"字节后端二面"}
+{"qid":"q-2789972-7","question":"请介绍Spring IoC和Spring AOP","content_id":"2789972","title":"友邦创新科技-- Java开发实习"}
+{"qid":"q-2789972-11","question":"Spring管理的对象默认是单例还是多例？单例是否会有线程安全问题？","content_id":"2789972","title":"友邦创新科技-- Java开发实习"}
+{"qid":"q-2788907-9","question":"Spring创建Bean的方式有哪些？","content_id":"2788907","title":"字节国际化广告后端一面"}
+{"qid":"q-2787610-4","question":"Spring中Bean的依赖注入有哪几种方式？","content_id":"2787610","title":"云徙科技全栈开发实习技术面"}
+{"qid":"q-2787610-5","question":"讲一下Spring中Bean的作用域","content_id":"2787610","title":"云徙科技全栈开发实习技术面"}
+{"qid":"q-2787610-6","question":"Spring中的单例模式如何保证线程安全？","content_id":"2787610","title":"云徙科技全栈开发实习技术面"}
+{"qid":"q-846357926959644672-3","question":"IOC和AOP的概念是什么？","content_id":"846357926959644672","title":"智慧用能低碳研究院 - Java - 实习一面"}
+{"qid":"q-846688662325620736-17","question":"@Autowired 和 @Resource 的区别","content_id":"846688662325620736","title":"Java高薪必备八股文：春招备战指南"}
+{"qid":"q-2784185-7","question":"Spring常用注解有哪些（如@Autowired、@Transactional等）？","content_id":"2784185","title":"2025.1.8西安易谷网络小厂面试"}
+{"qid":"q-2784185-8","question":"Spring的几大特性（IOC、AOP）","content_id":"2784185","title":"2025.1.8西安易谷网络小厂面试"}
+{"qid":"q-2784185-9","question":"AOP和IOC在实际项目中的应用","content_id":"2784185","title":"2025.1.8西安易谷网络小厂面试"}
+{"qid":"q-2782248-4","question":"SpringBoot的IOC和AOP是什么？","content_id":"2782248","title":"实在智能-Java开发工程师-终面-45min"}
+{"qid":"q-2781731-3","question":"项目里用了哪些注解？@Resource和@Autowired有什么区别？","content_id":"2781731","title":"北京小厂- Java"}
+{"qid":"q-2781731-4","question":"IOC和AOP是什么？AOP的实现方式有哪些？","content_id":"2781731","title":"北京小厂- Java"}
+{"qid":"q-2781934-7","question":"对Spring的IOC的理解。","content_id":"2781934","title":"广州小厂爱奇创新Java实习面经"}
+{"qid":"q-2781934-8","question":"BeanFactory和ApplicationContext这两个Spring IOC容器的区别。","content_id":"2781934","title":"广州小厂爱奇创新Java实习面经"}
+{"qid":"q-2781624-10","question":"SpringBoot常见注解有哪些？","content_id":"2781624","title":"18.滴滴-效能平台后端实习一面"}
+{"qid":"q-2781624-12","question":"IoC和AOP通俗易懂的描述？","content_id":"2781624","title":"18.滴滴-效能平台后端实习一面"}
+{"qid":"q-2791001-4","question":"@Service注解是加在哪里的？","content_id":"2791001","title":"车300Java开发"}
+{"qid":"q-2791001-5","question":"如果Service要使用新的实现类，怎么换？","content_id":"2791001","title":"车300Java开发"}

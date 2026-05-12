@@ -1,0 +1,9 @@
+{"qid":"q-2796208-11","question":"ZooKeeper是保持强一致性的吗？它与客户端之间的关系是推还是拉？","content_id":"2796208","title":"腾讯HR与管理线后台 实习 开发一面"}
+{"qid":"q-2785360-7","question":"讲讲Raft共识算法？","content_id":"2785360","title":"安克创新golang后端开发实习一面"}
+{"qid":"q-2780402-11","question":"什么是Paxos算法？Basic Paxos和Multi-Paxos的区别是什么？","content_id":"2780402","title":"腾讯Golang开发一面-校招面经"}
+{"qid":"q-2780402-10","question":"分布式一致性哈希算法是如何工作的？如何解决节点动态增减的问题？","content_id":"2780402","title":"腾讯Golang开发一面-校招面经"}
+{"qid":"q-2780402-13","question":"什么是分布式系统的脑裂问题？如何避免？","content_id":"2780402","title":"腾讯Golang开发一面-校招面经"}
+{"qid":"q-2787838-3","question":"如何用MySQL实现分布式锁","content_id":"2787838","title":"迅雷网络 风控后端一面"}
+{"qid":"q-2781466-1","question":"分布式锁怎么做？","content_id":"2781466","title":"字节tts后端校招二面（挂）"}
+{"qid":"q-2785298-21","question":"分布式数据同步、数据一致性","content_id":"2785298","title":"记录下自己双非硕秋招面经"}
+{"qid":"q-2791575-4","question":"百度关键词命中系统的400个实例加载的内容是否一致？","content_id":"2791575","title":"【Zuvi原里-全栈开发工程师-一面】技术面经"}

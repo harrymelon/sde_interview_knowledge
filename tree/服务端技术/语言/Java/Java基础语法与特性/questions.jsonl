@@ -1,23 +1,5 @@
-{"qid":"q-858279900812210176-1","question":"Java面向对象的三大特性是什么？","content_id":"858279900812210176","title":"友邦咨询（成都）- Java开发 一面 面经"}
-{"qid":"q-2797570-1","question":"Java String为什么不可变，底层JDK层面怎么实现不可变的？","content_id":"2797570","title":"焦点科技java后端一面30min"}
-{"qid":"q-2797570-6","question":"Java是值传递还是引用传递？","content_id":"2797570","title":"焦点科技java后端一面30min"}
-{"qid":"q-2797570-7","question":"main方法中new ArrayList并add(\"A\")，调用change(list)方法，change中new ArrayList并add(\"B\")，问输出结果是什么？","content_id":"2797570","title":"焦点科技java后端一面30min"}
-{"qid":"q-2797940-4","question":"用到的设计模式有哪些","content_id":"2797940","title":"某移动互联网公司Java后端面经回忆"}
-{"qid":"q-857333638151598080-0","question":"请列举Java 8中Stream流的常用方法","content_id":"857333638151598080","title":"面试 Java 基础八股文十问十答第三期"}
-{"qid":"q-2796483-0","question":"单例模式的实现方式有哪些？","content_id":"2796483","title":"小厂技术面"}
-{"qid":"q-856973323836588032-0","question":"Java反射的定义、作用及在Spring中的体现","content_id":"856973323836588032","title":"面试 Java 基础八股文十问十答 第二期"}
-{"qid":"q-2796075-1","question":"int类型参数能否赋值为null？如果不能会抛出什么异常？","content_id":"2796075","title":"实在智能java后端实习一面"}
-{"qid":"q-2796075-2","question":"你遇到过哪些异常？","content_id":"2796075","title":"实在智能java后端实习一面"}
-{"qid":"q-2796075-3","question":"空指针异常通常在什么场景下出现？","content_id":"2796075","title":"实在智能java后端实习一面"}
-{"qid":"q-2796075-4","question":"long和int可以互相转换吗？为什么？","content_id":"2796075","title":"实在智能java后端实习一面"}
-{"qid":"q-2796075-5","question":"如何存储精确金额？","content_id":"2796075","title":"实在智能java后端实习一面"}
-{"qid":"q-2796075-6","question":"Java的反射机制了解吗？","content_id":"2796075","title":"实在智能java后端实习一面"}
-{"qid":"q-2796075-7","question":"深拷贝和浅拷贝的区别？除了new和clone，还有更好的对象复制方式吗？","content_id":"2796075","title":"实在智能java后端实习一面"}
-{"qid":"q-2796075-8","question":"除了new和clone，还有哪些创建类实例的方式？","content_id":"2796075","title":"实在智能java后端实习一面"}
-{"qid":"q-2796075-9","question":"Java的基本数据类型有哪些？","content_id":"2796075","title":"实在智能java后端实习一面"}
-{"qid":"q-2796046-12","question":"Java 动态代理的理解。","content_id":"2796046","title":"虾皮后端开发一面"}
-{"qid":"q-2795604-0","question":"Java 的类加载机制是怎样的？","content_id":"2795604","title":"小鹏汽车 Java后端面经"}
-{"qid":"q-2795604-1","question":"满足什么条件时，一个 Java 类会被卸载？","content_id":"2795604","title":"小鹏汽车 Java后端面经"}
-{"qid":"q-2795515-11","question":"请解释 Java 的 volatile 关键字。","content_id":"2795515","title":"小雨智造服务端一二面"}
-{"qid":"q-2795144-0","question":"Java中==和equals的区别是什么？","content_id":"2795144","title":"润科通用Java实习"}
-{"qid":"q-2795144-1","question":"String比较时比较的是什么？","content_id":"2795144","title":"润科通用Java实习"}
+{"qid":"q-2791467-2","question":"Object类有哪些方法？","content_id":"2791467","title":"momenta后端实习二面"}
+{"qid":"q-2789395-1","question":"Object类有哪些常用方法？","content_id":"2789395","title":"字节日常实习三面 (已oc)"}
+{"qid":"q-2788893-5","question":"重载和重写的区别是什么？","content_id":"2788893","title":"网思科技java后端实习1.18（已oc）base济南"}
+{"qid":"q-846771368531095552-1","question":"面向对象的三大特性是什么？","content_id":"846771368531095552","title":"智识神工NPCTEK - Java - 实习一面"}
+{"qid":"q-2786460-9","question":"Java中深拷贝的实现方式","content_id":"2786460","title":"灵犀互娱后端一面挂-秋招"}

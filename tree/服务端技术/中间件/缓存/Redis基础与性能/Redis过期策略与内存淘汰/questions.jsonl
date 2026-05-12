@@ -1,0 +1,7 @@
+{"qid":"q-2795731-4","question":"Redis的SET key value EX 60命令的作用是什么？","content_id":"2795731","title":"社招 北京 Java后端工程师"}
+{"qid":"q-2792532-8","question":"Redis的内存淘汰和过期策略","content_id":"2792532","title":"字节后端三面面经"}
+{"qid":"q-2789395-9","question":"Redis过期淘汰清理的实现原理","content_id":"2789395","title":"字节日常实习三面 (已oc)"}
+{"qid":"q-846045342515621888-14","question":"Redis内存占用较多时如何处理","content_id":"846045342515621888","title":"后端开发面试记录"}
+{"qid":"q-846045342515621888-15","question":"Redis的过期key是怎么删除的","content_id":"846045342515621888","title":"后端开发面试记录"}
+{"qid":"q-2781465-2","question":"Redis中key是主动删除还是被动删除？Redis怎么知道key是否过期？","content_id":"2781465","title":"字节tts后端校招一面"}
+{"qid":"q-2781465-3","question":"惰性删除和定期删除各自的优劣","content_id":"2781465","title":"字节tts后端校招一面"}

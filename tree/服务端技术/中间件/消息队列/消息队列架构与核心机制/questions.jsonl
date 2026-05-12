@@ -1,0 +1,13 @@
+{"qid":"q-2795731-5","question":"Kafka中replication.factor配置的作用是什么？","content_id":"2795731","title":"社招 北京 Java后端工程师"}
+{"qid":"q-2794758-7","question":"Kafka的结构，生产者消费者数量设置，以及如何指定消息发送到某个分区","content_id":"2794758","title":"tts ai后端实习生一面"}
+{"qid":"q-2785360-8","question":"了解Kafka的架构吗？","content_id":"2785360","title":"安克创新golang后端开发实习一面"}
+{"qid":"q-2785316-2","question":"对Kafka的了解程度","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2785316-9","question":"Kafka中Leader和Follower的选举过程，以及Leader挂了以后如何重新选举","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2785316-10","question":"Kafka多分区写入时是等待所有分区都写成功才返回，还是自己写成功就返回","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2789477-16","question":"RocketMQ的核心角色和原理实现","content_id":"2789477","title":"b站Java日常实习面经"}
+{"qid":"q-2787532-12","question":"RabbitMQ的架构（交换机、队列、AMQP）是怎样的？","content_id":"2787532","title":"字节日常实习一面"}
+{"qid":"q-2788865-7","question":"RabbitMQ如何实现负载均衡","content_id":"2788865","title":"字节日常实习二面"}
+{"qid":"q-2788865-8","question":"仲裁模式下RabbitMQ的消费组如何工作","content_id":"2788865","title":"字节日常实习二面"}
+{"qid":"q-2787532-13","question":"RabbitMQ如何保证高可用和可靠性？","content_id":"2787532","title":"字节日常实习一面"}
+{"qid":"q-2792536-5","question":"Kafka的零拷贝机制","content_id":"2792536","title":"米哈游后端-一面"}
+{"qid":"q-2780360-4","question":"Kafka为什么这么快？用了哪些技术？","content_id":"2780360","title":"京东Java后端开发一面-日常实习"}

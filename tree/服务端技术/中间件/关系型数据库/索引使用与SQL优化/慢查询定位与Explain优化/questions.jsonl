@@ -1,0 +1,23 @@
+{"qid":"q-2797940-3","question":"如何定位慢查询","content_id":"2797940","title":"某移动互联网公司Java后端面经回忆"}
+{"qid":"q-2795144-6","question":"如何解决MySQL慢查询？","content_id":"2795144","title":"润科通用Java实习"}
+{"qid":"q-2795144-7","question":"开启MySQL慢查询日志的命令是什么？","content_id":"2795144","title":"润科通用Java实习"}
+{"qid":"q-2795144-8","question":"Explain命令的作用是什么？","content_id":"2795144","title":"润科通用Java实习"}
+{"qid":"q-2794658-5","question":"做过索引相关的优化吗？如何判断写的SQL好坏？","content_id":"2794658","title":"实在智能Java一面面经 （30min速通）"}
+{"qid":"q-2794658-6","question":"用过explain吗？其作用是什么？核心关注哪些字段？","content_id":"2794658","title":"实在智能Java一面面经 （30min速通）"}
+{"qid":"q-2792732-8","question":"如何判断 SQL 是否命中了索引？","content_id":"2792732","title":"滴滴后端一面"}
+{"qid":"q-2792583-4","question":"如何查看SQL语句的执行效果？","content_id":"2792583","title":"小厂Java电话面试"}
+{"qid":"q-2788871-8","question":"如何定位和优化慢SQL语句？","content_id":"2788871","title":"百度国际化后台开发日常实习一面"}
+{"qid":"q-2788871-9","question":"使用explain分析慢SQL时，哪些字段比较重要？","content_id":"2788871","title":"百度国际化后台开发日常实习一面"}
+{"qid":"q-2785360-0","question":"慢查询应该如何排查？","content_id":"2785360","title":"安克创新golang后端开发实习一面"}
+{"qid":"q-2785316-21","question":"如何分析SQL的执行计划","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2784269-3","question":"SQL慢查询优化方法有哪些？请解释explain关键字的作用。","content_id":"2784269","title":"大三，学院本，第一个实习历程"}
+{"qid":"q-2783719-6","question":"项目中的慢查询优化具体怎么做的","content_id":"2783719","title":"字节头条后端一面面经"}
+{"qid":"q-2783719-7","question":"现场写一个表和查询语句复述慢查询优化的思路","content_id":"2783719","title":"字节头条后端一面面经"}
+{"qid":"q-2781491-30","question":"SQL调优排查流程","content_id":"2781491","title":"字节后端日常一二三面面经（oc）"}
+{"qid":"q-2784403-0","question":"慢SQL优化讲一讲","content_id":"2784403","title":"百度后端一二面"}
+{"qid":"q-2784403-1","question":"MySQL优化器在这里为什么没有优化这一步？","content_id":"2784403","title":"百度后端一二面"}
+{"qid":"q-2791575-17","question":"日常工作中是否经常处理慢SQL，具体是如何处理的？","content_id":"2791575","title":"【Zuvi原里-全栈开发工程师-一面】技术面经"}
+{"qid":"q-2788893-7","question":"慢SQL优化有哪些经验？","content_id":"2788893","title":"网思科技java后端实习1.18（已oc）base济南"}
+{"qid":"q-2788360-0","question":"MySQL查询速度慢的可能原因有哪些？","content_id":"2788360","title":"字节后端开发实习转正一面凉经"}
+{"qid":"q-2788360-1","question":"发现MySQL查询慢后，应该如何排查和优化？","content_id":"2788360","title":"字节后端开发实习转正一面凉经"}
+{"qid":"q-2785913-8","question":"如何优化SQL select * from table1 where a=1 and b=0，怎么加索引","content_id":"2785913","title":"度小满（数据库后端开发）"}

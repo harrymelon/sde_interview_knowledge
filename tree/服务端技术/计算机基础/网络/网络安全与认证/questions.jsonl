@@ -7,3 +7,19 @@
 {"qid":"q-2795714-5","question":"HTTPS中S（对称加密）的原理","content_id":"2795714","title":"算力大陆后端开发面经"}
 {"qid":"q-2795714-7","question":"JWT原理及项目中如何使用","content_id":"2795714","title":"算力大陆后端开发面经"}
 {"qid":"q-2795144-18","question":"Cookie和Session的区别是什么？","content_id":"2795144","title":"润科通用Java实习"}
+{"qid":"q-2793128-11","question":"SQL 注入是什么？常见的网络攻击有哪些？","content_id":"2793128","title":"游族网络 golang面经"}
+{"qid":"q-2791345-12","question":"请详细说明微信扫码登录的完整流程和背后发生的原理","content_id":"2791345","title":"字节 后端开发 (Agent中台)一面凉"}
+{"qid":"q-2791295-10","question":"你在传输API KEY会进行加密吗？","content_id":"2791295","title":"小厂Java面试"}
+{"qid":"q-2791295-11","question":"怎么可以抓到别人的数据？进行开发、排查我们的系统。","content_id":"2791295","title":"小厂Java面试"}
+{"qid":"q-2789209-9","question":"项目中为什么用JWT，和cookie-session相比有何优势","content_id":"2789209","title":"腾讯2026技术提前批后台开发一面"}
+{"qid":"q-2789209-11","question":"项目中的加密存储如何实现的？盐是什么？","content_id":"2789209","title":"腾讯2026技术提前批后台开发一面"}
+{"qid":"q-2789209-12","question":"加盐之后，用户登录的验证过程怎么实现","content_id":"2789209","title":"腾讯2026技术提前批后台开发一面"}
+{"qid":"q-2789209-13","question":"把盐和最终的哈希值保存到同一个数据库存在安全隐患，有没有优化方案？","content_id":"2789209","title":"腾讯2026技术提前批后台开发一面"}
+{"qid":"q-2789477-5","question":"JWT的刷新机制怎么设计？","content_id":"2789477","title":"b站Java日常实习面经"}
+{"qid":"q-2785774-6","question":"请介绍一下JWT","content_id":"2785774","title":"实在智能-Java开发-实习一面"}
+{"qid":"q-2785774-7","question":"同一用户在客户端A和客户端B生成JWT，客户端B修改用户信息后两个JWT会冲突吗？如何解决？","content_id":"2785774","title":"实在智能-Java开发-实习一面"}
+{"qid":"q-2784403-8","question":"双token的校验机制讲一讲","content_id":"2784403","title":"百度后端一二面"}
+{"qid":"q-2784269-4","question":"网络攻防与密码学的相关知识。","content_id":"2784269","title":"大三，学院本，第一个实习历程"}
+{"qid":"q-2782248-6","question":"项目用户登录鉴权是怎么实现的？cookie、session和JWT有什么区别？","content_id":"2782248","title":"实在智能-Java开发工程师-终面-45min"}
+{"qid":"q-2780360-13","question":"对数据安全和信息安全的了解？","content_id":"2780360","title":"京东Java后端开发一面-日常实习"}
+{"qid":"q-2780360-14","question":"密码应该怎么安全存储？","content_id":"2780360","title":"京东Java后端开发一面-日常实习"}

@@ -1,3 +1,11 @@
 {"qid":"q-858279942545534976-1","question":"MySQL主从复制","content_id":"858279942545534976","title":"友邦咨询（成都）- Java开发 二面 面经"}
 {"qid":"q-857347414137548800-4","question":"基于Canal监听binlog的方式相比于缓存双删有什么缺点？","content_id":"857347414137548800","title":"字节crm后端二面"}
 {"qid":"q-857347414137548800-5","question":"基于Canal监听binlog同步时，会不会读到旧数据？","content_id":"857347414137548800","title":"字节crm后端二面"}
+{"qid":"q-2789756-7","question":"MySQL主从复制过程是什么？是同步的吗？","content_id":"2789756","title":"百度国际化后台开发日常实习二面"}
+{"qid":"q-2789756-8","question":"主从同步延迟问题如何从业务层设计优化？","content_id":"2789756","title":"百度国际化后台开发日常实习二面"}
+{"qid":"q-2788871-10","question":"MySQL主从复制的数据同步流程（binlog、offset）","content_id":"2788871","title":"百度国际化后台开发日常实习一面"}
+{"qid":"q-2785316-14","question":"binlog日志的作用","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2781624-14","question":"MySQL线上部署架构是怎样的？","content_id":"2781624","title":"18.滴滴-效能平台后端实习一面"}
+{"qid":"q-2781624-15","question":"是否遇到MySQL主从延迟的情况？","content_id":"2781624","title":"18.滴滴-效能平台后端实习一面"}
+{"qid":"q-2781624-16","question":"如何获取MySQL主从延迟情况？","content_id":"2781624","title":"18.滴滴-效能平台后端实习一面"}
+{"qid":"q-2781491-19","question":"CDC底层原理","content_id":"2781491","title":"字节后端日常一二三面面经（oc）"}

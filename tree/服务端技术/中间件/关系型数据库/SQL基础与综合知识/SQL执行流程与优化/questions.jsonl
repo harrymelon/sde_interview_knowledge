@@ -1,0 +1,10 @@
+{"qid":"q-2792532-5","question":"慢SQL如何排查？自己的项目排查过程","content_id":"2792532","title":"字节后端三面面经"}
+{"qid":"q-2789395-8","question":"EXPLAIN命令怎么使用，需要研究哪些参数？","content_id":"2789395","title":"字节日常实习三面 (已oc)"}
+{"qid":"q-2785913-9","question":"为什么select*性能不好","content_id":"2785913","title":"度小满（数据库后端开发）"}
+{"qid":"q-2780374-10","question":"类型转换为什么会失效？","content_id":"2780374","title":"得物秋招Java后端面试记录"}
+{"qid":"q-2780364-12","question":"MySQL为什么要移除查询缓存？","content_id":"2780364","title":"小鹏汽车秋招Java后端面试记录"}
+{"qid":"q-2791824-8","question":"SQL优化的具体操作流程和检查要点","content_id":"2791824","title":"【杭州亿格云科技有限公司】-【后端】-【一面】技术面经"}
+{"qid":"q-2783719-5","question":"MySQL索引有哪些","content_id":"2783719","title":"字节头条后端一面面经"}
+{"qid":"q-2791575-19","question":"某笔记管理网站中使用MySQL的全文索引NGRAPH，该索引与Elasticsearch相比效率是否更低，为何选择该索引而非Elasticsearch？","content_id":"2791575","title":"【Zuvi原里-全栈开发工程师-一面】技术面经"}
+{"qid":"q-2785316-18","question":"执行一条SELECT语句时MySQL内部执行的完整过程","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2780364-11","question":"一条SQL的执行流程？","content_id":"2780364","title":"小鹏汽车秋招Java后端面试记录"}

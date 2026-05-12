@@ -1,0 +1,12 @@
+{"qid":"q-2798673-1","question":"大模型推理加速有哪些方法？","content_id":"2798673","title":"字节校招 AI infra后端面经"}
+{"qid":"q-2798673-2","question":"模型压缩量化方法有哪些？量化的优点是什么？","content_id":"2798673","title":"字节校招 AI infra后端面经"}
+{"qid":"q-2798673-3","question":"权重量化、激活值量化、KV cache量化各自的好处是什么？","content_id":"2798673","title":"字节校招 AI infra后端面经"}
+{"qid":"q-2798673-4","question":"KV cache的原理是什么？了解PageAttention吗？为什么效果好？","content_id":"2798673","title":"字节校招 AI infra后端面经"}
+{"qid":"q-2798673-5","question":"什么是Prefix cache？","content_id":"2798673","title":"字节校招 AI infra后端面经"}
+{"qid":"q-858421358940651520-2","question":"大模型流式与非流式传输的原理是什么？为什么使用SSE？","content_id":"858421358940651520","title":"网易互娱-游戏研发-C++ 二面凉经"}
+{"qid":"q-2797403-2","question":"模型推理加速和显存管理的技术原理是什么？","content_id":"2797403","title":""}
+{"qid":"q-2794758-2","question":"大模型推理的两个阶段是什么","content_id":"2794758","title":"tts ai后端实习生一面"}
+{"qid":"q-2794758-3","question":"vLLM中KV Cache对业务的优化和Page Attention","content_id":"2794758","title":"tts ai后端实习生一面"}
+{"qid":"q-851143575956910080-12","question":"大模型知识了解？如何做流式输出？","content_id":"851143575956910080","title":"转码选手的寻找暑期实习之路（1）-腾讯HR与管理线后台开发一面"}
+{"qid":"q-2792178-15","question":"如何做流式输出？","content_id":"2792178","title":"转码选手的寻找暑期实习之路（1）-腾讯HR与管理线后台开发一面"}
+{"qid":"q-847976149895376896-10","question":"大模型推理优化技术：量化、蒸馏、MoE","content_id":"847976149895376896","title":"2026的你，应该知道哪些AI面试题？"}

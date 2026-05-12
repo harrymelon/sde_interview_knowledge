@@ -1,0 +1,6 @@
+{"qid":"q-2788865-6","question":"ReentrantLock如何实现重入？具体到AQS","content_id":"2788865","title":"字节日常实习二面"}
+{"qid":"q-2787532-18","question":"介绍一下AQS队列，包括变种CLH、自愈合、唤醒机制、取消节点机制","content_id":"2787532","title":"字节日常实习一面"}
+{"qid":"q-2786025-1","question":"请解释AQS（AbstractQueuedSynchronizer）的原理及其在Java并发锁中的应用","content_id":"2786025","title":"米哈游效能部门后端实习oc"}
+{"qid":"q-2780371-12","question":"AQS同步器原理及ReentrantLock实现是什么？","content_id":"2780371","title":"网易校招Java后端一面技术面"}
+{"qid":"q-2785913-4","question":"可重入锁的机制怎么实现的","content_id":"2785913","title":"度小满（数据库后端开发）"}
+{"qid":"q-2785913-5","question":"如何判断当前持有锁的是不是自己","content_id":"2785913","title":"度小满（数据库后端开发）"}

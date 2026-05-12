@@ -1,0 +1,17 @@
+{"qid":"q-2795604-10","question":"Redis 为什么使用跳表而不是 B+ 树？","content_id":"2795604","title":"小鹏汽车 Java后端面经"}
+{"qid":"q-2795515-4","question":"介绍一下 Redis 的哈希表扩容。","content_id":"2795515","title":"小雨智造服务端一二面"}
+{"qid":"q-2795515-6","question":"Redis 哈希表为什么要进行渐进式扩容？它有什么作用？","content_id":"2795515","title":"小雨智造服务端一二面"}
+{"qid":"q-2794758-5","question":"Redis五种数据结构的底层原理，跳表与红黑树的对比，跳表何时退化及退化结果，红黑树何时退化及是否变成二叉平衡树","content_id":"2794758","title":"tts ai后端实习生一面"}
+{"qid":"q-854761064880189440-0","question":"Redis 的 Zset 底层使用了什么数据结构？为什么这样设计？","content_id":"854761064880189440","title":"Redis 的 Zset底层是怎么实现的？"}
+{"qid":"q-2792447-0","question":"Redis 的 ZSET 底层数据结构是什么？","content_id":"2792447","title":"双非字节跳动OC 后端 交易与广告 三面 面经"}
+{"qid":"q-2788907-15","question":"Redis的Zset是怎么实现的？使用了哪些数据结构和排序算法？","content_id":"2788907","title":"字节国际化广告后端一面"}
+{"qid":"q-2788907-16","question":"跳表怎么实现排序？为什么能支持范围查询？","content_id":"2788907","title":"字节国际化广告后端一面"}
+{"qid":"q-2787838-5","question":"Redis中Zset的实现原理和使用场景","content_id":"2787838","title":"迅雷网络 风控后端一面"}
+{"qid":"q-2785774-11","question":"ZSet的底层原理是什么？","content_id":"2785774","title":"实在智能-Java开发-实习一面"}
+{"qid":"q-2785298-1","question":"sorted set底层除了跳表还有什么？","content_id":"2785298","title":"记录下自己双非硕秋招面经"}
+{"qid":"q-2785298-11","question":"为什么sorted set底层不用B+树？","content_id":"2785298","title":"记录下自己双非硕秋招面经"}
+{"qid":"q-2781491-33","question":"Redis数据结构、底层实现以及编码中的字段","content_id":"2781491","title":"字节后端日常一二三面面经（oc）"}
+{"qid":"q-2781621-5","question":"请介绍Redis中SDS等数据结构的底层实现","content_id":"2781621","title":"16.上海哈啰后端校招一面"}
+{"qid":"q-2780371-6","question":"Redis的Hash冲突解决方案及扩容机制是什么？","content_id":"2780371","title":"网易校招Java后端一面技术面"}
+{"qid":"q-2786439-2","question":"Redis 里的 String 结构组成是什么？","content_id":"2786439","title":"jdy-创新零售后端一面-40min"}
+{"qid":"q-2792732-10","question":"Redis 底层数据结构有哪些？","content_id":"2792732","title":"滴滴后端一面"}

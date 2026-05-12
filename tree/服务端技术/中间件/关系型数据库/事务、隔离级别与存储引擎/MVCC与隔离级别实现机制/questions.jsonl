@@ -1,0 +1,15 @@
+{"qid":"q-2796451-11","question":"MVCC（多版本并发控制）是什么？","content_id":"2796451","title":"武汉小厂浮木科技java面经"}
+{"qid":"q-854766261299900416-9","question":"MVCC机制是做什么的？MVCC机制中delete的时候会发生什么？","content_id":"854766261299900416","title":"他山科技一面"}
+{"qid":"q-2792249-6","question":"各个隔离级别都是怎么实现的","content_id":"2792249","title":"京东后端-二面"}
+{"qid":"q-2789062-3","question":"各个事务隔离级别是如何实现的？","content_id":"2789062","title":"牛客JAVA后端一面"}
+{"qid":"q-2791469-23","question":"MVCC实现原理是什么？","content_id":"2791469","title":"字节后端实习一面"}
+{"qid":"q-2789395-6","question":"MVCC的实现原理是什么？","content_id":"2789395","title":"字节日常实习三面 (已oc)"}
+{"qid":"q-2788871-6","question":"MySQL MVCC机制的实现原理（readview、undo log、隐藏字段）","content_id":"2788871","title":"百度国际化后台开发日常实习一面"}
+{"qid":"q-2787455-4","question":"MySQL MVCC 的作用和实现原理是什么？","content_id":"2787455","title":"凡岛后端管培生面试(30min)"}
+{"qid":"q-2785913-12","question":"快照读和当前读有了解过吗","content_id":"2785913","title":"度小满（数据库后端开发）"}
+{"qid":"q-2785913-13","question":"当前读是怎么实现的","content_id":"2785913","title":"度小满（数据库后端开发）"}
+{"qid":"q-2785298-20","question":"对多版本并发控制有什么了解？","content_id":"2785298","title":"记录下自己双非硕秋招面经"}
+{"qid":"q-2785316-16","question":"MVCC机制的原理","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2785316-17","question":"MVCC能否解决幻读问题","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2780975-4","question":"什么是MVCC？介绍MVCC的原理","content_id":"2780975","title":"虾皮datainfra agent后端开发一面面经"}
+{"qid":"q-2780371-5","question":"MySQL的MVCC实现原理与如何解决幻读？","content_id":"2780371","title":"网易校招Java后端一面技术面"}

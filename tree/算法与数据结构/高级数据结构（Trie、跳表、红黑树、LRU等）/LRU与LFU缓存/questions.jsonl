@@ -1,0 +1,10 @@
+{"qid":"q-2796179-14","question":"实现带过期时间的LRU缓存，淘汰策略为随机。","content_id":"2796179","title":"2.26 字节后端开发转正实习一面"}
+{"qid":"q-2796046-14","question":"手撕 LRU 缓存（商品库存上限为100）。","content_id":"2796046","title":"虾皮后端开发一面"}
+{"qid":"q-2792541-4","question":"手撕LRU缓存（实现LRU数据结构）","content_id":"2792541","title":"米哈游后端-二面"}
+{"qid":"q-2792532-16","question":"手撕带过期时间的LRU缓存","content_id":"2792532","title":"字节后端三面面经"}
+{"qid":"q-2792532-17","question":"如何优化带过期时间的LRU？线程安全性考虑","content_id":"2792532","title":"字节后端三面面经"}
+{"qid":"q-2789756-0","question":"如何实现LRU缓存？","content_id":"2789756","title":"百度国际化后台开发日常实习二面"}
+{"qid":"q-2789395-11","question":"手写LRU缓存","content_id":"2789395","title":"字节日常实习三面 (已oc)"}
+{"qid":"q-2781466-3","question":"手撕LRU","content_id":"2781466","title":"字节tts后端校招二面（挂）"}
+{"qid":"q-2781460-16","question":"手撕LRU缓存算法","content_id":"2781460","title":"9.腾讯PCG后端实习一面挂"}
+{"qid":"q-2780371-10","question":"如何实现LFU缓存淘汰策略？","content_id":"2780371","title":"网易校招Java后端一面技术面"}

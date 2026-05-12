@@ -1,0 +1,13 @@
+{"qid":"q-858701426594197504-6","question":"你实际开发中遇到过OOM吗？是如何用MAT分析dump文件定位到大对象的？","content_id":"858701426594197504","title":"航旅纵横JAVA 春招"}
+{"qid":"q-2798812-9","question":"遇到OOM如何排查？","content_id":"2798812","title":"腾讯 一面"}
+{"qid":"q-2797940-2","question":"JVM的内存结构，一次性加载10万条数据到List中会怎样？会OOM吗？所有可能触发OOM的情况","content_id":"2797940","title":"某移动互联网公司Java后端面经回忆"}
+{"qid":"q-2792532-9","question":"JVM了解哪些参数？怎么设置？","content_id":"2792532","title":"字节后端三面面经"}
+{"qid":"q-851143575956910080-6","question":"什么情况下会导致频繁Full GC？","content_id":"851143575956910080","title":"转码选手的寻找暑期实习之路（1）-腾讯HR与管理线后台开发一面"}
+{"qid":"q-2792178-7","question":"什么情况下会导致频繁Full GC？","content_id":"2792178","title":"转码选手的寻找暑期实习之路（1）-腾讯HR与管理线后台开发一面"}
+{"qid":"q-2790121-7","question":"项目中是否做过 JVM 内存调优？具体怎么调的（堆大小、新生代/老年代分配、分配依据）？","content_id":"2790121","title":"新大陆Java面经"}
+{"qid":"q-2787831-6","question":"线上OOM排查和处理","content_id":"2787831","title":"260129 深蓝保Java一面"}
+{"qid":"q-2785913-18","question":"OOM有哪些可能的原因","content_id":"2785913","title":"度小满（数据库后端开发）"}
+{"qid":"q-2781491-10","question":"OOM排查","content_id":"2781491","title":"字节后端日常一二三面面经（oc）"}
+{"qid":"q-2781491-11","question":"线上内存泄露排查","content_id":"2781491","title":"字节后端日常一二三面面经（oc）"}
+{"qid":"q-2780380-6","question":"线上Full GC频繁的排查思路","content_id":"2780380","title":"网易后端开发校招二面-攒人品"}
+{"qid":"q-2781460-2","question":"如何排查Java OOM问题？用过jinfo、火焰图等工具吗？","content_id":"2781460","title":"9.腾讯PCG后端实习一面挂"}

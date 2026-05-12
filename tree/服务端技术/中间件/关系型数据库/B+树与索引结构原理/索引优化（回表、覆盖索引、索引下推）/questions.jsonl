@@ -1,0 +1,8 @@
+{"qid":"q-2794658-7","question":"遇到过回表吗？回表是什么？如何避免回表？","content_id":"2794658","title":"实在智能Java一面面经 （30min速通）"}
+{"qid":"q-2789209-8","question":"介绍一下聚集索引和二级索引","content_id":"2789209","title":"腾讯2026技术提前批后台开发一面"}
+{"qid":"q-2790121-12","question":"聚簇索引能否手动单独建立多个？","content_id":"2790121","title":"新大陆Java面经"}
+{"qid":"q-2788871-7","question":"什么是覆盖索引、前缀索引、索引下推？","content_id":"2788871","title":"百度国际化后台开发日常实习一面"}
+{"qid":"q-2786439-6","question":"什么是回表操作？","content_id":"2786439","title":"jdy-创新零售后端一面-40min"}
+{"qid":"q-2797570-8","question":"InnoDB的索引结构是怎样的，查询name和age字段索引要怎么建？","content_id":"2797570","title":"焦点科技java后端一面30min"}
+{"qid":"q-2790121-8","question":"对 MySQL 索引的了解及项目中的使用场景？","content_id":"2790121","title":"新大陆Java面经"}
+{"qid":"q-2791575-18","question":"请介绍Innodb中索引的数据结构，并说明为何选择该结构，该结构对索引设计有何指导意义？","content_id":"2791575","title":"【Zuvi原里-全栈开发工程师-一面】技术面经"}

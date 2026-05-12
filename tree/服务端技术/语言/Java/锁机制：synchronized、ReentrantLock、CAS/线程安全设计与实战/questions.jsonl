@@ -1,0 +1,14 @@
+{"qid":"q-2798812-6","question":"项目中大量使用synchronized导致效率低下，如何重构设计？","content_id":"2798812","title":"腾讯 一面"}
+{"qid":"q-2796193-2","question":"设计一个线程安全的批量删除HashMap的value的功能","content_id":"2796193","title":"美团后端一面  agent开发"}
+{"qid":"q-2794658-14","question":"若线程数很大，如何保证API同一时刻仅被调用一次（抛开线程池）？","content_id":"2794658","title":"实在智能Java一面面经 （30min速通）"}
+{"qid":"q-2792049-8","question":"HashMap 是如何保证线程安全的？具体到 JDK 8，它是如何利用 CAS 和 synchronized 实现的？","content_id":"2792049","title":"实在智能二面"}
+{"qid":"q-2791102-1","question":"什么是线程安全？请谈谈你的理解","content_id":"2791102","title":"字节后端-一面"}
+{"qid":"q-2790121-4","question":"多线程消费时是否存在互锁/数据安全问题？","content_id":"2790121","title":"新大陆Java面经"}
+{"qid":"q-2789413-2","question":"写一个转账代码，要求在多线程环境下也能顺利转账。","content_id":"2789413","title":"蔚来一面（挂）"}
+{"qid":"q-848165114816573440-2","question":"线程安全问题","content_id":"848165114816573440","title":"致远互联Java一面"}
+{"qid":"q-2788360-6","question":"什么情况下会影响线程安全？","content_id":"2788360","title":"字节后端开发实习转正一面凉经"}
+{"qid":"q-2785298-23","question":"JDK 8中并发包相关","content_id":"2785298","title":"记录下自己双非硕秋招面经"}
+{"qid":"q-2781491-34","question":"手撕：双重检查锁","content_id":"2781491","title":"字节后端日常一二三面面经（oc）"}
+{"qid":"q-2780420-6","question":"什么是线程安全，Java如何实现线程安全","content_id":"2780420","title":"蚂蚁金服后端校招一面 1h"}
+{"qid":"q-2781460-4","question":"是否解决过死锁问题？","content_id":"2781460","title":"9.腾讯PCG后端实习一面挂"}
+{"qid":"q-851143575956910080-1","question":"你是如何看待线程安全的？","content_id":"851143575956910080","title":"转码选手的寻找暑期实习之路（1）-腾讯HR与管理线后台开发一面"}

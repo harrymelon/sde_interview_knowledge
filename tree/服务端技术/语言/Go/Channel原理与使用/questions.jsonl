@@ -1,0 +1,5 @@
+{"qid":"q-2795604-3","question":"Go 的 Channel 底层的结构了解过吗？","content_id":"2795604","title":"小鹏汽车 Java后端面经"}
+{"qid":"q-2795604-4","question":"向 Channel 发送消息时，如果想实现超时处理要怎么做？","content_id":"2795604","title":"小鹏汽车 Java后端面经"}
+{"qid":"q-2795604-16","question":"如果 Channel 生产方发消息没有消费方，或者消费方很慢，如何处理？","content_id":"2795604","title":"小鹏汽车 Java后端面经"}
+{"qid":"q-2793128-0","question":"Go channel 有缓冲和无缓冲的区别是什么？","content_id":"2793128","title":"游族网络 golang面经"}
+{"qid":"q-2791345-3","question":"详细讲一下Golang中Channel的概念和作用，它是否是并发安全的？","content_id":"2791345","title":"字节 后端开发 (Agent中台)一面凉"}

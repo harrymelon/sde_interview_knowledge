@@ -1,0 +1,7 @@
+{"qid":"q-857348560604442624-4","question":"讲一下synchronized原理和锁升级原理","content_id":"857348560604442624","title":"哈啰后端一面"}
+{"qid":"q-857348560604442624-5","question":"锁只能升级，可以降级吗？","content_id":"857348560604442624","title":"哈啰后端一面"}
+{"qid":"q-2796046-11","question":"synchronized 是不是可重入的，是不是公平锁？","content_id":"2796046","title":"虾皮后端开发一面"}
+{"qid":"q-2791467-4","question":"synchronized关键字的原理和用法是什么？","content_id":"2791467","title":"momenta后端实习二面"}
+{"qid":"q-2785913-2","question":"synchronized自旋在底层是怎么实现的","content_id":"2785913","title":"度小满（数据库后端开发）"}
+{"qid":"q-2785913-3","question":"synchronized锁升级是怎么实现的","content_id":"2785913","title":"度小满（数据库后端开发）"}
+{"qid":"q-2782135-3","question":"synchronized 是如何实现的？它是重量级锁还是轻量级锁？","content_id":"2782135","title":"弘云咨询 全栈实习"}

@@ -1,0 +1,8 @@
+{"qid":"q-2795623-6","question":"聊聊GMP模型","content_id":"2795623","title":"共比邻AI后端实习一面面经"}
+{"qid":"q-2795604-5","question":"简述一下 Go 的 GMP 调度模型。","content_id":"2795604","title":"小鹏汽车 Java后端面经"}
+{"qid":"q-2795604-6","question":"GMP 模型中 P 的作用是什么？","content_id":"2795604","title":"小鹏汽车 Java后端面经"}
+{"qid":"q-2793128-3","question":"Go 协程的调度是怎么实现的？GMP 模型是怎样的？","content_id":"2793128","title":"游族网络 golang面经"}
+{"qid":"q-2791345-5","question":"讲一下GMP模型","content_id":"2791345","title":"字节 后端开发 (Agent中台)一面凉"}
+{"qid":"q-2791345-6","question":"当P的本地队列为空或者不为空时，它会怎么去调度G（协程）？","content_id":"2791345","title":"字节 后端开发 (Agent中台)一面凉"}
+{"qid":"q-2780402-0","question":"Golang中的GMP调度模型是如何工作的？P的作用是什么？","content_id":"2780402","title":"腾讯Golang开发一面-校招面经"}
+{"qid":"q-2791575-10","question":"请介绍Golang的协程和进程的模型。","content_id":"2791575","title":"【Zuvi原里-全栈开发工程师-一面】技术面经"}

@@ -9,3 +9,11 @@
 {"qid":"q-858418821919408128-0","question":"emplace_back 和 push_back 之间的区别是什么？","content_id":"858418821919408128","title":"网易互娱-游戏研发-C++ 一面"}
 {"qid":"q-858418821919408128-1","question":"emplace_back 是否比 push_back 更高效？","content_id":"858418821919408128","title":"网易互娱-游戏研发-C++ 一面"}
 {"qid":"q-858125562487828480-2","question":"vector 的 push_back 和 emplace_back 有什么区别？","content_id":"858125562487828480","title":"CVTE 软件开发工程师-C++ 一面"}
+{"qid":"q-854826146066599936-4","question":"STL容器底层原理与操作","content_id":"854826146066599936","title":"C++后端开发面试准备指南及大厂真题整理"}
+{"qid":"q-854676004529270784-0","question":"C++ STL容器底层实现与线程安全性","content_id":"854676004529270784","title":"博雷顿科技股份公司  C++ 一面复盘"}
+{"qid":"q-850813124465733632-0","question":"STL中常用的算法有哪些？","content_id":"850813124465733632","title":"C++ STL算法与迭代器面试题"}
+{"qid":"q-850813124465733632-1","question":"迭代器的分类有哪些？","content_id":"850813124465733632","title":"C++ STL算法与迭代器面试题"}
+{"qid":"q-850812970010456064-0","question":"vector的底层实现原理是什么？","content_id":"850812970010456064","title":"C++ STL容器面试题"}
+{"qid":"q-850812970010456064-1","question":"list和vector的区别是什么？","content_id":"850812970010456064","title":"C++ STL容器面试题"}
+{"qid":"q-2786482-1","question":"C++优先队列中top()和pop()的区别是什么？","content_id":"2786482","title":"字节面评有效期多长时间啊"}
+{"qid":"q-2781693-11","question":"unordered_map和map有什么区别？","content_id":"2781693","title":"01.14 经纬恒润c++开发一面凉经"}

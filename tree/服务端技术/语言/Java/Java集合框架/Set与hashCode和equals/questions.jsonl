@@ -1,0 +1,6 @@
+{"qid":"q-2797570-3","question":"HashMap如果插入的是自定义对象，需要注意什么？","content_id":"2797570","title":"焦点科技java后端一面30min"}
+{"qid":"q-2797570-4","question":"为什么重写equals方法和hashCode方法？","content_id":"2797570","title":"焦点科技java后端一面30min"}
+{"qid":"q-2798038-2","question":"Java何时需要重写hashcode方法","content_id":"2798038","title":"vivo后端一面"}
+{"qid":"q-2796451-6","question":"有序和无序的Set有哪些？","content_id":"2796451","title":"武汉小厂浮木科技java面经"}
+{"qid":"q-2791001-0","question":"HashSet怎么获取所有元素？","content_id":"2791001","title":"车300Java开发"}
+{"qid":"q-2791001-1","question":"HashSet放入自定义对象，修改对象属性后再add会怎样？如何影响hashCode和equals？","content_id":"2791001","title":"车300Java开发"}
