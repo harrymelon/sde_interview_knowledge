@@ -1,0 +1,11 @@
+{"qid":"q-2799530-7","question":"C++ vector容器的底层实现","content_id":"2799530","title":"腾讯，北极光，后端一面"}
+{"qid":"q-2799530-8","question":"C++ list容器的底层实现","content_id":"2799530","title":"腾讯，北极光，后端一面"}
+{"qid":"q-857986427299082240-3","question":"C++ STL 容器底层实现","content_id":"857986427299082240","title":"C++ 春招开始了，你的八股文准备好了吗？"}
+{"qid":"q-857647941266255872-1","question":"vector 与 list 的区别与使用场景是什么","content_id":"857647941266255872","title":"金山 C++ 一面凉经"}
+{"qid":"q-857647941266255872-2","question":"vector push_back 均摊 O(1) 的原因是什么","content_id":"857647941266255872","title":"金山 C++ 一面凉经"}
+{"qid":"q-857322312889053184-0","question":"vector 与普通数组的区别有哪些？","content_id":"857322312889053184","title":"理想汽车 后端开发-C++ 三面"}
+{"qid":"q-857322312889053184-1","question":"vector 的 push_back 为什么是均摊 O(1)？","content_id":"857322312889053184","title":"理想汽车 后端开发-C++ 三面"}
+{"qid":"q-857322312889053184-2","question":"vector 与 list 的区别及各自适用场景？","content_id":"857322312889053184","title":"理想汽车 后端开发-C++ 三面"}
+{"qid":"q-858418821919408128-0","question":"emplace_back 和 push_back 之间的区别是什么？","content_id":"858418821919408128","title":"网易互娱-游戏研发-C++ 一面"}
+{"qid":"q-858418821919408128-1","question":"emplace_back 是否比 push_back 更高效？","content_id":"858418821919408128","title":"网易互娱-游戏研发-C++ 一面"}
+{"qid":"q-858125562487828480-2","question":"vector 的 push_back 和 emplace_back 有什么区别？","content_id":"858125562487828480","title":"CVTE 软件开发工程师-C++ 一面"}

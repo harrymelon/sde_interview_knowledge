@@ -2,3 +2,10 @@
 {"qid":"q-2797604-9","question":"用过gin框架吗？详细讲讲","content_id":"2797604","title":"广州爱浦路go面经"}
 {"qid":"q-2797604-10","question":"gin框架中如何添加中间件？","content_id":"2797604","title":"广州爱浦路go面经"}
 {"qid":"q-2797604-11","question":"gorm只做过普通的增删改查吗？","content_id":"2797604","title":"广州爱浦路go面经"}
+{"qid":"q-2795623-6","question":"聊聊GMP模型","content_id":"2795623","title":"共比邻AI后端实习一面面经"}
+{"qid":"q-2795604-3","question":"Go 的 Channel 底层的结构了解过吗？","content_id":"2795604","title":"小鹏汽车 Java后端面经"}
+{"qid":"q-2795604-4","question":"向 Channel 发送消息时，如果想实现超时处理要怎么做？","content_id":"2795604","title":"小鹏汽车 Java后端面经"}
+{"qid":"q-2795604-5","question":"简述一下 Go 的 GMP 调度模型。","content_id":"2795604","title":"小鹏汽车 Java后端面经"}
+{"qid":"q-2795604-6","question":"GMP 模型中 P 的作用是什么？","content_id":"2795604","title":"小鹏汽车 Java后端面经"}
+{"qid":"q-2795604-7","question":"Go 接口的鸭子类型是如何实现的？","content_id":"2795604","title":"小鹏汽车 Java后端面经"}
+{"qid":"q-2795604-16","question":"如果 Channel 生产方发消息没有消费方，或者消费方很慢，如何处理？","content_id":"2795604","title":"小鹏汽车 Java后端面经"}

@@ -7,3 +7,8 @@
 {"qid":"q-858066489113313280-4","question":"ThreadLocal的原理？","content_id":"858066489113313280","title":"2512，广州乐趣无限-Java游戏后端"}
 {"qid":"q-858066489113313280-5","question":"使用ThreadLocal有哪些风险？","content_id":"858066489113313280","title":"2512，广州乐趣无限-Java游戏后端"}
 {"qid":"q-857348280399736832-2","question":"ThreadLocal底层原理：为什么Key是弱引用？为什么会发生内存泄露？在线程池环境下会有什么风险？","content_id":"857348280399736832","title":"新华通运一面"}
+{"qid":"q-2796483-3","question":"线程池的原理和用途是什么？","content_id":"2796483","title":"小厂技术面"}
+{"qid":"q-2796483-4","question":"线程池的核心参数有哪些？各自作用是什么？","content_id":"2796483","title":"小厂技术面"}
+{"qid":"q-2796451-10","question":"ThreadLocal的原理是什么？如何实现线程共享？","content_id":"2796451","title":"武汉小厂浮木科技java面经"}
+{"qid":"q-2795515-12","question":"请解释 Java 的 ThreadLocal。","content_id":"2795515","title":"小雨智造服务端一二面"}
+{"qid":"q-2795144-16","question":"线程池的参数有哪些？","content_id":"2795144","title":"润科通用Java实习"}

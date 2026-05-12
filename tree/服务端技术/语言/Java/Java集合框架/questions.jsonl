@@ -11,3 +11,8 @@
 {"qid":"q-857348560604442624-1","question":"什么情况下红黑树会退化为链表？为什么大于8变红黑树，小于6变链表？","content_id":"857348560604442624","title":"哈啰后端一面"}
 {"qid":"q-857348560604442624-2","question":"说一下ConcurrentHashMap和HashMap的区别","content_id":"857348560604442624","title":"哈啰后端一面"}
 {"qid":"q-857333638151598080-1","question":"请解释ConcurrentHashMap的实现原理","content_id":"857333638151598080","title":"面试 Java 基础八股文十问十答第三期"}
+{"qid":"q-2796451-5","question":"常见的List和Map有哪些？","content_id":"2796451","title":"武汉小厂浮木科技java面经"}
+{"qid":"q-2796451-6","question":"有序和无序的Set有哪些？","content_id":"2796451","title":"武汉小厂浮木科技java面经"}
+{"qid":"q-2796193-1","question":"讲讲HashMap和Hashtable的区别","content_id":"2796193","title":"美团后端一面  agent开发"}
+{"qid":"q-856850936549928960-0","question":"Java集合框架的核心接口和实现类有哪些","content_id":"856850936549928960","title":"招银网络科技 java后端开发 一面 面经"}
+{"qid":"q-2795115-4","question":"Java集合底层数据结构（HashMap、ConcurrentHashMap等）","content_id":"2795115","title":"字节后端一面"}

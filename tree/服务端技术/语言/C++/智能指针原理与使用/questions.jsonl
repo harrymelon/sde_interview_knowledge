@@ -1,0 +1,5 @@
+{"qid":"q-2799530-3","question":"智能指针的原理（shared_ptr, unique_ptr等）","content_id":"2799530","title":"腾讯，北极光，后端一面"}
+{"qid":"q-858425164415922176-0","question":"std::unique_ptr自定义删除器的用法和场景是什么？","content_id":"858425164415922176","title":"安恒信息 C++开发 一面"}
+{"qid":"q-857986427299082240-2","question":"C++ 智能指针与资源管理","content_id":"857986427299082240","title":"C++ 春招开始了，你的八股文准备好了吗？"}
+{"qid":"q-856986375638220800-1","question":"智能指针unique_ptr和shared_ptr的用途和项目实践","content_id":"856986375638220800","title":"三七互娱 游戏开发-C++ 二面"}
+{"qid":"q-856986375638220800-7","question":"std::make_unique安全创建unique_ptr的好处","content_id":"856986375638220800","title":"三七互娱 游戏开发-C++ 二面"}
