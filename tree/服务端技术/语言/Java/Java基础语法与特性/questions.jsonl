@@ -1,0 +1,6 @@
+{"qid":"q-858279900812210176-1","question":"Java面向对象的三大特性是什么？","content_id":"858279900812210176","title":"友邦咨询（成都）- Java开发 一面 面经"}
+{"qid":"q-2797570-1","question":"Java String为什么不可变，底层JDK层面怎么实现不可变的？","content_id":"2797570","title":"焦点科技java后端一面30min"}
+{"qid":"q-2797570-6","question":"Java是值传递还是引用传递？","content_id":"2797570","title":"焦点科技java后端一面30min"}
+{"qid":"q-2797570-7","question":"main方法中new ArrayList并add(\"A\")，调用change(list)方法，change中new ArrayList并add(\"B\")，问输出结果是什么？","content_id":"2797570","title":"焦点科技java后端一面30min"}
+{"qid":"q-2797940-4","question":"用到的设计模式有哪些","content_id":"2797940","title":"某移动互联网公司Java后端面经回忆"}
+{"qid":"q-857333638151598080-0","question":"请列举Java 8中Stream流的常用方法","content_id":"857333638151598080","title":"面试 Java 基础八股文十问十答第三期"}

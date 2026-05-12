@@ -1,0 +1,13 @@
+{"qid":"q-2799010-8","question":"大模型在开发里应用的程度？大模型目前的能力边界？","content_id":"2799010","title":"腾讯后端一面面经"}
+{"qid":"q-2798888-0","question":"哪些场景会用AI辅助","content_id":"2798888","title":"腾讯云智长沙-后台开发一面（日常实习）"}
+{"qid":"q-2798888-1","question":"好的提示词怎么写","content_id":"2798888","title":"腾讯云智长沙-后台开发一面（日常实习）"}
+{"qid":"q-2798888-2","question":"上下文如何更好的管理","content_id":"2798888","title":"腾讯云智长沙-后台开发一面（日常实习）"}
+{"qid":"q-2798888-3","question":"如果上下文无限大，还有必要做上下文管理","content_id":"2798888","title":"腾讯云智长沙-后台开发一面（日常实习）"}
+{"qid":"q-2798888-5","question":"如何去评估回答质量","content_id":"2798888","title":"腾讯云智长沙-后台开发一面（日常实习）"}
+{"qid":"q-2798673-1","question":"大模型推理加速有哪些方法？","content_id":"2798673","title":"字节校招 AI infra后端面经"}
+{"qid":"q-2798673-2","question":"模型压缩量化方法有哪些？量化的优点是什么？","content_id":"2798673","title":"字节校招 AI infra后端面经"}
+{"qid":"q-2798673-3","question":"权重量化、激活值量化、KV cache量化各自的好处是什么？","content_id":"2798673","title":"字节校招 AI infra后端面经"}
+{"qid":"q-2798673-4","question":"KV cache的原理是什么？了解PageAttention吗？为什么效果好？","content_id":"2798673","title":"字节校招 AI infra后端面经"}
+{"qid":"q-2798673-5","question":"什么是Prefix cache？","content_id":"2798673","title":"字节校招 AI infra后端面经"}
+{"qid":"q-858421358940651520-2","question":"大模型流式与非流式传输的原理是什么？为什么使用SSE？","content_id":"858421358940651520","title":"网易互娱-游戏研发-C++ 二面凉经"}
+{"qid":"q-2797403-2","question":"模型推理加速和显存管理的技术原理是什么？","content_id":"2797403","title":""}
