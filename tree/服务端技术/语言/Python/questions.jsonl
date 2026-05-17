@@ -9,3 +9,19 @@
 {"qid":"q-2779037-4","question":"为什么选择Flask？谈谈个人理解以及如何使用Flask","content_id":"2779037","title":"2026.1.7 蚂蚁集团-服务端研发（java）一面 40min"}
 {"qid":"q-2778792-2","question":"数据分析使用过哪些Python包？","content_id":"2778792","title":"特斯拉Python/Javascript实习一面"}
 {"qid":"q-2778378-4","question":"有没有了解过Python的GIL锁？","content_id":"2778378","title":"小鹏汽车后端开发校招面经 攒人品"}
+{"qid":"q-2511870-0","question":"PyQt控件相关的知识点","content_id":"2511870","title":"福年科技 Python"}
+{"qid":"q-2511870-1","question":"PyQt消息处理机制","content_id":"2511870","title":"福年科技 Python"}
+{"qid":"q-2511870-2","question":"爬虫相关技术","content_id":"2511870","title":"福年科技 Python"}
+{"qid":"q-2511870-3","question":"Django框架相关","content_id":"2511870","title":"福年科技 Python"}
+{"qid":"q-2511870-4","question":"Python通信处理库requests的使用","content_id":"2511870","title":"福年科技 Python"}
+{"qid":"q-2511870-5","question":"requests请求传递流程","content_id":"2511870","title":"福年科技 Python"}
+{"qid":"q-2502850-0","question":"你为什么要学习Python语言？","content_id":"2502850","title":"咪咕rpa python后端日常实习面试感受12.16"}
+{"qid":"q-2817303-0","question":"请描述Python的基础语法要点","content_id":"2817303","title":"Python——你吃饭的筷子"}
+{"qid":"q-2817303-1","question":"请解释Python的面向对象特性","content_id":"2817303","title":"Python——你吃饭的筷子"}
+{"qid":"q-2817303-2","question":"请实现一个装饰器并解释其原理","content_id":"2817303","title":"Python——你吃饭的筷子"}
+{"qid":"q-2817303-3","question":"请解释Python的生成器及yield关键字","content_id":"2817303","title":"Python——你吃饭的筷子"}
+{"qid":"q-2817303-4","question":"请说明numpy库的常用功能","content_id":"2817303","title":"Python——你吃饭的筷子"}
+{"qid":"q-2817303-5","question":"请说明pandas库的常用功能（如数据清洗）","content_id":"2817303","title":"Python——你吃饭的筷子"}
+{"qid":"q-2817303-6","question":"请说明matplotlib库的常用功能","content_id":"2817303","title":"Python——你吃饭的筷子"}
+{"qid":"q-2817256-9","question":"Python 的 GIL 锁是什么？","content_id":"2817256","title":"323腾讯金融科技后台开发"}
+{"qid":"q-2817256-10","question":"如何优化 Python 性能？","content_id":"2817256","title":"323腾讯金融科技后台开发"}

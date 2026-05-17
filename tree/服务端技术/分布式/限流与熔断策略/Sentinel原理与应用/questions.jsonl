@@ -1,0 +1,9 @@
+{"qid":"q-2701287-3","question":"有没有用过什么开源的限流库？","content_id":"2701287","title":"腾讯 QQ 后端开发实习二面"}
+{"qid":"q-2701287-4","question":"Sentinel的原理是什么？","content_id":"2701287","title":"腾讯 QQ 后端开发实习二面"}
+{"qid":"q-2701287-5","question":"Sentinel支持分布式限流，其状态保存在哪里？","content_id":"2701287","title":"腾讯 QQ 后端开发实习二面"}
+{"qid":"q-2604061-9","question":"实习中怎么使用Sentinel来做限流的","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2604061-10","question":"实习中Sentinel流控策略","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2604061-11","question":"Sentinel如果上游有A,B,C三个业务，怎么分别做限流","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2604061-12","question":"除了Sentinel限流之外，可不可以用Redis做限流","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2604061-13","question":"Sentinel的原理和架构","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2528555-6","question":"Sentinel如何实现限流操作？","content_id":"2528555","title":"java小厂（0-20人）实习 一面面经（已oc"}

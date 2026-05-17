@@ -13,3 +13,8 @@
 {"qid":"q-2778530-3","question":"Feign 是怎么做RPC调用的，为什么可以用一个@Feign注解声明，就可以转成一个HTTP请求","content_id":"2778530","title":"携程后端开发日常实习二面"}
 {"qid":"q-838038489668046848-5","question":"AOP和IOC的概念与区别","content_id":"838038489668046848","title":"27小厂Java后端实习"}
 {"qid":"q-2685815-7","question":"Spring中有哪些设计模式","content_id":"2685815","title":"美团-核心本地商业后端一面-9.9（凉）"}
+{"qid":"q-2502784-5","question":"讲一下Spring核心功能IoC和AOP，项目怎么用的？","content_id":"2502784","title":"腾讯云智-后台开发-地图-一,二面经"}
+{"qid":"q-2504610-8","question":"你研究过 Spring 的源码吗？","content_id":"2504610","title":"正浩创新，Java 后端，一面"}
+{"qid":"q-2445927-10","question":"对Spring框架有什么看法？","content_id":"2445927","title":"哈啰 Java后端开发 一面面经"}
+{"qid":"q-2434128-6","question":"对spring ioc、aop的理解","content_id":"2434128","title":"京东零售-Java-面经"}
+{"qid":"q-2815741-4","question":"IOC和AOP是什么","content_id":"2815741","title":"龙旗科技Java实习一面二面面经"}

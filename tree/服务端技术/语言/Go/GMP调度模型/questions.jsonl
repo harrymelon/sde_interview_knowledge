@@ -27,3 +27,8 @@
 {"qid":"q-2694201-5","question":"为什么Go要设计GMP模型？","content_id":"2694201","title":"9.16 滴滴日常实习一面后端"}
 {"qid":"q-2687055-7","question":"请讲一下Go的调度（GMP模型）。","content_id":"2687055","title":"字节-生活服务-后端实习-一面"}
 {"qid":"q-2661686-3","question":"GMP 调度模型是什么？","content_id":"2661686","title":"某二线城市小厂golang面经."}
+{"qid":"q-2817751-6","question":"给了一个任务场景，问GMP怎么调度的？","content_id":"2817751","title":"B站大会员后端开发一面"}
+{"qid":"q-2817751-7","question":"GMP的work stealing机制为了解决什么？","content_id":"2817751","title":"B站大会员后端开发一面"}
+{"qid":"q-2815363-1","question":"Go 语言的 GMP 调度模型","content_id":"2815363","title":"字节跳动 后台开发 二面"}
+{"qid":"q-2814992-11","question":"Go协程与GMP调度模型","content_id":"2814992","title":"腾讯实习后端开发一面面经"}
+{"qid":"q-2814392-7","question":"Go协程的GMP调度模型","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}

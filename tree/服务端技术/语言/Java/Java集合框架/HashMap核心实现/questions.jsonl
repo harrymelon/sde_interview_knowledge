@@ -22,3 +22,8 @@
 {"qid":"q-2615510-3","question":"了解过集合吗，讲一下list和map，如果是map集合如何存、取数据","content_id":"2615510","title":"26民本 亚信万联-java实习 面试"}
 {"qid":"q-2553624-6","question":"常用的哈希容器类有哪些？深入聊聊HashMap","content_id":"2553624","title":"网易雷火 春招 一面"}
 {"qid":"q-2587856-0","question":"Java7和Java8中HashMap的区别是什么？","content_id":"2587856","title":"快手Java暑期实习一面"}
+{"qid":"q-2449271-1","question":"HashMap主要用来做什么？","content_id":"2449271","title":"去哪儿-Java开发-一面"}
+{"qid":"q-2817378-14","question":"HashMap 如何解决哈希冲突问题","content_id":"2817378","title":"北京东华原医疗 Java 一面"}
+{"qid":"q-864543031494467584-2","question":"使用Stream生成Map时name重复怎么解决？","content_id":"864543031494467584","title":"转码选手的寻找暑期实习之路（7）--飞猪Java开发暑期实习一面"}
+{"qid":"q-2814864-2","question":"HashMap的key值可以为null吗","content_id":"2814864","title":"广州联奕科技Java后端实习一面"}
+{"qid":"q-2814864-3","question":"存在哈希冲突时，HashMap如何通过key找到对应位置","content_id":"2814864","title":"广州联奕科技Java后端实习一面"}

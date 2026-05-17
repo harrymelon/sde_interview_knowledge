@@ -46,3 +46,15 @@
 {"qid":"q-2538940-14","question":"查询一个班级中学生成绩综合降序（SQL 手撕）","content_id":"2538940","title":"京东零售 Java 二面"}
 {"qid":"q-2538940-15","question":"如果班级没有成绩怎么办？","content_id":"2538940","title":"京东零售 Java 二面"}
 {"qid":"q-2538136-1","question":"左连接和右连接的区别是什么？","content_id":"2538136","title":"虎牙春招java一二面记录"}
+{"qid":"q-2506490-4","question":"写一条SQL查询消息表中两个人对话的上下文记录","content_id":"2506490","title":"中国电子云-后端日常实习"}
+{"qid":"q-2470448-2","question":"SQL题考察哪些内容？","content_id":"2470448","title":"雷火一二面服务端"}
+{"qid":"q-2463887-12","question":"select id from table_a where id = xxx 和 select * from table_b where id = xxx，这两个查询语句有什么区别","content_id":"2463887","title":"途虎养车 后端开发 一面面经"}
+{"qid":"q-2456353-11","question":"SQL查询：员工表与bonus表，查询bonus小于1000的员工姓名和bonus（left join）","content_id":"2456353","title":"小红书Java日常实习电商商家一面"}
+{"qid":"q-2455672-2","question":"SQL分组查询的写法","content_id":"2455672","title":"美团 后端开发 日常实习一面面经"}
+{"qid":"q-2444526-6","question":"MySQL开窗函数的使用","content_id":"2444526","title":"尹兆科技 秋招 Java一面"}
+{"qid":"q-865176678006325248-9","question":"请考察SQL复杂查询能力，包括高级关键字如列转行、递归查询。","content_id":"865176678006325248","title":"北大软件(郑州)java实习面经"}
+{"qid":"q-2816267-9","question":"考察SQL复杂查询、高级关键字（如列转行、递归查询）的掌握程度。","content_id":"2816267","title":"北大软件(郑州)java实习面经"}
+{"qid":"q-2816267-11","question":"你在项目中写过的最复杂的SQL是什么？如何实现自定义查询（如SQL拼接）？","content_id":"2816267","title":"北大软件(郑州)java实习面经"}
+{"qid":"q-2815741-16","question":"写SQL查询年龄20到30的人","content_id":"2815741","title":"龙旗科技Java实习一面二面面经"}
+{"qid":"q-2815079-6","question":"从成绩表中查出所有选修课程分数都大于80分的学生姓名","content_id":"2815079","title":"字节暑期后端一面"}
+{"qid":"q-2814531-4","question":"SQL分页如何实现？","content_id":"2814531","title":"JDS京东健康26校招微凉"}

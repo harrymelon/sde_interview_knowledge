@@ -38,3 +38,13 @@
 {"qid":"q-2693075-16","question":"Spring Bean 使用什么设计模式","content_id":"2693075","title":"美团后端面经（意向）"}
 {"qid":"q-2669559-9","question":"一个接口有多个实现，如何指定注入一个具体实现","content_id":"2669559","title":"万得秋招一面"}
 {"qid":"q-2664637-1","question":"BeanFactory和FactoryBean的区别是什么","content_id":"2664637","title":"京东零售后端秋招一面"}
+{"qid":"q-2502784-21","question":"介绍一下Spring框架","content_id":"2502784","title":"腾讯云智-后台开发-地图-一,二面经"}
+{"qid":"q-2500316-7","question":"Spring中如何使用单例模式？","content_id":"2500316","title":"字节data后端开发 日常实习面经（已oc）"}
+{"qid":"q-2463887-7","question":"Spring定义一个Bean有哪些方法","content_id":"2463887","title":"途虎养车 后端开发 一面面经"}
+{"qid":"q-2454154-10","question":"属性赋值是在什么地方进行赋值的？","content_id":"2454154","title":""}
+{"qid":"q-2455677-12","question":"讲一下对Spring IOC的认识和Bean的创建过程，以及IOC有什么好处？","content_id":"2455677","title":"蔚来 后端开发 日常实习一面面经"}
+{"qid":"q-2443003-3","question":"说一下你对ioc的理解","content_id":"2443003","title":"数字马力一面（后端开发工程师）"}
+{"qid":"q-2431245-1","question":"Spring注解（如@Component、@Autowired）的实现原理是什么？","content_id":"2431245","title":"招银科技 后端开发 秋招二面面经（线下）"}
+{"qid":"q-2815111-14","question":"简单讲一下Spring的IOC和AOP。","content_id":"2815111","title":"有赞Java后端一面面经"}
+{"qid":"q-2814864-9","question":"如何将一个类交给Spring管理","content_id":"2814864","title":"广州联奕科技Java后端实习一面"}
+{"qid":"q-864257813076267008-2","question":"谈谈你对IoC的理解","content_id":"864257813076267008","title":"3-19 字节面经-经营管理与平台（一面）"}

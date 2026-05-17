@@ -22,3 +22,9 @@
 {"qid":"q-2701211-15","question":"一般在什么时候删除ThreadLocal？","content_id":"2701211","title":"网易云音乐java一面"}
 {"qid":"q-2701437-7","question":"ThreadLocal内存泄露的底层原因是什么，和使用有关系吗？","content_id":"2701437","title":"快手-商业化JAVA一面"}
 {"qid":"q-2695362-1","question":"ThreadLocal在项目中怎么使用的，解决了什么问题？","content_id":"2695362","title":"海信软件开发一面"}
+{"qid":"q-2514421-0","question":"ThreadLocal的作用是什么？它的实现原理是怎样的？","content_id":"2514421","title":"小红书电商商家一面二面凉经"}
+{"qid":"q-2514421-1","question":"使用ThreadLocal的过程中需要注意什么？","content_id":"2514421","title":"小红书电商商家一面二面凉经"}
+{"qid":"q-2514421-2","question":"除了手动释放ThreadLocal中的值外，它里面还有其他设计来避免内存泄漏吗？","content_id":"2514421","title":"小红书电商商家一面二面凉经"}
+{"qid":"q-2492820-4","question":"Java基础——ThreadLocal用过吗？是做什么的，使用场景是什么？","content_id":"2492820","title":"网易一面凉经"}
+{"qid":"q-2477745-3","question":"ThreadLocal的具体底层实现及应用场景","content_id":"2477745","title":"蚂蚁开发面经"}
+{"qid":"q-2814531-2","question":"ThreadLocal的原理和使用场景是什么？","content_id":"2814531","title":"JDS京东健康26校招微凉"}

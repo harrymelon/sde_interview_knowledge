@@ -36,3 +36,27 @@
 {"qid":"q-2675377-6","question":"Java多线程的基础知识有哪些？","content_id":"2675377","title":"点点互动-服务端-笔试"}
 {"qid":"q-2674944-0","question":"CompletableFuture的使用场景是什么？","content_id":"2674944","title":"虾皮秋招一面"}
 {"qid":"q-2673204-7","question":"Java中的Future是什么？如何理解？","content_id":"2673204","title":"美团8.21和8.28一面"}
+{"qid":"q-2505313-2","question":"StringBuilder和StringBuffer的区别？线程安全性？如何保证线程安全？","content_id":"2505313","title":"安全狗 java面经30min拷打"}
+{"qid":"q-2511159-3","question":"Java中什么是阻塞","content_id":"2511159","title":"理想汽车-后端-秋招一面"}
+{"qid":"q-2511159-7","question":"并发和并行的区别","content_id":"2511159","title":"理想汽车-后端-秋招一面"}
+{"qid":"q-2511159-8","question":"线程创建方式","content_id":"2511159","title":"理想汽车-后端-秋招一面"}
+{"qid":"q-2511159-9","question":"run和start的区别","content_id":"2511159","title":"理想汽车-后端-秋招一面"}
+{"qid":"q-2478311-8","question":"线程间通信方式有哪些","content_id":"2478311","title":"作业帮 后端开发 秋招一面"}
+{"qid":"q-2459364-0","question":"多线程循环打印如何实现？","content_id":"2459364","title":"小红书Java实习电商商家二面"}
+{"qid":"q-2463887-0","question":"如何定义一个线程","content_id":"2463887","title":"途虎养车 后端开发 一面面经"}
+{"qid":"q-2456353-4","question":"讲讲多线程，你怎么用的？","content_id":"2456353","title":"小红书Java日常实习电商商家一面"}
+{"qid":"q-2456353-5","question":"线程的生命周期是什么？","content_id":"2456353","title":"小红书Java日常实习电商商家一面"}
+{"qid":"q-2457191-14","question":"线程同步的方法","content_id":"2457191","title":"10.11 58后端开发一面"}
+{"qid":"q-2450152-2","question":"线程的创建方式有哪些？","content_id":"2450152","title":"海兴电力_java一面二面"}
+{"qid":"q-2449271-7","question":"给定一段使用CyclicBarrier和synchronized的代码，分析是否会输出顺序结果","content_id":"2449271","title":"去哪儿-Java开发-一面"}
+{"qid":"q-2446695-1","question":"Java中创建线程的方式有哪些？为什么说本质上只有Thread一种？","content_id":"2446695","title":"南京杭州端点 java二面"}
+{"qid":"q-2437887-1","question":"讲一下创建线程的方式","content_id":"2437887","title":"南京杭州端点 java二面"}
+{"qid":"q-2434128-0","question":"Java运行线程的几种方式","content_id":"2434128","title":"京东零售-Java-面经"}
+{"qid":"q-2816999-10","question":"如何在线程执行完后执行后续逻辑（如使用CountDownLatch）？","content_id":"2816999","title":"安恒信息Java开发实习"}
+{"qid":"q-2816999-11","question":"CountDownLatch的使用方法","content_id":"2816999","title":"安恒信息Java开发实习"}
+{"qid":"q-864998819736387584-4","question":"单核CPU多线程是否有用？","content_id":"864998819736387584","title":"顺丰java一面"}
+{"qid":"q-864646969501704192-8","question":"线程创建的三种方式是什么？","content_id":"864646969501704192","title":"成r科技一面"}
+{"qid":"q-2815741-6","question":"多线程你都了解哪些内容","content_id":"2815741","title":"龙旗科技Java实习一面二面面经"}
+{"qid":"q-2815741-7","question":"sleep()和wait()区别是什么","content_id":"2815741","title":"龙旗科技Java实习一面二面面经"}
+{"qid":"q-2815079-15","question":"多线程下，线程之间的通信方式有哪些？","content_id":"2815079","title":"字节暑期后端一面"}
+{"qid":"q-2814748-6","question":"线程生命周期（新建、就绪、运行、阻塞、终止）","content_id":"2814748","title":"得物2026春招 | 后端开发 | 面经 | Java面试"}

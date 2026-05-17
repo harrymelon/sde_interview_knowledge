@@ -13,3 +13,15 @@
 {"qid":"q-2534920-15","question":"给多一倍的节点，Raft集群性能如何变成两倍","content_id":"2534920","title":"腾讯一二面泡池子（已 offer）"}
 {"qid":"q-2531587-18","question":"介绍一下HBase。","content_id":"2531587","title":"腾讯hr部门二面"}
 {"qid":"q-2531587-19","question":"HDFS的block是多大？","content_id":"2531587","title":"腾讯hr部门二面"}
+{"qid":"q-2502784-16","question":"什么是CAP理论？","content_id":"2502784","title":"腾讯云智-后台开发-地图-一,二面经"}
+{"qid":"q-2492820-6","question":"分布式唯一ID怎么生成的？为什么要保证严格递增+1而不用雪花算法？","content_id":"2492820","title":"网易一面凉经"}
+{"qid":"q-2475239-7","question":"BASE基本理论是什么","content_id":"2475239","title":"同程旅行校招一面Java岗位成都base"}
+{"qid":"q-2470476-3","question":"分布式系统中如何保证节点故障时的一致性与正确性？","content_id":"2470476","title":"小红书日常实习-分布式存储"}
+{"qid":"q-2470476-4","question":"Raft协议中的状态（日志、任期）如何持久化存储？如果不持久化会有什么问题？","content_id":"2470476","title":"小红书日常实习-分布式存储"}
+{"qid":"q-2455681-12","question":"你有了解过分布式嘛？","content_id":"2455681","title":"快手 后端开发 日常实习一面面经"}
+{"qid":"q-2445927-4","question":"如何设计一个全局唯一ID生成算法？","content_id":"2445927","title":"哈啰 Java后端开发 一面面经"}
+{"qid":"q-2817751-11","question":"分布式KV中网络分片后怎么解决脑裂的，讲讲Raft算法（Leader选举，日志复制...），Raft算法是为了解决什么问题的？","content_id":"2817751","title":"B站大会员后端开发一面"}
+{"qid":"q-2817779-1","question":"怎么进行冗余存储，还有别的办法吗？","content_id":"2817779","title":"9377游戏｜后端开发 面经（含答案）"}
+{"qid":"q-2815083-7","question":"什么是 CAP 定理？","content_id":"2815083","title":"字节暑期后端二面"}
+{"qid":"q-2814992-9","question":"etcd的原理与缺点","content_id":"2814992","title":"腾讯实习后端开发一面面经"}
+{"qid":"q-2814388-11","question":"RocketMQ占了CAP的哪两个","content_id":"2814388","title":"春招Java后端开发 滴滴平台技术一二三面"}

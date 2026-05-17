@@ -10,3 +10,7 @@
 {"qid":"q-2593546-24","question":"LRU Cache的实现","content_id":"2593546","title":"Shopee一面（已凉）"}
 {"qid":"q-2536198-4","question":"LRU 缓存（手撕实现）","content_id":"2536198","title":"虾皮 Java 一面"}
 {"qid":"q-2523397-2","question":"用Python手写线程安全版本的LRU缓存并改为用Redis实现","content_id":"2523397","title":"2.6 北京大学计算中心后端面经 日常实习"}
+{"qid":"q-2817192-0","question":"实现LRU缓存淘汰策略","content_id":"2817192","title":"3.23字节后端压力二面"}
+{"qid":"q-2815369-3","question":"手写LRU缓存淘汰算法","content_id":"2815369","title":"字节跳动 后台开发 三面"}
+{"qid":"q-2815245-0","question":"实现一个LRU缓存","content_id":"2815245","title":"滴滴一面（Java社招）"}
+{"qid":"q-864227419266228224-1","question":"手撕LRU缓存","content_id":"864227419266228224","title":"转码选手的寻找暑期实习之路（6）-携程Java研发工程师一面"}

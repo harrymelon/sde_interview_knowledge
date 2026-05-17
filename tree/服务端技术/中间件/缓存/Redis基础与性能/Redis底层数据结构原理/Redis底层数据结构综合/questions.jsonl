@@ -1,0 +1,21 @@
+{"qid":"q-2781491-33","question":"Redis数据结构、底层实现以及编码中的字段","content_id":"2781491","title":"字节后端日常一二三面面经（oc）"}
+{"qid":"q-2792732-10","question":"Redis 底层数据结构有哪些？","content_id":"2792732","title":"滴滴后端一面"}
+{"qid":"q-2779163-0","question":"Redis的底层数据结构有哪些，各自的使用场景是什么？","content_id":"2779163","title":"小红书一二面凉经"}
+{"qid":"q-2778195-4","question":"Redis的数据结构有哪些？底层是如何实现的？","content_id":"2778195","title":"美团后端java日常实习一面"}
+{"qid":"q-2778171-5","question":"Redis的常用数据结构和对应的底层实现是什么？","content_id":"2778171","title":"美团Java开发日常实习一面"}
+{"qid":"q-2777851-8","question":"Redis的数据结构底层实现有哪些？","content_id":"2777851","title":"京东科技后端实习一面"}
+{"qid":"q-2726924-11","question":"Redis中不同数据类型对应的数据结构","content_id":"2726924","title":"百度后端日常二面（云方向）"}
+{"qid":"q-2702636-15","question":"Redis的string和list类型底层用的数据结构是什么？","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2555330-10","question":"Redis有哪些底层的数据结构","content_id":"2555330","title":"好未来Golang 一面"}
+{"qid":"q-2555330-11","question":"String的实现SDS，跳表的实现原理，和平衡树、红黑树、B+树的对比","content_id":"2555330","title":"好未来Golang 一面"}
+{"qid":"q-2550714-1","question":"Redis常用数据结构有哪些","content_id":"2550714","title":"腾讯 微信支付一面"}
+{"qid":"q-2545555-3","question":"Redis有哪些数据结构，底层实现是什么（如ziplist和quicklist）","content_id":"2545555","title":"淘天集团-业务技术一面凉经"}
+{"qid":"q-2534920-19","question":"在内存中存放大量数据，什么样的数据结构最高效","content_id":"2534920","title":"腾讯一二面泡池子（已 offer）"}
+{"qid":"q-2529763-8","question":"Redis读的时候怎么快速定位到数据？","content_id":"2529763","title":"拼多多服务端开发面经二面"}
+{"qid":"q-2505313-14","question":"Redis树怎么实现的？","content_id":"2505313","title":"安全狗 java面经30min拷打"}
+{"qid":"q-2501517-4","question":"Redis底层数据结构","content_id":"2501517","title":"java后端日常实习面经"}
+{"qid":"q-2815088-0","question":"Redis 的 Bitmap 物理结构是什么？","content_id":"2815088","title":"字节暑期后端三面"}
+{"qid":"q-864488207549816832-4","question":"项目中Redis存储数据的内部结构","content_id":"864488207549816832","title":"字节暑实一面"}
+{"qid":"q-2815079-2","question":"Redis的Set底层是怎么存储/实现的？","content_id":"2815079","title":"字节暑期后端一面"}
+{"qid":"q-2814388-1","question":"Redis有哪些底层数据结构","content_id":"2814388","title":"春招Java后端开发 滴滴平台技术一二三面"}
+{"qid":"q-2593511-11","question":"Redis GEO的底层实现了解吗？","content_id":"2593511","title":"美团一面"}

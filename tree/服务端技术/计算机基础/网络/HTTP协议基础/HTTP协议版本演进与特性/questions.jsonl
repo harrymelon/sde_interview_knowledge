@@ -17,3 +17,5 @@
 {"qid":"q-2542926-11","question":"HTTP/2 在同一个 TCP 连接使用同一个拥塞控制算法？HTTP/1.1 在不同 TCP 连接是否使用同一个拥塞控制算法？","content_id":"2542926","title":"腾讯会议部门 一面凉经"}
 {"qid":"q-2530782-5","question":"HTTP/2相比HTTP/1有哪些优化？","content_id":"2530782","title":"快看漫画-Java后端开发实习生OC"}
 {"qid":"q-2530782-6","question":"HTTP/2服务器推送是如何实现的？","content_id":"2530782","title":"快看漫画-Java后端开发实习生OC"}
+{"qid":"q-2457146-16","question":"HTTP/1.0、HTTP/1.1、HTTP/2.0的区别","content_id":"2457146","title":"9.4 腾讯新闻 后端一面面经"}
+{"qid":"q-2457146-17","question":"使用HTTP传输一个特别大的文件，分块传输的步骤","content_id":"2457146","title":"9.4 腾讯新闻 后端一面面经"}

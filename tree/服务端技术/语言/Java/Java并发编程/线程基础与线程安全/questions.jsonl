@@ -1,0 +1,23 @@
+{"qid":"q-2650231-7","question":"如何保证Java线程安全？","content_id":"2650231","title":"浪潮提前批java一面"}
+{"qid":"q-2625808-14","question":"Java有哪些控制资源竞争的方法","content_id":"2625808","title":"省流版阿里后台开发面经"}
+{"qid":"q-2592031-12","question":"讲讲Java并发编程","content_id":"2592031","title":"4.22 美团核心本地商业-业务研发平台 后端一面"}
+{"qid":"q-2581798-3","question":"Java中启动多线程的方式有哪些？","content_id":"2581798","title":"联想Java一面凉经  再见梦厂！"}
+{"qid":"q-2583709-11","question":"Java怎么保证并发安全？（synchronized、lock、原子类等）","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2580222-30","question":"多线程中哪些参数？start()和run()的区别是什么？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2574038-7","question":"两个线程交替打印 1-100 的奇数和偶数","content_id":"2574038","title":"阿里云一二三面时间线+面经"}
+{"qid":"q-2572994-3","question":"并发安全相关的几个问题，包括锁、JMM等。","content_id":"2572994","title":"4.1蚂蚁国际暑期一面"}
+{"qid":"q-2558987-4","question":"多线程交替打印数字的实现方式？","content_id":"2558987","title":"滴滴 后端开发 一面凉经"}
+{"qid":"q-2557328-4","question":"多线程交替打印 ABC 如何实现？","content_id":"2557328","title":"字节广告业务后端一面"}
+{"qid":"q-2556417-3","question":"Java中实现多线程有哪几种方式？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
+{"qid":"q-2555732-8","question":"创建线程的方式有几种？","content_id":"2555732","title":"京东工业后端开发一面凉经"}
+{"qid":"q-2555732-9","question":"runnable和callable有什么区别？","content_id":"2555732","title":"京东工业后端开发一面凉经"}
+{"qid":"q-2538964-5","question":"多线程实现模式","content_id":"2538964","title":"快手商业化 Java 二面"}
+{"qid":"q-2536703-4","question":"什么是线程安全","content_id":"2536703","title":"中国移动卓望公司 Java开发 二面"}
+{"qid":"q-2536703-5","question":"线程安全的三个要素","content_id":"2536703","title":"中国移动卓望公司 Java开发 二面"}
+{"qid":"q-2535115-9","question":"一个整数变量，两个线程同时进行+1操作，会有哪些结果，为什么","content_id":"2535115","title":"腾讯实习基地一面凉经"}
+{"qid":"q-2530782-0","question":"短链接更新时如何保证线程安全？","content_id":"2530782","title":"快看漫画-Java后端开发实习生OC"}
+{"qid":"q-2529763-4","question":"多线程之间怎么样来做同步？","content_id":"2529763","title":"拼多多服务端开发面经二面"}
+{"qid":"q-2475239-1","question":"你对并发编程的理解是什么","content_id":"2475239","title":"同程旅行校招一面Java岗位成都base"}
+{"qid":"q-2495918-2","question":"Java线程有哪些状态？状态转换的条件是什么？","content_id":"2495918","title":"【26日常】掌上先机 timeline+ 面经汇总"}
+{"qid":"q-2455678-11","question":"怎么新建一个线程","content_id":"2455678","title":"货拉拉 后端开发 日常实习二面面经"}
+{"qid":"q-2817556-3","question":"使用生产者消费者设计模式，一个生产者生产斐波那契数列，四个消费者依次读取","content_id":"2817556","title":"字节三面面经-记录一次很差的体验。"}

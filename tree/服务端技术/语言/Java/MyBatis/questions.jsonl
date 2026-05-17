@@ -7,3 +7,5 @@
 {"qid":"q-2556417-11","question":"MyBatis中一级缓存和二级缓存有什么差别？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
 {"qid":"q-2556133-5","question":"介绍mybatisPlus？","content_id":"2556133","title":"字节 后端 数据 一面面经"}
 {"qid":"q-2556133-6","question":"如果用mybatis查询需要写哪些文件？（xml或mapper层接口）","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2817411-19","question":"MyBatis 的 #{} 和 ${} 占位符有什么区别？在使用时需要注意什么？","content_id":"2817411","title":"北京航天拓扑 Java 一面"}
+{"qid":"q-2816267-19","question":"如何使用MyBatis的标签（如\u003cwhere\u003e）来优化动态SQL，避免冗余的AND/OR？","content_id":"2816267","title":"北大软件(郑州)java实习面经"}

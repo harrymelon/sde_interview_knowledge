@@ -26,3 +26,15 @@
 {"qid":"q-2701437-6","question":"频繁出现Full GC如何排查？","content_id":"2701437","title":"快手-商业化JAVA一面"}
 {"qid":"q-2666837-1","question":"JVM底层和OOM发生区域","content_id":"2666837","title":"美团java后端一面(挂)"}
 {"qid":"q-2667196-5","question":"有进行过JVM调参吗？为什么要进行这样的调参？","content_id":"2667196","title":"快手一面凉经"}
+{"qid":"q-2518670-5","question":"线上FullGC或OOM的排查思路。","content_id":"2518670","title":"字节日常实习凉经"}
+{"qid":"q-2492820-9","question":"Java应用占用CPU很高，除了top还有什么？JVM自带的也可以。","content_id":"2492820","title":"网易一面凉经"}
+{"qid":"q-2477745-6","question":"如何排查Full GC？","content_id":"2477745","title":"蚂蚁开发面经"}
+{"qid":"q-2477745-7","question":"排查Full GC的具体指令有哪些？（jstack、jinfo、printGCDetail等）","content_id":"2477745","title":"蚂蚁开发面经"}
+{"qid":"q-2495918-12","question":"如何查看内存泄漏问题？有哪些命令和工具？","content_id":"2495918","title":"【26日常】掌上先机 timeline+ 面经汇总"}
+{"qid":"q-2495918-13","question":"jmap和jstat命令的作用是什么？","content_id":"2495918","title":"【26日常】掌上先机 timeline+ 面经汇总"}
+{"qid":"q-2495918-14","question":"Arthas用过哪些功能？实现了什么？","content_id":"2495918","title":"【26日常】掌上先机 timeline+ 面经汇总"}
+{"qid":"q-2495918-15","question":"如何自己实现一个Arthas诊断工具？基于什么原理和技术？","content_id":"2495918","title":"【26日常】掌上先机 timeline+ 面经汇总"}
+{"qid":"q-2457191-2","question":"如何排查线上的OOM问题","content_id":"2457191","title":"10.11 58后端开发一面"}
+{"qid":"q-2446756-4","question":"JVM 调优你知道哪些？","content_id":"2446756","title":"用友金融 实习 JAVA"}
+{"qid":"q-2817779-5","question":"怎么解决 OOM 问题？","content_id":"2817779","title":"9377游戏｜后端开发 面经（含答案）"}
+{"qid":"q-2814166-1","question":"排查CPU 100%的流程是怎样的？Full GC在什么时候发生？如何优化？","content_id":"2814166","title":"某券商一面（Java社招）"}

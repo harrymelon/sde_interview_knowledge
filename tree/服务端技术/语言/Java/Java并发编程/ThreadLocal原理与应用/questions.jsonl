@@ -1,0 +1,25 @@
+{"qid":"q-2652265-22","question":"ThreadLocal 有什么影响？你用过吗？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-23","question":"ThreadLocal 数据是怎么存储的？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2592748-3","question":"ThreadLocal中存储了哪些用户信息？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2592748-4","question":"多线程下如何通过ThreadLocal区分用户？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2590786-1","question":"如何通过ThreadLocal将当前登录用户ID通用地插入数据库，且不能使用AOP也不能与业务代码耦合？","content_id":"2590786","title":"26暑假实习腾讯云智后台开发二面 后续二面过了"}
+{"qid":"q-2587856-10","question":"ThreadLocal内存泄露是如何发生的？如何避免？","content_id":"2587856","title":"快手Java暑期实习一面"}
+{"qid":"q-2583709-16","question":"ThreadLocal了解吗？","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2583709-17","question":"ThreadLocal的内存泄露是如何产生的？","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2583709-18","question":"ThreadLocal中ThreadLocalMap的key为什么是弱引用，value是强引用？","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2580222-15","question":"ThreadLocal的实现原理，需要注意什么？缺点是什么？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2572890-9","question":"ThreadLocal中后台用户信息存储位置？","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}
+{"qid":"q-2571174-25","question":"ThreadLocal的优势、原理和存在的问题","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2568004-4","question":"ThreadLocal使用注意事项及原理","content_id":"2568004","title":"3.27vivo一面凉经"}
+{"qid":"q-2565587-6","question":"ThreadLocal的使用方式和存在的问题","content_id":"2565587","title":"蚂蚁Java应用开发一面凉经"}
+{"qid":"q-2565587-8","question":"ThreadLocal在异常时的释放以及造成阻塞的解决方法","content_id":"2565587","title":"蚂蚁Java应用开发一面凉经"}
+{"qid":"q-2560003-13","question":"为什么用ThreadLocal去存储id？会不会有什么问题？","content_id":"2560003","title":"拼多多服务端一面面经，全程项目"}
+{"qid":"q-2560003-14","question":"ThreadLocal在项目中如果遇到跨线程会不会有什么问题？","content_id":"2560003","title":"拼多多服务端一面面经，全程项目"}
+{"qid":"q-2550552-7","question":"ThreadLocal是什么，使用场景有哪些？","content_id":"2550552","title":"26Java-杭州小厂-二面25min"}
+{"qid":"q-2543734-14","question":"ThreadLocal了解吗","content_id":"2543734","title":"成都致远互联Java一面"}
+{"qid":"q-2543734-15","question":"ThreadLocal子线程如何访问父线程的数据","content_id":"2543734","title":"成都致远互联Java一面"}
+{"qid":"q-2532597-5","question":"ThreadLocal的原理","content_id":"2532597","title":"字节后端开发面经一面"}
+{"qid":"q-2532292-2","question":"threadlocal的理解，底层原理","content_id":"2532292","title":"邦盛科技JAVA一二面"}
+{"qid":"q-2532292-3","question":"threadlocalmap的put过程","content_id":"2532292","title":"邦盛科技JAVA一二面"}
+{"qid":"q-2531587-11","question":"ThreadLocal为什么会有内存泄露？","content_id":"2531587","title":"腾讯hr部门二面"}
+{"qid":"q-2531587-12","question":"ThreadLocalMap最大能装多少元素？","content_id":"2531587","title":"腾讯hr部门二面"}

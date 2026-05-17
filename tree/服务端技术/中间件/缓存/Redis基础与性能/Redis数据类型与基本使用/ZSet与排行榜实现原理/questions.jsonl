@@ -1,0 +1,10 @@
+{"qid":"q-2785774-12","question":"为什么排行榜不用List、Set、Hash，而要用ZSet？","content_id":"2785774","title":"实在智能-Java开发-实习一面"}
+{"qid":"q-2779565-4","question":"Redis的zset实现排行榜，分数相同按照时间顺序排序如何做？","content_id":"2779565","title":"亚马逊Java后端开发一面凉经"}
+{"qid":"q-2777321-22","question":"介绍一下点赞排行是个什么功能？为什么使用zset呢？","content_id":"2777321","title":"字节今日头条Java日常实习一面凉经"}
+{"qid":"q-2754523-6","question":"实现用户积分排行榜用啥？","content_id":"2754523","title":"E签宝 Java 一面"}
+{"qid":"q-2673922-6","question":"Redis排序的数据结构，分数相同先到先得如何实现","content_id":"2673922","title":"8.29 友谊时光java实习一面"}
+{"qid":"q-2593534-2","question":"Zset实现排行榜，数据太多扩容内存成本昂贵，怎么办","content_id":"2593534","title":"美团二面（已收感谢信）"}
+{"qid":"q-2587472-0","question":"Redis有序集合zset底层数据结构是如何设计的？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2446748-4","question":"Redis的zset底层实现是什么？","content_id":"2446748","title":"数字马力 JAVA 二面"}
+{"qid":"q-2816472-6","question":"Redis有哪些数据类型？Zset的底层数据结构及跳表的原理。","content_id":"2816472","title":"携程 后端开发实习"}
+{"qid":"q-2701287-6","question":"介绍一下Redis的zset","content_id":"2701287","title":"腾讯 QQ 后端开发实习二面"}

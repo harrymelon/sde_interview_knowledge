@@ -22,3 +22,12 @@
 {"qid":"q-2542188-8","question":"Redis内存淘汰机制有哪些","content_id":"2542188","title":"字节算力基础一面"}
 {"qid":"q-2529744-12","question":"Redis的过期数据删除策略和内存淘汰策略是什么","content_id":"2529744","title":"拼多多服务端开发面经一面"}
 {"qid":"q-2527891-9","question":"Redis删除过期key有哪些策略？请详细说明","content_id":"2527891","title":"第一次面试记录 - Java实习岗"}
+{"qid":"q-2515212-10","question":"Redis内存淘汰策略","content_id":"2515212","title":"飞书 后端日常实习 字节一面面经"}
+{"qid":"q-2505313-15","question":"Redis淘汰策略有哪些？你项目用的是哪个？场景是？具体在哪个文件设置？","content_id":"2505313","title":"安全狗 java面经30min拷打"}
+{"qid":"q-2501517-1","question":"Redis过期删除策略","content_id":"2501517","title":"java后端日常实习面经"}
+{"qid":"q-2501517-2","question":"Redis内存淘汰策略","content_id":"2501517","title":"java后端日常实习面经"}
+{"qid":"q-2478311-0","question":"Redis的缓存淘汰策略有哪些","content_id":"2478311","title":"作业帮 后端开发 秋招一面"}
+{"qid":"q-2455678-20","question":"redis中删除策略","content_id":"2455678","title":"货拉拉 后端开发 日常实习二面面经"}
+{"qid":"q-2455681-2","question":"项目中用户数据的过期怎么判定的？","content_id":"2455681","title":"快手 后端开发 日常实习一面面经"}
+{"qid":"q-2444531-2","question":"Redis过期时间设置多久，超过过期时间会怎样？","content_id":"2444531","title":"盒马秋招Java二面"}
+{"qid":"q-2816472-7","question":"Redis存储时内存不够了怎么办？","content_id":"2816472","title":"携程 后端开发实习"}

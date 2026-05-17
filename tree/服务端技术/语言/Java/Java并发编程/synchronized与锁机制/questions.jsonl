@@ -1,0 +1,38 @@
+{"qid":"q-2654069-12","question":"synchronized 实现原理","content_id":"2654069","title":"唯品会Java一二面"}
+{"qid":"q-2631595-4","question":"synchronized的锁升级过程是怎样的？","content_id":"2631595","title":"袋鼠云java一面"}
+{"qid":"q-2631595-5","question":"synchronized锁加在方法、对象、类上的区别是什么？","content_id":"2631595","title":"袋鼠云java一面"}
+{"qid":"q-2652265-12","question":"锁一般使用哪几种分类？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-13","question":"Lock 和 synchronized 属于哪种锁？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-14","question":"Lock 和 synchronized 的区别是什么？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-15","question":"公平锁和非公平锁有什么区别？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-20","question":"什么是死锁？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-21","question":"如何避免死锁？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2630409-4","question":"synchronized关键字的底层实现原理是什么？","content_id":"2630409","title":"杭州趣链后端 开发实习"}
+{"qid":"q-2604368-2","question":"synchronized 和 ReentrantLock 的异同点；为什么有了 synchronized 之后还要有 ReentrantLock？它们的底层如何实现？","content_id":"2604368","title":"字节剪映后端开发一面凉经"}
+{"qid":"q-2601773-0","question":"synchronized与lock的区别","content_id":"2601773","title":"5月12日 字节一面（后端开发-财经业务）-——50分钟左右"}
+{"qid":"q-2598999-6","question":"Java中Synchronized和ReentrantLock的区别及各自实现原理是什么？","content_id":"2598999","title":""}
+{"qid":"q-2587856-3","question":"synchronized锁和ReentrantLock的公平性有什么区别？","content_id":"2587856","title":"快手Java暑期实习一面"}
+{"qid":"q-2587856-4","question":"ReentrantLock的公平性如何实现？","content_id":"2587856","title":"快手Java暑期实习一面"}
+{"qid":"q-2580353-9","question":"Java中的互斥锁是如何工作的","content_id":"2580353","title":"拼多多社招 Java一二面"}
+{"qid":"q-2580353-10","question":"为什么ReentrantLock比synchronized更灵活","content_id":"2580353","title":"拼多多社招 Java一二面"}
+{"qid":"q-2580353-11","question":"ReentrantLock的lock和unlock方法是如何实现的","content_id":"2580353","title":"拼多多社招 Java一二面"}
+{"qid":"q-2571364-2","question":"Java线程同步及公平锁/非公平锁","content_id":"2571364","title":"字节一面-春招"}
+{"qid":"q-2565587-12","question":"synchronized与ReentrantLock的区别","content_id":"2565587","title":"蚂蚁Java应用开发一面凉经"}
+{"qid":"q-2558131-0","question":"请介绍synchronized和ReentrantLock的区别与用法","content_id":"2558131","title":"字节后端开发一面面经"}
+{"qid":"q-2556133-10","question":"如何解决这个多线程问题？（加锁）","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2556133-11","question":"reentranktlock相比另一个锁，为什么更灵活？（trylock，公平锁）","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2556133-12","question":"什么是公平锁？","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2556133-13","question":"从你学过的课程里面，你觉得如果要实现一个锁，最关键的是什么？（答保证操作的原子性）","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2556133-15","question":"获取锁的过程需要几步？（答要获取到锁，把互斥变量改为1）","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2556133-16","question":"什么叫获取到锁？（答用cas操作记录下获取锁的线程）","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2544065-3","question":"介绍 Java 中的 synchronized 和 ReentrantLock 锁机制","content_id":"2544065","title":"字节数据平台实习一面菜鸡凉经"}
+{"qid":"q-2535115-10","question":"两个线程对共享变量进行+1操作时，加锁应该加在哪里","content_id":"2535115","title":"腾讯实习基地一面凉经"}
+{"qid":"q-2532292-17","question":"synchronized锁是对象锁还是方法锁","content_id":"2532292","title":"邦盛科技JAVA一二面"}
+{"qid":"q-2532292-18","question":"synchronized是可重入锁吗","content_id":"2532292","title":"邦盛科技JAVA一二面"}
+{"qid":"q-2532292-20","question":"ReentrantLock","content_id":"2532292","title":"邦盛科技JAVA一二面"}
+{"qid":"q-2529763-5","question":"读写锁怎么实现的？怎么保证读的时候没人去写？","content_id":"2529763","title":"拼多多服务端开发面经二面"}
+{"qid":"q-2529653-1","question":"Java锁的底层原理","content_id":"2529653","title":"中国移动卓望公司 java开发-广州 一面"}
+{"qid":"q-2523761-3","question":"synchronized 底层原理是什么？","content_id":"2523761","title":"饿了么面经"}
+{"qid":"q-2527713-5","question":"什么是可重入锁？","content_id":"2527713","title":"Akulaku Java实习面经"}
+{"qid":"q-2616139-14","question":"如何排查java中的死锁？","content_id":"2616139","title":"6.9 字节跳动生活服后端实习一面记录"}
+{"qid":"q-2592748-30","question":"讲一下Java中所用到的锁","content_id":"2592748","title":"腾讯云智后台开发一面"}

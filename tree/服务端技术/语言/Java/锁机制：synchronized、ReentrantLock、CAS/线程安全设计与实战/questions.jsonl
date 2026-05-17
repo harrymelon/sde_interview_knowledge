@@ -27,3 +27,12 @@
 {"qid":"q-2701437-8","question":"线程安全主要解决什么问题？你对线程安全的理解？","content_id":"2701437","title":"快手-商业化JAVA一面"}
 {"qid":"q-2693075-25","question":"滑动窗口如何保证线程安全问题","content_id":"2693075","title":"美团后端面经（意向）"}
 {"qid":"q-2673204-10","question":"分析代码块中锁的位置（lock放在哪里）","content_id":"2673204","title":"美团8.21和8.28一面"}
+{"qid":"q-2504610-9","question":"常用的并发控制手段有哪些（不限语言层面，如Redis等）？","content_id":"2504610","title":"正浩创新，Java 后端，一面"}
+{"qid":"q-2477745-4","question":"如何实现并发编程？（synchronized、volatile、Java并发工具包中的锁和工具类等）","content_id":"2477745","title":"蚂蚁开发面经"}
+{"qid":"q-2457165-3","question":"锁解决的是什么问题？","content_id":"2457165","title":"9.18 途虎养车 后端一面面经"}
+{"qid":"q-2449271-5","question":"Java中如何实现线程安全？","content_id":"2449271","title":"去哪儿-Java开发-一面"}
+{"qid":"q-2446695-3","question":"手写代码：三个窗口共同售卖100张票（多线程并发卖票）","content_id":"2446695","title":"南京杭州端点 java二面"}
+{"qid":"q-2437887-3","question":"手撕一个3个窗口卖100张票的代码（多线程卖票问题）","content_id":"2437887","title":"南京杭州端点 java二面"}
+{"qid":"q-2817378-11","question":"简述 Semaphore 和 CountDownLatch 的作用","content_id":"2817378","title":"北京东华原医疗 Java 一面"}
+{"qid":"q-2815111-11","question":"简单聊一下什么是乐观锁？项目中如何解决支付回调并发问题？","content_id":"2815111","title":"有赞Java后端一面面经"}
+{"qid":"q-2815079-11","question":"多线程下，控制资源并发访问有什么具体的方式或方法？","content_id":"2815079","title":"字节暑期后端一面"}

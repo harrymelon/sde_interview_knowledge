@@ -13,3 +13,21 @@
 {"qid":"q-2572890-12","question":"如何使用Redis实现黑名单机制？","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}
 {"qid":"q-2568004-1","question":"排行榜功能如何实现？","content_id":"2568004","title":"3.27vivo一面凉经"}
 {"qid":"q-2552645-0","question":"Redis ZSET（有序集合）的底层实现原理是什么？如何利用ZSET实现用户登录限流？当ZSET占用内存过大时，是手动删除还是自动删除数据？ZSET占用上限如何设置？","content_id":"2552645","title":"后端字节广告一面凉经"}
+{"qid":"q-2502784-15","question":"Redis在项目中怎么使用的？用了哪些功能？","content_id":"2502784","title":"腾讯云智-后台开发-地图-一,二面经"}
+{"qid":"q-2495918-8","question":"Redis在项目中用于什么场景？比如视频模块的缓存","content_id":"2495918","title":"【26日常】掌上先机 timeline+ 面经汇总"}
+{"qid":"q-2475255-2","question":"你平时是如何使用Redis的","content_id":"2475255","title":"北京龙盈智达JAVA开发一面"}
+{"qid":"q-2444531-3","question":"Redis除了做缓存还能干嘛？","content_id":"2444531","title":"盒马秋招Java二面"}
+{"qid":"q-2436165-2","question":"Redis如何实现登录鉴权？","content_id":"2436165","title":"10.23 天翼云(超级优才）一面"}
+{"qid":"q-2817398-0","question":"Redis 去重方案中，使用“用户 ID + 消息模板 ID”作为键是否合理？模板 ID 是指唯一类型 ID 还是可能重复？","content_id":"2817398","title":"大北农集团 Java 一面"}
+{"qid":"q-2817378-5","question":"使用 Redis 进行去重具体使用的是哪种数据结构","content_id":"2817378","title":"北京东华原医疗 Java 一面"}
+{"qid":"q-2816577-8","question":"Redis实现过哪些业务？","content_id":"2816577","title":"百度外包一面凉经"}
+{"qid":"q-864998819736387584-9","question":"项目中哪里用了Redis？","content_id":"864998819736387584","title":"顺丰java一面"}
+{"qid":"q-865176283972452352-3","question":"项目中使用Redis的场景","content_id":"865176283972452352","title":"深圳市益普科技JAVA实习一面面经"}
+{"qid":"q-2815761-2","question":"简述Redis的五种基本类型及其适用场景？高并发场景下的排行榜如何设计？使用Redis哪种数据结构？","content_id":"2815761","title":"去哪旅行  javaAI一面"}
+{"qid":"q-2815768-10","question":"Redis排行榜怎么实现？如果有两个参数进行排序，zset应该怎么实现？","content_id":"2815768","title":"小厂愉游java一面"}
+{"qid":"q-2815462-1","question":"项目中Redis具体是如何使用的？","content_id":"2815462","title":"3.17快手后端人生第一面"}
+{"qid":"q-2815741-17","question":"Redis工作中都在哪用到过","content_id":"2815741","title":"龙旗科技Java实习一面二面面经"}
+{"qid":"q-2815333-8","question":"排行榜怎么实现的？","content_id":"2815333","title":"某游戏公司   服务端"}
+{"qid":"q-2815333-9","question":"跨服的排行榜怎么实现的？","content_id":"2815333","title":"某游戏公司   服务端"}
+{"qid":"q-2815079-0","question":"项目中使用Redis做限流，具体是怎么防止刷单的？","content_id":"2815079","title":"字节暑期后端一面"}
+{"qid":"q-2815079-1","question":"如何限制“一人一单”？如果用户ID不是自增的，怎么限制？","content_id":"2815079","title":"字节暑期后端一面"}

@@ -12,3 +12,7 @@
 {"qid":"q-2642429-8","question":"select、epoll、poll的实现区别与优缺点","content_id":"2642429","title":"字节懂车帝 后端实习一面"}
 {"qid":"q-2585832-7","question":"介绍一下epoll与select的区别","content_id":"2585832","title":"字节跳动-日常实习-后端开发一面"}
 {"qid":"q-2529766-4","question":"select、poll、epoll有什么区别？","content_id":"2529766","title":"拼多多服务端开发面经三面"}
+{"qid":"q-2502784-18","question":"什么是多路复用？了解其实现吗？（select、poll、epoll）","content_id":"2502784","title":"腾讯云智-后台开发-地图-一,二面经"}
+{"qid":"q-2455681-4","question":"说说select,poll,epoll的数据结构。","content_id":"2455681","title":"快手 后端开发 日常实习一面面经"}
+{"qid":"q-2817544-6","question":"poll和epoll的区别是什么？检查事件的区别？","content_id":"2817544","title":"腾讯音乐商业化26春招后端一面"}
+{"qid":"q-2815905-8","question":"select和epoll的区别是什么？","content_id":"2815905","title":"滴滴c++后端一面凉经"}

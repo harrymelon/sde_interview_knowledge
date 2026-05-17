@@ -8,3 +8,6 @@
 {"qid":"q-2551867-6","question":"请详细讲解双Token模式（Access Token + Refresh Token），包括短token过期时间设定、刷新功能、为什么使用双token模式、刷新时的请求参数以及如何保证安全？","content_id":"2551867","title":"字节跳动一面（55min）"}
 {"qid":"q-2543734-0","question":"Token如何续期","content_id":"2543734","title":"成都致远互联Java一面"}
 {"qid":"q-2538940-4","question":"每次都验证 token 有效性的必要性？","content_id":"2538940","title":"京东零售 Java 二面"}
+{"qid":"q-2494992-7","question":"用户鉴权是做什么？细节如何实现鉴权？OAuth2流程、token颁发、网关拦截解析token，token签名防篡改细节？","content_id":"2494992","title":"字节抖音搜索26日常实习-三面+HR面"}
+{"qid":"q-2487468-0","question":"如何保证登录用户身份防篡改性？","content_id":"2487468","title":"苏小妍三面"}
+{"qid":"q-2817411-7","question":"微信公众号接口的鉴权原理是什么？调用其接口时，鉴权过程如何自动完成？","content_id":"2817411","title":"北京航天拓扑 Java 一面"}

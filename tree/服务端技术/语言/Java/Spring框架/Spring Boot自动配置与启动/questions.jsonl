@@ -1,0 +1,23 @@
+{"qid":"q-2614214-0","question":"SpringBoot的@SpringBootApplication注解由哪些注解组成？@EnableAutoConfiguration的原理是什么？","content_id":"2614214","title":"06.05中金所技术Java一面凉经"}
+{"qid":"q-2592748-6","question":"讲一下SpringBoot启动器的原理","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2580222-0","question":"Spring中的@SpringBootApplication注解的原理是什么？由哪些组合注解组成？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580222-1","question":"Spring启动过程中需要多少个Bean","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2579201-0","question":"Springboot的启动机制是什么？","content_id":"2579201","title":"贝壳 社招java一面"}
+{"qid":"q-2571318-0","question":"Spring Boot 自动配置与条件化加载的原理是什么？","content_id":"2571318","title":"美的Java一面"}
+{"qid":"q-2562354-12","question":"Spring Boot的核心注解有哪些？","content_id":"2562354","title":"美团暑期实习后端 面经"}
+{"qid":"q-2562354-13","question":"Spring Boot中的Bean是如何被扫描到的？","content_id":"2562354","title":"美团暑期实习后端 面经"}
+{"qid":"q-2562354-14","question":"Spring Boot中application.yml和bootstrap.yml的区别是什么？","content_id":"2562354","title":"美团暑期实习后端 面经"}
+{"qid":"q-2556417-8","question":"SpringBoot的自动装配原理是什么？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
+{"qid":"q-2556417-9","question":"@ConfigurationProperties和@value有什么区别？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
+{"qid":"q-2556133-0","question":"说一下你觉得 SpringBoot 是干什么的","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2556133-1","question":"如何使用springboot搭建一个程序？","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2556133-2","question":"mapper service controller是springboot的吗？","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2551170-8","question":"Spring中，如果配置文件不在默认的resource目录下，如何读取到这个文件？","content_id":"2551170","title":"卓望数码 3.10 Java一面"}
+{"qid":"q-2551869-6","question":"SpringBoot中注解的生效原理，注解上反射方法的实现","content_id":"2551869","title":"字节跳动二面（1h20min）"}
+{"qid":"q-2543734-12","question":"Yaml和properties的区别","content_id":"2543734","title":"成都致远互联Java一面"}
+{"qid":"q-2528555-0","question":"SpringBoot中常用的注解有哪些？","content_id":"2528555","title":"java小厂（0-20人）实习 一面面经（已oc"}
+{"qid":"q-2529744-7","question":"Spring Boot的核心特性（IOC、AOP）是什么","content_id":"2529744","title":"拼多多服务端开发面经一面"}
+{"qid":"q-2529744-9","question":"Spring Boot简化了Spring的哪些配置工作","content_id":"2529744","title":"拼多多服务端开发面经一面"}
+{"qid":"q-2587472-17","question":"Spring配置文件的加载顺序和加载机制？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2622613-4","question":"项目使用的JDK版本和对应的Spring Boot版本是什么？","content_id":"2622613","title":"中文在线 后端开发实习生 二面 面经"}
+{"qid":"q-2572890-6","question":"SpringTask如何实现？","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}

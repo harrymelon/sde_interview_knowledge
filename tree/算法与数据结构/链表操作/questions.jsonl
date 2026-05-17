@@ -1,22 +1,3 @@
-{"qid":"q-2779548-7","question":"分割链表（算法题）","content_id":"2779548","title":"美团27实习后端二面 45min"}
-{"qid":"q-2779545-13","question":"反转链表（算法题）","content_id":"2779545","title":"美团27实习后端一面"}
-{"qid":"q-2779308-0","question":"k个有序链表如何合并为一个有序链表","content_id":"2779308","title":"小红书校招后端开发一面 50min"}
-{"qid":"q-2778195-9","question":"算法题：合并两个有序链表","content_id":"2778195","title":"美团后端java日常实习一面"}
-{"qid":"q-2778004-20","question":"反转链表","content_id":"2778004","title":"字节日常实习后端一面"}
-{"qid":"q-2777924-14","question":"链表去除重复节点","content_id":"2777924","title":"字节跳动即梦全栈一面"}
-{"qid":"q-2777501-8","question":"手撕实现重排链表","content_id":"2777501","title":"哔哩哔哩golang后端实习面经"}
-{"qid":"q-2777528-7","question":"实现每k个链表反转","content_id":"2777528","title":"字节Golang后端实习一面"}
-{"qid":"q-2777445-17","question":"删除排序链表中的重复元素","content_id":"2777445","title":"美团Java后端开发实习二面"}
-{"qid":"q-2777228-13","question":"手撕 Leetcode92：反转链表 II","content_id":"2777228","title":"携程后端日常实习 已OC"}
 {"qid":"q-2777225-5","question":"手撕链表题","content_id":"2777225","title":"蔚来C++实习生（北京）一面"}
-{"qid":"q-2763749-3","question":"链表K个一组反转","content_id":"2763749","title":"26届双非本秋招总结"}
-{"qid":"q-2725004-4","question":"链表两数相加变种","content_id":"2725004","title":"字节后端日常一面"}
-{"qid":"q-2714419-11","question":"算法：K个一组反转链表","content_id":"2714419","title":"虾皮后端日常一面面经"}
-{"qid":"q-2701437-21","question":"手撕LC92反转链表","content_id":"2701437","title":"快手-商业化JAVA一面"}
-{"qid":"q-2686860-12","question":"合并k个有序链表","content_id":"2686860","title":"腾讯后端一面凉经"}
-{"qid":"q-2693075-1","question":"反转链表（递归和迭代两种方法）","content_id":"2693075","title":"美团后端面经（意向）"}
-{"qid":"q-2674686-15","question":"手撕：K个一组反转链表","content_id":"2674686","title":"美团后端一面"}
-{"qid":"q-2671310-15","question":"手撕代码：两数相加（LC 2）","content_id":"2671310","title":"美团后端秋招一面"}
-{"qid":"q-2670349-1","question":"判断链表是否有环","content_id":"2670349","title":"虾皮一面"}
-{"qid":"q-2778378-30","question":"环形链表Ⅱ检测：快慢指针为什么一定会相遇？讲一下原理","content_id":"2778378","title":"小鹏汽车后端开发校招面经 攒人品"}
-{"qid":"q-2664677-6","question":"K个一组翻转链表如何实现？","content_id":"2664677","title":"shopee 一面8.19"}
+{"qid":"q-2475248-1","question":"链表和数组的区别","content_id":"2475248","title":"同程旅行JAVA校招二面"}
+{"qid":"q-2442000-1","question":"单链表排序，用Java写归并排序。","content_id":"2442000","title":"快手复活二面"}

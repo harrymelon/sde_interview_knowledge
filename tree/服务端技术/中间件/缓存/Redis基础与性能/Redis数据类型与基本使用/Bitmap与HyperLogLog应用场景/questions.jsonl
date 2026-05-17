@@ -1,0 +1,8 @@
+{"qid":"q-2785298-0","question":"bitmap存储签到信息为什么不用数组？","content_id":"2785298","title":"记录下自己双非硕秋招面经"}
+{"qid":"q-2781934-13","question":"场景题：实现每月签到功能（使用int32位或Redis位图），数据如何存储？","content_id":"2781934","title":"广州小厂爱奇创新Java实习面经"}
+{"qid":"q-2778178-8","question":"Redis的Bitmap数据类型原理是什么？","content_id":"2778178","title":"携程后端实习一面 1h"}
+{"qid":"q-2555330-21","question":"签到功能如何实现，bitmap的优点","content_id":"2555330","title":"好未来Golang 一面"}
+{"qid":"q-2578430-0","question":"Redis的数据结构有哪些？项目中常用哪几个？位图在项目中怎么用的？","content_id":"2578430","title":"美团 软件后端-直播部门 4.8 一面"}
+{"qid":"q-2815768-11","question":"Redis签到记录用bitmap，在Java中对应的数据结构是什么？","content_id":"2815768","title":"小厂愉游java一面"}
+{"qid":"q-2571174-30","question":"网站统计为什么用HyperLogLog","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2777464-10","question":"Redis数据结构（ZSet、Bitmap）的应用场景及限制？","content_id":"2777464","title":"百度网盘 国际化Go实习一面凉经"}

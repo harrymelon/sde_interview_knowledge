@@ -31,3 +31,11 @@
 {"qid":"q-2534920-9","question":"什么是网络拥塞机制","content_id":"2534920","title":"腾讯一二面泡池子（已 offer）"}
 {"qid":"q-2534483-21","question":"TCP 流量控制和拥塞控制的逻辑是什么","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
 {"qid":"q-2531587-35","question":"检验和用的什么算法？","content_id":"2531587","title":"腾讯hr部门二面"}
+{"qid":"q-2446756-1","question":"拥塞控制和流量控制的区别以及各自的概念是什么？","content_id":"2446756","title":"用友金融 实习 JAVA"}
+{"qid":"q-2817832-0","question":"TCP为什么可靠？","content_id":"2817832","title":"腾讯-QQ后台开发-面试真题"}
+{"qid":"q-2817117-0","question":"TCP一次发送包最大大小是多少？瓶颈是什么（拥塞窗口、接收窗口、BDP）？","content_id":"2817117","title":"富途后台一面"}
+{"qid":"q-2817117-1","question":"TCP可靠传输包含哪些机制（三次握手、四次挥手、重传、拥塞控制、流量控制、校验和）？","content_id":"2817117","title":"富途后台一面"}
+{"qid":"q-2817117-2","question":"在100Mbps带宽下，同时发送TCP和UDP，各自传输速度如何？","content_id":"2817117","title":"富途后台一面"}
+{"qid":"q-2815905-3","question":"TCP的粘包问题怎么处理？","content_id":"2815905","title":"滴滴c++后端一面凉经"}
+{"qid":"q-2815079-17","question":"TCP的可靠性是怎么保证的？","content_id":"2815079","title":"字节暑期后端一面"}
+{"qid":"q-2815079-18","question":"具体讲讲TCP的流量控制和拥塞控制是什么？","content_id":"2815079","title":"字节暑期后端一面"}

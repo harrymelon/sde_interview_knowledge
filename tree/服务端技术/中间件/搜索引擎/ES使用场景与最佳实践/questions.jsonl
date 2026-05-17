@@ -9,3 +9,5 @@
 {"qid":"q-2593511-4","question":"怎么优化ES推荐导致的单一标签或标签组垄断问题？","content_id":"2593511","title":"美团一面"}
 {"qid":"q-2587472-21","question":"ES深度分页问题如何避免和解决？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
 {"qid":"q-2545555-15","question":"搜索推荐和Elasticsearch的了解","content_id":"2545555","title":"淘天集团-业务技术一面凉经"}
+{"qid":"q-2518670-6","question":"Elasticsearch（ES）的使用场景和用法。","content_id":"2518670","title":"字节日常实习凉经"}
+{"qid":"q-2455660-2","question":"黑名单功能为什么不用Elasticsearch实现？基于什么考虑？","content_id":"2455660","title":"小红书 后端开发 日常实习一面面经"}

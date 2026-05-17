@@ -1,0 +1,13 @@
+{"qid":"q-2614214-1","question":"什么是AOP？AOP的常见应用场景有哪些？","content_id":"2614214","title":"06.05中金所技术Java一面凉经"}
+{"qid":"q-2614214-2","question":"如何自定义注解并结合AOP实现日志记录？","content_id":"2614214","title":"06.05中金所技术Java一面凉经"}
+{"qid":"q-2593546-11","question":"AOP自定义切面的实现原理","content_id":"2593546","title":"Shopee一面（已凉）"}
+{"qid":"q-2592748-5","question":"讲一下拦截器的使用以及是否用到AOP","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2572890-7","question":"AOP的实现原理与日志记录过程？","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}
+{"qid":"q-2571904-8","question":"Spring中对Bean的理解以及AOP的使用与编写","content_id":"2571904","title":"用友金融JAVA凉面"}
+{"qid":"q-2559940-11","question":"AOP的底层原理是什么？","content_id":"2559940","title":"蓝色外卖软件一面，1h无手撕，嘴都说冒烟了（一周后约了二面）"}
+{"qid":"q-2556417-6","question":"AOP的使用场景有哪些？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
+{"qid":"q-2538964-7","question":"AOP 实现原理，jdk 和 cglib 区别","content_id":"2538964","title":"快手商业化 Java 二面"}
+{"qid":"q-2535350-3","question":"介绍自定义注解加拦截器，简述AOP底层原理","content_id":"2535350","title":"小红书一面（25min, 已OC）"}
+{"qid":"q-2535350-4","question":"在Service类中，A方法有拦截器注解，B方法通过this.A()调用A方法，会有什么问题？","content_id":"2535350","title":"小红书一面（25min, 已OC）"}
+{"qid":"q-2535836-2","question":"什么是AOP以及如何用它捕获日志请求？","content_id":"2535836","title":"momenta 后端开发一面凉经——道心破碎"}
+{"qid":"q-2523761-0","question":"Spring AOP 底层原理是什么？","content_id":"2523761","title":"饿了么面经"}

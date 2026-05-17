@@ -6,3 +6,6 @@
 {"qid":"q-2680611-5","question":"move 的操作过程？","content_id":"2680611","title":"影石C++一面"}
 {"qid":"q-2680611-6","question":"string 类型的移动构造做了哪些事情？","content_id":"2680611","title":"影石C++一面"}
 {"qid":"q-2680611-7","question":"forward 函数？为什么不用forward会变成左值？","content_id":"2680611","title":"影石C++一面"}
+{"qid":"q-2486547-1","question":"右值引用的作用及原理","content_id":"2486547","title":"虎牙C++后台秋招"}
+{"qid":"q-2815905-6","question":"左值和右值的概念。","content_id":"2815905","title":"滴滴c++后端一面凉经"}
+{"qid":"q-864591054404710400-8","question":"左值和右值的区别是什么？","content_id":"864591054404710400","title":"C++"}

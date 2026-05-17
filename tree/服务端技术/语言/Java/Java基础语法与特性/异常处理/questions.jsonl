@@ -13,3 +13,13 @@
 {"qid":"q-2748333-4","question":"PDF解析失败时异常处理是怎么做的？","content_id":"2748333","title":"深圳智能思创科技有限公司-初面"}
 {"qid":"q-2738102-9","question":"try-catch的finally一定会执行吗？有没有不会执行的情况？","content_id":"2738102","title":"图拉斯二面"}
 {"qid":"q-2698749-4","question":"Java异常处理机制（try-catch-finally、异常分类等）","content_id":"2698749","title":"厦门岛内中场JAVA开发笔试"}
+{"qid":"q-2505313-9","question":"异常和error讲一下？包括？throws关键字？throw关键字呢？","content_id":"2505313","title":"安全狗 java面经30min拷打"}
+{"qid":"q-2511159-12","question":"Java异常的类型","content_id":"2511159","title":"理想汽车-后端-秋招一面"}
+{"qid":"q-2489212-0","question":"请解释Java异常处理机制","content_id":"2489212","title":"苏小妍二三面经"}
+{"qid":"q-2478311-7","question":"Java异常体系与分类","content_id":"2478311","title":"作业帮 后端开发 秋招一面"}
+{"qid":"q-2450152-10","question":"Java异常有哪些类型？","content_id":"2450152","title":"海兴电力_java一面二面"}
+{"qid":"q-2450152-11","question":"如何捕获异常？try-catch-finally中finally的作用是什么？","content_id":"2450152","title":"海兴电力_java一面二面"}
+{"qid":"q-2436165-10","question":"try...catch...finally中的return语句是否会执行？","content_id":"2436165","title":"10.23 天翼云(超级优才）一面"}
+{"qid":"q-865615439768870912-0","question":"Java中checked exception与unchecked exception的继承体系差异？","content_id":"865615439768870912","title":"26年2月北京独创时代 Java开发工程师 一面"}
+{"qid":"q-865178403861819392-1","question":"finally块执行条件，什么情况下finally不会执行","content_id":"865178403861819392","title":"广州广电运通JAVA实习面经"}
+{"qid":"q-864646969501704192-6","question":"try-catch-finally的执行顺序是怎样的？","content_id":"864646969501704192","title":"成r科技一面"}

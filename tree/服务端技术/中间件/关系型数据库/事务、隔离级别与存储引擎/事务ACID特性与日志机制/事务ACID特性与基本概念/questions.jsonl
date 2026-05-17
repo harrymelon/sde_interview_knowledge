@@ -1,0 +1,33 @@
+{"qid":"q-2797609-6","question":"数据库ACID特性中的隔离性是什么","content_id":"2797609","title":"字节国际广告后端春招一面"}
+{"qid":"q-2792249-5","question":"事务解决的都是什么问题","content_id":"2792249","title":"京东后端-二面"}
+{"qid":"q-2788871-4","question":"MySQL事务是什么？有哪些特性？","content_id":"2788871","title":"百度国际化后台开发日常实习一面"}
+{"qid":"q-2779397-20","question":"事务如何开启","content_id":"2779397","title":"快手Java后端开发-校招面经"}
+{"qid":"q-2777328-20","question":"事务如何开启","content_id":"2777328","title":"快手Java日常实习一面"}
+{"qid":"q-2767092-6","question":"MySQL中的事务有哪几个特性？","content_id":"2767092","title":"快手大模型后端日常一面"}
+{"qid":"q-2746765-24","question":"事务的ACID四大特性","content_id":"2746765","title":"清程极智后端日常一面"}
+{"qid":"q-2741509-7","question":"事务的四大特性（ACID）","content_id":"2741509","title":"oppo后端研发日常实习凉经"}
+{"qid":"q-2714419-6","question":"事务是什么？在项目中如何使用事务？","content_id":"2714419","title":"虾皮后端日常一面面经"}
+{"qid":"q-2714419-7","question":"事务失效的原因及事务回滚失败的处理方式","content_id":"2714419","title":"虾皮后端日常一面面经"}
+{"qid":"q-2661686-10","question":"事务的 ACID 特性是什么，如何理解事务？","content_id":"2661686","title":"某二线城市小厂golang面经."}
+{"qid":"q-2625808-17","question":"MySQL如何控制事务","content_id":"2625808","title":"省流版阿里后台开发面经"}
+{"qid":"q-2608897-9","question":"事务的使用场景是什么，解决什么问题？","content_id":"2608897","title":"众安保险Peek3-Java转正-1面"}
+{"qid":"q-2608897-10","question":"方法加事务注解后对性能有什么影响？","content_id":"2608897","title":"众安保险Peek3-Java转正-1面"}
+{"qid":"q-2598999-15","question":"项目中事务如何保证？","content_id":"2598999","title":""}
+{"qid":"q-2592031-18","question":"讲讲Mysql的事务","content_id":"2592031","title":"4.22 美团核心本地商业-业务研发平台 后端一面"}
+{"qid":"q-2579680-2","question":"MySQL的ACID特性是什么","content_id":"2579680","title":"蚂蚁KPI一面"}
+{"qid":"q-2562354-10","question":"事务ACID的含义是什么？","content_id":"2562354","title":"美团暑期实习后端 面经"}
+{"qid":"q-2556448-7","question":"一个服务要修改多个表，如何避免只修改部分表的情况？","content_id":"2556448","title":"pdd服务端研发一面"}
+{"qid":"q-2543734-2","question":"项目中如何使用事务","content_id":"2543734","title":"成都致远互联Java一面"}
+{"qid":"q-2543734-3","question":"事务失效的场景有哪些","content_id":"2543734","title":"成都致远互联Java一面"}
+{"qid":"q-2543734-4","question":"事务的传播级别有哪些","content_id":"2543734","title":"成都致远互联Java一面"}
+{"qid":"q-2540781-1","question":"MySQL事务ACID特性是什么？","content_id":"2540781","title":"用我的字节一面挂凉经，开始暑期实习的战斗吧"}
+{"qid":"q-2538720-3","question":"什么是ACID特性","content_id":"2538720","title":"字节跳动抖音搜索golang一面（大概率寄）"}
+{"qid":"q-2538720-8","question":"项目中是否使用了MySQL事务，以及为何不使用","content_id":"2538720","title":"字节跳动抖音搜索golang一面（大概率寄）"}
+{"qid":"q-2538107-5","question":"讲讲MySQL的事务","content_id":"2538107","title":"猿辅导后端开发一面———手撕十年脑血栓"}
+{"qid":"q-2529766-1","question":"事务的ACID特性是什么？","content_id":"2529766","title":"拼多多服务端开发面经三面"}
+{"qid":"q-2531587-22","question":"ACID是什么？","content_id":"2531587","title":"腾讯hr部门二面"}
+{"qid":"q-2501517-8","question":"MySQL事务ACID特性","content_id":"2501517","title":"java后端日常实习面经"}
+{"qid":"q-2445516-6","question":"数据库的ACID是什么","content_id":"2445516","title":"极质科技 Java开发工程师 实习二面"}
+{"qid":"q-2815079-7","question":"你是怎么理解数据库的事务的？","content_id":"2815079","title":"字节暑期后端一面"}
+{"qid":"q-2814748-17","question":"MySQL事务ACID特性（原子性、一致性、隔离性、持久性）","content_id":"2814748","title":"得物2026春招 | 后端开发 | 面经 | Java面试"}
+{"qid":"q-2616139-6","question":"假如MySQL事务超时了, 如何排查？","content_id":"2616139","title":"6.9 字节跳动生活服后端实习一面记录"}

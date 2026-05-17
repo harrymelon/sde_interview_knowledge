@@ -6,3 +6,5 @@
 {"qid":"q-2779974-4","question":"new/delete和malloc/free有什么区别？","content_id":"2779974","title":"白日梦服务端凉经"}
 {"qid":"q-2680611-8","question":"C++ 的 RAII 机制核心是什么？","content_id":"2680611","title":"影石C++一面"}
 {"qid":"q-2680611-9","question":"RAII 如何配合异常处理的流程？","content_id":"2680611","title":"影石C++一面"}
+{"qid":"q-2467073-0","question":"C++中内存模型中堆和栈的区别","content_id":"2467073","title":"中望软件线下c++一面"}
+{"qid":"q-864593404615786496-7","question":"C++中堆和栈的区别是什么","content_id":"864593404615786496","title":"C++"}

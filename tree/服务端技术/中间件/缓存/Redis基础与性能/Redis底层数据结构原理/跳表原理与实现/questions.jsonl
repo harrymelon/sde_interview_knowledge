@@ -1,0 +1,10 @@
+{"qid":"q-2795604-10","question":"Redis 为什么使用跳表而不是 B+ 树？","content_id":"2795604","title":"小鹏汽车 Java后端面经"}
+{"qid":"q-2788907-16","question":"跳表怎么实现排序？为什么能支持范围查询？","content_id":"2788907","title":"字节国际化广告后端一面"}
+{"qid":"q-2778261-10","question":"跳表的时间复杂度","content_id":"2778261","title":"字节飞书后端实习一面 感觉凉了..."}
+{"qid":"q-2778378-23","question":"跳表是怎么样的结构？","content_id":"2778378","title":"小鹏汽车后端开发校招面经 攒人品"}
+{"qid":"q-2739684-16","question":"Redis中跳表是什么？有什么优点？时间复杂度是多少？","content_id":"2739684","title":"金山wps服务端一面"}
+{"qid":"q-2598999-2","question":"Redis跳表的原理和数据结构是什么？","content_id":"2598999","title":""}
+{"qid":"q-2475239-12","question":"Redis的跳表数据结构是怎样的","content_id":"2475239","title":"同程旅行校招一面Java岗位成都base"}
+{"qid":"q-2457178-7","question":"Redis跳表是如何建立多级索引的？","content_id":"2457178","title":"9.21 得物 java一面"}
+{"qid":"q-2457178-8","question":"跳表中元素是否可能永远不会被提升到高层索引？Redis如何解决？","content_id":"2457178","title":"9.21 得物 java一面"}
+{"qid":"q-2815079-3","question":"跳表（SkipList）底层是怎么实现的？","content_id":"2815079","title":"字节暑期后端一面"}

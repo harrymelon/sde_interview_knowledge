@@ -12,3 +12,6 @@
 {"qid":"q-2558987-0","question":"缓存预热的原理和实现方式是什么？","content_id":"2558987","title":"滴滴 后端开发 一面凉经"}
 {"qid":"q-2534483-13","question":"Redis 作为缓存主要存了哪些数据，key 是怎样设计的","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
 {"qid":"q-2534483-27","question":"项目会做缓存预热吗，在什么时候使用","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
+{"qid":"q-2455681-0","question":"说说项目设计cache_data表提升性能的？","content_id":"2455681","title":"快手 后端开发 日常实习一面面经"}
+{"qid":"q-2455681-1","question":"为什么不用redis呢？","content_id":"2455681","title":"快手 后端开发 日常实习一面面经"}
+{"qid":"q-2814400-9","question":"Redis存储点赞数据的生命周期设计，冷热数据如何分离？","content_id":"2814400","title":"快手-后端开发日常实习-研发效能部(二面)"}

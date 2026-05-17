@@ -7,3 +7,5 @@
 {"qid":"q-2572149-4","question":"Linux中对一个文件运行的全过程是什么？","content_id":"2572149","title":"处女面（一面凉经）"}
 {"qid":"q-2542981-10","question":"系统调用的原理","content_id":"2542981","title":"滴滴日常后端一二面面经（排序ing）"}
 {"qid":"q-2529766-3","question":"有哪些常见的Linux系统调用？","content_id":"2529766","title":"拼多多服务端开发面经三面"}
+{"qid":"q-2817117-6","question":"写时复制（Copy-on-Write）是什么？有哪些典型应用场景（Redis RDB、CopyOnWriteArrayList、父子进程fork）？","content_id":"2817117","title":"富途后台一面"}
+{"qid":"q-2817117-7","question":"父进程fork子进程后，子进程能否看到父进程内存？父进程修改内存后子进程能看到吗？","content_id":"2817117","title":"富途后台一面"}

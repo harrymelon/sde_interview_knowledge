@@ -19,3 +19,16 @@
 {"qid":"q-2700255-2","question":"请说一下Java中的锁","content_id":"2700255","title":"招银云创Java开发一面（30min）"}
 {"qid":"q-2667196-1","question":"Java的锁有哪些种类？请介绍一下","content_id":"2667196","title":"快手一面凉经"}
 {"qid":"q-2666306-20","question":"乐观锁与悲观锁的区别？","content_id":"2666306","title":"美团 后端 一面"}
+{"qid":"q-2514421-7","question":"什么是自旋锁？","content_id":"2514421","title":"小红书电商商家一面二面凉经"}
+{"qid":"q-2515212-18","question":"乐观锁和悲观锁的区别","content_id":"2515212","title":"飞书 后端日常实习 字节一面面经"}
+{"qid":"q-2463075-1","question":"自旋锁优化的原理和应用场景","content_id":"2463075","title":"借贷宝 后端开发 暑期实习一面面经"}
+{"qid":"q-2463887-14","question":"公平锁和非公平锁的区别","content_id":"2463887","title":"途虎养车 后端开发 一面面经"}
+{"qid":"q-2455672-7","question":"日常开发中常用的锁有哪几种，它们的区别是什么","content_id":"2455672","title":"美团 后端开发 日常实习一面面经"}
+{"qid":"q-2457165-2","question":"Java中的锁有哪些种类？请展开聊聊","content_id":"2457165","title":"9.18 途虎养车 后端一面面经"}
+{"qid":"q-2450152-5","question":"线程加锁的方式有哪些？","content_id":"2450152","title":"海兴电力_java一面二面"}
+{"qid":"q-2436165-4","question":"Java中有哪些锁机制？","content_id":"2436165","title":"10.23 天翼云(超级优才）一面"}
+{"qid":"q-2431238-1","question":"Java锁的区别有哪些","content_id":"2431238","title":"招银科技 后端开发 秋招一面面经"}
+{"qid":"q-865614540459761664-3","question":"Java中锁的实现原理及分类（如synchronized、ReentrantLock等）","content_id":"865614540459761664","title":"番茄小说 后端暑期实习 二面"}
+{"qid":"q-2815079-12","question":"Java中有哪些具体的锁？","content_id":"2815079","title":"字节暑期后端一面"}
+{"qid":"q-2814864-4","question":"谈谈你对Java中锁的了解","content_id":"2814864","title":"广州联奕科技Java后端实习一面"}
+{"qid":"q-864227419266228224-0","question":"乐观锁和悲观锁的区别以及CAS操作原理","content_id":"864227419266228224","title":"转码选手的寻找暑期实习之路（6）-携程Java研发工程师一面"}

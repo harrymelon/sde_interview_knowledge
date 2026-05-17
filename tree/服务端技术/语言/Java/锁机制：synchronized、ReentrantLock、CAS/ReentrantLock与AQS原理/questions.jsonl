@@ -22,3 +22,11 @@
 {"qid":"q-2667196-2","question":"请解释AQS的原理","content_id":"2667196","title":"快手一面凉经"}
 {"qid":"q-2667196-3","question":"哪些锁用到了AQS？","content_id":"2667196","title":"快手一面凉经"}
 {"qid":"q-2664637-8","question":"java的可重入锁是如何实现的","content_id":"2664637","title":"京东零售后端秋招一面"}
+{"qid":"q-2515212-20","question":"公平锁是什么？如何实现公平锁，用什么技术？","content_id":"2515212","title":"飞书 后端日常实习 字节一面面经"}
+{"qid":"q-2469011-6","question":"AQS的原理","content_id":"2469011","title":"锐明技术 java 秋招 面经"}
+{"qid":"q-2457178-11","question":"ReentrantLock中的AQS由哪些核心组件组成？","content_id":"2457178","title":"9.21 得物 java一面"}
+{"qid":"q-2817378-10","question":"介绍 AQS","content_id":"2817378","title":"北京东华原医疗 Java 一面"}
+{"qid":"q-2816999-7","question":"AQS（AbstractQueuedSynchronizer）的原理","content_id":"2816999","title":"安恒信息Java开发实习"}
+{"qid":"q-2815079-13","question":"ReentrantLock是怎么实现的？","content_id":"2815079","title":"字节暑期后端一面"}
+{"qid":"q-2815079-14","question":"AQS（AbstractQueuedSynchronizer）底层是怎么实现的？","content_id":"2815079","title":"字节暑期后端一面"}
+{"qid":"q-2814864-17","question":"说一下AQS","content_id":"2814864","title":"广州联奕科技Java后端实习一面"}

@@ -9,3 +9,4 @@
 {"qid":"q-2746765-10","question":"append方法拷贝是深拷贝还是浅拷贝？","content_id":"2746765","title":"清程极智后端日常一面"}
 {"qid":"q-2748415-32","question":"切片（Slice）与数组（Array）的区别？为什么Go要区分这两个概念？","content_id":"2748415","title":"百度后端日常一面"}
 {"qid":"q-2777528-2","question":"Golang中for range遍历slice/map时，变量的内存地址是否变化？为什么会出现遍历赋值后值不对的问题？","content_id":"2777528","title":"字节Golang后端实习一面"}
+{"qid":"q-2817751-8","question":"slice和array区别？两个array类型的a，b，if a == b时底层在干嘛？","content_id":"2817751","title":"B站大会员后端开发一面"}

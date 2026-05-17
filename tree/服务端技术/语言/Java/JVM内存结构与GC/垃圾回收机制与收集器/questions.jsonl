@@ -2,3 +2,6 @@
 {"qid":"q-2787532-7","question":"介绍Java GC的收集器（Serial、ParNew、CMS、G1、ZGC、ZGC分代），以及分代、卡表、染色指针的原理和优劣","content_id":"2787532","title":"字节日常实习一面"}
 {"qid":"q-2777340-14","question":"相关的垃圾回收器有哪些","content_id":"2777340","title":"高德地图交易业务Java日常实习一面"}
 {"qid":"q-2676058-6","question":"G1和ZGC等现代垃圾收集器通过Region分区、染色指针、读屏障等优化延迟和吞吐量的原理","content_id":"2676058","title":"深信服面试"}
+{"qid":"q-2506490-2","question":"Java的垃圾回收机制是怎样的？","content_id":"2506490","title":"中国电子云-后端日常实习"}
+{"qid":"q-2489212-1","question":"请解释Java垃圾回收机制","content_id":"2489212","title":"苏小妍二三面经"}
+{"qid":"q-2475248-4","question":"JVM的垃圾回收机制、垃圾回收器及JVM调优概述","content_id":"2475248","title":"同程旅行JAVA校招二面"}

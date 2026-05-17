@@ -25,3 +25,14 @@
 {"qid":"q-2680611-17","question":"vector 扩容过程？","content_id":"2680611","title":"影石C++一面"}
 {"qid":"q-2680611-18","question":"vector 扩容时如何判断哪些元素需要移动哪些需要拷贝？","content_id":"2680611","title":"影石C++一面"}
 {"qid":"q-2680611-19","question":"push_back 和 emplace_back 区别？","content_id":"2680611","title":"影石C++一面"}
+{"qid":"q-2518366-0","question":"STL中有哪些容器","content_id":"2518366","title":"禾赛C++实习"}
+{"qid":"q-2518366-1","question":"详细讲一下deque的实现","content_id":"2518366","title":"禾赛C++实习"}
+{"qid":"q-2518366-2","question":"详细讲一下vector的实现","content_id":"2518366","title":"禾赛C++实习"}
+{"qid":"q-2501211-6","question":"STL中使用vector要注意什么","content_id":"2501211","title":"B站C++渲染引擎一面"}
+{"qid":"q-2486547-14","question":"迭代器的类型？有什么注意点？如果是map如果遍历？有什么问题","content_id":"2486547","title":"虎牙C++后台秋招"}
+{"qid":"q-2486527-2","question":"C++中map的实现原理是什么？","content_id":"2486527","title":"迈诚科技C++开发秋招"}
+{"qid":"q-2473831-8","question":"map和unordered_map的区别","content_id":"2473831","title":"虾皮北京 后端开发一面"}
+{"qid":"q-2467073-2","question":"STL中map底层实现原理，以及和unordered_map的区别","content_id":"2467073","title":"中望软件线下c++一面"}
+{"qid":"q-864593404615786496-5","question":"常见的STL容器有哪些","content_id":"864593404615786496","title":"C++"}
+{"qid":"q-864593404615786496-6","question":"一般如何遍历STL容器","content_id":"864593404615786496","title":"C++"}
+{"qid":"q-864433149558743040-0","question":"vector和list的区别是什么？各自适合什么场景？","content_id":"864433149558743040","title":"昆仑天工 - C++软件开发 一面"}

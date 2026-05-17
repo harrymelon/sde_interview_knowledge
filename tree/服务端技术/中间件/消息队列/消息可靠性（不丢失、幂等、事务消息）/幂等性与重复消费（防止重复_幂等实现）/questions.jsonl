@@ -16,3 +16,8 @@
 {"qid":"q-2619815-9","question":"消息队列如何处理重复消费（幂等性）？","content_id":"2619815","title":"字节一面秒挂版"}
 {"qid":"q-2604061-22","question":"怎么防止RocketMQ消息重复消费","content_id":"2604061","title":"soul java凉经，二面挂"}
 {"qid":"q-2593546-19","question":"消息幂等如何处理？","content_id":"2593546","title":"Shopee一面（已凉）"}
+{"qid":"q-2501517-13","question":"RabbitMQ幂等性与重复消费处理","content_id":"2501517","title":"java后端日常实习面经"}
+{"qid":"q-2495918-20","question":"如何防止消息重复投递？怎么实现消息的幂等性？","content_id":"2495918","title":"【26日常】掌上先机 timeline+ 面经汇总"}
+{"qid":"q-2455678-24","question":"消息的这个重复消费的问题","content_id":"2455678","title":"货拉拉 后端开发 日常实习二面面经"}
+{"qid":"q-2817469-7","question":"队列怎么保证消息不重复消费？","content_id":"2817469","title":"字节 AIDP后端开发暑期实习一面"}
+{"qid":"q-2817398-9","question":"数据清洗过程中如何解决消息乱序或数据重复的问题？","content_id":"2817398","title":"大北农集团 Java 一面"}

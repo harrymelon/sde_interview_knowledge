@@ -6,3 +6,8 @@
 {"qid":"q-2763749-14","question":"CAS原理与ABA问题","content_id":"2763749","title":"26届双非本秋招总结"}
 {"qid":"q-2748333-10","question":"解释一下什么是CAS？它有什么优缺点？","content_id":"2748333","title":"深圳智能思创科技有限公司-初面"}
 {"qid":"q-2702636-3","question":"轻量级锁（CAS）存在ABA问题，该如何解决？","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2515212-19","question":"乐观锁底层实现原理","content_id":"2515212","title":"飞书 后端日常实习 字节一面面经"}
+{"qid":"q-2501517-27","question":"CAS原理与ABA问题","content_id":"2501517","title":"java后端日常实习面经"}
+{"qid":"q-2475239-3","question":"CAS和synchronized有什么区别","content_id":"2475239","title":"同程旅行校招一面Java岗位成都base"}
+{"qid":"q-2817630-4","question":"乐观锁的具体操作是什么？CAS是改值还是++？","content_id":"2817630","title":"百度后台开发实习一二面"}
+{"qid":"q-2815111-12","question":"理解CAS中的ABA问题吗？如何规避这种情况？","content_id":"2815111","title":"有赞Java后端一面面经"}

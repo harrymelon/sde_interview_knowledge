@@ -31,3 +31,17 @@
 {"qid":"q-2550552-9","question":"Redis分布式怎么实现的，有什么特点，底层源码中调用了几次Redis自己的API？","content_id":"2550552","title":"26Java-杭州小厂-二面25min"}
 {"qid":"q-2542936-5","question":"Redis集群中用户请求访问一个key时，服务端和Redis实例之间是如何交互的？","content_id":"2542936","title":"字节财经 二面 压力面 被拷打烂了"}
 {"qid":"q-2529744-11","question":"Redis集群（如MT集群）的数据同步机制是什么","content_id":"2529744","title":"拼多多服务端开发面经一面"}
+{"qid":"q-2515212-9","question":"Redis集群原理","content_id":"2515212","title":"飞书 后端日常实习 字节一面面经"}
+{"qid":"q-2501517-0","question":"Redis三种集群模式","content_id":"2501517","title":"java后端日常实习面经"}
+{"qid":"q-2475261-3","question":"Redis主从同步中增量复制和全量复制的过程","content_id":"2475261","title":"掌上先机JAVA后端开发一面"}
+{"qid":"q-2457191-4","question":"redis集群如何搭建","content_id":"2457191","title":"10.11 58后端开发一面"}
+{"qid":"q-2450152-13","question":"Redis的哨兵有什么用？","content_id":"2450152","title":"海兴电力_java一面二面"}
+{"qid":"q-2455660-3","question":"请简述Redis集群的原理。","content_id":"2455660","title":"小红书 后端开发 日常实习一面面经"}
+{"qid":"q-2446748-1","question":"Redis主从架构的部署与配置","content_id":"2446748","title":"数字马力 JAVA 二面"}
+{"qid":"q-2446748-2","question":"Redis主从数据同步原理","content_id":"2446748","title":"数字马力 JAVA 二面"}
+{"qid":"q-2817398-1","question":"项目中 Redis 架构模式是什么？单节点、哨兵模式还是集群模式？","content_id":"2817398","title":"大北农集团 Java 一面"}
+{"qid":"q-2815741-20","question":"怎么保证Redis高可用持久化，集群，哨兵","content_id":"2815741","title":"龙旗科技Java实习一面二面面经"}
+{"qid":"q-2815363-5","question":"Redis 集群有哪些？Redis Cluster 原理","content_id":"2815363","title":"字节跳动 后台开发 二面"}
+{"qid":"q-2815363-6","question":"Redis 哈希槽、数据分片、实例增减时的迁移","content_id":"2815363","title":"字节跳动 后台开发 二面"}
+{"qid":"q-2814992-10","question":"Redis分片机制","content_id":"2814992","title":"腾讯实习后端开发一面面经"}
+{"qid":"q-2814392-0","question":"分布式缓存项目中的数据一致性、rehash和节点扩容问题","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}

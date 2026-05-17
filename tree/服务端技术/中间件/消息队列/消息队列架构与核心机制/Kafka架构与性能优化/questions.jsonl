@@ -8,3 +8,4 @@
 {"qid":"q-2777891-20","question":"Kafka 的顺序写是指的什么？","content_id":"2777891","title":"27日常实习京东科技后端二面"}
 {"qid":"q-2652059-10","question":"Kafka的刷盘机制如何实现？","content_id":"2652059","title":"飞猪暑期实习一面"}
 {"qid":"q-2579528-7","question":"Kafka本地磁盘存储耗尽了怎么办？","content_id":"2579528","title":"万物心选二面（40min）"}
+{"qid":"q-2817398-3","question":"Kafka 部署时如何搭建生产环境和消费环境？具体的集群架构或部署方式是什么？","content_id":"2817398","title":"大北农集团 Java 一面"}

@@ -23,3 +23,11 @@
 {"qid":"q-2574038-4","question":"覆盖索引","content_id":"2574038","title":"阿里云一二三面时间线+面经"}
 {"qid":"q-2569981-9","question":"InnoDB联合索引(A,B)，执行select * where a = xx and b = xx时会走几个索引？如果是count *会怎么做","content_id":"2569981","title":"四非本 滴滴-后端实习面经(已OC)"}
 {"qid":"q-2527891-7","question":"什么情况下会出现回表操作？","content_id":"2527891","title":"第一次面试记录 - Java实习岗"}
+{"qid":"q-2515212-14","question":"索引下推是什么","content_id":"2515212","title":"飞书 后端日常实习 字节一面面经"}
+{"qid":"q-2817630-2","question":"什么是覆盖索引？如何建立一个覆盖索引？","content_id":"2817630","title":"百度后台开发实习一二面"}
+{"qid":"q-2817630-3","question":"给定SQL语句Select * from table where a=1 and b\u003c1 and c=2 order by d desc，如何建立覆盖索引？","content_id":"2817630","title":"百度后台开发实习一二面"}
+{"qid":"q-2817552-0","question":"MySQL如何利用索引优化深分页查询？如何通过覆盖索引避免回表？","content_id":"2817552","title":"腾讯 go 后台开发一面（原来以为凉了结果十分钟之后发了二面qwq）"}
+{"qid":"q-2817398-13","question":"简要解释回表。","content_id":"2817398","title":"大北农集团 Java 一面"}
+{"qid":"q-2815111-10","question":"在规避回表的情况下，真实写SQL时应该怎么写？","content_id":"2815111","title":"有赞Java后端一面面经"}
+{"qid":"q-2814992-5","question":"索引覆盖是什么","content_id":"2814992","title":"腾讯实习后端开发一面面经"}
+{"qid":"q-2814392-10","question":"MySQL覆盖索引的概念","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}

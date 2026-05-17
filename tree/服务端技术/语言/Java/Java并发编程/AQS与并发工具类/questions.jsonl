@@ -1,0 +1,14 @@
+{"qid":"q-2652265-11","question":"JUC 上有哪些常用的工具类？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2592031-13","question":"讲讲AQS","content_id":"2592031","title":"4.22 美团核心本地商业-业务研发平台 后端一面"}
+{"qid":"q-2583709-12","question":"Lock接口怎么实现的？（CAS+AQS）","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2580222-16","question":"JUC包知道哪些？怎么使用？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2572890-10","question":"了解什么并发工具类？","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}
+{"qid":"q-2572890-11","question":"主线程等待多个子线程执行完逻辑后再执行，可以用什么？","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}
+{"qid":"q-2569981-20","question":"如何使用CompletableFuture替代CountDownLatch进行服务编排和同步","content_id":"2569981","title":"四非本 滴滴-后端实习面经(已OC)"}
+{"qid":"q-2566751-22","question":"JUC可重入锁的原理（AQS）","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2566751-23","question":"ReentrantLock和CountDownLatch的区别","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2538136-5","question":"CompletableFuture的了解和使用经验？底层原理是什么？","content_id":"2538136","title":"虎牙春招java一二面记录"}
+{"qid":"q-2817556-2","question":"通过juc包写一个四个线程交替输出打印斐波纳契数列，且不能乱序","content_id":"2817556","title":"字节三面面经-记录一次很差的体验。"}
+{"qid":"q-2572890-5","question":"Java自带的延迟队列了解过吗？","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}
+{"qid":"q-2587472-3","question":"多线程查SQL时如何保证返回结果有序？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2527891-2","question":"如何控制线程的执行顺序？","content_id":"2527891","title":"第一次面试记录 - Java实习岗"}

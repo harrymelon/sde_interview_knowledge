@@ -43,3 +43,8 @@
 {"qid":"q-2542926-6","question":"如何设计一个比 TCP 更好的 UDP 方案？如何保证性能更好更可靠？","content_id":"2542926","title":"腾讯会议部门 一面凉经"}
 {"qid":"q-2534920-18","question":"如何实现可靠UDP（冗余传输、序号等）","content_id":"2534920","title":"腾讯一二面泡池子（已 offer）"}
 {"qid":"q-2535115-17","question":"TCP和UDP的区别是什么","content_id":"2535115","title":"腾讯实习基地一面凉经"}
+{"qid":"q-2502784-1","question":"TCP和UDP的区别是什么？","content_id":"2502784","title":"腾讯云智-后台开发-地图-一,二面经"}
+{"qid":"q-2475594-0","question":"TCP和UDP的区别及应用场景是什么？","content_id":"2475594","title":"烽火通信"}
+{"qid":"q-2475248-7","question":"TCP和UDP的区别","content_id":"2475248","title":"同程旅行JAVA校招二面"}
+{"qid":"q-864883402514694144-1","question":"TCP和UDP在哪一层？它们分别解决什么问题？","content_id":"864883402514694144","title":"字节跳动 C++实习 一面"}
+{"qid":"q-2816267-12","question":"解释TCP和UDP的核心区别。","content_id":"2816267","title":"北大软件(郑州)java实习面经"}

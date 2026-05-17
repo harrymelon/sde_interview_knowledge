@@ -43,3 +43,7 @@
 {"qid":"q-2535414-1","question":"怎样保证数据一致性？","content_id":"2535414","title":"B站一面Java---17分钟"}
 {"qid":"q-2531587-3","question":"缓存是怎样更新的？","content_id":"2531587","title":"腾讯hr部门二面"}
 {"qid":"q-2531587-4","question":"你有哪些缓存更新的方法？","content_id":"2531587","title":"腾讯hr部门二面"}
+{"qid":"q-2475261-5","question":"如何保证数据库和缓存的数据一致性","content_id":"2475261","title":"掌上先机JAVA后端开发一面"}
+{"qid":"q-2457146-8","question":"Redis如何实现和MySQL的一致性？","content_id":"2457146","title":"9.4 腾讯新闻 后端一面面经"}
+{"qid":"q-2817779-9","question":"MySQL 和 Redis 如何保证数据一致性？","content_id":"2817779","title":"9377游戏｜后端开发 面经（含答案）"}
+{"qid":"q-864998819736387584-10","question":"数据库和Redis如何保证一致性？","content_id":"864998819736387584","title":"顺丰java一面"}

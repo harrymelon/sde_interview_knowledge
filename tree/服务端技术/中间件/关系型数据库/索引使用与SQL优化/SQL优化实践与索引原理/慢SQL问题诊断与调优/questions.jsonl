@@ -1,0 +1,25 @@
+{"qid":"q-2791108-0","question":"子查询为什么快","content_id":"2791108","title":"字节后端-二面"}
+{"qid":"q-2778820-10","question":"如何优化`select * from order where userid and status`这样的查询？","content_id":"2778820","title":"汉得信息已offer一面面经分享"}
+{"qid":"q-2778820-11","question":"如何优化order by time desc？","content_id":"2778820","title":"汉得信息已offer一面面经分享"}
+{"qid":"q-2779326-15","question":"假如产品给了你一个数据查询场景，一个表有20个字段，在前端页面提供了15个可填写字段，也可以不填，可以数据筛选，同时支持模糊查询，将查询的数据展示出来。你觉得这个需求实现起来最困难的点是什么？","content_id":"2779326","title":"SHEIN java后端开发一面校招面经"}
+{"qid":"q-2779326-16","question":"你觉得应该如何解决这个问题","content_id":"2779326","title":"SHEIN java后端开发一面校招面经"}
+{"qid":"q-838069125107699712-3","question":"一条慢SQL如何优化","content_id":"838069125107699712","title":"华宇软件（实习） 一面面经"}
+{"qid":"q-2726168-0","question":"怎么优化慢SQL？","content_id":"2726168","title":"社招-JAVA后端-久其软件一面"}
+{"qid":"q-2710521-2","question":"项目中SQL怎么优化慢查询的？","content_id":"2710521","title":"联友科技（武汉）Java一面"}
+{"qid":"q-2704184-1","question":"请介绍SQL优化的方法","content_id":"2704184","title":"CVTE一面（Java）"}
+{"qid":"q-2702636-7","question":"若线上有一个MySQL需要优化，请说明你的优化思路。","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2702636-9","question":"若explain分析无问题、已加索引，但MySQL整体速度仍很慢，还有哪些优化思路和手段？","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2688469-7","question":"复杂场景下多个join都走了索引但还是很慢，怎么解决","content_id":"2688469","title":"顺丰后端一面 9.11"}
+{"qid":"q-2615328-2","question":"慢SQL优化怎么做的？还做了其他的优化吗？","content_id":"2615328","title":"上海汉得信息Java面经"}
+{"qid":"q-2613716-22","question":"SQL优化的常见方法","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2613716-30","question":"有索引仍发生慢查询的可能原因","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2580222-26","question":"关心过业务系统里面的sql耗时嘛？统计过慢查询嘛？对慢查询都是怎么优化的？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580222-29","question":"项目中怎么去进行SQL调优？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2579201-3","question":"实际中有遇到过接口响应慢需要加索引的情况吗？如何优化？","content_id":"2579201","title":"贝壳 社招java一面"}
+{"qid":"q-2566751-21","question":"语句走了索引但还是比预期多查了几条数据，原因是什么","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2561318-6","question":"索引优化完之后仍旧执行慢该怎么办","content_id":"2561318","title":"3.19字节后端一面(已过)"}
+{"qid":"q-2558987-1","question":"如何进行慢SQL优化？","content_id":"2558987","title":"滴滴 后端开发 一面凉经"}
+{"qid":"q-2457146-5","question":"慢SQL如何优化？","content_id":"2457146","title":"9.4 腾讯新闻 后端一面面经"}
+{"qid":"q-2457191-6","question":"mysql查询的优化手段","content_id":"2457191","title":"10.11 58后端开发一面"}
+{"qid":"q-2426218-0","question":"如何优化一条SQL语句？","content_id":"2426218","title":"滴滴正式批一面凉经"}
+{"qid":"q-2814864-19","question":"有没有尝试解决过数据库命中率问题","content_id":"2814864","title":"广州联奕科技Java后端实习一面"}

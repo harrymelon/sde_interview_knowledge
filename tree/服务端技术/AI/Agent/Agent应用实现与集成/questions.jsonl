@@ -16,3 +16,20 @@
 {"qid":"q-2776522-2","question":"项目中智能助手是如何工作的？","content_id":"2776522","title":"凯通科技公司 Java实习"}
 {"qid":"q-2687055-2","question":"Agent调工具失败时应该如何处理？","content_id":"2687055","title":"字节-生活服务-后端实习-一面"}
 {"qid":"q-2664677-7","question":"实习中Agent工具（Function Calling）是怎么实现的？","content_id":"2664677","title":"shopee 一面8.19"}
+{"qid":"q-2817556-1","question":"你的skills文件内容是什么？如何定义tool函数和调用逻辑顺序？","content_id":"2817556","title":"字节三面面经-记录一次很差的体验。"}
+{"qid":"q-2817552-2","question":"你用过哪些AI工具？你是如何使用Agent辅助开发的？有哪些Agent相关的尝试？","content_id":"2817552","title":"腾讯 go 后台开发一面（原来以为凉了结果十分钟之后发了二面qwq）"}
+{"qid":"q-2817712-11","question":"LangChain在你的项目中具体承担什么角色？是否仅作为大模型接口？如何实现框架的深度定制？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-2817712-19","question":"改造工具调用链路（如从MCP切换到skill接口）时，是否需要修改大模型本身？如何实现解耦以避免核心代码变动？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-2817712-20","question":"新建Scale工具文件并注册到映射体系的具体操作步骤是什么？如何保证工具调用的灵活性？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-2817712-22","question":"现有文件名匹配逻辑不够完善，该如何优化？需要考虑哪些匹配规则和异常场景？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-2817256-0","question":"如何处理 Agent 执行失败或超时？","content_id":"2817256","title":"323腾讯金融科技后台开发"}
+{"qid":"q-2817378-19","question":"场景题：如何结合 RAG、本地私有化大模型数据库以及 Skills 实现 AI 辅助药师开药的合理用药检测方案","content_id":"2817378","title":"北京东华原医疗 Java 一面"}
+{"qid":"q-2817378-24","question":"叙述一下你的系统如何实现多场景对话、自动答疑、操作指引以及场景切换功能","content_id":"2817378","title":"北京东华原医疗 Java 一面"}
+{"qid":"q-2816009-9","question":"了解过哪些Agent开发框架？","content_id":"2816009","title":"腾讯混元后台一面面经"}
+{"qid":"q-2815741-27","question":"讲一下你自己写的Agent项目整个流程怎么做的","content_id":"2815741","title":"龙旗科技Java实习一面二面面经"}
+{"qid":"q-2815363-9","question":"Agent 项目介绍","content_id":"2815363","title":"字节跳动 后台开发 二面"}
+{"qid":"q-2815083-9","question":"对 Skill 有了解吗？它的工作模式是怎样的？","content_id":"2815083","title":"字节暑期后端二面"}
+{"qid":"q-2814440-19","question":"引入了多个skill，你会怎么管理？","content_id":"2814440","title":"淘米二面（oc）"}
+{"qid":"q-2814440-20","question":"引入多个skill会触发什么问题？","content_id":"2814440","title":"淘米二面（oc）"}
+{"qid":"q-2814440-22","question":"agent的调用流程是怎么样的？","content_id":"2814440","title":"淘米二面（oc）"}
+{"qid":"q-2814417-2","question":"请详细解释Agent的具体实现流程","content_id":"2814417","title":"携程后端一面"}

@@ -20,3 +20,9 @@
 {"qid":"q-2669746-9","question":"基于CPU的分支预测讲一下","content_id":"2669746","title":"端点科技二面java"}
 {"qid":"q-2603543-2","question":"如果CPU占用很高，应该如何排查优化","content_id":"2603543","title":"美团春招一面凉经"}
 {"qid":"q-2545555-12","question":"CPU使用率飙升，如何排查","content_id":"2545555","title":"淘天集团-业务技术一面凉经"}
+{"qid":"q-2473831-6","question":"三级cache中每一级cache的处理时间是多少","content_id":"2473831","title":"虾皮北京 后端开发一面"}
+{"qid":"q-2475239-6","question":"缓存一致性协议和CPU总线嗅探机制是什么","content_id":"2475239","title":"同程旅行校招一面Java岗位成都base"}
+{"qid":"q-2446756-6","question":"CPU 突然飙升到 100% 如何排查解决？","content_id":"2446756","title":"用友金融 实习 JAVA"}
+{"qid":"q-2426218-1","question":"如何排查CPU飙升问题？","content_id":"2426218","title":"滴滴正式批一面凉经"}
+{"qid":"q-2817712-1","question":"请解释CPU执行指令时，为何数字比较是串行执行而非并行处理？这和a==1 \u0026\u0026 a==2 \u0026\u0026 a==3的执行逻辑有何关联？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-2815905-0","question":"限制服务器性能的原因有哪些？","content_id":"2815905","title":"滴滴c++后端一面凉经"}

@@ -16,3 +16,8 @@
 {"qid":"q-2535350-1","question":"AutoMQ相对于Kafka新增了哪些效果？","content_id":"2535350","title":"小红书一面（25min, 已OC）"}
 {"qid":"q-2535115-0","question":"RocketMQ和Kafka的区别是什么","content_id":"2535115","title":"腾讯实习基地一面凉经"}
 {"qid":"q-2529766-0","question":"Mafka和Kafka有什么区别？","content_id":"2529766","title":"拼多多服务端开发面经三面"}
+{"qid":"q-2431253-4","question":"RocketMQ和Kafka有什么区别？","content_id":"2431253","title":"京东零售 后端开发 秋招一面"}
+{"qid":"q-2434128-10","question":"谈谈对rocket mq的理解","content_id":"2434128","title":"京东零售-Java-面经"}
+{"qid":"q-2814400-3","question":"点赞功能为何选择Kafka而非RocketMQ，选型考量是什么？","content_id":"2814400","title":"快手-后端开发日常实习-研发效能部(二面)"}
+{"qid":"q-2814388-9","question":"RocketMQ特性","content_id":"2814388","title":"春招Java后端开发 滴滴平台技术一二三面"}
+{"qid":"q-2814388-12","question":"RocketMQ和RabbitMQ的区别及使用场景","content_id":"2814388","title":"春招Java后端开发 滴滴平台技术一二三面"}

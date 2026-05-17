@@ -42,3 +42,11 @@
 {"qid":"q-2546652-19","question":"MySQL的行锁和间隙锁，间隙锁锁的是什么","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
 {"qid":"q-2542981-23","question":"讲一下MySQL的锁","content_id":"2542981","title":"滴滴日常后端一二面面经（排序ing）"}
 {"qid":"q-2523761-2","question":"MySQL 加锁底层原理是什么？","content_id":"2523761","title":"饿了么面经"}
+{"qid":"q-2515212-17","question":"MySQL有几种锁？","content_id":"2515212","title":"飞书 后端日常实习 字节一面面经"}
+{"qid":"q-2501517-10","question":"MySQL行锁机制","content_id":"2501517","title":"java后端日常实习面经"}
+{"qid":"q-2455672-5","question":"乐观锁的原理是什么","content_id":"2455672","title":"美团 后端开发 日常实习一面面经"}
+{"qid":"q-2455672-12","question":"什么是间隙锁","content_id":"2455672","title":"美团 后端开发 日常实习一面面经"}
+{"qid":"q-2446748-7","question":"MySQL中不同SQL语句（select、update、delete）的加锁情况分析","content_id":"2446748","title":"数字马力 JAVA 二面"}
+{"qid":"q-2446748-8","question":"delete from table where a=1 语句会加几个锁？","content_id":"2446748","title":"数字马力 JAVA 二面"}
+{"qid":"q-2426218-2","question":"MySQL的行级锁是加在哪里的？","content_id":"2426218","title":"滴滴正式批一面凉经"}
+{"qid":"q-864257813076267008-4","question":"写一个死锁的具体SQL例子","content_id":"864257813076267008","title":"3-19 字节面经-经营管理与平台（一面）"}

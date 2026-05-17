@@ -1,0 +1,39 @@
+{"qid":"q-2791469-23","question":"MVCC实现原理是什么？","content_id":"2791469","title":"字节后端实习一面"}
+{"qid":"q-2789395-6","question":"MVCC的实现原理是什么？","content_id":"2789395","title":"字节日常实习三面 (已oc)"}
+{"qid":"q-2788871-6","question":"MySQL MVCC机制的实现原理（readview、undo log、隐藏字段）","content_id":"2788871","title":"百度国际化后台开发日常实习一面"}
+{"qid":"q-2787455-4","question":"MySQL MVCC 的作用和实现原理是什么？","content_id":"2787455","title":"凡岛后端管培生面试(30min)"}
+{"qid":"q-2785913-12","question":"快照读和当前读有了解过吗","content_id":"2785913","title":"度小满（数据库后端开发）"}
+{"qid":"q-2785913-13","question":"当前读是怎么实现的","content_id":"2785913","title":"度小满（数据库后端开发）"}
+{"qid":"q-2785316-16","question":"MVCC机制的原理","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2780975-4","question":"什么是MVCC？介绍MVCC的原理","content_id":"2780975","title":"虾皮datainfra agent后端开发一面面经"}
+{"qid":"q-2780371-5","question":"MySQL的MVCC实现原理与如何解决幻读？","content_id":"2780371","title":"网易校招Java后端一面技术面"}
+{"qid":"q-2779928-3","question":"MySQL的事务和并发控制，MVCC是怎么实现的","content_id":"2779928","title":"Shopee后端开发一面-实习面经"}
+{"qid":"q-2778261-1","question":"undolog在MVCC中的作用以及MVCC的实现原理","content_id":"2778261","title":"字节飞书后端实习一面 感觉凉了..."}
+{"qid":"q-2778195-2","question":"MySQL的MVCC机制是什么？","content_id":"2778195","title":"美团后端java日常实习一面"}
+{"qid":"q-2777334-16","question":"介绍MVCC和快照读ReadView","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}
+{"qid":"q-2768525-20","question":"请解释一下MVCC（多版本并发控制）的原理。","content_id":"2768525","title":"小小厂面经"}
+{"qid":"q-2753426-7","question":"讲讲MVCC机制","content_id":"2753426","title":"11.25深圳中小厂全栈"}
+{"qid":"q-2726924-5","question":"事务A delete未提交，事务B update是否成功及原因？","content_id":"2726924","title":"百度后端日常二面（云方向）"}
+{"qid":"q-2726924-6","question":"事务A未操作，事务B update后事务A查询的结果是什么？","content_id":"2726924","title":"百度后端日常二面（云方向）"}
+{"qid":"q-2726924-7","question":"介绍MVCC机制","content_id":"2726924","title":"百度后端日常二面（云方向）"}
+{"qid":"q-2726924-8","question":"MVCC中Read View的创建时机","content_id":"2726924","title":"百度后端日常二面（云方向）"}
+{"qid":"q-2695362-8","question":"快照读是什么？","content_id":"2695362","title":"海信软件开发一面"}
+{"qid":"q-2664677-1","question":"MySQL MVCC多版本并发控制的原理是什么？","content_id":"2664677","title":"shopee 一面8.19"}
+{"qid":"q-2666306-11","question":"MVCC 的实现原理是什么？Read View 的作用？","content_id":"2666306","title":"美团 后端 一面"}
+{"qid":"q-2652059-8","question":"读已提交（Read Committed）隔离级别下如何读取数据？","content_id":"2652059","title":"飞猪暑期实习一面"}
+{"qid":"q-2652059-9","question":"MVCC中事务版本号（trx_id）的作用是什么？","content_id":"2652059","title":"飞猪暑期实习一面"}
+{"qid":"q-2654069-8","question":"MVCC 如何实现？","content_id":"2654069","title":"唯品会Java一二面"}
+{"qid":"q-2654069-9","question":"哪些隔离级别用到了 ReadView？","content_id":"2654069","title":"唯品会Java一二面"}
+{"qid":"q-2631595-3","question":"MVCC的实现原理是什么？","content_id":"2631595","title":"袋鼠云java一面"}
+{"qid":"q-2613716-9","question":"MVCC的实现原理","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2613716-10","question":"活跃事务ID集合在RR和RC隔离级别下的不同","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2592031-20","question":"MVCC的快照读的实现","content_id":"2592031","title":"4.22 美团核心本地商业-业务研发平台 后端一面"}
+{"qid":"q-2587472-11","question":"MVCC机制的实现原理？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2579680-3","question":"MVCC如何解决不可重复读和幻读","content_id":"2579680","title":"蚂蚁KPI一面"}
+{"qid":"q-2566751-12","question":"MVCC的ReadView原理","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2538107-11","question":"什么是当前读，什么是快照读","content_id":"2538107","title":"猿辅导后端开发一面———手撕十年脑血栓"}
+{"qid":"q-2505313-21","question":"MVCC机制怎么实现的？实现了什么事务隔离级别？","content_id":"2505313","title":"安全狗 java面经30min拷打"}
+{"qid":"q-2501517-9","question":"MySQL MVCC实现机制","content_id":"2501517","title":"java后端日常实习面经"}
+{"qid":"q-2815079-9","question":"事务的隔离性（Isolation）是怎么保证的？","content_id":"2815079","title":"字节暑期后端一面"}
+{"qid":"q-2815079-10","question":"MVCC（多版本并发控制）底层是怎么实现的？","content_id":"2815079","title":"字节暑期后端一面"}
+{"qid":"q-2815363-7","question":"SQL 分析题：一张表和一条数据，两个事务启动开始读取和更新，分析每个步骤中 select 或 update/insert 发生了什么","content_id":"2815363","title":"字节跳动 后台开发 二面"}

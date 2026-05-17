@@ -1,0 +1,30 @@
+{"qid":"q-2797609-7","question":"为什么数据库使用B+树作为索引结构","content_id":"2797609","title":"字节国际广告后端春招一面"}
+{"qid":"q-2796614-15","question":"说一下MySQL的数据结构，为什么使用B+树？","content_id":"2796614","title":"字节剪映后端一面凉经😭"}
+{"qid":"q-2788907-19","question":"MySQL为什么选择B+树作为索引结构？","content_id":"2788907","title":"字节国际化广告后端一面"}
+{"qid":"q-2787532-11","question":"InnoDB为什么使用B+树作为索引结构？","content_id":"2787532","title":"字节日常实习一面"}
+{"qid":"q-2785360-11","question":"为什么MySQL InnoDB采用B+树作为索引的数据结构？","content_id":"2785360","title":"安克创新golang后端开发实习一面"}
+{"qid":"q-2784254-0","question":"数据库索引的实现原理是什么？为什么使用该原理？","content_id":"2784254","title":"超级额新的字节tt国际直播一面"}
+{"qid":"q-2778261-3","question":"MySQL中索引使用了什么数据结构以及为什么选择该数据结构","content_id":"2778261","title":"字节飞书后端实习一面 感觉凉了..."}
+{"qid":"q-2778522-4","question":"MySQL索引为什么使用B+树","content_id":"2778522","title":"快手后端日常实习一面凉经"}
+{"qid":"q-2735282-5","question":"为什么MySQL用B+树做索引？","content_id":"2735282","title":"回旋加速 golang后端一面 11.4"}
+{"qid":"q-2661686-7","question":"为什么 MySQL 要用 B+ 树做索引而不是直接顺序存储按行检索？","content_id":"2661686","title":"某二线城市小厂golang面经."}
+{"qid":"q-2654069-7","question":"MySQL 为什么选用 B+ 树作为索引结构？","content_id":"2654069","title":"唯品会Java一二面"}
+{"qid":"q-2652265-28","question":"索引为什么能提高查询效率？底层数据结构是什么？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2619211-17","question":"为什么有索引比不加索引查询更快？","content_id":"2619211","title":"腾讯ieg后端面经"}
+{"qid":"q-2616139-4","question":"MySQL索引数据结构？相比于其他数据结构的优势？B+树如何支持范围查询？","content_id":"2616139","title":"6.9 字节跳动生活服后端实习一面记录"}
+{"qid":"q-2592748-12","question":"为什么要使用B+树作为索引数据结构？好在哪里？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2593511-9","question":"B+树的优劣是什么？","content_id":"2593511","title":"美团一面"}
+{"qid":"q-2561318-3","question":"为什么InnoDB使用B+树，有什么好处","content_id":"2561318","title":"3.19字节后端一面(已过)"}
+{"qid":"q-2558131-6","question":"说说MySQL索引的数据结构，为什么不用其他数据结构","content_id":"2558131","title":"字节后端开发一面面经"}
+{"qid":"q-2555732-6","question":"MySQL索引为什么使用b+树？","content_id":"2555732","title":"京东工业后端开发一面凉经"}
+{"qid":"q-2542188-4","question":"MySQL为什么使用B+树而不用B树","content_id":"2542188","title":"字节算力基础一面"}
+{"qid":"q-2538136-0","question":"MySQL索引有什么作用？为什么能提高查询效率？","content_id":"2538136","title":"虎牙春招java一二面记录"}
+{"qid":"q-2532292-0","question":"MySQL索引有哪些，为什么索引为B+树存储","content_id":"2532292","title":"邦盛科技JAVA一二面"}
+{"qid":"q-2531587-14","question":"MySQL建索引为什么会加快查询速度？","content_id":"2531587","title":"腾讯hr部门二面"}
+{"qid":"q-2527891-3","question":"MySQL InnoDB 引擎的数据结构是怎样的？为什么其他树结构不被采用？","content_id":"2527891","title":"第一次面试记录 - Java实习岗"}
+{"qid":"q-2505313-19","question":"索引的数据结构？B树和B+树的区别？","content_id":"2505313","title":"安全狗 java面经30min拷打"}
+{"qid":"q-2475248-11","question":"为什么加索引能提高查询速度","content_id":"2475248","title":"同程旅行JAVA校招二面"}
+{"qid":"q-2457146-2","question":"B+树有哪些优点？","content_id":"2457146","title":"9.4 腾讯新闻 后端一面面经"}
+{"qid":"q-2446748-5","question":"B+树的原理与为什么选择B+树","content_id":"2446748","title":"数字马力 JAVA 二面"}
+{"qid":"q-2816472-10","question":"数据库索引的数据结构，对比B树和B+树。","content_id":"2816472","title":"携程 后端开发实习"}
+{"qid":"q-2814992-3","question":"MySQL为什么使用B+树作为索引结构，B+树节点大小","content_id":"2814992","title":"腾讯实习后端开发一面面经"}

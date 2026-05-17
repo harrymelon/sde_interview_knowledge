@@ -16,3 +16,7 @@
 {"qid":"q-2746765-7","question":"对并发安全map（sync.Map）的了解（数据结构、如何实现安全）","content_id":"2746765","title":"清程极智后端日常一面"}
 {"qid":"q-2694201-2","question":"Go语言的锁有哪些？sync包提供了哪些锁？","content_id":"2694201","title":"9.16 滴滴日常实习一面后端"}
 {"qid":"q-2694201-3","question":"如何实现一个并发安全的map？","content_id":"2694201","title":"9.16 滴滴日常实习一面后端"}
+{"qid":"q-2816577-7","question":"如何控制goroutine的数量和并发数？","content_id":"2816577","title":"百度外包一面凉经"}
+{"qid":"q-2814392-2","question":"Go中map的并发安全性以及如何使用并发安全的map（加读写锁或sync.Map）","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}
+{"qid":"q-2814392-3","question":"Go中sync.Map的实现原理","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}
+{"qid":"q-2814392-4","question":"Go中常用的并发原语（channel、锁、WaitGroup、Once）","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}

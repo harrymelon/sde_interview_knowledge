@@ -32,3 +32,8 @@
 {"qid":"q-2578225-10","question":"Redis多线程是如何实现的？","content_id":"2578225","title":"字节后端实习一面"}
 {"qid":"q-2571174-5","question":"Redis使用Lua脚本的好处","content_id":"2571174","title":"淘天一二面凉经"}
 {"qid":"q-2571174-6","question":"Redis为什么选择Lua作为原子性操作","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-865630750865903616-0","question":"你为什么在项目中使用Lua脚本？Lua脚本在Redis中的作用是什么？","content_id":"865630750865903616","title":"字节飞书后端一面面经分享"}
+{"qid":"q-2817378-6","question":"滑动窗口算法：用 Redis 实现可以使用哪些数据结构？具体有哪几种实现方式？","content_id":"2817378","title":"北京东华原医疗 Java 一面"}
+{"qid":"q-2816849-1","question":"你会用到 Lua 脚本在 Redis 中做一些操作吗？","content_id":"2816849","title":"浙健体检Java后端开发一面--已约2面"}
+{"qid":"q-2816009-4","question":"Redis+Lua怎么应对百万级的队列式并发限流","content_id":"2816009","title":"腾讯混元后台一面面经"}
+{"qid":"q-2814882-5","question":"Redis 6.0加入了多线程，具体针对哪一方面","content_id":"2814882","title":"字节后端暑期实习一面"}

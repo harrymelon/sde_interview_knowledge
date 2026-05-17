@@ -7,3 +7,5 @@
 {"qid":"q-2700457-9","question":"讲一下缓存穿透问题","content_id":"2700457","title":"波克城市一面 9.23"}
 {"qid":"q-2598999-3","question":"如何解决Redis缓存穿透？","content_id":"2598999","title":""}
 {"qid":"q-2555330-14","question":"缓存穿透问题","content_id":"2555330","title":"好未来Golang 一面"}
+{"qid":"q-2495918-22","question":"缓存查不到时怎么办？（缓存穿透处理）","content_id":"2495918","title":"【26日常】掌上先机 timeline+ 面经汇总"}
+{"qid":"q-864488207549816832-8","question":"Redis缓存穿透的原因与解决方案","content_id":"864488207549816832","title":"字节暑实一面"}

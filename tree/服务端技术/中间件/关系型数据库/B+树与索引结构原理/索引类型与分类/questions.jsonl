@@ -47,3 +47,19 @@
 {"qid":"q-2534483-1","question":"MySQL 索引有哪些类型","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
 {"qid":"q-2534483-2","question":"聚簇索引和非聚簇索引的特点是什么","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
 {"qid":"q-2527891-6","question":"普通索引和联合索引的区别？","content_id":"2527891","title":"第一次面试记录 - Java实习岗"}
+{"qid":"q-2504610-13","question":"数据库中聚簇索引和非聚簇索引的区别？","content_id":"2504610","title":"正浩创新，Java 后端，一面"}
+{"qid":"q-2501517-6","question":"MySQL索引类型","content_id":"2501517","title":"java后端日常实习面经"}
+{"qid":"q-2477686-2","question":"索引有哪些类型","content_id":"2477686","title":"联通广东产互 秋招 后端开发一面"}
+{"qid":"q-2463075-0","question":"主键索引和非主键索引的区别","content_id":"2463075","title":"借贷宝 后端开发 暑期实习一面面经"}
+{"qid":"q-2445516-5","question":"MySQL有哪些索引","content_id":"2445516","title":"极质科技 Java开发工程师 实习二面"}
+{"qid":"q-2434128-2","question":"mysql索引","content_id":"2434128","title":"京东零售-Java-面经"}
+{"qid":"q-2817630-1","question":"聚簇索引和二级索引的区别是什么？","content_id":"2817630","title":"百度后台开发实习一二面"}
+{"qid":"q-2817779-10","question":"常用索引有哪些？","content_id":"2817779","title":"9377游戏｜后端开发 面经（含答案）"}
+{"qid":"q-2817411-18","question":"解释覆盖索引、聚簇索引和非聚簇索引的区别及作用。","content_id":"2817411","title":"北京航天拓扑 Java 一面"}
+{"qid":"q-2817398-11","question":"在数据库中添加索引的主要目的是什么？","content_id":"2817398","title":"大北农集团 Java 一面"}
+{"qid":"q-2816999-17","question":"联合索引的原理与使用","content_id":"2816999","title":"安恒信息Java开发实习"}
+{"qid":"q-2815111-8","question":"MySQL大概有哪些索引类型？","content_id":"2815111","title":"有赞Java后端一面面经"}
+{"qid":"q-2815111-9","question":"什么是联合索引？你是怎么用的？","content_id":"2815111","title":"有赞Java后端一面面经"}
+{"qid":"q-2815083-2","question":"什么是聚簇索引？它有什么特点？","content_id":"2815083","title":"字节暑期后端二面"}
+{"qid":"q-2814748-15","question":"聚簇索引和非聚簇索引的区别","content_id":"2814748","title":"得物2026春招 | 后端开发 | 面经 | Java面试"}
+{"qid":"q-2814392-8","question":"MySQL主键索引和联合索引的区别","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}

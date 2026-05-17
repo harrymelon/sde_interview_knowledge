@@ -26,3 +26,11 @@
 {"qid":"q-2565587-2","question":"分布式锁的实现方式","content_id":"2565587","title":"蚂蚁Java应用开发一面凉经"}
 {"qid":"q-2543734-8","question":"分布式锁机制了解吗","content_id":"2543734","title":"成都致远互联Java一面"}
 {"qid":"q-2538107-14","question":"什么叫可重入性","content_id":"2538107","title":"猿辅导后端开发一面———手撕十年脑血栓"}
+{"qid":"q-2518670-2","question":"MySQL唯一索引能否作为分布式锁？","content_id":"2518670","title":"字节日常实习凉经"}
+{"qid":"q-2475261-6","question":"什么是分布式锁？你对分布式锁有什么了解","content_id":"2475261","title":"掌上先机JAVA后端开发一面"}
+{"qid":"q-2456353-7","question":"除了Redis，还有哪些方案可以实现分布式锁？","content_id":"2456353","title":"小红书Java日常实习电商商家一面"}
+{"qid":"q-2456353-8","question":"消息队列如何实现分布式锁？","content_id":"2456353","title":"小红书Java日常实习电商商家一面"}
+{"qid":"q-2455672-8","question":"分布式锁有哪几种实现方式","content_id":"2455672","title":"美团 后端开发 日常实习一面面经"}
+{"qid":"q-2455672-9","question":"Zookeeper实现分布式锁相比Redis实现分布式锁有哪些好处","content_id":"2455672","title":"美团 后端开发 日常实习一面面经"}
+{"qid":"q-2436165-5","question":"分布式锁的基本概念和实现方式是什么？","content_id":"2436165","title":"10.23 天翼云(超级优才）一面"}
+{"qid":"q-2814748-19","question":"分布式锁实现（Redis分布式锁、Zookeeper分布式锁）","content_id":"2814748","title":"得物2026春招 | 后端开发 | 面经 | Java面试"}

@@ -11,3 +11,8 @@
 {"qid":"q-2593546-5","question":"关闭事务在删除缓存之前还是之后？","content_id":"2593546","title":"Shopee一面（已凉）"}
 {"qid":"q-2535414-2","question":"如果Redis中的库存数量比DB中多怎么办？","content_id":"2535414","title":"B站一面Java---17分钟"}
 {"qid":"q-2527713-7","question":"先更新数据库再更新缓存会出现什么问题？","content_id":"2527713","title":"Akulaku Java实习面经"}
+{"qid":"q-2495918-21","question":"项目中的缓存如何实现同步？缓存如何添加？是预热还是其他方式？","content_id":"2495918","title":"【26日常】掌上先机 timeline+ 面经汇总"}
+{"qid":"q-2434128-5","question":"canal订阅binlog，然后由mq异步删除redis缓存的过程，有没有自己实际用过","content_id":"2434128","title":"京东零售-Java-面经"}
+{"qid":"q-2817544-12","question":"缓存怎么做？为什么要使用主动更新？","content_id":"2817544","title":"腾讯音乐商业化26春招后端一面"}
+{"qid":"q-2815768-0","question":"如何实现逻辑过期？","content_id":"2815768","title":"小厂愉游java一面"}
+{"qid":"q-2815333-6","question":"对数据的修改是先到哪里的，数据库怎么做的延迟更新？","content_id":"2815333","title":"某游戏公司   服务端"}

@@ -35,3 +35,16 @@
 {"qid":"q-2667196-6","question":"请介绍一下Spring Boot的启动过程","content_id":"2667196","title":"快手一面凉经"}
 {"qid":"q-2669559-7","question":"SpringBoot的特性有哪些","content_id":"2669559","title":"万得秋招一面"}
 {"qid":"q-2669559-8","question":"SpringBoot自动装配的原理","content_id":"2669559","title":"万得秋招一面"}
+{"qid":"q-2511159-11","question":"Autowired和Resource的区别","content_id":"2511159","title":"理想汽车-后端-秋招一面"}
+{"qid":"q-2502784-23","question":"讲一下Spring Boot的自动装配原理","content_id":"2502784","title":"腾讯云智-后台开发-地图-一,二面经"}
+{"qid":"q-2469011-2","question":"Spring Boot的启动过程和自动装配原理","content_id":"2469011","title":"锐明技术 java 秋招 面经"}
+{"qid":"q-2463887-5","question":"Spring Boot 它比原生的 Spring 有哪些不同？或者说它额外做了哪些事情？","content_id":"2463887","title":"途虎养车 后端开发 一面面经"}
+{"qid":"q-2463887-6","question":"Spring Boot 自动装配","content_id":"2463887","title":"途虎养车 后端开发 一面面经"}
+{"qid":"q-2454154-9","question":"springboot加载过程，启动的时候大概有多少个bean","content_id":"2454154","title":""}
+{"qid":"q-2445927-11","question":"Spring Boot集成了原来Spring的哪些组件？","content_id":"2445927","title":"哈啰 Java后端开发 一面面经"}
+{"qid":"q-2431253-1","question":"Spring Boot的启动流程是什么？如何自定义一个Starter？","content_id":"2431253","title":"京东零售 后端开发 秋招一面"}
+{"qid":"q-865615614683926528-0","question":"Spring Boot Actuator中/health端点如何自定义数据库健康检查逻辑？","content_id":"865615614683926528","title":"26年2月北京独创时代 Java开发工程师 二面"}
+{"qid":"q-2816999-14","question":"Spring Boot自动装配原理","content_id":"2816999","title":"安恒信息Java开发实习"}
+{"qid":"q-2815741-3","question":"讲一下Spring Boot","content_id":"2815741","title":"龙旗科技Java实习一面二面面经"}
+{"qid":"q-2814864-10","question":"@Resource和@Autowired的区别","content_id":"2814864","title":"广州联奕科技Java后端实习一面"}
+{"qid":"q-2814531-8","question":"如何编写一个Spring Boot Starter？","content_id":"2814531","title":"JDS京东健康26校招微凉"}

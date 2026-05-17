@@ -8,3 +8,19 @@
 {"qid":"q-2777340-0","question":"synchronized的底层原理、字节码指令、锁升级及偏向锁/轻量级锁/重量级锁的实现","content_id":"2777340","title":"高德地图交易业务Java日常实习一面"}
 {"qid":"q-2702636-1","question":"请说明synchronized锁升级的过程。","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
 {"qid":"q-2702636-2","question":"轻量级锁基于CAS自旋实现，其默认自旋次数是多少？从轻量级锁升级到重量级锁的临界条件是什么？","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2514421-8","question":"除了自旋锁策略以外，Java里对同步（synchronized）还有什么其他设计？","content_id":"2514421","title":"小红书电商商家一面二面凉经"}
+{"qid":"q-2514421-9","question":"请介绍下synchronized的工作原理。","content_id":"2514421","title":"小红书电商商家一面二面凉经"}
+{"qid":"q-2505313-3","question":"synchronized锁是怎么实现的？加在方法上吗？","content_id":"2505313","title":"安全狗 java面经30min拷打"}
+{"qid":"q-2469011-3","question":"synchronized的原理","content_id":"2469011","title":"锐明技术 java 秋招 面经"}
+{"qid":"q-2469011-5","question":"锁升级的过程","content_id":"2469011","title":"锐明技术 java 秋招 面经"}
+{"qid":"q-2457191-13","question":"synchronized的实现原理","content_id":"2457191","title":"10.11 58后端开发一面"}
+{"qid":"q-2817411-16","question":"在某个实例方法上添加了 synchronized 修饰符，该方法使用的监视器对象（锁对象）是当前实例对象（this）还是其他对象？","content_id":"2817411","title":"北京航天拓扑 Java 一面"}
+{"qid":"q-2817378-9","question":"介绍 Java 不同版本中的锁机制，包括偏向锁、轻量级锁、重量级锁以及无锁状态","content_id":"2817378","title":"北京东华原医疗 Java 一面"}
+{"qid":"q-2816999-8","question":"synchronized锁住的是什么对象？","content_id":"2816999","title":"安恒信息Java开发实习"}
+{"qid":"q-2816999-9","question":"在synchronized锁住当前方法的前提下，线程AB同时调用同一个对象方法与各自创建对象调用方法分别是争用还是互不干扰","content_id":"2816999","title":"安恒信息Java开发实习"}
+{"qid":"q-2816009-2","question":"锁升级的过程","content_id":"2816009","title":"腾讯混元后台一面面经"}
+{"qid":"q-2815768-1","question":"synchronized修饰的代码块报错了会自动释放锁吗？","content_id":"2815768","title":"小厂愉游java一面"}
+{"qid":"q-2814864-5","question":"什么是轻量级锁","content_id":"2814864","title":"广州联奕科技Java后端实习一面"}
+{"qid":"q-2814864-6","question":"在业务过程中如何实现一个轻量级锁","content_id":"2814864","title":"广州联奕科技Java后端实习一面"}
+{"qid":"q-2814864-7","question":"锁的升级过程","content_id":"2814864","title":"广州联奕科技Java后端实习一面"}
+{"qid":"q-2814748-4","question":"synchronized底层实现（ACC_SYNCHRONIZED标识、monitorenter/monitorexit指令、锁升级流程）","content_id":"2814748","title":"得物2026春招 | 后端开发 | 面经 | Java面试"}

@@ -13,3 +13,9 @@
 {"qid":"q-2592653-0","question":"为什么大 key 传输会慢？","content_id":"2592653","title":"26Java后端开发腾讯云智暑假实习技术面3面 "}
 {"qid":"q-2542926-15","question":"如何处理 Redis 热 Key 问题？","content_id":"2542926","title":"腾讯会议部门 一面凉经"}
 {"qid":"q-2542926-16","question":"如何统计哪些 Key 是热 Key？","content_id":"2542926","title":"腾讯会议部门 一面凉经"}
+{"qid":"q-2457146-12","question":"对于特别火的热key，要如何存储？","content_id":"2457146","title":"9.4 腾讯新闻 后端一面面经"}
+{"qid":"q-2455660-5","question":"微博热搜打到集群分片上，分片扛不住怎么办？","content_id":"2455660","title":"小红书 后端开发 日常实习一面面经"}
+{"qid":"q-2816577-11","question":"什么是热key？会导致什么问题？","content_id":"2816577","title":"百度外包一面凉经"}
+{"qid":"q-2815079-5","question":"大Key问题会给系统性能带来什么影响？如何解决或规避大Key问题？","content_id":"2815079","title":"字节暑期后端一面"}
+{"qid":"q-2814531-11","question":"如果用Redis的Hash结构存储100万用户数据会对系统产生什么影响？","content_id":"2814531","title":"JDS京东健康26校招微凉"}
+{"qid":"q-2814392-16","question":"Redis大key的解决方案（异步删除）","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}

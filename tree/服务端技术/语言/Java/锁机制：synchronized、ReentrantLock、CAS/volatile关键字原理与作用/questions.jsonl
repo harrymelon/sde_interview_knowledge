@@ -16,3 +16,10 @@
 {"qid":"q-2701437-12","question":"共享变量存在可见性问题，该如何解决？","content_id":"2701437","title":"快手-商业化JAVA一面"}
 {"qid":"q-2701437-13","question":"如何理解指令重排？在单例模式双重锁检查中，不加volatile关键字时，指令重排可能会出现什么问题？","content_id":"2701437","title":"快手-商业化JAVA一面"}
 {"qid":"q-2695362-5","question":"Synchronized和volatile关键字是做什么的？有什么区别？","content_id":"2695362","title":"海信软件开发一面"}
+{"qid":"q-2475239-4","question":"volatile是如何保证可见性和有序性的","content_id":"2475239","title":"同程旅行校招一面Java岗位成都base"}
+{"qid":"q-2475239-5","question":"为什么volatile不保证原子性","content_id":"2475239","title":"同程旅行校招一面Java岗位成都base"}
+{"qid":"q-2469011-4","question":"volatile的原理","content_id":"2469011","title":"锐明技术 java 秋招 面经"}
+{"qid":"q-2455677-9","question":"volatile有哪几个特性？","content_id":"2455677","title":"蔚来 后端开发 日常实习一面面经"}
+{"qid":"q-2455677-10","question":"volatile是为了解决什么问题的？","content_id":"2455677","title":"蔚来 后端开发 日常实习一面面经"}
+{"qid":"q-2455681-10","question":"valatile 有用过嘛？","content_id":"2455681","title":"快手 后端开发 日常实习一面面经"}
+{"qid":"q-2814882-1","question":"介绍一下volatile的作用，volatile是怎么保证可见性和防止指令重排的","content_id":"2814882","title":"字节后端暑期实习一面"}

@@ -7,3 +7,4 @@
 {"qid":"q-2579528-5","question":"Kafka消息确认等到所有follower都确认会影响性能，如何折中？","content_id":"2579528","title":"万物心选二面（40min）"}
 {"qid":"q-2543734-10","question":"死信队列是什么","content_id":"2543734","title":"成都致远互联Java一面"}
 {"qid":"q-2542981-7","question":"讲一讲死信队列","content_id":"2542981","title":"滴滴日常后端一二面面经（排序ing）"}
+{"qid":"q-2817378-4","question":"Kafka 的 ACK 确认机制详细说明","content_id":"2817378","title":"北京东华原医疗 Java 一面"}

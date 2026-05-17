@@ -62,3 +62,13 @@
 {"qid":"q-2534483-6","question":"什么是MySQL慢查询，如何定位","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
 {"qid":"q-2534483-7","question":"慢查询怎么分析","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
 {"qid":"q-2534483-8","question":"explain 的输出结果包含哪些信息","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
+{"qid":"q-2515212-13","question":"如何查看SQL执行效率","content_id":"2515212","title":"飞书 后端日常实习 字节一面面经"}
+{"qid":"q-2505313-17","question":"MySQL常用的优化策略？你讲一个优化的案例？你是怎么知道MySQL执行时间的？","content_id":"2505313","title":"安全狗 java面经30min拷打"}
+{"qid":"q-2495918-16","question":"MySQL索引优化的方法？如何排查慢SQL？","content_id":"2495918","title":"【26日常】掌上先机 timeline+ 面经汇总"}
+{"qid":"q-2455672-10","question":"如何定位慢查询，并从哪些角度解决慢查询","content_id":"2455672","title":"美团 后端开发 日常实习一面面经"}
+{"qid":"q-2457146-4","question":"MySQL的慢SQL如何查找？","content_id":"2457146","title":"9.4 腾讯新闻 后端一面面经"}
+{"qid":"q-2444531-8","question":"分析SQL是否走索引有哪些办法？","content_id":"2444531","title":"盒马秋招Java二面"}
+{"qid":"q-2817751-2","question":"EXPLAIN中各个字段含义（type、key、key_len、extra）","content_id":"2817751","title":"B站大会员后端开发一面"}
+{"qid":"q-2816570-11","question":"如何发现系统中的慢SQL，数据库优化方法与索引设计","content_id":"2816570","title":"北京亿智云golang社招一二面凉经"}
+{"qid":"q-2815905-9","question":"MySQL的慢查询如何定位与优化？","content_id":"2815905","title":"滴滴c++后端一面凉经"}
+{"qid":"q-2814388-17","question":"MySQL慢查询定位与优化","content_id":"2814388","title":"春招Java后端开发 滴滴平台技术一二三面"}

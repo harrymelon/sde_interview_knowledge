@@ -10,3 +10,8 @@
 {"qid":"q-2685815-20","question":"HTTPS如何防止信息篡改","content_id":"2685815","title":"美团-核心本地商业后端一面-9.9（凉）"}
 {"qid":"q-838544445564825600-4","question":"如何确保HTTPS证书的真实性？","content_id":"838544445564825600","title":"莉莉丝游戏 golang服务器开发 实习面经"}
 {"qid":"q-2778178-15","question":"HTTPS请求中如何与CA交互进行证书验证？对称加密和非对称加密在其中的作用是什么？","content_id":"2778178","title":"携程后端实习一面 1h"}
+{"qid":"q-2473831-0","question":"HTTPS是什么，TLS握手流程是怎样的","content_id":"2473831","title":"虾皮北京 后端开发一面"}
+{"qid":"q-2446756-3","question":"HTTPS 为什么先使用非对称加密再使用对称加密？","content_id":"2446756","title":"用友金融 实习 JAVA"}
+{"qid":"q-865880571782717440-0","question":"HTTP 与 HTTPS 区别及 TLS 握手流程","content_id":"865880571782717440","title":"腾讯-微信支付 C++ 一面 面经 分析"}
+{"qid":"q-2817544-8","question":"讲讲HTTPS和非对称加密过程","content_id":"2817544","title":"腾讯音乐商业化26春招后端一面"}
+{"qid":"q-2816267-13","question":"描述HTTPS的握手过程。","content_id":"2816267","title":"北大软件(郑州)java实习面经"}

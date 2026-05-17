@@ -14,3 +14,11 @@
 {"qid":"q-2701211-11","question":"使用POI处理报表时，为什么选择POI？技术选型考虑因素？","content_id":"2701211","title":"网易云音乐java一面"}
 {"qid":"q-2701211-12","question":"POI的风险点有哪些？","content_id":"2701211","title":"网易云音乐java一面"}
 {"qid":"q-2698749-6","question":"JDK8有哪些新特性？","content_id":"2698749","title":"厦门岛内中场JAVA开发笔试"}
+{"qid":"q-2514421-11","question":"如果让你调研是否要从Java 8升级到更新的版本（如11或17），你会如何评估其必要性？","content_id":"2514421","title":"小红书电商商家一面二面凉经"}
+{"qid":"q-2514421-12","question":"JDK团队在性能提升方面做了哪些优化？","content_id":"2514421","title":"小红书电商商家一面二面凉经"}
+{"qid":"q-2505313-6","question":"Java序列化和反序列化讲一下？底层是怎么实现的？","content_id":"2505313","title":"安全狗 java面经30min拷打"}
+{"qid":"q-2505313-7","question":"serialVersionUID了解吗？假如我序列化后修改了内容，反序列化还能成功吗？","content_id":"2505313","title":"安全狗 java面经30min拷打"}
+{"qid":"q-2505313-8","question":"transient关键字了解吗？","content_id":"2505313","title":"安全狗 java面经30min拷打"}
+{"qid":"q-2454154-0","question":"Java最新版本都增加了什么内容","content_id":"2454154","title":""}
+{"qid":"q-864543031494467584-0","question":"JDK8和JDK17有什么区别？有哪些更新的地方？","content_id":"864543031494467584","title":"转码选手的寻找暑期实习之路（7）--飞猪Java开发暑期实习一面"}
+{"qid":"q-864543031494467584-1","question":"如何使用Stream将List中的Person对象按name分组为Map？","content_id":"864543031494467584","title":"转码选手的寻找暑期实习之路（7）--飞猪Java开发暑期实习一面"}

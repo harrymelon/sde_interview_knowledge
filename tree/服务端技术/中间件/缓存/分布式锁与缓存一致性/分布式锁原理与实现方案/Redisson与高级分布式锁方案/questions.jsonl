@@ -23,3 +23,11 @@
 {"qid":"q-2538107-13","question":"Redisson实现分布式锁需要考虑哪些问题，怎么解决的","content_id":"2538107","title":"猿辅导后端开发一面———手撕十年脑血栓"}
 {"qid":"q-2535836-0","question":"Redisson分布式锁中如何设置过期时间？","content_id":"2535836","title":"momenta 后端开发一面凉经——道心破碎"}
 {"qid":"q-2535836-1","question":"使用Redisson分布式锁如何实现页面访问次数的统计？","content_id":"2535836","title":"momenta 后端开发一面凉经——道心破碎"}
+{"qid":"q-2505313-10","question":"Redisson实现了怎样的分布式锁？底层？","content_id":"2505313","title":"安全狗 java面经30min拷打"}
+{"qid":"q-2505313-11","question":"锁的续期？看门狗机制？","content_id":"2505313","title":"安全狗 java面经30min拷打"}
+{"qid":"q-2457146-0","question":"Redisson分布式锁的底层实现原理是什么？","content_id":"2457146","title":"9.4 腾讯新闻 后端一面面经"}
+{"qid":"q-2457165-4","question":"Redis红锁的工作原理是什么？","content_id":"2457165","title":"9.18 途虎养车 后端一面面经"}
+{"qid":"q-2455681-9","question":"具体说说看门狗机制。","content_id":"2455681","title":"快手 后端开发 日常实习一面面经"}
+{"qid":"q-2816472-8","question":"如何使用Redis实现分布式锁？Redisson实现了哪些功能及原理（看门狗、可重入）？","content_id":"2816472","title":"携程 后端开发实习"}
+{"qid":"q-2815111-1","question":"引入Redisson分布式锁的目的是为了解决重复上传的问题吗？讲讲。","content_id":"2815111","title":"有赞Java后端一面面经"}
+{"qid":"q-2814388-0","question":"Redission底层原理实现","content_id":"2814388","title":"春招Java后端开发 滴滴平台技术一二三面"}

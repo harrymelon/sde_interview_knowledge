@@ -9,3 +9,4 @@
 {"qid":"q-2779545-3","question":"讲一讲你对红黑树的了解","content_id":"2779545","title":"美团27实习后端一面"}
 {"qid":"q-2777334-3","question":"为什么HashMap要把链表转换为红黑树？","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}
 {"qid":"q-2777334-4","question":"红黑树查找的时间复杂度是多少？","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}
+{"qid":"q-2445927-2","question":"HashMap的链表为什么要转换成红黑树？","content_id":"2445927","title":"哈啰 Java后端开发 一面面经"}

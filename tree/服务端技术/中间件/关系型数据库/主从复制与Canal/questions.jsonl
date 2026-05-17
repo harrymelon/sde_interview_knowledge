@@ -29,3 +29,11 @@
 {"qid":"q-2538940-2","question":"主从同步的延时怎么处理？","content_id":"2538940","title":"京东零售 Java 二面"}
 {"qid":"q-2538959-5","question":"抢票业务场景下数据库的读写方式有什么考虑","content_id":"2538959","title":"美团数据研发 JAVA 二面"}
 {"qid":"q-2534483-10","question":"项目中用 binlog 解决了什么问题","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
+{"qid":"q-2434128-4","question":"mysql 订阅binlog的中间件","content_id":"2434128","title":"京东零售-Java-面经"}
+{"qid":"q-2817117-3","question":"MySQL如何实现主从复制（三线程两日志）？","content_id":"2817117","title":"富途后台一面"}
+{"qid":"q-2817117-4","question":"MySQL主从复制时主库写入导致延迟如何解决（半同步复制、从库多线程SQL线程）？","content_id":"2817117","title":"富途后台一面"}
+{"qid":"q-2815096-1","question":"评价系统为什么使用Canal？","content_id":"2815096","title":"腾讯CSIG后端开发日常实习一面面经"}
+{"qid":"q-2815096-2","question":"后台消费脚本如何判断一条语句是DDL还是DML？","content_id":"2815096","title":"腾讯CSIG后端开发日常实习一面面经"}
+{"qid":"q-2815096-3","question":"如何判断一条语句是DCL语句？","content_id":"2815096","title":"腾讯CSIG后端开发日常实习一面面经"}
+{"qid":"q-2815083-0","question":"MySQL 主从同步的原理是什么？除了 Binlog 日志，还知道其他的吗？","content_id":"2815083","title":"字节暑期后端二面"}
+{"qid":"q-2814392-13","question":"MySQL集群主从复制的实现方式","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}

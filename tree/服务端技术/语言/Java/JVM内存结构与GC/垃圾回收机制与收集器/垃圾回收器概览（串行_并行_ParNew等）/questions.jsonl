@@ -20,3 +20,8 @@
 {"qid":"q-2674686-12","question":"JVM的垃圾回收机制是什么？","content_id":"2674686","title":"美团后端一面"}
 {"qid":"q-2672028-2","question":"Java中的垃圾回收（GC）机制","content_id":"2672028","title":"饿了么秋招后端AI面"}
 {"qid":"q-2787545-9","question":"JVM内存是如何分布的？哪些区域会进行垃圾回收？","content_id":"2787545","title":"字节后端面经，严刑烤打3小时"}
+{"qid":"q-2457191-10","question":"CMS和G1的区别","content_id":"2457191","title":"10.11 58后端开发一面"}
+{"qid":"q-2446756-5","question":"CMS 和 G1 垃圾回收器有什么特点？","content_id":"2446756","title":"用友金融 实习 JAVA"}
+{"qid":"q-2431238-3","question":"JVM垃圾回收机制","content_id":"2431238","title":"招银科技 后端开发 秋招一面面经"}
+{"qid":"q-2816472-4","question":"有哪些垃圾回收器？","content_id":"2816472","title":"携程 后端开发实习"}
+{"qid":"q-2814748-11","question":"常见垃圾收集器（Serial、ParNew、Parallel Scavenge、CMS、G1）","content_id":"2814748","title":"得物2026春招 | 后端开发 | 面经 | Java面试"}

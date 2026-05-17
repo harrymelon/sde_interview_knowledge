@@ -26,3 +26,18 @@
 {"qid":"q-2556417-12","question":"Redis的持久化有哪些方式？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
 {"qid":"q-2542188-7","question":"Redis持久化机制有哪些","content_id":"2542188","title":"字节算力基础一面"}
 {"qid":"q-2529763-7","question":"Redis的持久化机制是怎样的？","content_id":"2529763","title":"拼多多服务端开发面经二面"}
+{"qid":"q-2502784-14","question":"Redis的持久化方式有哪些？","content_id":"2502784","title":"腾讯云智-后台开发-地图-一,二面经"}
+{"qid":"q-2483988-1","question":"Redis的持久化机制有哪些？","content_id":"2483988","title":"顺丰 面经"}
+{"qid":"q-2475261-2","question":"Redis的AOF和RDB持久化有什么区别","content_id":"2475261","title":"掌上先机JAVA后端开发一面"}
+{"qid":"q-2473831-5","question":"Redis的持久化方式有哪些","content_id":"2473831","title":"虾皮北京 后端开发一面"}
+{"qid":"q-2457146-11","question":"Redis的持久化机制介绍下","content_id":"2457146","title":"9.4 腾讯新闻 后端一面面经"}
+{"qid":"q-2446695-0","question":"Redis的持久化方式AOF和RDB的区别及内部函数","content_id":"2446695","title":"南京杭州端点 java二面"}
+{"qid":"q-2446748-3","question":"Redis的持久化机制有哪些？","content_id":"2446748","title":"数字马力 JAVA 二面"}
+{"qid":"q-2437887-0","question":"Redis的数据持久化机制有哪些？","content_id":"2437887","title":"南京杭州端点 java二面"}
+{"qid":"q-2434128-8","question":"redis持久化机制","content_id":"2434128","title":"京东零售-Java-面经"}
+{"qid":"q-865630750865903616-2","question":"Redis的持久化策略有哪些？为什么通常两种策略并用？","content_id":"865630750865903616","title":"字节飞书后端一面面经分享"}
+{"qid":"q-2817378-8","question":"Redis 持久化机制","content_id":"2817378","title":"北京东华原医疗 Java 一面"}
+{"qid":"q-2816472-9","question":"讲一下Redis的持久化（AOF日志和RDB快照，以及合体）。","content_id":"2816472","title":"携程 后端开发实习"}
+{"qid":"q-2815083-4","question":"请讲解一下 Redis 持久化的原理（RDB 和 AOF）。","content_id":"2815083","title":"字节暑期后端二面"}
+{"qid":"q-2814882-6","question":"redis持久化机制有几种，rdb会丢数据吗","content_id":"2814882","title":"字节后端暑期实习一面"}
+{"qid":"q-2814392-15","question":"Redis的持久化方式及AOF压缩日志","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}

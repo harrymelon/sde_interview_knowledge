@@ -8,3 +8,7 @@
 {"qid":"q-2560502-1","question":"HashMap是线程安全的吗","content_id":"2560502","title":"万得后端暑期一面（目前HR面）"}
 {"qid":"q-2587856-1","question":"ConcurrentHashMap与HashMap的区别是什么？","content_id":"2587856","title":"快手Java暑期实习一面"}
 {"qid":"q-2537521-3","question":"HashMap和Hashtable有什么区别？","content_id":"2537521","title":""}
+{"qid":"q-2445927-3","question":"HashMap为什么是线程不安全的？在哪些地方线程不安全？","content_id":"2445927","title":"哈啰 Java后端开发 一面面经"}
+{"qid":"q-2817378-12","question":"HashMap 和 Hashtable 有什么区别？在初始化容量大小和阈值上是否有差异","content_id":"2817378","title":"北京东华原医疗 Java 一面"}
+{"qid":"q-864646969501704192-5","question":"HashMap和Hashtable的区别是什么？","content_id":"864646969501704192","title":"成r科技一面"}
+{"qid":"q-2814864-1","question":"HashMap和HashTable的区别","content_id":"2814864","title":"广州联奕科技Java后端实习一面"}

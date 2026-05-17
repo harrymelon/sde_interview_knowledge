@@ -25,3 +25,15 @@
 {"qid":"q-2680611-21","question":"shared_ptr 的引用计数存储在哪里？","content_id":"2680611","title":"影石C++一面"}
 {"qid":"q-2672446-2","question":"C++智能指针有哪些？原理是什么？如何使用？","content_id":"2672446","title":"秋招记录14——美团后端一面"}
 {"qid":"q-2663028-2","question":"智能指针的原理与使用","content_id":"2663028","title":"26届秋招面经 - 小米"}
+{"qid":"q-2517350-2","question":"C++智能指针的原理及其底层实现","content_id":"2517350","title":"卓驭C++实习面经"}
+{"qid":"q-2501211-0","question":"unique_ptr是怎么实现的？","content_id":"2501211","title":"B站C++渲染引擎一面"}
+{"qid":"q-2501211-1","question":"shared_ptr是怎么实现的？","content_id":"2501211","title":"B站C++渲染引擎一面"}
+{"qid":"q-2501211-2","question":"shared_ptr是线程安全的吗？","content_id":"2501211","title":"B站C++渲染引擎一面"}
+{"qid":"q-2486547-3","question":"智能指针的介绍？","content_id":"2486547","title":"虎牙C++后台秋招"}
+{"qid":"q-2486547-4","question":"shared_ptr管理数组资源需要考虑什么？删除器怎么实现？","content_id":"2486547","title":"虎牙C++后台秋招"}
+{"qid":"q-2486547-16","question":"智能指针的选择？循环引用如何解决？","content_id":"2486547","title":"虎牙C++后台秋招"}
+{"qid":"q-2486527-4","question":"智能指针的实现原理是什么？","content_id":"2486527","title":"迈诚科技C++开发秋招"}
+{"qid":"q-2815905-4","question":"介绍智能指针。","content_id":"2815905","title":"滴滴c++后端一面凉经"}
+{"qid":"q-2815905-5","question":"unique_ptr怎么实现所有权转移的？","content_id":"2815905","title":"滴滴c++后端一面凉经"}
+{"qid":"q-864639303056424960-0","question":"shared_ptr 性能优于 unique_ptr 的原因是什么","content_id":"864639303056424960","title":"腾讯 WXG客户端开发-C++ 一面"}
+{"qid":"q-864593404615786496-1","question":"C++有哪些智能指针","content_id":"864593404615786496","title":"C++"}

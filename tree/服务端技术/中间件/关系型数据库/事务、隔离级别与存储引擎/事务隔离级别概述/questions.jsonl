@@ -51,3 +51,15 @@
 {"qid":"q-2536703-6","question":"什么是事务，事务的隔离级别有哪些","content_id":"2536703","title":"中国移动卓望公司 Java开发 二面"}
 {"qid":"q-2536703-7","question":"什么是幻读，如何解决幻读","content_id":"2536703","title":"中国移动卓望公司 Java开发 二面"}
 {"qid":"q-2535627-4","question":"事务隔离级别有哪些，各隔离级别下会发生什么情况，举例说明","content_id":"2535627","title":"高德Java 一面"}
+{"qid":"q-2502784-12","question":"MySQL的事务隔离级别有哪些？","content_id":"2502784","title":"腾讯云智-后台开发-地图-一,二面经"}
+{"qid":"q-2492820-5","question":"MySQL项目中用的什么隔离级别，为什么用这种？","content_id":"2492820","title":"网易一面凉经"}
+{"qid":"q-2457178-3","question":"MySQL的事务隔离级别有哪些？","content_id":"2457178","title":"9.21 得物 java一面"}
+{"qid":"q-2455678-15","question":"数据库的隔离级别","content_id":"2455678","title":"货拉拉 后端开发 日常实习二面面经"}
+{"qid":"q-2455678-17","question":"什么是幻读","content_id":"2455678","title":"货拉拉 后端开发 日常实习二面面经"}
+{"qid":"q-2457191-8","question":"隔离级别的类型","content_id":"2457191","title":"10.11 58后端开发一面"}
+{"qid":"q-2450152-14","question":"MySQL的隔离级别有哪些？","content_id":"2450152","title":"海兴电力_java一面二面"}
+{"qid":"q-2446748-9","question":"隔离级别与锁的关系","content_id":"2446748","title":"数字马力 JAVA 二面"}
+{"qid":"q-2817544-3","question":"数据库事务级别有哪些？并发会导致哪些问题？","content_id":"2817544","title":"腾讯音乐商业化26春招后端一面"}
+{"qid":"q-2815083-1","question":"请讲解一下数据库事务的四个隔离级别。","content_id":"2815083","title":"字节暑期后端二面"}
+{"qid":"q-2814392-11","question":"MySQL事务的隔离级别","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}
+{"qid":"q-2814388-13","question":"MySQL隔离级别","content_id":"2814388","title":"春招Java后端开发 滴滴平台技术一二三面"}

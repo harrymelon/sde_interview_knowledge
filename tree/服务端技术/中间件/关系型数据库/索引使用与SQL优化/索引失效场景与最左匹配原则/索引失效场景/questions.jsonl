@@ -1,0 +1,55 @@
+{"qid":"q-2798038-4","question":"MySQL索引失效的几种情况","content_id":"2798038","title":"vivo后端一面"}
+{"qid":"q-2795623-8","question":"索引失效的场景有哪些？","content_id":"2795623","title":"共比邻AI后端实习一面面经"}
+{"qid":"q-2792532-6","question":"加索引一定有用吗？索引失效的情况","content_id":"2792532","title":"字节后端三面面经"}
+{"qid":"q-2789395-7","question":"索引失效的场景有哪些？","content_id":"2789395","title":"字节日常实习三面 (已oc)"}
+{"qid":"q-2789347-10","question":"MySQL索引失效的场景有哪些","content_id":"2789347","title":"中海达（java实习一面）面经"}
+{"qid":"q-846045342515621888-1","question":"造成索引失效的原因有哪些","content_id":"846045342515621888","title":"后端开发面试记录"}
+{"qid":"q-2785316-20","question":"什么情况下不会走索引","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2780374-9","question":"索引失效有哪些场景？","content_id":"2780374","title":"得物秋招Java后端面试记录"}
+{"qid":"q-2780364-14","question":"索引失效场景？","content_id":"2780364","title":"小鹏汽车秋招Java后端面试记录"}
+{"qid":"q-2795731-3","question":"MySQL中对于WHERE name LIKE 'A%'查询使用哪种索引效率更高？","content_id":"2795731","title":"社招 北京 Java后端工程师"}
+{"qid":"q-2785298-19","question":"索引相关","content_id":"2785298","title":"记录下自己双非硕秋招面经"}
+{"qid":"q-2785316-19","question":"MySQL在哪一阶段判断是否走索引","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2778039-11","question":"遇到过哪些索引失效的情况？举例说明。","content_id":"2778039","title":"27实习小红书后端开发一面"}
+{"qid":"q-2778004-18","question":"MySQL中有哪些索引失效的情况？索引的优点和缺点","content_id":"2778004","title":"字节日常实习后端一面"}
+{"qid":"q-2777924-13","question":"什么情况会导致MySQL索引失效？","content_id":"2777924","title":"字节跳动即梦全栈一面"}
+{"qid":"q-2777798-11","question":"小表建了索引后，查询一定会走索引吗","content_id":"2777798","title":"小厂Java后端日常实习一面"}
+{"qid":"q-2777464-13","question":"MySQL索引失效场景有哪些？","content_id":"2777464","title":"百度网盘 国际化Go实习一面凉经"}
+{"qid":"q-2777321-5","question":"有遇到过选错索引的情况吗？有别的索引失效的场景吗？","content_id":"2777321","title":"字节今日头条Java日常实习一面凉经"}
+{"qid":"q-2778500-2","question":"索引失效的场景有哪些","content_id":"2778500","title":"快手后端实习二面"}
+{"qid":"q-2746765-21","question":"索引失效（截断）的场景","content_id":"2746765","title":"清程极智后端日常一面"}
+{"qid":"q-2739684-11","question":"索引失效的场景有哪些？","content_id":"2739684","title":"金山wps服务端一面"}
+{"qid":"q-2739811-10","question":"索引失效的场景有哪些？","content_id":"2739811","title":"安恒信息二面（我还以为是hr面，结果是技术面）"}
+{"qid":"q-2738102-4","question":"索引失效一般有哪些情况？","content_id":"2738102","title":"图拉斯二面"}
+{"qid":"q-2726168-5","question":"加了索引后反而没有生效或更慢的情况有哪些？","content_id":"2726168","title":"社招-JAVA后端-久其软件一面"}
+{"qid":"q-2700255-4","question":"是否遇到过跳过索引直接走全表扫描的场景？","content_id":"2700255","title":"招银云创Java开发一面（30min）"}
+{"qid":"q-2694201-7","question":"MySQL索引在什么情况下会失效？","content_id":"2694201","title":"9.16 滴滴日常实习一面后端"}
+{"qid":"q-2682123-18","question":"MySQL索引失效的场景有哪些？如何查看索引的使用情况？","content_id":"2682123","title":"南京小米 java实习一面"}
+{"qid":"q-2680728-8","question":"批量查询走索引吗？","content_id":"2680728","title":"滴滴正式批:"}
+{"qid":"q-2674944-2","question":"为什么like会使索引失效？","content_id":"2674944","title":"虾皮秋招一面"}
+{"qid":"q-2673922-4","question":"like查询会用到索引吗","content_id":"2673922","title":"8.29 友谊时光java实习一面"}
+{"qid":"q-2670349-5","question":"什么时候索引会失效","content_id":"2670349","title":"虾皮一面"}
+{"qid":"q-2652265-25","question":"什么情况下会导致索引失效？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-26","question":"为什么查询条件和表字段类型不一样会导致索引失效？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2618388-6","question":"MySQL索引失效的场景有哪些","content_id":"2618388","title":"博彦科技-go后端开发"}
+{"qid":"q-2555330-6","question":"索引失效场景","content_id":"2555330","title":"好未来Golang 一面"}
+{"qid":"q-2551867-17","question":"Like查询在什么情况下会走索引？","content_id":"2551867","title":"字节跳动一面（55min）"}
+{"qid":"q-2543734-6","question":"索引失效的场景有哪些","content_id":"2543734","title":"成都致远互联Java一面"}
+{"qid":"q-2541224-0","question":"MySQL索引失效的场景有哪些？","content_id":"2541224","title":"杭州产链数字科技二面"}
+{"qid":"q-2536703-3","question":"索引失效的场景","content_id":"2536703","title":"中国移动卓望公司 Java开发 二面"}
+{"qid":"q-2528555-4","question":"MySQL中索引失效的场景有哪些？","content_id":"2528555","title":"java小厂（0-20人）实习 一面面经（已oc"}
+{"qid":"q-2531587-15","question":"索引一定能加快查询吗？","content_id":"2531587","title":"腾讯hr部门二面"}
+{"qid":"q-2527891-5","question":"MySQL索引失效场景：AB联合索引中A AND B和A OR B，为什么A OR B会失效？","content_id":"2527891","title":"第一次面试记录 - Java实习岗"}
+{"qid":"q-2527891-8","question":"MySQL中like会使索引失效，假设在大段文本中匹配是怎样进行的？如果你来解决应该怎么处理？","content_id":"2527891","title":"第一次面试记录 - Java实习岗"}
+{"qid":"q-2514421-15","question":"即使有了索引，查询仍然很慢，你觉得可能是什么原因？","content_id":"2514421","title":"小红书电商商家一面二面凉经"}
+{"qid":"q-2511482-4","question":"索引失效场景有哪些？","content_id":"2511482","title":"中电数创Java面经"}
+{"qid":"q-2504610-14","question":"索引失效的场景有哪些？","content_id":"2504610","title":"正浩创新，Java 后端，一面"}
+{"qid":"q-2455681-5","question":"select * from log where level = 1, 我已经在level上面建立的索引，为什么还是走的全表查询。","content_id":"2455681","title":"快手 后端开发 日常实习一面面经"}
+{"qid":"q-2445927-9","question":"索引失效的情况有哪些？","content_id":"2445927","title":"哈啰 Java后端开发 一面面经"}
+{"qid":"q-2444531-6","question":"写SQL需要注意哪些问题？不走索引有哪些情况？","content_id":"2444531","title":"盒马秋招Java二面"}
+{"qid":"q-2444526-7","question":"MySQL典型反索引的例子（索引失效场景）","content_id":"2444526","title":"尹兆科技 秋招 Java一面"}
+{"qid":"q-2816472-11","question":"索引失效的场景有哪些？字段为字符串类型时使用数字查索引会失效吗？字段为整型时使用字符串查索引会失效吗？","content_id":"2816472","title":"携程 后端开发实习"}
+{"qid":"q-2815741-14","question":"还有什么情况下不走索引","content_id":"2815741","title":"龙旗科技Java实习一面二面面经"}
+{"qid":"q-2815741-15","question":"SQL中in关键字怎么用，会走索引吗","content_id":"2815741","title":"龙旗科技Java实习一面二面面经"}
+{"qid":"q-2814838-0","question":"介绍下索引失效的场景","content_id":"2814838","title":"熙牛医疗java二面 面经"}
+{"qid":"q-2814838-4","question":"如果用in关键字，使用的索引也只有一个，它一定不会索引失效吗？","content_id":"2814838","title":"熙牛医疗java二面 面经"}

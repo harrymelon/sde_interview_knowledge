@@ -20,3 +20,13 @@
 {"qid":"q-838038489668046848-7","question":"Spring Bean的生命周期","content_id":"838038489668046848","title":"27小厂Java后端实习"}
 {"qid":"q-2735988-8","question":"Spring 容器的加载过程和 Bean 的初始化流程是什么？三级缓存的作用是什么？","content_id":"2735988","title":"11.5古茗java一面 30min"}
 {"qid":"q-2685815-1","question":"循环依赖怎么解决的","content_id":"2685815","title":"美团-核心本地商业后端一面-9.9（凉）"}
+{"qid":"q-2502784-6","question":"Spring生命周期是怎样的？","content_id":"2502784","title":"腾讯云智-后台开发-地图-一,二面经"}
+{"qid":"q-2502784-7","question":"什么是Spring的循环依赖？","content_id":"2502784","title":"腾讯云智-后台开发-地图-一,二面经"}
+{"qid":"q-2502784-22","question":"Bean的生命周期是怎样的？","content_id":"2502784","title":"腾讯云智-后台开发-地图-一,二面经"}
+{"qid":"q-2454154-11","question":"循环依赖spring怎么解决的？","content_id":"2454154","title":""}
+{"qid":"q-2815111-15","question":"在Spring使用过程中会用到哪些Bean生命周期的接口？","content_id":"2815111","title":"有赞Java后端一面面经"}
+{"qid":"q-864456050827612160-1","question":"Spring Bean的生命周期是怎样的？","content_id":"864456050827612160","title":"用友 JAVA开发 - 一面"}
+{"qid":"q-864456050827612160-2","question":"Spring Bean有哪些实例化方式？这些方式有什么区别？","content_id":"864456050827612160","title":"用友 JAVA开发 - 一面"}
+{"qid":"q-864456050827612160-3","question":"如何解决Spring循环依赖问题（A依赖B，B依赖A）？","content_id":"864456050827612160","title":"用友 JAVA开发 - 一面"}
+{"qid":"q-2814864-8","question":"业务中出现循环依赖如何解决","content_id":"2814864","title":"广州联奕科技Java后端实习一面"}
+{"qid":"q-2814166-0","question":"Spring Bean的生命周期是怎样的？有没有使用过相关的Hook？","content_id":"2814166","title":"某券商一面（Java社招）"}

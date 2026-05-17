@@ -14,3 +14,6 @@
 {"qid":"q-2748415-30","question":"如何使用channel实现两个goroutine交替打印数字和字母？","content_id":"2748415","title":"百度后端日常一面"}
 {"qid":"q-2735282-4","question":"Go channel的阻塞与非阻塞模式","content_id":"2735282","title":"回旋加速 golang后端一面 11.4"}
 {"qid":"q-2687055-4","question":"goroutine在for循环时开启比较好，还是先开启goroutine在Channel中等待for的结果比较好？两者有什么差别？","content_id":"2687055","title":"字节-生活服务-后端实习-一面"}
+{"qid":"q-2814392-5","question":"Go中channel的实现原理","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}
+{"qid":"q-2814392-6","question":"Go中channel的哪些操作会导致panic","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}
+{"qid":"q-2814182-2","question":"两个协程交叉输出字母和数字的并发实现，涉及channel定义与单向channel","content_id":"2814182","title":"小红书一面凉经"}

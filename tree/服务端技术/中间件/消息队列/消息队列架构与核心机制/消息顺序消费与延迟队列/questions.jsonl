@@ -17,3 +17,11 @@
 {"qid":"q-2535115-2","question":"RocketMQ延时队列的原理是什么","content_id":"2535115","title":"腾讯实习基地一面凉经"}
 {"qid":"q-2535115-3","question":"消息顺序性怎么保证","content_id":"2535115","title":"腾讯实习基地一面凉经"}
 {"qid":"q-2529763-9","question":"RocketMQ怎么保证消息的顺序？","content_id":"2529763","title":"拼多多服务端开发面经二面"}
+{"qid":"q-2501517-14","question":"RabbitMQ消息顺序性","content_id":"2501517","title":"java后端日常实习面经"}
+{"qid":"q-2455681-6","question":"说说rabbitmq有延时消息的能力嘛？","content_id":"2455681","title":"快手 后端开发 日常实习一面面经"}
+{"qid":"q-2455681-7","question":"了解过基于时间轮这种数据结构实现延时消息嘛，分时间片执行延时任务？","content_id":"2455681","title":"快手 后端开发 日常实习一面面经"}
+{"qid":"q-865677305912311808-2","question":"假设有大量评论需要按顺序归档打包成顺序消息，但消费端消费不过来，该如何处理","content_id":"865677305912311808","title":"字节跳动Tiktok后端一面凉经"}
+{"qid":"q-2817378-3","question":"如果一个 Topic 下有两个分区，怎么确保消息一直只发送到指定的某个分区","content_id":"2817378","title":"北京东华原医疗 Java 一面"}
+{"qid":"q-2814531-12","question":"10分钟自动关单如何实现？","content_id":"2814531","title":"JDS京东健康26校招微凉"}
+{"qid":"q-2814388-3","question":"RocketMQ的顺序性如何保证","content_id":"2814388","title":"春招Java后端开发 滴滴平台技术一二三面"}
+{"qid":"q-2814388-4","question":"如果要求三个队列要按ABC顺序执行该怎么办","content_id":"2814388","title":"春招Java后端开发 滴滴平台技术一二三面"}

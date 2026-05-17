@@ -63,3 +63,11 @@
 {"qid":"q-2534483-19","question":"TCP 三次握手和四次挥手的过程","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
 {"qid":"q-2534483-20","question":"为什么是三次握手而不是两次或四次","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
 {"qid":"q-2523761-1","question":"TCP 四次挥手的过程","content_id":"2523761","title":"饿了么面经"}
+{"qid":"q-2502784-2","question":"TCP三次握手的过程是怎样的？","content_id":"2502784","title":"腾讯云智-后台开发-地图-一,二面经"}
+{"qid":"q-2475248-9","question":"TCP的三次握手和四次挥手","content_id":"2475248","title":"同程旅行JAVA校招二面"}
+{"qid":"q-2445927-6","question":"TCP三次握手过程是怎样的？如何解决丢包问题？","content_id":"2445927","title":"哈啰 Java后端开发 一面面经"}
+{"qid":"q-2446756-0","question":"TCP 三次握手和四次挥手的过程是什么？","content_id":"2446756","title":"用友金融 实习 JAVA"}
+{"qid":"q-2817544-7","question":"讲讲四次挥手和TIME_WAIT的作用","content_id":"2817544","title":"腾讯音乐商业化26春招后端一面"}
+{"qid":"q-2817712-0","question":"TCP连接建立过程为何是3次segment交互，而非4次？请详细说明四次握手合并为三次的核心原因。","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-2815096-9","question":"TCP三次握手和四次挥手的过程是怎样的？","content_id":"2815096","title":"腾讯CSIG后端开发日常实习一面面经"}
+{"qid":"q-2814748-12","question":"TCP三次握手和四次挥手的过程","content_id":"2814748","title":"得物2026春招 | 后端开发 | 面经 | Java面试"}

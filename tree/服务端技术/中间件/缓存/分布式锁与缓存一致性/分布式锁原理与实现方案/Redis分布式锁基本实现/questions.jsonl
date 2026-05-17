@@ -29,3 +29,17 @@
 {"qid":"q-2556417-14","question":"Redis实现分布式锁有哪些方案？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
 {"qid":"q-2543734-9","question":"Setnx以及如何续期","content_id":"2543734","title":"成都致远互联Java一面"}
 {"qid":"q-2538107-15","question":"用Redis命令实现分布式锁用什么命令","content_id":"2538107","title":"猿辅导后端开发一面———手撕十年脑血栓"}
+{"qid":"q-2518670-1","question":"Redisson分布式锁的实现原理是什么？为什么没有选用MySQL唯一索引做分布式锁？两者如何对比？","content_id":"2518670","title":"字节日常实习凉经"}
+{"qid":"q-2515212-11","question":"Redis如何实现分布式锁","content_id":"2515212","title":"飞书 后端日常实习 字节一面面经"}
+{"qid":"q-2501517-3","question":"Redis分布式锁原理","content_id":"2501517","title":"java后端日常实习面经"}
+{"qid":"q-2477745-5","question":"如何实现分布式锁？除了Redis和Redisson还有其他方法吗？","content_id":"2477745","title":"蚂蚁开发面经"}
+{"qid":"q-2475261-7","question":"你是如何使用分布式锁的","content_id":"2475261","title":"掌上先机JAVA后端开发一面"}
+{"qid":"q-2456353-6","question":"分布式锁的原理是什么？","content_id":"2456353","title":"小红书Java日常实习电商商家一面"}
+{"qid":"q-2455678-21","question":"怎么用redis实习一个分布式锁","content_id":"2455678","title":"货拉拉 后端开发 日常实习二面面经"}
+{"qid":"q-2457191-3","question":"redis如何设计分布式锁","content_id":"2457191","title":"10.11 58后端开发一面"}
+{"qid":"q-2455681-8","question":"说说redis锁的底层实现。","content_id":"2455681","title":"快手 后端开发 日常实习一面面经"}
+{"qid":"q-2426218-3","question":"Redis分布式锁的基本实现原理","content_id":"2426218","title":"滴滴正式批一面凉经"}
+{"qid":"q-2817544-9","question":"如何使用Redis实现一个简易的分布式锁？","content_id":"2817544","title":"腾讯音乐商业化26春招后端一面"}
+{"qid":"q-2816849-0","question":"Redis 分布式锁具体是怎么实现的？","content_id":"2816849","title":"浙健体检Java后端开发一面--已约2面"}
+{"qid":"q-2816577-10","question":"Redis如何实现分布式锁？请求非常多时可能有什么问题？","content_id":"2816577","title":"百度外包一面凉经"}
+{"qid":"q-2814400-11","question":"Redis分布式锁的底层实现原理","content_id":"2814400","title":"快手-后端开发日常实习-研发效能部(二面)"}

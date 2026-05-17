@@ -11,3 +11,6 @@
 {"qid":"q-2619252-4","question":"如果让你实现一个消息队列，你会怎么设计？","content_id":"2619252","title":"6.16 字节跳动生活服务后端实习三面记录"}
 {"qid":"q-2585832-3","question":"影响消息队列性能的主要因素以及如何提升性能？","content_id":"2585832","title":"字节跳动-日常实习-后端开发一面"}
 {"qid":"q-2561318-10","question":"RocketMQ底层原理","content_id":"2561318","title":"3.19字节后端一面(已过)"}
+{"qid":"q-2817378-1","question":"分区和副本在 Kafka 中有什么区别","content_id":"2817378","title":"北京东华原医疗 Java 一面"}
+{"qid":"q-2815111-3","question":"项目中用过RocketMQ的哪些特性？","content_id":"2815111","title":"有赞Java后端一面面经"}
+{"qid":"q-2814388-10","question":"RocketMQ底层原理有哪些组件","content_id":"2814388","title":"春招Java后端开发 滴滴平台技术一二三面"}

@@ -3,3 +3,5 @@
 {"qid":"q-2764101-2","question":"Go语言中defer关键字是否会影响return的值？","content_id":"2764101","title":"golang开发工程师"}
 {"qid":"q-2748415-31","question":"defer的使用场景是什么？defer file.Close()应该放在哪里？","content_id":"2748415","title":"百度后端日常一面"}
 {"qid":"q-2661686-4","question":"Go 中多个 defer 语句的执行顺序是怎样的？","content_id":"2661686","title":"某二线城市小厂golang面经."}
+{"qid":"q-2815096-12","question":"Defer是用来干什么的？","content_id":"2815096","title":"腾讯CSIG后端开发日常实习一面面经"}
+{"qid":"q-2814182-1","question":"Go语言中 defer func() 与 defer func{}() 的区别","content_id":"2814182","title":"小红书一面凉经"}

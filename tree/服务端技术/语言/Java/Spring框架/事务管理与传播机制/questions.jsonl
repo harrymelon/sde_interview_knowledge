@@ -1,0 +1,16 @@
+{"qid":"q-2617839-7","question":"Spring事务传播行为有几种？为什么要有事务传播行为？","content_id":"2617839","title":"6.12 字节跳动生活服务后端实习二面记录"}
+{"qid":"q-2615328-11","question":"Spring事务是怎样的？","content_id":"2615328","title":"上海汉得信息Java面经"}
+{"qid":"q-2615328-12","question":"事务的传播级别有哪些？","content_id":"2615328","title":"上海汉得信息Java面经"}
+{"qid":"q-2613716-3","question":"Spring事务传播行为","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2580222-6","question":"Spring管理事务的方式有哪些？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580222-7","question":"Spring事务中哪些事务传播行为？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580222-8","question":"@Transactional的实现原理？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2569981-25","question":"什么情况下会使用事务？如何使用事务？编程式事务和声明式事务的区别","content_id":"2569981","title":"四非本 滴滴-后端实习面经(已OC)"}
+{"qid":"q-2569981-26","question":"注解式事务如何回滚？你一般怎么设置回滚的异常","content_id":"2569981","title":"四非本 滴滴-后端实习面经(已OC)"}
+{"qid":"q-2571174-12","question":"Spring的默认隔离级别和事务传播行为","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2571174-13","question":"Spring事务失效的场景有哪些","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2559940-6","question":"嵌套@Transactional会有什么问题？","content_id":"2559940","title":"蓝色外卖软件一面，1h无手撕，嘴都说冒烟了（一周后约了二面）"}
+{"qid":"q-2556417-1","question":"Spring的事务传播机制是什么？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
+{"qid":"q-2551829-5","question":"spring事物","content_id":"2551829","title":"虎牙 后端 春招一面"}
+{"qid":"q-2542188-3","question":"Spring事务原理及默认事务传播级别是什么","content_id":"2542188","title":"字节算力基础一面"}
+{"qid":"q-2542188-11","question":"Spring事务失效的原理是什么","content_id":"2542188","title":"字节算力基础一面"}

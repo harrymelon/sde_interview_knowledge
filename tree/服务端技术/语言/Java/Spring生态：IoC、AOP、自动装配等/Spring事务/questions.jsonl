@@ -15,3 +15,10 @@
 {"qid":"q-2777328-21","question":"在A方法上调用B方法，B方法上使用了@transaction注解，B中的事务会生效吗？","content_id":"2777328","title":"快手Java日常实习一面"}
 {"qid":"q-2778820-4","question":"Spring的事务和事务失效情况有哪些？","content_id":"2778820","title":"汉得信息已offer一面面经分享"}
 {"qid":"q-2710521-3","question":"在同一个类中，事务方法A调用事务方法B，事务是否会生效？为什么？如果不生效怎么才能生效？","content_id":"2710521","title":"联友科技（武汉）Java一面"}
+{"qid":"q-2502784-8","question":"@Transactional的失效场景和事务传播方式有哪些？","content_id":"2502784","title":"腾讯云智-后台开发-地图-一,二面经"}
+{"qid":"q-2501517-28","question":"Spring事务管理与自定义事务实现","content_id":"2501517","title":"java后端日常实习面经"}
+{"qid":"q-2455678-14","question":"spring事物的传播机制","content_id":"2455678","title":"货拉拉 后端开发 日常实习二面面经"}
+{"qid":"q-2455681-11","question":"在spring中，有两个方法，public void a(){ b(); }, @Transaction public void b(),为什么最后a方法调用b，transaction没有生效？","content_id":"2455681","title":"快手 后端开发 日常实习一面面经"}
+{"qid":"q-864998819736387584-11","question":"讲讲事务传播机制","content_id":"864998819736387584","title":"顺丰java一面"}
+{"qid":"q-864721402140639232-1","question":"Spring 事务失效的场景有哪些？","content_id":"864721402140639232","title":"27届java小厂面试   面经"}
+{"qid":"q-864721402140639232-2","question":"Spring 事务的实现原理是什么？","content_id":"864721402140639232","title":"27届java小厂面试   面经"}
