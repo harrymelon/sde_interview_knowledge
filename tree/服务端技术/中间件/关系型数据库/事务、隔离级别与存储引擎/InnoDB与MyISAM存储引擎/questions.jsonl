@@ -9,3 +9,11 @@
 {"qid":"q-2777776-1","question":"MySQL数据库引擎有了解过吗？","content_id":"2777776","title":"广州小厂java开发实习技术面面经"}
 {"qid":"q-2777776-2","question":"MySQL旧版本引擎和新版本引擎的对比","content_id":"2777776","title":"广州小厂java开发实习技术面面经"}
 {"qid":"q-2700255-6","question":"请介绍一下MySQL的存储引擎","content_id":"2700255","title":"招银云创Java开发一面（30min）"}
+{"qid":"q-2616139-8","question":"Buffer Pool有哪些区域，分别是干什么的？","content_id":"2616139","title":"6.9 字节跳动生活服后端实习一面记录"}
+{"qid":"q-2616139-9","question":"Buffer Pool有什么机制能够保证不会因为一次大查询把所有的数据都替换掉？","content_id":"2616139","title":"6.9 字节跳动生活服后端实习一面记录"}
+{"qid":"q-2598399-0","question":"说一下MySQL中不同存储引擎（如InnoDB与MyISAM）的区别是什么？","content_id":"2598399","title":"腾讯TEG部门一面"}
+{"qid":"q-2598999-10","question":"MySQL的引擎分类有哪些？","content_id":"2598999","title":""}
+{"qid":"q-2583726-1","question":"InnoDB 插入一条数据的存储过程是怎样的？","content_id":"2583726","title":"pdd服务器二面，"}
+{"qid":"q-2534483-3","question":"MySQL 的存储引擎有哪些，各自特点是什么","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
+{"qid":"q-2534483-4","question":"项目中使用了哪种MySQL存储引擎，为什么","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
+{"qid":"q-2530782-13","question":"你数据库的引擎用的是哪个？","content_id":"2530782","title":"快看漫画-Java后端开发实习生OC"}

@@ -17,3 +17,8 @@
 {"qid":"q-2680728-3","question":"Redis的淘汰策略有哪些？","content_id":"2680728","title":"滴滴正式批:"}
 {"qid":"q-2680728-4","question":"Redis怎么实现淘汰策略的？懒加载+字典那个","content_id":"2680728","title":"滴滴正式批:"}
 {"qid":"q-2675321-6","question":"Redis EXPIRE的工作原理是怎样的？","content_id":"2675321","title":"秋招小红书后端凉经（社区技术）"}
+{"qid":"q-2613716-14","question":"Redis内存淘汰策略与删除策略","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2587856-13","question":"Redis过期key的删除策略有哪些？","content_id":"2587856","title":"快手Java暑期实习一面"}
+{"qid":"q-2542188-8","question":"Redis内存淘汰机制有哪些","content_id":"2542188","title":"字节算力基础一面"}
+{"qid":"q-2529744-12","question":"Redis的过期数据删除策略和内存淘汰策略是什么","content_id":"2529744","title":"拼多多服务端开发面经一面"}
+{"qid":"q-2527891-9","question":"Redis删除过期key有哪些策略？请详细说明","content_id":"2527891","title":"第一次面试记录 - Java实习岗"}

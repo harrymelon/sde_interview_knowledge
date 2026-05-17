@@ -23,3 +23,14 @@
 {"qid":"q-2666306-6","question":"简述PostgreSQL的使用场景","content_id":"2666306","title":"美团 后端 一面"}
 {"qid":"q-2666306-9","question":"PostgreSQL 与 MySQL 在底层实现或功能扩展上有什么区别？","content_id":"2666306","title":"美团 后端 一面"}
 {"qid":"q-2666306-10","question":"时序数据库与普通关系型数据库在需求上有哪些不同？","content_id":"2666306","title":"美团 后端 一面"}
+{"qid":"q-2615510-11","question":"了解笛卡尔积吗，一般什么情况下会产生笛卡尔积？","content_id":"2615510","title":"26民本 亚信万联-java实习 面试"}
+{"qid":"q-2604061-2","question":"数据是写到mysql表还是hive表","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2583709-19","question":"数据库综合知识点：索引、事务、锁、三大日志、主从复制、性能调优","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2580222-19","question":"SQL和noSQL的优缺点分别是什么？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2574038-5","question":"MySQL 单表最大行数","content_id":"2574038","title":"阿里云一二三面时间线+面经"}
+{"qid":"q-2556133-24","question":"关系表的“关系”是什么？","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2556133-25","question":"数据库三范式","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2541224-2","question":"数据库中的密码应该怎样存储？","content_id":"2541224","title":"杭州产链数字科技二面"}
+{"qid":"q-2538107-1","question":"介绍一下MySQL","content_id":"2538107","title":"猿辅导后端开发一面———手撕十年脑血栓"}
+{"qid":"q-2534483-5","question":"MySQL 注入如何防御","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
+{"qid":"q-2531587-20","question":"HBase、PostgreSQL、MySQL、Redis的区别是什么？","content_id":"2531587","title":"腾讯hr部门二面"}

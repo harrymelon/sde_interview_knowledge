@@ -1,0 +1,27 @@
+{"qid":"q-2637442-0","question":"nginx负载均衡中不同配置的机器权重如何设置？","content_id":"2637442","title":"7.18字节后端开发 生活服务实习一面"}
+{"qid":"q-2551170-6","question":"Nginx如何监听不同的端口？","content_id":"2551170","title":"卓望数码 3.10 Java一面"}
+{"qid":"q-2587804-1","question":"ClickHouse的原理和应用场景是什么？","content_id":"2587804","title":"腾讯云智后台开发暑期二面"}
+{"qid":"q-2587804-4","question":"什么是CSRF攻击？如何防范？","content_id":"2587804","title":"腾讯云智后台开发暑期二面"}
+{"qid":"q-2587804-5","question":"什么是XSS攻击？如何防范？","content_id":"2587804","title":"腾讯云智后台开发暑期二面"}
+{"qid":"q-2554077-7","question":"什么是CSRF攻击？","content_id":"2554077","title":"字节后端实习面经+TL"}
+{"qid":"q-2579528-3","question":"ES和ClickHouse有什么区别？","content_id":"2579528","title":"万物心选二面（40min）"}
+{"qid":"q-2580222-23","question":"除了Redis还有哪些noSQL？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580222-24","question":"Mongodb是什么？优缺点？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2542981-24","question":"需求频繁变化时考虑使用MongoDB的适用场景","content_id":"2542981","title":"滴滴日常后端一二面面经（排序ing）"}
+{"qid":"q-2542981-25","question":"Cassandra与MongoDB在存储文本时的选型对比","content_id":"2542981","title":"滴滴日常后端一二面面经（排序ing）"}
+{"qid":"q-2544745-2","question":"HDFS默认数据块大小是多少？","content_id":"2544745","title":"宁波银行 测评"}
+{"qid":"q-2544745-3","question":"HDFS的写流程和读流程是怎样的？","content_id":"2544745","title":"宁波银行 测评"}
+{"qid":"q-2553032-6","question":"Protocol Buffer 是什么？","content_id":"2553032","title":"腾讯一面 QQ后台开发"}
+{"qid":"q-2527713-11","question":"短链接生成时使用哪种Hash算法？为什么？","content_id":"2527713","title":"Akulaku Java实习面经"}
+{"qid":"q-2560502-10","question":"兑换码生成的一些细节（为什么使用base32，怎么生成的等）","content_id":"2560502","title":"万得后端暑期一面（目前HR面）"}
+{"qid":"q-2556417-18","question":"OCR怎么使用的？云厂商还是其他第三方库？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
+{"qid":"q-2560003-0","question":"用户该上传什么样的代码，如何处理数据","content_id":"2560003","title":"拼多多服务端一面面经，全程项目"}
+{"qid":"q-2560003-1","question":"在项目中，对WebSocket是怎么理解的？","content_id":"2560003","title":"拼多多服务端一面面经，全程项目"}
+{"qid":"q-2560003-2","question":"为什么选择WebSocket，对比其他实现长连接协议，为什么选择WebSocket？","content_id":"2560003","title":"拼多多服务端一面面经，全程项目"}
+{"qid":"q-2560003-4","question":"只能用代码操作贪吃蛇吗？","content_id":"2560003","title":"拼多多服务端一面面经，全程项目"}
+{"qid":"q-2560003-5","question":"如何实现用户操作贪吃蛇？","content_id":"2560003","title":"拼多多服务端一面面经，全程项目"}
+{"qid":"q-2571174-31","question":"如何实现安卓客户端贪吃蛇游戏","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2585832-9","question":"大文件处理","content_id":"2585832","title":"字节跳动-日常实习-后端开发一面"}
+{"qid":"q-2572149-0","question":"VSCode上传和下载插件的整个流程是什么？","content_id":"2572149","title":"处女面（一面凉经）"}
+{"qid":"q-2572149-1","question":"讲一讲汇编语言","content_id":"2572149","title":"处女面（一面凉经）"}
+{"qid":"q-2572149-3","question":"VSCode上传和下载插件的形式是怎样的（可执行文件还是链接文件？）","content_id":"2572149","title":"处女面（一面凉经）"}

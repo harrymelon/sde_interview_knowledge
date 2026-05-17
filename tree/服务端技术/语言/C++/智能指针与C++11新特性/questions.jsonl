@@ -1,0 +1,13 @@
+{"qid":"q-2553032-3","question":"内存泄露是什么，如何查找和避免？","content_id":"2553032","title":"腾讯一面 QQ后台开发"}
+{"qid":"q-2553032-4","question":"智能指针的实现原理是什么？","content_id":"2553032","title":"腾讯一面 QQ后台开发"}
+{"qid":"q-2553032-7","question":"C++程序堆栈大小是多少？受哪些因素影响？","content_id":"2553032","title":"腾讯一面 QQ后台开发"}
+{"qid":"q-2567838-9","question":"移动语义是什么？","content_id":"2567838","title":"灵犀互娱-日常实习-服务器开发- 一面二面hr面（已OC）"}
+{"qid":"q-2577388-4","question":"shared_ptr和unique_ptr有什么区别？","content_id":"2577388","title":"腾讯云暑期实习一面"}
+{"qid":"q-2599670-5","question":"智能指针是什么，怎么实现的，有什么用","content_id":"2599670","title":"字节日常实习后端三面"}
+{"qid":"q-2611407-3","question":"智能指针相关：手撕 unique_ptr","content_id":"2611407","title":"腾讯 cdg 后台开发 一面面经"}
+{"qid":"q-2611407-4","question":"std::move 的底层实现","content_id":"2611407","title":"腾讯 cdg 后台开发 一面面经"}
+{"qid":"q-2611407-5","question":"如何在代码中一眼判断左值和右值","content_id":"2611407","title":"腾讯 cdg 后台开发 一面面经"}
+{"qid":"q-2650793-1","question":"智能指针unique_ptr和shared_ptr的应用场景与线程安全问题","content_id":"2650793","title":"华为C++研发工程师面经​​"}
+{"qid":"q-2650793-2","question":"C++11新特性如何提升代码效率？","content_id":"2650793","title":"华为C++研发工程师面经​​"}
+{"qid":"q-2650793-5","question":"内存泄漏的排查工具和方法有哪些？","content_id":"2650793","title":"华为C++研发工程师面经​​"}
+{"qid":"q-2650793-7","question":"placement new的使用场景及内存分配约束是什么？","content_id":"2650793","title":"华为C++研发工程师面经​​"}

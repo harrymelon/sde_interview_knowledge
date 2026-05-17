@@ -9,3 +9,14 @@
 {"qid":"q-2791575-4","question":"百度关键词命中系统的400个实例加载的内容是否一致？","content_id":"2791575","title":"【Zuvi原里-全栈开发工程师-一面】技术面经"}
 {"qid":"q-2686860-6","question":"分布式系统如何解决并发冲突（乐观锁、分布式锁）","content_id":"2686860","title":"腾讯后端一面凉经"}
 {"qid":"q-2661686-1","question":"一致性哈希删除节点时如何处理数据迁移？","content_id":"2661686","title":"某二线城市小厂golang面经."}
+{"qid":"q-2579680-5","question":"分布式事务中的2PC、3PC和Raft协议","content_id":"2579680","title":"蚂蚁KPI一面"}
+{"qid":"q-2579680-6","question":"Raft协议在网络分区故障情况下如何处理","content_id":"2579680","title":"蚂蚁KPI一面"}
+{"qid":"q-2571174-18","question":"ZooKeeper如何实现分布式锁","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2534920-13","question":"Raft协议如何保证C/S架构的可靠通信","content_id":"2534920","title":"腾讯一二面泡池子（已 offer）"}
+{"qid":"q-2534920-14","question":"Raft协议如何预防脑裂导致分区不一致","content_id":"2534920","title":"腾讯一二面泡池子（已 offer）"}
+{"qid":"q-2534920-22","question":"分布式集群如何建立一个全局时钟（Paxos算法）","content_id":"2534920","title":"腾讯一二面泡池子（已 offer）"}
+{"qid":"q-2529653-3","question":"JVM的分布式锁","content_id":"2529653","title":"中国移动卓望公司 java开发-广州 一面"}
+{"qid":"q-2529766-2","question":"ZooKeeper的作用是什么？核心原理是什么？","content_id":"2529766","title":"拼多多服务端开发面经三面"}
+{"qid":"q-2529766-8","question":"Raft协议和Paxos协议的原理是什么？","content_id":"2529766","title":"拼多多服务端开发面经三面"}
+{"qid":"q-2529766-9","question":"有哪些框架或技术使用了Raft协议？","content_id":"2529766","title":"拼多多服务端开发面经三面"}
+{"qid":"q-2528555-7","question":"如何实现一个分布式锁？","content_id":"2528555","title":"java小厂（0-20人）实习 一面面经（已oc"}

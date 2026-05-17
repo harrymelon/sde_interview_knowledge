@@ -8,3 +8,12 @@
 {"qid":"q-2693075-6","question":"HTTP/0 分别有什么优化","content_id":"2693075","title":"美团后端面经（意向）"}
 {"qid":"q-2778133-13","question":"HTTP协议转化指的是什么","content_id":"2778133","title":"小米后端开发一面-27实习面经"}
 {"qid":"q-2667439-7","question":"长连接和短连接有什么区别？","content_id":"2667439","title":"字节后端8.22二面"}
+{"qid":"q-2613716-38","question":"HTTP/2与HTTP/3的区别","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2613716-39","question":"HTTP/3的头部压缩算法","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2613716-40","question":"HTTP如何实现长连接","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2579528-8","question":"SSE的使用场景是什么？WebSocket和SSE的区别是什么？","content_id":"2579528","title":"万物心选二面（40min）"}
+{"qid":"q-2542926-9","question":"你了解 HTTP/2 吗？为什么后端开发要使用 HTTP/2？它的性能优势是什么？","content_id":"2542926","title":"腾讯会议部门 一面凉经"}
+{"qid":"q-2542926-10","question":"HTTP/2 的多路复用一条 TCP 和 HTTP/1.1 使用多个 TCP 连接方式，哪个性能更好？","content_id":"2542926","title":"腾讯会议部门 一面凉经"}
+{"qid":"q-2542926-11","question":"HTTP/2 在同一个 TCP 连接使用同一个拥塞控制算法？HTTP/1.1 在不同 TCP 连接是否使用同一个拥塞控制算法？","content_id":"2542926","title":"腾讯会议部门 一面凉经"}
+{"qid":"q-2530782-5","question":"HTTP/2相比HTTP/1有哪些优化？","content_id":"2530782","title":"快看漫画-Java后端开发实习生OC"}
+{"qid":"q-2530782-6","question":"HTTP/2服务器推送是如何实现的？","content_id":"2530782","title":"快看漫画-Java后端开发实习生OC"}

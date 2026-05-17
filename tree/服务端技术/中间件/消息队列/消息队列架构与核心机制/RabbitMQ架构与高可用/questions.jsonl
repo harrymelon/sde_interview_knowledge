@@ -3,3 +3,5 @@
 {"qid":"q-2788865-8","question":"仲裁模式下RabbitMQ的消费组如何工作","content_id":"2788865","title":"字节日常实习二面"}
 {"qid":"q-2787532-13","question":"RabbitMQ如何保证高可用和可靠性？","content_id":"2787532","title":"字节日常实习一面"}
 {"qid":"q-2778372-9","question":"RabbitMQ延迟队列怎么实现","content_id":"2778372","title":"滴滴后端开发 26校招 二面"}
+{"qid":"q-2652059-2","question":"为何RabbitMQ能支撑5k吞吐量，而普通业务系统做不到？","content_id":"2652059","title":"飞猪暑期实习一面"}
+{"qid":"q-2585832-2","question":"RabbitMQ消费者轮询机制介绍","content_id":"2585832","title":"字节跳动-日常实习-后端开发一面"}

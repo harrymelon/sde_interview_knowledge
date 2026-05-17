@@ -43,3 +43,21 @@
 {"qid":"q-2675321-5","question":"Redis String底层结构是什么，为什么这样设计？","content_id":"2675321","title":"秋招小红书后端凉经（社区技术）"}
 {"qid":"q-2674944-9","question":"Redis中的SDS是什么？","content_id":"2674944","title":"虾皮秋招一面"}
 {"qid":"q-2671794-2","question":"Redis的zset底层结构是什么？","content_id":"2671794","title":"秋招快手一面Java开发工程师凉经"}
+{"qid":"q-2654905-1","question":"Redis哈希扩容的过程是怎样的？","content_id":"2654905","title":"字节生服后端一面"}
+{"qid":"q-2654905-2","question":"Redis扩容过程中如果有大量写操作怎么办？","content_id":"2654905","title":"字节生服后端一面"}
+{"qid":"q-2642429-5","question":"Zset底层实现是什么？为什么用跳表？跳表底层实现？与其他数据结构相比有什么优势？","content_id":"2642429","title":"字节懂车帝 后端实习一面"}
+{"qid":"q-2601773-5","question":"Zset底层实现及跳表原理","content_id":"2601773","title":"5月12日 字节一面（后端开发-财经业务）-——50分钟左右"}
+{"qid":"q-2598999-1","question":"Redis的SDS结构是什么？","content_id":"2598999","title":""}
+{"qid":"q-2598999-2","question":"Redis跳表的原理和数据结构是什么？","content_id":"2598999","title":""}
+{"qid":"q-2593511-11","question":"Redis GEO的底层实现了解吗？","content_id":"2593511","title":"美团一面"}
+{"qid":"q-2587856-12","question":"Redis ZSet（有序集合）的底层实现原理是什么？","content_id":"2587856","title":"快手Java暑期实习一面"}
+{"qid":"q-2568004-5","question":"Redis的zset底层数据结构是什么？","content_id":"2568004","title":"3.27vivo一面凉经"}
+{"qid":"q-2558131-9","question":"Redis中的zset（有序集合）是怎么实现的","content_id":"2558131","title":"字节后端开发一面面经"}
+{"qid":"q-2555330-10","question":"Redis有哪些底层的数据结构","content_id":"2555330","title":"好未来Golang 一面"}
+{"qid":"q-2555330-11","question":"String的实现SDS，跳表的实现原理，和平衡树、红黑树、B+树的对比","content_id":"2555330","title":"好未来Golang 一面"}
+{"qid":"q-2550714-1","question":"Redis常用数据结构有哪些","content_id":"2550714","title":"腾讯 微信支付一面"}
+{"qid":"q-2545555-3","question":"Redis有哪些数据结构，底层实现是什么（如ziplist和quicklist）","content_id":"2545555","title":"淘天集团-业务技术一面凉经"}
+{"qid":"q-2534920-19","question":"在内存中存放大量数据，什么样的数据结构最高效","content_id":"2534920","title":"腾讯一二面泡池子（已 offer）"}
+{"qid":"q-2529763-8","question":"Redis读的时候怎么快速定位到数据？","content_id":"2529763","title":"拼多多服务端开发面经二面"}
+{"qid":"q-2527713-9","question":"Redis String的底层数据结构是什么？","content_id":"2527713","title":"Akulaku Java实习面经"}
+{"qid":"q-2527713-10","question":"Redis Zset的底层数据结构是什么？","content_id":"2527713","title":"Akulaku Java实习面经"}

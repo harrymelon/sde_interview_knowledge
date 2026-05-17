@@ -12,3 +12,7 @@
 {"qid":"q-2735282-13","question":"消息队列如何解决重复消费问题？","content_id":"2735282","title":"回旋加速 golang后端一面 11.4"}
 {"qid":"q-2701437-17","question":"Kafka如何保证至少一次语义？","content_id":"2701437","title":"快手-商业化JAVA一面"}
 {"qid":"q-2661686-2","question":"Kafka 如何保证消息可靠性，如何处理确认消费和重复消费问题？","content_id":"2661686","title":"某二线城市小厂golang面经."}
+{"qid":"q-2619252-1","question":"消息重复的原因以及如何保证消息不重复？","content_id":"2619252","title":"6.16 字节跳动生活服务后端实习三面记录"}
+{"qid":"q-2619815-9","question":"消息队列如何处理重复消费（幂等性）？","content_id":"2619815","title":"字节一面秒挂版"}
+{"qid":"q-2604061-22","question":"怎么防止RocketMQ消息重复消费","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2593546-19","question":"消息幂等如何处理？","content_id":"2593546","title":"Shopee一面（已凉）"}

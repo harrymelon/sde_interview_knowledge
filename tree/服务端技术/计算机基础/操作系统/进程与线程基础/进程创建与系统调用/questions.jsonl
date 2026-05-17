@@ -3,3 +3,7 @@
 {"qid":"q-2694536-3","question":"进程初始化时会分配哪些资源","content_id":"2694536","title":"小红书电商一面"}
 {"qid":"q-2680611-24","question":"进程初始化时操作系统做了什么？","content_id":"2680611","title":"影石C++一面"}
 {"qid":"q-2712774-6","question":"Linux系统调用指令的分类与使用","content_id":"2712774","title":"经纬恒润一面c++"}
+{"qid":"q-2572954-12","question":"父进程已经加锁，fork子进程后子进程能否访问该锁？","content_id":"2572954","title":"腾讯WXG一面凉经"}
+{"qid":"q-2572149-4","question":"Linux中对一个文件运行的全过程是什么？","content_id":"2572149","title":"处女面（一面凉经）"}
+{"qid":"q-2542981-10","question":"系统调用的原理","content_id":"2542981","title":"滴滴日常后端一二面面经（排序ing）"}
+{"qid":"q-2529766-3","question":"有哪些常见的Linux系统调用？","content_id":"2529766","title":"拼多多服务端开发面经三面"}

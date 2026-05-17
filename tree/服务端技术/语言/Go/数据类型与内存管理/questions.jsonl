@@ -1,0 +1,15 @@
+{"qid":"q-2659324-4","question":"Go GC 使用的什么算法？三色标记法中黑色对象是干嘛的？","content_id":"2659324","title":"百度文库一面"}
+{"qid":"q-2659324-5","question":"Go slice 扩容机制是怎样的？扩容时直接重新分配新数组吗？","content_id":"2659324","title":"百度文库一面"}
+{"qid":"q-2659324-6","question":"Go map 是线程安全的吗？有哪些保证线程安全的方法？有没有封装好的包？","content_id":"2659324","title":"百度文库一面"}
+{"qid":"q-2632969-1","question":"Go 中引用类型有哪些？为什么通过引用类型修改参数会影响到源数据？","content_id":"2632969","title":"字节go后台社招一面"}
+{"qid":"q-2621931-7","question":"Go值传递与指针传递","content_id":"2621931","title":"百度后端二面"}
+{"qid":"q-2619211-5","question":"Go中的Map与切片(Slice)的区别","content_id":"2619211","title":"腾讯ieg后端面经"}
+{"qid":"q-2619211-8","question":"Go中Slice与Array的区别","content_id":"2619211","title":"腾讯ieg后端面经"}
+{"qid":"q-2619211-13","question":"Go中的指针传递与值传递分别在什么时机使用？","content_id":"2619211","title":"腾讯ieg后端面经"}
+{"qid":"q-2618388-1","question":"Go与Java的区别是什么","content_id":"2618388","title":"博彦科技-go后端开发"}
+{"qid":"q-2618388-2","question":"切片和数组的区别是什么","content_id":"2618388","title":"博彦科技-go后端开发"}
+{"qid":"q-2618388-4","question":"Go内存泄漏的排查思路","content_id":"2618388","title":"博彦科技-go后端开发"}
+{"qid":"q-2598399-1","question":"Go语言和Java语言有哪些主要区别？","content_id":"2598399","title":"腾讯TEG部门一面"}
+{"qid":"q-2598399-2","question":"Go语言的导包方式（import机制）是怎样的？","content_id":"2598399","title":"腾讯TEG部门一面"}
+{"qid":"q-2546652-2","question":"Go的GC机制是什么，如何触发，主动和被动方式","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
+{"qid":"q-2546652-4","question":"Go中Map和sync.Map的区别，sync.Map如何实现并发安全","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}

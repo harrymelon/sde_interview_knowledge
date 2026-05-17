@@ -11,3 +11,7 @@
 {"qid":"q-2750435-3","question":"使用消息队列（MQ）的优点有哪些？","content_id":"2750435","title":"cider后端一面"}
 {"qid":"q-2750435-2","question":"为什么选择发送HTTP请求而不是使用MQ消息？","content_id":"2750435","title":"cider后端一面"}
 {"qid":"q-2777399-8","question":"除了异步和削峰，使用MQ还有什么考量？","content_id":"2777399","title":"美团Java后端开发实习一面"}
+{"qid":"q-2642429-18","question":"用过哪些消息队列？请介绍一下","content_id":"2642429","title":"字节懂车帝 后端实习一面"}
+{"qid":"q-2618388-9","question":"消息队列的基本概念与作用","content_id":"2618388","title":"博彦科技-go后端开发"}
+{"qid":"q-2538107-0","question":"介绍一种你了解的消息队列","content_id":"2538107","title":"猿辅导后端开发一面———手撕十年脑血栓"}
+{"qid":"q-2527713-8","question":"RabbitMQ的消息模型有哪些？","content_id":"2527713","title":"Akulaku Java实习面经"}

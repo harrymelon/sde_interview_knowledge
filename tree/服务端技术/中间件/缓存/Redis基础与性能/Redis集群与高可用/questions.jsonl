@@ -20,3 +20,14 @@
 {"qid":"q-2688469-13","question":"哨兵模式和集群模式的区别是什么","content_id":"2688469","title":"顺丰后端一面 9.11"}
 {"qid":"q-2675321-9","question":"Redis分片集群中某个节点容量不够如何扩容？扩容后数据迁移和hash变化是怎样的？","content_id":"2675321","title":"秋招小红书后端凉经（社区技术）"}
 {"qid":"q-2664677-3","question":"Redis主从同步和增量同步的机制是什么？是否存在数据不一致风险？","content_id":"2664677","title":"shopee 一面8.19"}
+{"qid":"q-2657904-2","question":"Redis集群添加新节点的流程","content_id":"2657904","title":"钉钉26秋招二面面经"}
+{"qid":"q-2637442-7","question":"Redis集群怎么部署？采用什么架构？","content_id":"2637442","title":"7.18字节后端开发 生活服务实习一面"}
+{"qid":"q-2592748-20","question":"讲一下Redis集群","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2592748-21","question":"详细讲一下哨兵模式，哨兵的作用是什么？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2592748-22","question":"了解Redis集群分片吗？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2578225-11","question":"如何保证Redis的高并发？","content_id":"2578225","title":"字节后端实习一面"}
+{"qid":"q-2554077-2","question":"Redis的分片机制是什么？","content_id":"2554077","title":"字节后端实习面经+TL"}
+{"qid":"q-2554077-3","question":"Redis的集群机制是什么？","content_id":"2554077","title":"字节后端实习面经+TL"}
+{"qid":"q-2550552-9","question":"Redis分布式怎么实现的，有什么特点，底层源码中调用了几次Redis自己的API？","content_id":"2550552","title":"26Java-杭州小厂-二面25min"}
+{"qid":"q-2542936-5","question":"Redis集群中用户请求访问一个key时，服务端和Redis实例之间是如何交互的？","content_id":"2542936","title":"字节财经 二面 压力面 被拷打烂了"}
+{"qid":"q-2529744-11","question":"Redis集群（如MT集群）的数据同步机制是什么","content_id":"2529744","title":"拼多多服务端开发面经一面"}

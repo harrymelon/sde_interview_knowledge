@@ -3,3 +3,22 @@
 {"qid":"q-2778153-15","question":"HTTP和HTTPS的区别与基本工作原理","content_id":"2778153","title":"滴滴后端开发一面-实习面经"}
 {"qid":"q-2735282-16","question":"HTTP与HTTPS的区别","content_id":"2735282","title":"回旋加速 golang后端一面 11.4"}
 {"qid":"q-2796208-9","question":"HTTP如何保证安全？跨域问题如何解决？","content_id":"2796208","title":"腾讯HR与管理线后台 实习 开发一面"}
+{"qid":"q-2604368-8","question":"HTTPS 如何建立连接，TLS 的整个过程；为什么要有不同版本的加密算法，这些不同版本的加密算法为了解决什么问题？","content_id":"2604368","title":"字节剪映后端开发一面凉经"}
+{"qid":"q-2613716-17","question":"TLS四次握手过程","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2613716-42","question":"常见的网络攻击方式","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2613716-44","question":"SQL注入是什么以及如何预防","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2592748-39","question":"HTTP是明文传输吗？HTTPS如何保证数据加密？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2592748-40","question":"讲一下CA证书校验的过程","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2591611-10","question":"TLS具体握手流程？如何实现双向通信的？","content_id":"2591611","title":"海康威视C++后端日常实习一二面（已oc）"}
+{"qid":"q-2591611-11","question":"数字签名是怎么实现的？","content_id":"2591611","title":"海康威视C++后端日常实习一二面（已oc）"}
+{"qid":"q-2591611-12","question":"对称加密算法知道哪些？","content_id":"2591611","title":"海康威视C++后端日常实习一二面（已oc）"}
+{"qid":"q-2587804-6","question":"HTTPS如何防止数据传输泄露？","content_id":"2587804","title":"腾讯云智后台开发暑期二面"}
+{"qid":"q-2579680-1","question":"HTTP和HTTPS的区别","content_id":"2579680","title":"蚂蚁KPI一面"}
+{"qid":"q-2569981-0","question":"HTTP和HTTPS有什么区别","content_id":"2569981","title":"四非本 滴滴-后端实习面经(已OC)"}
+{"qid":"q-2571174-17","question":"HTTPS的连接建立过程","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2564070-6","question":"HTTP和HTTPS协议的区别","content_id":"2564070","title":"腾讯QQ-日常实习-后台开发-一面凉经"}
+{"qid":"q-2555330-2","question":"怎么理解GET和POST的安全性（HTTPS如何确保安全）","content_id":"2555330","title":"好未来Golang 一面"}
+{"qid":"q-2538940-11","question":"HTTP 和 HTTPS 的区别？","content_id":"2538940","title":"京东零售 Java 二面"}
+{"qid":"q-2538940-12","question":"HTTPS 加密过程？","content_id":"2538940","title":"京东零售 Java 二面"}
+{"qid":"q-2538940-13","question":"为什么要用对称加密？","content_id":"2538940","title":"京东零售 Java 二面"}
+{"qid":"q-2529766-7","question":"HTTP和HTTPS有什么区别？","content_id":"2529766","title":"拼多多服务端开发面经三面"}

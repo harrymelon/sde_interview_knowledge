@@ -14,3 +14,4 @@
 {"qid":"q-2767088-3","question":"Kafka的rebalance机制持续时间较长会有什么影响，怎么解决","content_id":"2767088","title":"字节tiktok后端日常二面"}
 {"qid":"q-2767090-3","question":"Kafka出现消息消费lag（消费延迟、消息堆积）时，如何排查问题？怎么处理？","content_id":"2767090","title":"字节tiktok后端日常一面"}
 {"qid":"q-2701211-9","question":"通过MQ发送200万条数据，如何最快消费完？","content_id":"2701211","title":"网易云音乐java一面"}
+{"qid":"q-2593329-4","question":"消息积压的解决方案","content_id":"2593329","title":"26Java-领雁科技-20min"}

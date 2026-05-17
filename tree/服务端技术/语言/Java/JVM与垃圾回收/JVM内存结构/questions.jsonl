@@ -1,0 +1,19 @@
+{"qid":"q-2652059-4","question":"JVM内存结构包含哪些部分？","content_id":"2652059","title":"飞猪暑期实习一面"}
+{"qid":"q-2649352-1","question":"JVM内存区域包括哪些？","content_id":"2649352","title":"米哈游测试提前批"}
+{"qid":"q-2631595-0","question":"JVM的内存模型是什么？","content_id":"2631595","title":"袋鼠云java一面"}
+{"qid":"q-2631595-1","question":"堆外内存是什么？","content_id":"2631595","title":"袋鼠云java一面"}
+{"qid":"q-2652265-8","question":"JVM 的内存结构是怎样的？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2625808-9","question":"JVM内存结构","content_id":"2625808","title":"省流版阿里后台开发面经"}
+{"qid":"q-2606607-0","question":"JVM的结构是什么","content_id":"2606607","title":"05.20拼多多Java后端一面分享"}
+{"qid":"q-2571364-0","question":"JVM内存结构","content_id":"2571364","title":"字节一面-春招"}
+{"qid":"q-2571904-1","question":"JVM的内部结构是什么","content_id":"2571904","title":"用友金融JAVA凉面"}
+{"qid":"q-2569981-2","question":"String b = new String(\"abc\") 在JVM中是如何执行的","content_id":"2569981","title":"四非本 滴滴-后端实习面经(已OC)"}
+{"qid":"q-2559940-13","question":"JVM内存结构是怎样的？","content_id":"2559940","title":"蓝色外卖软件一面，1h无手撕，嘴都说冒烟了（一周后约了二面）"}
+{"qid":"q-2559940-14","question":"为什么永久代被替换为元空间？","content_id":"2559940","title":"蓝色外卖软件一面，1h无手撕，嘴都说冒烟了（一周后约了二面）"}
+{"qid":"q-2551170-9","question":"在JDK 8中，为什么要废弃永久代，使用元空间？说出几个原因。","content_id":"2551170","title":"卓望数码 3.10 Java一面"}
+{"qid":"q-2529763-0","question":"JVM怎么帮我们申请内存？","content_id":"2529763","title":"拼多多服务端开发面经二面"}
+{"qid":"q-2529763-3","question":"JVM如何保证内存占用是可控的比例？（JVM向系统申请内存的机制）","content_id":"2529763","title":"拼多多服务端开发面经二面"}
+{"qid":"q-2654069-13","question":"Java 对象底层存储结构（对象头、对象体）","content_id":"2654069","title":"唯品会Java一二面"}
+{"qid":"q-2545555-1","question":"JIT编译器的工作原理是什么","content_id":"2545555","title":"淘天集团-业务技术一面凉经"}
+{"qid":"q-2583709-20","question":"JVM综合知识点：JVM内存构成、垃圾回收器、垃圾回收算法","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2569206-0","question":"增大堆内存和栈内存的命令是什么？","content_id":"2569206","title":"一天流程面完京东后端"}

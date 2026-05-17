@@ -16,3 +16,10 @@
 {"qid":"q-2674686-5","question":"什么是二次回表？","content_id":"2674686","title":"美团后端一面"}
 {"qid":"q-2672828-6","question":"什么是回表？请举例说明","content_id":"2672828","title":"淘天java 26日后端一面"}
 {"qid":"q-2672828-7","question":"如何避免回表？","content_id":"2672828","title":"淘天java 26日后端一面"}
+{"qid":"q-2642429-13","question":"什么是覆盖索引和索引下推？","content_id":"2642429","title":"字节懂车帝 后端实习一面"}
+{"qid":"q-2652265-30","question":"什么是回表查询？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2613716-8","question":"索引覆盖与索引下推的概念与区别","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2592748-15","question":"哪些情况下会发生回表？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2574038-4","question":"覆盖索引","content_id":"2574038","title":"阿里云一二三面时间线+面经"}
+{"qid":"q-2569981-9","question":"InnoDB联合索引(A,B)，执行select * where a = xx and b = xx时会走几个索引？如果是count *会怎么做","content_id":"2569981","title":"四非本 滴滴-后端实习面经(已OC)"}
+{"qid":"q-2527891-7","question":"什么情况下会出现回表操作？","content_id":"2527891","title":"第一次面试记录 - Java实习岗"}

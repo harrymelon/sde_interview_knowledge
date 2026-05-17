@@ -9,3 +9,7 @@
 {"qid":"q-2675321-8","question":"为什么IO多路复用性能高？请简述select、poll、epoll的原理。","content_id":"2675321","title":"秋招小红书后端凉经（社区技术）"}
 {"qid":"q-2685815-17","question":"有哪些中间件用到了IO多路复用","content_id":"2685815","title":"美团-核心本地商业后端一面-9.9（凉）"}
 {"qid":"q-2778378-13","question":"MySQL有I/O多路复用吗？","content_id":"2778378","title":"小鹏汽车后端开发校招面经 攒人品"}
+{"qid":"q-2642429-7","question":"什么是IO多路复用？","content_id":"2642429","title":"字节懂车帝 后端实习一面"}
+{"qid":"q-2529763-6","question":"IO多路复用的原理是什么？","content_id":"2529763","title":"拼多多服务端开发面经二面"}
+{"qid":"q-2531587-36","question":"数据包到服务器后怎么处理（从操作系统角度解释）？","content_id":"2531587","title":"腾讯hr部门二面"}
+{"qid":"q-2523761-4","question":"IO 多路复用的原理是什么？","content_id":"2523761","title":"饿了么面经"}

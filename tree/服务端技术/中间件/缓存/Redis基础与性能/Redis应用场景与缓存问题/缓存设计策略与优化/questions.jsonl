@@ -1,0 +1,14 @@
+{"qid":"q-2791824-10","question":"读多写少场景下使用Redis构建缓存的实现方式","content_id":"2791824","title":"【杭州亿格云科技有限公司】-【后端】-【一面】技术面经"}
+{"qid":"q-2791824-12","question":"日志查询缓存设置永久有效（不设置固定过期时间）时如何判断并更新缓存数据","content_id":"2791824","title":"【杭州亿格云科技有限公司】-【后端】-【一面】技术面经"}
+{"qid":"q-2779397-16","question":"从持久缓存加载数据到Redis的加载策略设计思路","content_id":"2779397","title":"快手Java后端开发-校招面经"}
+{"qid":"q-837660497750028288-0","question":"Caffeine缓存主要存储了什么数据？","content_id":"837660497750028288","title":"字节飞书AI后端一面凉经"}
+{"qid":"q-2777798-6","question":"缓存工单的key如何设计","content_id":"2777798","title":"小厂Java后端日常实习一面"}
+{"qid":"q-2748333-13","question":"引入Redis优化证书查询时，如何设计缓存的key？","content_id":"2748333","title":"深圳智能思创科技有限公司-初面"}
+{"qid":"q-2701211-3","question":"用Redis扛高QPS时，与DB组合使用有哪些风险点？","content_id":"2701211","title":"网易云音乐java一面"}
+{"qid":"q-2692379-20","question":"LoadingCache了解吗","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
+{"qid":"q-2685815-25","question":"你项目Caffeine用来干啥的","content_id":"2685815","title":"美团-核心本地商业后端一面-9.9（凉）"}
+{"qid":"q-2604061-18","question":"热key追问:本地缓存可以用什么组件，实际用过吗","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2566751-1","question":"Redis的缓存策略是什么","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2558987-0","question":"缓存预热的原理和实现方式是什么？","content_id":"2558987","title":"滴滴 后端开发 一面凉经"}
+{"qid":"q-2534483-13","question":"Redis 作为缓存主要存了哪些数据，key 是怎样设计的","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
+{"qid":"q-2534483-27","question":"项目会做缓存预热吗，在什么时候使用","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}

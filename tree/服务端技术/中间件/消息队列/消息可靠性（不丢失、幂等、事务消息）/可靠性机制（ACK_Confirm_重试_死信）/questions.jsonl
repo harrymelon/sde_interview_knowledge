@@ -3,3 +3,7 @@
 {"qid":"q-2797678-10","question":"RabbitMQ的重试机制及配置位置","content_id":"2797678","title":"腾讯提前批一面面经（挑战全网最晚hhh，热乎的~）"}
 {"qid":"q-846357926959644672-8","question":"RabbitMQ死信队列在什么情况下会触发？","content_id":"846357926959644672","title":"智慧用能低碳研究院 - Java - 实习一面"}
 {"qid":"q-2688469-9","question":"Kafka的ACK模式有哪些","content_id":"2688469","title":"顺丰后端一面 9.11"}
+{"qid":"q-2583709-3","question":"用消息队列解决一致性问题时，根据什么从消息队列里把消息去掉？","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2579528-5","question":"Kafka消息确认等到所有follower都确认会影响性能，如何折中？","content_id":"2579528","title":"万物心选二面（40min）"}
+{"qid":"q-2543734-10","question":"死信队列是什么","content_id":"2543734","title":"成都致远互联Java一面"}
+{"qid":"q-2542981-7","question":"讲一讲死信队列","content_id":"2542981","title":"滴滴日常后端一二面面经（排序ing）"}

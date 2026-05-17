@@ -6,3 +6,10 @@
 {"qid":"q-2674944-17","question":"GET和POST的区别是什么？","content_id":"2674944","title":"虾皮秋招一面"}
 {"qid":"q-2792536-0","question":"RPC和HTTP的区别","content_id":"2792536","title":"米哈游后端-一面"}
 {"qid":"q-2792536-1","question":"为什么微服务用RPC不用HTTP","content_id":"2792536","title":"米哈游后端-一面"}
+{"qid":"q-2604368-6","question":"HTTP 请求头常见的字段有哪些？保持长连接的字段是什么？加了 Keep-Alive 连接就不会中断了吗？如何维护这个连接，何时中断？","content_id":"2604368","title":"字节剪映后端开发一面凉经"}
+{"qid":"q-2592748-38","question":"HTTP有哪些方法？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2591611-8","question":"HTTP协议栈？报文格式？","content_id":"2591611","title":"海康威视C++后端日常实习一二面（已oc）"}
+{"qid":"q-2567838-12","question":"HTTP协议有无状态？","content_id":"2567838","title":"灵犀互娱-日常实习-服务器开发- 一面二面hr面（已OC）"}
+{"qid":"q-2542981-15","question":"GET和POST的区别，包括场景和本质","content_id":"2542981","title":"滴滴日常后端一二面面经（排序ing）"}
+{"qid":"q-2535836-8","question":"HTTP协议中有哪些请求类型？","content_id":"2535836","title":"momenta 后端开发一面凉经——道心破碎"}
+{"qid":"q-2532597-14","question":"HTTP底层连接可以基于连接池吗","content_id":"2532597","title":"字节后端开发面经一面"}

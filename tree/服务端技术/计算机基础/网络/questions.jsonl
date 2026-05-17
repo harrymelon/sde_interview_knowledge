@@ -3,3 +3,24 @@
 {"qid":"q-2785682-1","question":"ARP是什么？","content_id":"2785682","title":"汇川综合面"}
 {"qid":"q-2722227-2","question":"网络套接字Socket会用吗？","content_id":"2722227","title":"乐牛游戏 游戏服务端开发工程师 凉经"}
 {"qid":"q-2667196-7","question":"TCP粘包是什么？如何解决？","content_id":"2667196","title":"快手一面凉经"}
+{"qid":"q-2660960-0","question":"计算机网络基础知识选择题","content_id":"2660960","title":"神州信息笔试"}
+{"qid":"q-2619815-2","question":"Netty 如何实现 WebSocket？","content_id":"2619815","title":"字节一面秒挂版"}
+{"qid":"q-2611407-7","question":"二层交换机和三层交换机的区别","content_id":"2611407","title":"腾讯 cdg 后台开发 一面面经"}
+{"qid":"q-2604368-5","question":"浏览器打开一个 URL 涉及的过程，结合计算机网络的角度详细说明","content_id":"2604368","title":"字节剪映后端开发一面凉经"}
+{"qid":"q-2604368-11","question":"网络忙时和闲时路由的选择不一样，路由选择协议有哪些？具体原理？","content_id":"2604368","title":"字节剪映后端开发一面凉经"}
+{"qid":"q-2601773-11","question":"IP协议属于哪一层，头部有哪些信息，网络每一层是什么","content_id":"2601773","title":"5月12日 字节一面（后端开发-财经业务）-——50分钟左右"}
+{"qid":"q-2587472-14","question":"Web网络安全问题有哪些？如何避免？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2569855-3","question":"什么是权威DNS服务器","content_id":"2569855","title":"OPPO-后端工程师-暑期实习：笔试"}
+{"qid":"q-2564070-5","question":"设计客户端发送请求、服务端返回已处理请求个数的通信模型","content_id":"2564070","title":"腾讯QQ-日常实习-后台开发-一面凉经"}
+{"qid":"q-2556417-16","question":"WebSocket和SSE有什么区别？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
+{"qid":"q-2555330-0","question":"介绍计算机网络模型","content_id":"2555330","title":"好未来Golang 一面"}
+{"qid":"q-2556133-8","question":"websocket在项目里是干什么的？","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2556133-9","question":"websocket和http的区别？","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2553032-16","question":"HTTP 协议的基本特点和工作方式？","content_id":"2553032","title":"腾讯一面 QQ后台开发"}
+{"qid":"q-2542981-16","question":"IPv4和IPv6的区别","content_id":"2542981","title":"滴滴日常后端一二面面经（排序ing）"}
+{"qid":"q-2536703-8","question":"七层网络体系架构","content_id":"2536703","title":"中国移动卓望公司 Java开发 二面"}
+{"qid":"q-2534483-17","question":"OSI 七层模型和 TCP/IP 五层模型是什么","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
+{"qid":"q-2534483-18","question":"每一层有哪些协议","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
+{"qid":"q-2535115-16","question":"两个进程可以同时监听同一个端口吗","content_id":"2535115","title":"腾讯实习基地一面凉经"}
+{"qid":"q-2535115-18","question":"UDP要实现可靠传输应如何处理","content_id":"2535115","title":"腾讯实习基地一面凉经"}
+{"qid":"q-2523761-10","question":"WebSocket 底层原理是什么？","content_id":"2523761","title":"饿了么面经"}

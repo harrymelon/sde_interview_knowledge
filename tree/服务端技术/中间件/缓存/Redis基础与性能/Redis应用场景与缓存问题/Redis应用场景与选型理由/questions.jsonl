@@ -1,0 +1,36 @@
+{"qid":"q-2798890-2","question":"2000人的访问真的用得到redis吗？","content_id":"2798890","title":"酷宅科技-后端开发"}
+{"qid":"q-2798890-5","question":"你使用Redis的出发点是啥？","content_id":"2798890","title":"酷宅科技-后端开发"}
+{"qid":"q-858303196983259136-2","question":"Redis在项目中的运用","content_id":"858303196983259136","title":"【面经】2026四方精创-港资金融银行中级java开发外包岗-18K"}
+{"qid":"q-857347414137548800-3","question":"Redis主要解决什么场景的问题？","content_id":"857347414137548800","title":"字节crm后端二面"}
+{"qid":"q-2792732-11","question":"Redis 适用哪些场景？","content_id":"2792732","title":"滴滴后端一面"}
+{"qid":"q-2786460-3","question":"内存缓存和分布式缓存的区别及应用场景","content_id":"2786460","title":"灵犀互娱后端一面挂-秋招"}
+{"qid":"q-2785316-22","question":"实习中Redis是如何使用的","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2781464-4","question":"Redis的使用场景有哪些？","content_id":"2781464","title":"北京百度后端实习二面"}
+{"qid":"q-2781462-2","question":"项目和实习中用到了Redis，具体用来干嘛？","content_id":"2781462","title":"11.北京瓜子二手车后端实习一面面经（2025年4月3投递，4月3约面）"}
+{"qid":"q-840588378700541952-6","question":"Redis与本地缓存对比的优点？","content_id":"840588378700541952","title":"上海禾赛科技 （java后端实习）一面"}
+{"qid":"q-2780119-1","question":"项目中缓存的应用场景有哪些？","content_id":"2780119","title":"百度后端开发一面-实习面经"}
+{"qid":"q-2780119-8","question":"Redis的应用场景及持久化策略","content_id":"2780119","title":"百度后端开发一面-实习面经"}
+{"qid":"q-2778261-7","question":"为什么要用Redis做缓存以及Redis的优势","content_id":"2778261","title":"字节飞书后端实习一面 感觉凉了..."}
+{"qid":"q-2777816-0","question":"单机项目有必要使用Redis吗？","content_id":"2777816","title":"27实习小厂java后端二面"}
+{"qid":"q-2777705-7","question":"MySQL 与 Redis 的核心差异与适用场景","content_id":"2777705","title":"字节OD后端开发技术二面"}
+{"qid":"q-2777334-17","question":"一般在什么场景下会使用Redis？","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}
+{"qid":"q-2778372-7","question":"Redis的使用场景","content_id":"2778372","title":"滴滴后端开发 26校招 二面"}
+{"qid":"q-2750435-10","question":"Redis除了做分布式锁，在实习中还有哪些应用场景？","content_id":"2750435","title":"cider后端一面"}
+{"qid":"q-2717721-4","question":"分布式缓存有哪些优点？","content_id":"2717721","title":"美团-大模型后台开发实习生-道心破碎版"}
+{"qid":"q-2717721-12","question":"项目中如何使用Redis？","content_id":"2717721","title":"美团-大模型后台开发实习生-道心破碎版"}
+{"qid":"q-2702636-20","question":"你在实习过程中用过Redis吗？用了哪些数据类型？解决了什么业务问题？","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2700457-8","question":"你的服务是单机服务为什么还用redis本地缓存不就够了","content_id":"2700457","title":"波克城市一面 9.23"}
+{"qid":"q-2685815-21","question":"Redis常用的用途","content_id":"2685815","title":"美团-核心本地商业后端一面-9.9（凉）"}
+{"qid":"q-2666306-7","question":"简述Redis的使用场景","content_id":"2666306","title":"美团 后端 一面"}
+{"qid":"q-2652265-37","question":"Redis 缓存你项目中是怎么使用的？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-39","question":"Redis 除了做缓存和数据存储，还有哪些使用场景？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2617201-3","question":"主要用Redis做什么？","content_id":"2617201","title":"字节跳动后端一面（已过）"}
+{"qid":"q-2604061-16","question":"平时写项目一般怎么使用Redis","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2604061-35","question":"平时使用Redis来做些什么？","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2580222-21","question":"在哪些场景下使用过redis？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2574038-1","question":"Redis 存储的什么数据","content_id":"2574038","title":"阿里云一二三面时间线+面经"}
+{"qid":"q-2574038-13","question":"redis 如何使用的","content_id":"2574038","title":"阿里云一二三面时间线+面经"}
+{"qid":"q-2562354-6","question":"项目中在哪个环节用到了Redis缓存？","content_id":"2562354","title":"美团暑期实习后端 面经"}
+{"qid":"q-2556448-0","question":"为什么要使用缓存？如何实现？","content_id":"2556448","title":"pdd服务端研发一面"}
+{"qid":"q-2543734-7","question":"Redis在项目中怎么使用的","content_id":"2543734","title":"成都致远互联Java一面"}
+{"qid":"q-2535350-10","question":"Redis的使用场景有哪些？","content_id":"2535350","title":"小红书一面（25min, 已OC）"}

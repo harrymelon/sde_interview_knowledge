@@ -6,3 +6,4 @@
 {"qid":"q-2780402-6","question":"什么是零拷贝技术？在Golang中如何实现零拷贝？","content_id":"2780402","title":"腾讯Golang开发一面-校招面经"}
 {"qid":"q-2779545-5","question":"什么是零拷贝？","content_id":"2779545","title":"美团27实习后端一面"}
 {"qid":"q-2777845-7","question":"什么是零拷贝？","content_id":"2777845","title":"字节tiktokshop后端实习生一面面经"}
+{"qid":"q-2531587-37","question":"如何避免内核态到用户态的复制？","content_id":"2531587","title":"腾讯hr部门二面"}

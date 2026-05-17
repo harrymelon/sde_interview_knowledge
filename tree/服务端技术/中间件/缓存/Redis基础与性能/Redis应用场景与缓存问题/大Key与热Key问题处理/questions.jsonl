@@ -1,0 +1,15 @@
+{"qid":"q-2796483-1","question":"Redis大key问题是什么？如何发现和解决？","content_id":"2796483","title":"小厂技术面"}
+{"qid":"q-2789209-6","question":"Redis中存在大Key会有什么影响？为什么导致执行速度慢？","content_id":"2789209","title":"腾讯2026技术提前批后台开发一面"}
+{"qid":"q-2788907-17","question":"Zset数据量太大（大Key）可能导致什么问题？如何优化？","content_id":"2788907","title":"字节国际化广告后端一面"}
+{"qid":"q-2785316-29","question":"大Key（如一个userId下挂了很多信息）在单机和集群下的表现","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2780351-4","question":"什么是热key？如何发现和解决热key问题？","content_id":"2780351","title":"得物校招Go后端三面面经 攒人品"}
+{"qid":"q-2777318-6","question":"怎么解决热Key问题？Redis扛不住怎么办？","content_id":"2777318","title":"小红书Java日常实习一面"}
+{"qid":"q-2717721-5","question":"热点数据的筛选策略有哪些？","content_id":"2717721","title":"美团-大模型后台开发实习生-道心破碎版"}
+{"qid":"q-2701211-5","question":"Redis热点key的处理方法有哪些？","content_id":"2701211","title":"网易云音乐java一面"}
+{"qid":"q-2701211-8","question":"Redis热点key拆分成多个子key后，更新时如何保证数据一致？","content_id":"2701211","title":"网易云音乐java一面"}
+{"qid":"q-2701211-17","question":"Redis的大Key有哪些风险点？","content_id":"2701211","title":"网易云音乐java一面"}
+{"qid":"q-2637442-5","question":"Redis内存满时将热key淘汰了怎么办？","content_id":"2637442","title":"7.18字节后端开发 生活服务实习一面"}
+{"qid":"q-2604061-17","question":"热key问题怎么解决","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2592653-0","question":"为什么大 key 传输会慢？","content_id":"2592653","title":"26Java后端开发腾讯云智暑假实习技术面3面 "}
+{"qid":"q-2542926-15","question":"如何处理 Redis 热 Key 问题？","content_id":"2542926","title":"腾讯会议部门 一面凉经"}
+{"qid":"q-2542926-16","question":"如何统计哪些 Key 是热 Key？","content_id":"2542926","title":"腾讯会议部门 一面凉经"}

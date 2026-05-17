@@ -3,3 +3,17 @@
 {"qid":"q-2693075-21","question":"如何保证 Kafka 消息有序性","content_id":"2693075","title":"美团后端面经（意向）"}
 {"qid":"q-2778178-7","question":"延迟队列怎么实现？","content_id":"2778178","title":"携程后端实习一面 1h"}
 {"qid":"q-2778153-7","question":"Kafka延迟消息队列的实现原理","content_id":"2778153","title":"滴滴后端开发一面-实习面经"}
+{"qid":"q-2619815-10","question":"如何实现消息按时间顺序传递？","content_id":"2619815","title":"字节一面秒挂版"}
+{"qid":"q-2603543-7","question":"Kafka如何保证数据有序","content_id":"2603543","title":"美团春招一面凉经"}
+{"qid":"q-2593329-5","question":"消息乱序的解决方案","content_id":"2593329","title":"26Java-领雁科技-20min"}
+{"qid":"q-2587472-5","question":"延迟队列的底层实现方式有哪些（死信队列、插件等）？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2587472-6","question":"自己实现一个延迟队列有哪些方案？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2579528-6","question":"Kafka里面怎么保证消息是有序的？","content_id":"2579528","title":"万物心选二面（40min）"}
+{"qid":"q-2572890-4","question":"RabbitMQ延迟队列是服务端自带的吗？","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}
+{"qid":"q-2569981-14","question":"RocketMQ的顺序消息是如何实现的？消费端是多线程还是单线程？多个Queue如何处理","content_id":"2569981","title":"四非本 滴滴-后端实习面经(已OC)"}
+{"qid":"q-2569981-21","question":"RocketMQ为什么使用顺序消息？顺序消息有哪些缺点","content_id":"2569981","title":"四非本 滴滴-后端实习面经(已OC)"}
+{"qid":"q-2554077-0","question":"Kafka如何保证顺序消费？","content_id":"2554077","title":"字节后端实习面经+TL"}
+{"qid":"q-2535115-1","question":"Kafka如何实现延时队列，RocketMQ又如何实现","content_id":"2535115","title":"腾讯实习基地一面凉经"}
+{"qid":"q-2535115-2","question":"RocketMQ延时队列的原理是什么","content_id":"2535115","title":"腾讯实习基地一面凉经"}
+{"qid":"q-2535115-3","question":"消息顺序性怎么保证","content_id":"2535115","title":"腾讯实习基地一面凉经"}
+{"qid":"q-2529763-9","question":"RocketMQ怎么保证消息的顺序？","content_id":"2529763","title":"拼多多服务端开发面经二面"}

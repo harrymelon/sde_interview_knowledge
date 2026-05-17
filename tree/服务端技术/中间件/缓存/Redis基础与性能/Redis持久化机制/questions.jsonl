@@ -16,3 +16,13 @@
 {"qid":"q-2726924-13","question":"Redis的持久化方式","content_id":"2726924","title":"百度后端日常二面（云方向）"}
 {"qid":"q-2688469-14","question":"Redis持久化有哪些方式","content_id":"2688469","title":"顺丰后端一面 9.11"}
 {"qid":"q-2661686-9","question":"Redis 故障后如何保障数据一致性和不丢失内容？","content_id":"2661686","title":"某二线城市小厂golang面经."}
+{"qid":"q-2642429-6","question":"Redis持久化方案有哪些？具体实现及优缺点？","content_id":"2642429","title":"字节懂车帝 后端实习一面"}
+{"qid":"q-2613716-15","question":"Redis持久化方式（RDB和AOF）","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2598999-4","question":"Redis的持久化机制有哪些？","content_id":"2598999","title":""}
+{"qid":"q-2598999-5","question":"Redis的AOF重写策略是什么？","content_id":"2598999","title":""}
+{"qid":"q-2592748-23","question":"讲一下Redis持久化","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2560502-4","question":"Redis的持久化方式AOF与RDB","content_id":"2560502","title":"万得后端暑期一面（目前HR面）"}
+{"qid":"q-2560502-5","question":"Redis的两种持久化方式的优缺点","content_id":"2560502","title":"万得后端暑期一面（目前HR面）"}
+{"qid":"q-2556417-12","question":"Redis的持久化有哪些方式？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
+{"qid":"q-2542188-7","question":"Redis持久化机制有哪些","content_id":"2542188","title":"字节算力基础一面"}
+{"qid":"q-2529763-7","question":"Redis的持久化机制是怎样的？","content_id":"2529763","title":"拼多多服务端开发面经二面"}

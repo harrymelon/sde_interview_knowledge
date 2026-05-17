@@ -5,3 +5,4 @@
 {"qid":"q-2779326-9","question":"如果当前系统数据库需要写入数据，同时要给下游发送一条消息，这种情况下怎么确保数据的一致性？","content_id":"2779326","title":"SHEIN java后端开发一面校招面经"}
 {"qid":"q-2767088-2","question":"如何保证MQ消息发送的一致性","content_id":"2767088","title":"字节tiktok后端日常二面"}
 {"qid":"q-2734965-5","question":"异步处理先返回成功，但后续处理失败怎么办？","content_id":"2734965","title":"tplink 后端一面"}
+{"qid":"q-2543734-11","question":"一个事务中MySQL写入数据后RabbitMQ已发送消息，此时回滚该如何处理","content_id":"2543734","title":"成都致远互联Java一面"}

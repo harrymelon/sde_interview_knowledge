@@ -18,3 +18,27 @@
 {"qid":"q-2714419-9","question":"说说悲观锁","content_id":"2714419","title":"虾皮后端日常一面面经"}
 {"qid":"q-2680728-7","question":"for update是表锁还是行锁？开销咋样？","content_id":"2680728","title":"滴滴正式批:"}
 {"qid":"q-2664637-3","question":"Mysql的间隙锁是什么","content_id":"2664637","title":"京东零售后端秋招一面"}
+{"qid":"q-2615510-13","question":"mysql表的锁机制你了解吗","content_id":"2615510","title":"26民本 亚信万联-java实习 面试"}
+{"qid":"q-2615510-14","question":"update操作加的是什么性质的锁？","content_id":"2615510","title":"26民本 亚信万联-java实习 面试"}
+{"qid":"q-2615510-15","question":"如何写SQL来修改一条数据且只加行锁不影响其他人？","content_id":"2615510","title":"26民本 亚信万联-java实习 面试"}
+{"qid":"q-2612259-7","question":"MySQL中多线程计数如何保证线程安全？","content_id":"2612259","title":"KK集团后端管培生"}
+{"qid":"q-2612259-9","question":"乐观锁是什么？CAS版本匹配失败时除了抛异常和重试还有哪些解决方法？","content_id":"2612259","title":"KK集团后端管培生"}
+{"qid":"q-2613716-4","question":"for update锁的原理与使用场景","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2598999-12","question":"MySQL的锁是如何分类的？","content_id":"2598999","title":""}
+{"qid":"q-2587472-10","question":"数据库悲观锁和乐观锁机制的工作原理？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2583726-5","question":"MySQL 写锁的底层是怎么实现的？","content_id":"2583726","title":"pdd服务器二面，"}
+{"qid":"q-2578225-1","question":"数据库的死锁是什么？","content_id":"2578225","title":"字节后端实习一面"}
+{"qid":"q-2572628-2","question":"MySQL行级锁的实现原理","content_id":"2572628","title":"快手Java日常一面"}
+{"qid":"q-2566751-13","question":"除了MVCC还用了什么实现隔离（select for update）","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2566751-14","question":"当前读是怎么加锁的","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2566751-15","question":"临键锁什么时候退化为间隙锁或记录锁","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2566751-16","question":"临键锁什么时候不会退化","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2566756-6","question":"你知道意向锁吗？介绍一下。","content_id":"2566756","title":"虾皮（Shopee）后端一面 3.26"}
+{"qid":"q-2565587-15","question":"MySQL悲观锁和乐观锁的使用场景和方法","content_id":"2565587","title":"蚂蚁Java应用开发一面凉经"}
+{"qid":"q-2558131-7","question":"MySQL执行update操作时，加锁是怎么加的","content_id":"2558131","title":"字节后端开发一面面经"}
+{"qid":"q-2551170-4","question":"MySQL的UPDATE语句会产生什么锁？什么时候会出现死锁？","content_id":"2551170","title":"卓望数码 3.10 Java一面"}
+{"qid":"q-2545555-4","question":"数据库锁有哪些，性能有什么区别","content_id":"2545555","title":"淘天集团-业务技术一面凉经"}
+{"qid":"q-2546652-17","question":"MySQL有哪些锁","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
+{"qid":"q-2546652-19","question":"MySQL的行锁和间隙锁，间隙锁锁的是什么","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
+{"qid":"q-2542981-23","question":"讲一下MySQL的锁","content_id":"2542981","title":"滴滴日常后端一二面面经（排序ing）"}
+{"qid":"q-2523761-2","question":"MySQL 加锁底层原理是什么？","content_id":"2523761","title":"饿了么面经"}

@@ -6,3 +6,5 @@
 {"qid":"q-2792536-5","question":"Kafka的零拷贝机制","content_id":"2792536","title":"米哈游后端-一面"}
 {"qid":"q-2780360-4","question":"Kafka为什么这么快？用了哪些技术？","content_id":"2780360","title":"京东Java后端开发一面-日常实习"}
 {"qid":"q-2777891-20","question":"Kafka 的顺序写是指的什么？","content_id":"2777891","title":"27日常实习京东科技后端二面"}
+{"qid":"q-2652059-10","question":"Kafka的刷盘机制如何实现？","content_id":"2652059","title":"飞猪暑期实习一面"}
+{"qid":"q-2579528-7","question":"Kafka本地磁盘存储耗尽了怎么办？","content_id":"2579528","title":"万物心选二面（40min）"}

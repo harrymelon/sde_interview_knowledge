@@ -3,3 +3,9 @@
 {"qid":"q-837660497750028288-3","question":"使用Caffeine缓存有什么缺点？","content_id":"837660497750028288","title":"字节飞书AI后端一面凉经"}
 {"qid":"q-2777328-16","question":"从持久缓存中加载数据到Redis的加载策略，如何设计？","content_id":"2777328","title":"快手Java日常实习一面"}
 {"qid":"q-2777334-18","question":"如果有大量请求到来而缓存中还没有数据，怎么办？","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}
+{"qid":"q-2587472-2","question":"热key高并发访问如何分散请求？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2583709-7","question":"缓存穿透会引发什么问题？","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2580353-12","question":"除了Redis，你还了解哪些适合做缓存的技术","content_id":"2580353","title":"拼多多社招 Java一二面"}
+{"qid":"q-2580353-13","question":"如果Redis用不了，有什么替代方案","content_id":"2580353","title":"拼多多社招 Java一二面"}
+{"qid":"q-2530782-11","question":"Redis除了缓存击穿和缓存穿透，还有什么其他问题吗？并且怎么去解决？","content_id":"2530782","title":"快看漫画-Java后端开发实习生OC"}
+{"qid":"q-2527713-1","question":"为什么不使用本地缓存？本地缓存的优缺点是什么","content_id":"2527713","title":"Akulaku Java实习面经"}

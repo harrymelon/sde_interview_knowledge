@@ -13,3 +13,13 @@
 {"qid":"q-2748415-18","question":"在项目中，etcd的作用是什么？","content_id":"2748415","title":"百度后端日常一面"}
 {"qid":"q-2701437-20","question":"若RPC框架的注册中心挂了，客户端和服务端还能正常通信吗？","content_id":"2701437","title":"快手-商业化JAVA一面"}
 {"qid":"q-2682123-2","question":"服务发现的原理是什么？","content_id":"2682123","title":"南京小米 java实习一面"}
+{"qid":"q-2652059-6","question":"Nacos如何实现服务发现？具体注册流程？","content_id":"2652059","title":"飞猪暑期实习一面"}
+{"qid":"q-2604061-24","question":"注册中心怎么实现？","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2604061-25","question":"追问:nacos的实现机制和原理","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2592031-0","question":"为什么有些公司不再采用zookeeper","content_id":"2592031","title":"4.22 美团核心本地商业-业务研发平台 后端一面"}
+{"qid":"q-2592031-9","question":"大量调用请求打到etcd上怎么办","content_id":"2592031","title":"4.22 美团核心本地商业-业务研发平台 后端一面"}
+{"qid":"q-2592031-10","question":"为何不项目一启动的时候就把etcd的服务提供给调用者","content_id":"2592031","title":"4.22 美团核心本地商业-业务研发平台 后端一面"}
+{"qid":"q-2592031-11","question":"讲讲服务续期和心跳检测","content_id":"2592031","title":"4.22 美团核心本地商业-业务研发平台 后端一面"}
+{"qid":"q-2587472-19","question":"服务注册是怎么实现的？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2538940-6","question":"注册中心如何管理服务的可用节点？","content_id":"2538940","title":"京东零售 Java 二面"}
+{"qid":"q-2538940-7","question":"调用方是否知道注册的服务节点？","content_id":"2538940","title":"京东零售 Java 二面"}

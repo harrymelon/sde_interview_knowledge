@@ -11,3 +11,5 @@
 {"qid":"q-2710215-6","question":"Linux系统调用指令有哪些？","content_id":"2710215","title":"经纬恒润一面c++"}
 {"qid":"q-2663028-7","question":"hook系统函数，如何优先链接自己的实现","content_id":"2663028","title":"26届秋招面经 - 小米"}
 {"qid":"q-2663028-8","question":"如何查看是否链接到了指定的库","content_id":"2663028","title":"26届秋招面经 - 小米"}
+{"qid":"q-2534920-7","question":"GDB中bt命令的含义（查看调用栈）","content_id":"2534920","title":"腾讯一二面泡池子（已 offer）"}
+{"qid":"q-2534920-8","question":"GDB coredump的使用","content_id":"2534920","title":"腾讯一二面泡池子（已 offer）"}

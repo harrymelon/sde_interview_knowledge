@@ -1,0 +1,12 @@
+{"qid":"q-2649352-6","question":"CSS是什么，有什么作用？","content_id":"2649352","title":"米哈游测试提前批"}
+{"qid":"q-2649352-7","question":"为什么JavaScript要写在HTML代码后面？","content_id":"2649352","title":"米哈游测试提前批"}
+{"qid":"q-2596498-0","question":"项目中的倒计时和扫码支付如何实现，移动端如何监视用户已扫码","content_id":"2596498","title":"美团金融服务前端一面"}
+{"qid":"q-2596498-1","question":"如何监控FCP，项目是CSR还是SSR","content_id":"2596498","title":"美团金融服务前端一面"}
+{"qid":"q-2596498-2","question":"加载资源耗时和FCP有关系吗","content_id":"2596498","title":"美团金融服务前端一面"}
+{"qid":"q-2596498-3","question":"script标签有哪些优化方式？defer和async有哪些区别？defer和async影响什么性能指标，会影响FCP吗","content_id":"2596498","title":"美团金融服务前端一面"}
+{"qid":"q-2596498-4","question":"script放在最下面的话加不加defer和async有区别吗","content_id":"2596498","title":"美团金融服务前端一面"}
+{"qid":"q-2596498-5","question":"按需引入怎么做的，import是如何做到把模块资源下载下来的","content_id":"2596498","title":"美团金融服务前端一面"}
+{"qid":"q-2596498-6","question":"常见的数据类型，symbol的用法，为什么会有bigint，精度范围是多少","content_id":"2596498","title":"美团金融服务前端一面"}
+{"qid":"q-2596498-8","question":"用提供的bridge.use方法实现createPromiseMethod方法（手撕）","content_id":"2596498","title":"美团金融服务前端一面"}
+{"qid":"q-2596498-9","question":"setTimeout事件循环判断输出内容和时机","content_id":"2596498","title":"美团金融服务前端一面"}
+{"qid":"q-2596498-10","question":"数组根据id分类","content_id":"2596498","title":"美团金融服务前端一面"}

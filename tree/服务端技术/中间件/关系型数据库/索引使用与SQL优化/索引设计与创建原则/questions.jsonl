@@ -32,3 +32,18 @@
 {"qid":"q-2673204-9","question":"数据库唯一索引的使用场景，以及如何从编码和数据库两个角度实现城市与优先级的映射？","content_id":"2673204","title":"美团8.21和8.28一面"}
 {"qid":"q-2672828-5","question":"MySQL中建索引需要注意什么？","content_id":"2672828","title":"淘天java 26日后端一面"}
 {"qid":"q-2670349-4","question":"数据库表t有A,B,C三个int字段，两条高频查询，如何建索引最合适","content_id":"2670349","title":"虾皮一面"}
+{"qid":"q-2659324-9","question":"MySQL 如何建立索引？","content_id":"2659324","title":"百度文库一面"}
+{"qid":"q-2659324-10","question":"MySQL 建表时加索引和运行时加索引有什么区别？","content_id":"2659324","title":"百度文库一面"}
+{"qid":"q-2659324-11","question":"MySQL 索引会占用空间吗？","content_id":"2659324","title":"百度文库一面"}
+{"qid":"q-2580353-6","question":"MySQL多条索引下如何执行查询","content_id":"2580353","title":"拼多多社招 Java一二面"}
+{"qid":"q-2580353-7","question":"什么是索引选择性","content_id":"2580353","title":"拼多多社招 Java一二面"}
+{"qid":"q-2566751-17","question":"建立联合索引(a,b)时如何考虑哪个字段在前","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2566751-18","question":"怎么计算字段的区分度","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2561318-5","question":"建立索引时有哪些需要注意的点","content_id":"2561318","title":"3.19字节后端一面(已过)"}
+{"qid":"q-2558987-2","question":"MySQL索引的原理和类型有哪些？","content_id":"2558987","title":"滴滴 后端开发 一面凉经"}
+{"qid":"q-2545555-5","question":"建立索引的要点有哪些","content_id":"2545555","title":"淘天集团-业务技术一面凉经"}
+{"qid":"q-2546652-15","question":"哪些场景不适合建立索引","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
+{"qid":"q-2535350-7","question":"平时项目中有用到什么联合索引吗？","content_id":"2535350","title":"小红书一面（25min, 已OC）"}
+{"qid":"q-2535350-8","question":"建立组合索引相比给字段单独建索引要快，快的原因是什么？","content_id":"2535350","title":"小红书一面（25min, 已OC）"}
+{"qid":"q-2531587-16","question":"怎么建索引？","content_id":"2531587","title":"腾讯hr部门二面"}
+{"qid":"q-2531587-17","question":"你知道什么场景用什么索引吗？","content_id":"2531587","title":"腾讯hr部门二面"}

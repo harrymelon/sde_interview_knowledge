@@ -40,3 +40,26 @@
 {"qid":"q-2666837-4","question":"MySQL隔离级别和实现方式，以及MVCC","content_id":"2666837","title":"美团java后端一面(挂)"}
 {"qid":"q-2664677-1","question":"MySQL MVCC多版本并发控制的原理是什么？","content_id":"2664677","title":"shopee 一面8.19"}
 {"qid":"q-2666306-11","question":"MVCC 的实现原理是什么？Read View 的作用？","content_id":"2666306","title":"美团 后端 一面"}
+{"qid":"q-2652059-7","question":"MySQL的MVCC机制是什么？","content_id":"2652059","title":"飞猪暑期实习一面"}
+{"qid":"q-2652059-8","question":"读已提交（Read Committed）隔离级别下如何读取数据？","content_id":"2652059","title":"飞猪暑期实习一面"}
+{"qid":"q-2652059-9","question":"MVCC中事务版本号（trx_id）的作用是什么？","content_id":"2652059","title":"飞猪暑期实习一面"}
+{"qid":"q-2654069-8","question":"MVCC 如何实现？","content_id":"2654069","title":"唯品会Java一二面"}
+{"qid":"q-2654069-9","question":"哪些隔离级别用到了 ReadView？","content_id":"2654069","title":"唯品会Java一二面"}
+{"qid":"q-2631595-3","question":"MVCC的实现原理是什么？","content_id":"2631595","title":"袋鼠云java一面"}
+{"qid":"q-2652265-32","question":"MySQL 怎么解决幻读和脏读的问题？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2613716-9","question":"MVCC的实现原理","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2613716-10","question":"活跃事务ID集合在RR和RC隔离级别下的不同","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2592031-19","question":"讲讲MVCC","content_id":"2592031","title":"4.22 美团核心本地商业-业务研发平台 后端一面"}
+{"qid":"q-2592031-20","question":"MVCC的快照读的实现","content_id":"2592031","title":"4.22 美团核心本地商业-业务研发平台 后端一面"}
+{"qid":"q-2592748-17","question":"可重复读能解决幻读吗？如果不能，怎么解决？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2593511-8","question":"MySQL的MVCC在RR隔离级别下怎么解决幻读？","content_id":"2593511","title":"美团一面"}
+{"qid":"q-2587472-11","question":"MVCC机制的实现原理？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2579680-3","question":"MVCC如何解决不可重复读和幻读","content_id":"2579680","title":"蚂蚁KPI一面"}
+{"qid":"q-2566751-11","question":"数据库有哪些隔离级别，都是怎么实现的","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2566751-12","question":"MVCC的ReadView原理","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2542981-21","question":"讲一下MVCC","content_id":"2542981","title":"滴滴日常后端一二面面经（排序ing）"}
+{"qid":"q-2542981-22","question":"MVCC如何解决幻读问题","content_id":"2542981","title":"滴滴日常后端一二面面经（排序ing）"}
+{"qid":"q-2538107-8","question":"MySQL怎么实现四种隔离级别的","content_id":"2538107","title":"猿辅导后端开发一面———手撕十年脑血栓"}
+{"qid":"q-2538107-9","question":"可重复读是如何实现的","content_id":"2538107","title":"猿辅导后端开发一面———手撕十年脑血栓"}
+{"qid":"q-2538107-10","question":"MVCC的原理","content_id":"2538107","title":"猿辅导后端开发一面———手撕十年脑血栓"}
+{"qid":"q-2538107-11","question":"什么是当前读，什么是快照读","content_id":"2538107","title":"猿辅导后端开发一面———手撕十年脑血栓"}

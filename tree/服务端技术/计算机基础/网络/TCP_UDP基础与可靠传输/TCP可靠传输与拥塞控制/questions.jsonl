@@ -15,3 +15,19 @@
 {"qid":"q-2692379-4","question":"流量控制讲一下","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
 {"qid":"q-2692379-15","question":"TCP怎么处理粘包和分包","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
 {"qid":"q-2671310-3","question":"TCP滑动窗口的原理是什么？","content_id":"2671310","title":"美团后端秋招一面"}
+{"qid":"q-2654069-17","question":"TCP 请求丢失后如何处理？","content_id":"2654069","title":"唯品会Java一二面"}
+{"qid":"q-2619211-12","question":"TCP的流量控制是如何实现的？","content_id":"2619211","title":"腾讯ieg后端面经"}
+{"qid":"q-2604368-9","question":"TCP 的可靠性保证；拥塞控制详细介绍","content_id":"2604368","title":"字节剪映后端开发一面凉经"}
+{"qid":"q-2604368-10","question":"TCP 层和应用层数据包大小不一致导致的粘包和拆包问题，如何解决？","content_id":"2604368","title":"字节剪映后端开发一面凉经"}
+{"qid":"q-2572954-6","question":"TCP粘包问题如何解决？","content_id":"2572954","title":"腾讯WXG一面凉经"}
+{"qid":"q-2572954-9","question":"TCP如何保证可靠性？","content_id":"2572954","title":"腾讯WXG一面凉经"}
+{"qid":"q-2571364-5","question":"TCP可靠传输机制","content_id":"2571364","title":"字节一面-春招"}
+{"qid":"q-2546652-12","question":"TCP的可靠性如何保证，拥塞控制机制","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
+{"qid":"q-2546652-13","question":"TCP拥塞控制可以如何改进","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
+{"qid":"q-2542926-7","question":"你了解 TCP 目前使用的拥塞控制算法吗？慢启动不是从头开始的","content_id":"2542926","title":"腾讯会议部门 一面凉经"}
+{"qid":"q-2542926-8","question":"TCP 如何进行重传？如何确定何时重传？要等待多久重传？不同业务重试时间都设置一样？不同网络环境超时时间都设置一样？UDP 想实现重传，又该如何实现？","content_id":"2542926","title":"腾讯会议部门 一面凉经"}
+{"qid":"q-2540334-15","question":"TCP数据发送期间会出现粘包问题，如何解决？","content_id":"2540334","title":"腾讯技术运营一面"}
+{"qid":"q-2536703-10","question":"拥塞控制的含义","content_id":"2536703","title":"中国移动卓望公司 Java开发 二面"}
+{"qid":"q-2534920-9","question":"什么是网络拥塞机制","content_id":"2534920","title":"腾讯一二面泡池子（已 offer）"}
+{"qid":"q-2534483-21","question":"TCP 流量控制和拥塞控制的逻辑是什么","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
+{"qid":"q-2531587-35","question":"检验和用的什么算法？","content_id":"2531587","title":"腾讯hr部门二面"}

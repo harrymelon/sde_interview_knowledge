@@ -3,3 +3,6 @@
 {"qid":"q-2666306-18","question":"io_uring 是什么？相对 epoll 的优势？","content_id":"2666306","title":"美团 后端 一面"}
 {"qid":"q-2784548-4","question":"epoll相比select/poll的优势是什么？","content_id":"2784548","title":"腾讯，微信基础研发，后端开发面经"}
 {"qid":"q-2672446-3","question":"epoll相比select/poll的优点是什么？","content_id":"2672446","title":"秋招记录14——美团后端一面"}
+{"qid":"q-2591611-9","question":"epoll的两种触发模式？","content_id":"2591611","title":"海康威视C++后端日常实习一二面（已oc）"}
+{"qid":"q-2583850-1","question":"epoll的原理与内部机制","content_id":"2583850","title":"最右暑期实习后端一面45min凉经"}
+{"qid":"q-2552645-1","question":"Epoll的原理是什么？红黑树在Epoll中如何应用，其键值分别代表什么？epoll_wait返回的事件队列是由谁将事件加入的？Epoll配合的线程池有几个线程，分别有什么作用？","content_id":"2552645","title":"后端字节广告一面凉经"}

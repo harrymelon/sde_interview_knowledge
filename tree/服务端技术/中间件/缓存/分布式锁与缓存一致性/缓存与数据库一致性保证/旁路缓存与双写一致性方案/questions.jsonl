@@ -1,0 +1,45 @@
+{"qid":"q-2795604-14","question":"数据库与缓存一致性怎么保证？常用的模式有哪些？","content_id":"2795604","title":"小鹏汽车 Java后端面经"}
+{"qid":"q-2791469-8","question":"如何保证缓存和数据库之间的数据一致性？","content_id":"2791469","title":"字节后端实习一面"}
+{"qid":"q-2789756-3","question":"如何保障数据库和缓存的一致性？","content_id":"2789756","title":"百度国际化后台开发日常实习二面"}
+{"qid":"q-2789062-5","question":"Redis用于哪些业务？数据不一致怎么处理？","content_id":"2789062","title":"牛客JAVA后端一面"}
+{"qid":"q-2788865-2","question":"数据库和缓存如何保持一致性","content_id":"2788865","title":"字节日常实习二面"}
+{"qid":"q-2788871-2","question":"如何解决缓存一致性问题？","content_id":"2788871","title":"百度国际化后台开发日常实习一面"}
+{"qid":"q-846357926959644672-7","question":"如何保持MySQL和Redis的数据一致性？","content_id":"846357926959644672","title":"智慧用能低碳研究院 - Java - 实习一面"}
+{"qid":"q-2785360-2","question":"数据库如何与缓存保持一致性？旁路缓存的工作模式是什么？","content_id":"2785360","title":"安克创新golang后端开发实习一面"}
+{"qid":"q-2784403-7","question":"双写一致性怎么保证","content_id":"2784403","title":"百度后端一二面"}
+{"qid":"q-2783947-1","question":"缓存与数据库的数据一致性问题如何解决？","content_id":"2783947","title":"高顿教育后端实习岗位oc"}
+{"qid":"q-2783719-3","question":"Redis和MySQL的一致性怎么保证","content_id":"2783719","title":"字节头条后端一面面经"}
+{"qid":"q-2780380-4","question":"缓存与数据库双写一致性如何保障","content_id":"2780380","title":"网易后端开发校招二面-攒人品"}
+{"qid":"q-2781463-9","question":"Redis 和 MySQL 双写一致性如何保证？","content_id":"2781463","title":"12.北京百度后端实习一面面经（2025年3月30投递-不确定，4月8约面）"}
+{"qid":"q-2779928-8","question":"数据库和缓存一致性要怎么保证","content_id":"2779928","title":"Shopee后端开发一面-实习面经"}
+{"qid":"q-2779326-7","question":"你有碰到过数据库与redis缓存一致性的问题吗？你是如何解决的？","content_id":"2779326","title":"SHEIN java后端开发一面校招面经"}
+{"qid":"q-2778111-3","question":"MySQL和Redis数据不一致的问题如何解决？","content_id":"2778111","title":"小红书java后端开发二面-27实习"}
+{"qid":"q-837660497750028288-6","question":"Redis要保持数据的一致性有什么解决方案？","content_id":"837660497750028288","title":"字节飞书AI后端一面凉经"}
+{"qid":"q-2778372-8","question":"MySQL与Redis一致性如何保证","content_id":"2778372","title":"滴滴后端开发 26校招 二面"}
+{"qid":"q-2769770-2","question":"如何保证缓存和数据库一致性？","content_id":"2769770","title":"腾讯二面"}
+{"qid":"q-2763749-9","question":"缓存与数据库一致性如何保证？","content_id":"2763749","title":"26届双非本秋招总结"}
+{"qid":"q-2739684-20","question":"项目中MySQL与Redis缓存一致性如何保证？","content_id":"2739684","title":"金山wps服务端一面"}
+{"qid":"q-2700457-7","question":"如何保证缓存一致性","content_id":"2700457","title":"波克城市一面 9.23"}
+{"qid":"q-2685815-24","question":"怎么保证数据库-缓存一致性","content_id":"2685815","title":"美团-核心本地商业后端一面-9.9（凉）"}
+{"qid":"q-2682123-14","question":"Redis和MySQL如何保证数据一致性？","content_id":"2682123","title":"南京小米 java实习一面"}
+{"qid":"q-2674944-8","question":"缓存DB一致性问题有哪些解决方案？","content_id":"2674944","title":"虾皮秋招一面"}
+{"qid":"q-2650231-4","question":"Redis和数据库如何保证一致性？","content_id":"2650231","title":"浪潮提前批java一面"}
+{"qid":"q-2652265-40","question":"如何保证缓存和数据库的一致性？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2613716-12","question":"如何保证MySQL和Redis的数据一致性","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2593546-4","question":"Redis和MySQL缓存一致性如何保证？","content_id":"2593546","title":"Shopee一面（已凉）"}
+{"qid":"q-2593329-2","question":"Redis与MySQL之间的数据同步方案","content_id":"2593329","title":"26Java-领雁科技-20min"}
+{"qid":"q-2592031-7","question":"如何保持缓存数据库一致性","content_id":"2592031","title":"4.22 美团核心本地商业-业务研发平台 后端一面"}
+{"qid":"q-2593511-5","question":"Redis和MySQL的缓存一致性如何保证？","content_id":"2593511","title":"美团一面"}
+{"qid":"q-2587472-1","question":"缓存与数据库一致性如何保证？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2580222-22","question":"Redis怎么保证与Mysql数据一致性？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2574442-4","question":"如何保证缓存一致性？","content_id":"2574442","title":"25届春招 美团后端 3.30笔试+AI面"}
+{"qid":"q-2574038-2","question":"Redis 和 MySQL 缓存一致性","content_id":"2574038","title":"阿里云一二三面时间线+面经"}
+{"qid":"q-2568004-2","question":"旁路缓存模式无法保证强一致性，如何解决？","content_id":"2568004","title":"3.27vivo一面凉经"}
+{"qid":"q-2556448-4","question":"热点数据存在缓存中，如何保证与数据库的一致性？","content_id":"2556448","title":"pdd服务端研发一面"}
+{"qid":"q-2553624-3","question":"如何保证缓存一致性？各方案有什么优缺点？","content_id":"2553624","title":"网易雷火 春招 一面"}
+{"qid":"q-2555330-13","question":"数据库和Redis一致性如何保证","content_id":"2555330","title":"好未来Golang 一面"}
+{"qid":"q-2538959-6","question":"MySQL和Redis的数据一致性问题如何解决","content_id":"2538959","title":"美团数据研发 JAVA 二面"}
+{"qid":"q-2535350-11","question":"如何保持Redis和数据库的一致性？","content_id":"2535350","title":"小红书一面（25min, 已OC）"}
+{"qid":"q-2535414-1","question":"怎样保证数据一致性？","content_id":"2535414","title":"B站一面Java---17分钟"}
+{"qid":"q-2531587-3","question":"缓存是怎样更新的？","content_id":"2531587","title":"腾讯hr部门二面"}
+{"qid":"q-2531587-4","question":"你有哪些缓存更新的方法？","content_id":"2531587","title":"腾讯hr部门二面"}

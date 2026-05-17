@@ -1,0 +1,10 @@
+{"qid":"q-2779163-5","question":"如何设计一个登录系统，包括Token刷新和过期时间处理？","content_id":"2779163","title":"小红书一二面凉经"}
+{"qid":"q-2593546-2","question":"用户Token是什么，怎么刷新，不刷新可以吗？","content_id":"2593546","title":"Shopee一面（已凉）"}
+{"qid":"q-2593546-3","question":"用户怎么保存Token？","content_id":"2593546","title":"Shopee一面（已凉）"}
+{"qid":"q-2572890-8","question":"JWT令牌原理？","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}
+{"qid":"q-2562354-17","question":"如果别人拿到用户的token，是否可以继续访问？如何解决token安全性问题？","content_id":"2562354","title":"美团暑期实习后端 面经"}
+{"qid":"q-2551829-0","question":"详细介绍一下项目中双token机制是什么","content_id":"2551829","title":"虎牙 后端 春招一面"}
+{"qid":"q-2551829-1","question":"除了token之外，还有什么鉴权方式","content_id":"2551829","title":"虎牙 后端 春招一面"}
+{"qid":"q-2551867-6","question":"请详细讲解双Token模式（Access Token + Refresh Token），包括短token过期时间设定、刷新功能、为什么使用双token模式、刷新时的请求参数以及如何保证安全？","content_id":"2551867","title":"字节跳动一面（55min）"}
+{"qid":"q-2543734-0","question":"Token如何续期","content_id":"2543734","title":"成都致远互联Java一面"}
+{"qid":"q-2538940-4","question":"每次都验证 token 有效性的必要性？","content_id":"2538940","title":"京东零售 Java 二面"}

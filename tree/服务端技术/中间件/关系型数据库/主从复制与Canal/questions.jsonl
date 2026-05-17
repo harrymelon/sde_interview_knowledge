@@ -18,3 +18,14 @@
 {"qid":"q-2778378-25","question":"MySQL的主从同步机制是怎么样的？","content_id":"2778378","title":"小鹏汽车后端开发校招面经 攒人品"}
 {"qid":"q-2748333-12","question":"读写分离是如何实现的？","content_id":"2748333","title":"深圳智能思创科技有限公司-初面"}
 {"qid":"q-2661686-8","question":"MySQL 集群如何实现高可用？","content_id":"2661686","title":"某二线城市小厂golang面经."}
+{"qid":"q-2649352-0","question":"数据库读写分离的原因是什么？","content_id":"2649352","title":"米哈游测试提前批"}
+{"qid":"q-2637442-8","question":"MySQL集群怎么部署？采用什么架构？","content_id":"2637442","title":"7.18字节后端开发 生活服务实习一面"}
+{"qid":"q-2612259-10","question":"Binlog有哪些格式？","content_id":"2612259","title":"KK集团后端管培生"}
+{"qid":"q-2603543-8","question":"MySQL的binlog的使用场景一般有哪些","content_id":"2603543","title":"美团春招一面凉经"}
+{"qid":"q-2579186-1","question":"MySQL的主从复制中异步复制和半同步复制有什么区别？","content_id":"2579186","title":"腾讯云智后端二面"}
+{"qid":"q-2580222-28","question":"MySQL中的binlog知道原理嘛？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2565587-3","question":"Canal监听binlog的实现原理","content_id":"2565587","title":"蚂蚁Java应用开发一面凉经"}
+{"qid":"q-2538940-1","question":"MySQL 读写分离的角色分配怎么分？","content_id":"2538940","title":"京东零售 Java 二面"}
+{"qid":"q-2538940-2","question":"主从同步的延时怎么处理？","content_id":"2538940","title":"京东零售 Java 二面"}
+{"qid":"q-2538959-5","question":"抢票业务场景下数据库的读写方式有什么考虑","content_id":"2538959","title":"美团数据研发 JAVA 二面"}
+{"qid":"q-2534483-10","question":"项目中用 binlog 解决了什么问题","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}

@@ -8,3 +8,7 @@
 {"qid":"q-2748415-19","question":"请简要介绍你对Kubernetes的了解。","content_id":"2748415","title":"百度后端日常一面"}
 {"qid":"q-2748415-20","question":"是否有K8s集群实际部署经验？","content_id":"2748415","title":"百度后端日常一面"}
 {"qid":"q-2748415-21","question":"使用kubectl apply部署Pod的完整流转过程是什么？涉及哪些K8s组件？","content_id":"2748415","title":"百度后端日常一面"}
+{"qid":"q-2592748-46","question":"操作K8S上所有资源的权限是如何设置的？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2592748-47","question":"讲一下Pod和Service的关系","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2578225-12","question":"Kubernetes有哪些核心组件？","content_id":"2578225","title":"字节后端实习一面"}
+{"qid":"q-2546652-22","question":"Kubernetes的基本概念","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}

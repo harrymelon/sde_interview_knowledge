@@ -43,3 +43,27 @@
 {"qid":"q-2673922-6","question":"Redis排序的数据结构，分数相同先到先得如何实现","content_id":"2673922","title":"8.29 友谊时光java实习一面"}
 {"qid":"q-2673204-1","question":"Redis的基本数据类型和应用场景有哪些？","content_id":"2673204","title":"美团8.21和8.28一面"}
 {"qid":"q-2666306-13","question":"Redis 最基础的数据结构有哪些？","content_id":"2666306","title":"美团 后端 一面"}
+{"qid":"q-2650231-1","question":"项目中使用Redis存储了什么内容？","content_id":"2650231","title":"浪潮提前批java一面"}
+{"qid":"q-2642429-4","question":"Redis有哪些数据结构","content_id":"2642429","title":"字节懂车帝 后端实习一面"}
+{"qid":"q-2652265-38","question":"Redis 常用的数据结构有哪些？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2621931-5","question":"Redis有几种数据结构","content_id":"2621931","title":"百度后端二面"}
+{"qid":"q-2601773-4","question":"Redis数据结构","content_id":"2601773","title":"5月12日 字节一面（后端开发-财经业务）-——50分钟左右"}
+{"qid":"q-2604061-15","question":"Redis的数据类型","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2604061-36","question":"你的优惠券项目中使用到Redis存储了哪些数据，为什么要这么存数据？","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2604061-38","question":"你的优惠券列表在Redis用什么数据结构存储，为什么这种数据结构性能更好？","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2593534-2","question":"Zset实现排行榜，数据太多扩容内存成本昂贵，怎么办","content_id":"2593534","title":"美团二面（已收感谢信）"}
+{"qid":"q-2593329-1","question":"Redis的数据类型有哪些","content_id":"2593329","title":"26Java-领雁科技-20min"}
+{"qid":"q-2592748-19","question":"你使用过Redis的哪些数据类型？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2593511-10","question":"Redis常见数据结构的使用场景是什么？","content_id":"2593511","title":"美团一面"}
+{"qid":"q-2587472-0","question":"Redis有序集合zset底层数据结构是如何设计的？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2578430-0","question":"Redis的数据结构有哪些？项目中常用哪几个？位图在项目中怎么用的？","content_id":"2578430","title":"美团 软件后端-直播部门 4.8 一面"}
+{"qid":"q-2571174-30","question":"网站统计为什么用HyperLogLog","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2558131-8","question":"介绍一下Redis常用的数据结构","content_id":"2558131","title":"字节后端开发一面面经"}
+{"qid":"q-2555330-21","question":"签到功能如何实现，bitmap的优点","content_id":"2555330","title":"好未来Golang 一面"}
+{"qid":"q-2546652-21","question":"Redis有哪些数据结构","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
+{"qid":"q-2538107-12","question":"Redis的数据结构有哪些，你用的比较多的是哪个","content_id":"2538107","title":"猿辅导后端开发一面———手撕十年脑血栓"}
+{"qid":"q-2535836-4","question":"Redis的基础数据类型有哪些？","content_id":"2535836","title":"momenta 后端开发一面凉经——道心破碎"}
+{"qid":"q-2535836-6","question":"Redis中Set类型如何添加值？","content_id":"2535836","title":"momenta 后端开发一面凉经——道心破碎"}
+{"qid":"q-2535836-7","question":"如何将一个Map存储到Redis中？用什么数据结构？","content_id":"2535836","title":"momenta 后端开发一面凉经——道心破碎"}
+{"qid":"q-2534483-11","question":"Redis 有哪些数据结构","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
+{"qid":"q-2534483-12","question":"项目中主要用了哪些Redis数据结构，用在什么场景","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}

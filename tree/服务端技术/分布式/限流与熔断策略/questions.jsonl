@@ -14,3 +14,16 @@
 {"qid":"q-2701287-5","question":"Sentinel支持分布式限流，其状态保存在哪里？","content_id":"2701287","title":"腾讯 QQ 后端开发实习二面"}
 {"qid":"q-2692379-5","question":"令牌桶算法说一下","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
 {"qid":"q-2682123-0","question":"限流算法有哪些，有什么区别？","content_id":"2682123","title":"南京小米 java实习一面"}
+{"qid":"q-2604061-9","question":"实习中怎么使用Sentinel来做限流的","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2604061-10","question":"实习中Sentinel流控策略","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2604061-11","question":"Sentinel如果上游有A,B,C三个业务，怎么分别做限流","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2604061-12","question":"除了Sentinel限流之外，可不可以用Redis做限流","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2604061-13","question":"Sentinel的原理和架构","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2580353-14","question":"除了缓存，还有什么方法可以防止数据库被打爆","content_id":"2580353","title":"拼多多社招 Java一二面"}
+{"qid":"q-2578225-5","question":"服务雪崩有哪些应对措施？","content_id":"2578225","title":"字节后端实习一面"}
+{"qid":"q-2571174-26","question":"网关后有依赖关系的多个服务，流量超出预期可能发生什么异常，原因是什么","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2558163-7","question":"常见的限流算法有哪些？","content_id":"2558163","title":"携程后端开发二面凉经"}
+{"qid":"q-2535627-13","question":"外部恶意攻击接口的处理方法","content_id":"2535627","title":"高德Java 一面"}
+{"qid":"q-2535627-14","question":"令牌桶算法的工作原理","content_id":"2535627","title":"高德Java 一面"}
+{"qid":"q-2530782-1","question":"接口限流具体是如何实现的？","content_id":"2530782","title":"快看漫画-Java后端开发实习生OC"}
+{"qid":"q-2528555-6","question":"Sentinel如何实现限流操作？","content_id":"2528555","title":"java小厂（0-20人）实习 一面面经（已oc"}

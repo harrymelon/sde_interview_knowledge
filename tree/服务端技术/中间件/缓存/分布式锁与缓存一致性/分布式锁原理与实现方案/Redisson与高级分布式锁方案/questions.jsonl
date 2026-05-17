@@ -15,3 +15,11 @@
 {"qid":"q-2741509-11","question":"项目中分布式锁的具体实现","content_id":"2741509","title":"oppo后端研发日常实习凉经"}
 {"qid":"q-2799010-5","question":"Redis分布式锁有什么用？限流器怎么做？为什么用Redis锁？这个锁支持分布式高可用吗？设计一个分布式高可用的锁。","content_id":"2799010","title":"腾讯后端一面面经"}
 {"qid":"q-854766261299900416-11","question":"Redission实现的分布式锁做什么用？","content_id":"854766261299900416","title":"他山科技一面"}
+{"qid":"q-2593546-16","question":"Redisson分布式锁","content_id":"2593546","title":"Shopee一面（已凉）"}
+{"qid":"q-2593546-17","question":"分布式锁绝对安全吗？","content_id":"2593546","title":"Shopee一面（已凉）"}
+{"qid":"q-2593546-18","question":"分布式锁不安全的话怎么改进？","content_id":"2593546","title":"Shopee一面（已凉）"}
+{"qid":"q-2566756-5","question":"如果是集群模式，是怎么获取锁的呢？","content_id":"2566756","title":"虾皮（Shopee）后端一面 3.26"}
+{"qid":"q-2560502-6","question":"Redis的分布式锁怎么实现（setnx问题+Redisson对Redis锁的封装）","content_id":"2560502","title":"万得后端暑期一面（目前HR面）"}
+{"qid":"q-2538107-13","question":"Redisson实现分布式锁需要考虑哪些问题，怎么解决的","content_id":"2538107","title":"猿辅导后端开发一面———手撕十年脑血栓"}
+{"qid":"q-2535836-0","question":"Redisson分布式锁中如何设置过期时间？","content_id":"2535836","title":"momenta 后端开发一面凉经——道心破碎"}
+{"qid":"q-2535836-1","question":"使用Redisson分布式锁如何实现页面访问次数的统计？","content_id":"2535836","title":"momenta 后端开发一面凉经——道心破碎"}

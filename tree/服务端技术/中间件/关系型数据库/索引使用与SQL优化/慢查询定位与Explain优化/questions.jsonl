@@ -44,3 +44,21 @@
 {"qid":"q-2673922-3","question":"MySQL慢查询如何定位","content_id":"2673922","title":"8.29 友谊时光java实习一面"}
 {"qid":"q-2666837-3","question":"慢SQL调查流程","content_id":"2666837","title":"美团java后端一面(挂)"}
 {"qid":"q-2661686-0","question":"SQL 慢查询优化如何通过 explain 和索引来进行？","content_id":"2661686","title":"某二线城市小厂golang面经."}
+{"qid":"q-2659324-7","question":"MySQL 如何判断一条语句是否命中索引？","content_id":"2659324","title":"百度文库一面"}
+{"qid":"q-2659324-8","question":"使用 explain 分析 SQL 时会主动关注哪些字段？","content_id":"2659324","title":"百度文库一面"}
+{"qid":"q-2650231-9","question":"慢SQL有哪些原因？如何排查？","content_id":"2650231","title":"浪潮提前批java一面"}
+{"qid":"q-2617839-6","question":"假设一个SQL执行很慢，如何排查？哪些原因可能导致索引未命中？","content_id":"2617839","title":"6.12 字节跳动生活服务后端实习二面记录"}
+{"qid":"q-2615328-13","question":"MySQL执行计划如何分析？","content_id":"2615328","title":"上海汉得信息Java面经"}
+{"qid":"q-2613716-28","question":"MySQL执行计划是什么","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2613716-29","question":"explain结果中哪些字段值得关注及其含义","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2603543-9","question":"MySQL的慢查询优化方式有哪些","content_id":"2603543","title":"美团春招一面凉经"}
+{"qid":"q-2603543-10","question":"explain有哪些重点字段","content_id":"2603543","title":"美团春招一面凉经"}
+{"qid":"q-2566751-19","question":"怎么找慢查询的问题","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2566751-20","question":"Explain结果中哪些字段判断是否走了索引","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2561318-4","question":"SQL语句执行慢该如何排查","content_id":"2561318","title":"3.19字节后端一面(已过)"}
+{"qid":"q-2550714-5","question":"MySQL慢SQL优化怎么做","content_id":"2550714","title":"腾讯 微信支付一面"}
+{"qid":"q-2546652-20","question":"MySQL慢查询排查方法","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
+{"qid":"q-2538940-0","question":"怎么定位 SQL 慢查询","content_id":"2538940","title":"京东零售 Java 二面"}
+{"qid":"q-2534483-6","question":"什么是MySQL慢查询，如何定位","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
+{"qid":"q-2534483-7","question":"慢查询怎么分析","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
+{"qid":"q-2534483-8","question":"explain 的输出结果包含哪些信息","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}

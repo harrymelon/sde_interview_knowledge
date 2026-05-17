@@ -1,0 +1,13 @@
+{"qid":"q-2625808-10","question":"JVM内存结构中哪些部分会发生内存泄漏并举例","content_id":"2625808","title":"省流版阿里后台开发面经"}
+{"qid":"q-2625808-11","question":"如何排查内存泄漏","content_id":"2625808","title":"省流版阿里后台开发面经"}
+{"qid":"q-2617723-7","question":"OOM异常能否用try-catch捕获","content_id":"2617723","title":"饿了么1面"}
+{"qid":"q-2617723-8","question":"哪些情况下会发生OOM","content_id":"2617723","title":"饿了么1面"}
+{"qid":"q-2617723-9","question":"建立连接通道是否可能导致OOM","content_id":"2617723","title":"饿了么1面"}
+{"qid":"q-2608897-4","question":"实际项目中遇到过OOM问题吗？如何排查？","content_id":"2608897","title":"众安保险Peek3-Java转正-1面"}
+{"qid":"q-2587856-8","question":"什么是Java OOM（Out Of Memory）？常见的OOM场景有哪些？","content_id":"2587856","title":"快手Java暑期实习一面"}
+{"qid":"q-2587856-9","question":"内存泄露和内存溢出的区别是什么？","content_id":"2587856","title":"快手Java暑期实习一面"}
+{"qid":"q-2587472-16","question":"内存泄漏的常见场景有哪些？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2572994-4","question":"讲讲元空间OOM的排查与原因。","content_id":"2572994","title":"4.1蚂蚁国际暑期一面"}
+{"qid":"q-2538136-2","question":"如何排查JVM内存泄漏或OOM？是否使用过内存dump分析工具？","content_id":"2538136","title":"虎牙春招java一二面记录"}
+{"qid":"q-2520207-1","question":"解释JVM内存栈溢出和堆溢出的原因及实际出现场景。","content_id":"2520207","title":"深圳 其域创新公司Java后端 面经"}
+{"qid":"q-2538136-3","question":"如何查看Java进程的垃圾回收频率？用什么命令？","content_id":"2538136","title":"虎牙春招java一二面记录"}

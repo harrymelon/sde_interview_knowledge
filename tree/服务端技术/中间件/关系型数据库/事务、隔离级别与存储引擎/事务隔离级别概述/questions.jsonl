@@ -30,3 +30,24 @@
 {"qid":"q-2672828-4","question":"什么是幻读？请举例说明","content_id":"2672828","title":"淘天java 26日后端一面"}
 {"qid":"q-2661686-5","question":"数据库事务隔离级别有哪些？","content_id":"2661686","title":"某二线城市小厂golang面经."}
 {"qid":"q-2666306-12","question":"解释“可重复读”隔离级别。","content_id":"2666306","title":"美团 后端 一面"}
+{"qid":"q-2654069-10","question":"MySQL 有哪些隔离级别？","content_id":"2654069","title":"唯品会Java一二面"}
+{"qid":"q-2642429-12","question":"MySQL有哪些隔离级别？","content_id":"2642429","title":"字节懂车帝 后端实习一面"}
+{"qid":"q-2652265-31","question":"MySQL 的隔离级别有哪些？每种隔离级别有什么区别？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2618388-5","question":"MySQL的事务隔离级别有哪些","content_id":"2618388","title":"博彦科技-go后端开发"}
+{"qid":"q-2617201-9","question":"数据库事务的ACID特性、隔离级别（MySQL默认）、以及实现机制（MVCC和锁）","content_id":"2617201","title":"字节跳动后端一面（已过）"}
+{"qid":"q-2606607-1","question":"数据库事务的隔离性你了解吗","content_id":"2606607","title":"05.20拼多多Java后端一面分享"}
+{"qid":"q-2593546-21","question":"MySQL的各种隔离级别是什么？","content_id":"2593546","title":"Shopee一面（已凉）"}
+{"qid":"q-2592748-16","question":"讲一下事务的隔离级别，分别解决了什么问题","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2592748-18","question":"读提交和可重复读的区别？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2587472-13","question":"脏读和幻读是怎么发生的，如何解决？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2571174-10","question":"MySQL默认隔离级别是什么","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2562354-11","question":"MySQL的隔离级别有哪些？请具体讲解。","content_id":"2562354","title":"美团暑期实习后端 面经"}
+{"qid":"q-2558163-4","question":"MySQL的隔离级别有哪些？","content_id":"2558163","title":"携程后端开发二面凉经"}
+{"qid":"q-2558163-5","question":"MySQL各个隔离级别分别适用哪些场景？","content_id":"2558163","title":"携程后端开发二面凉经"}
+{"qid":"q-2542981-19","question":"事务隔离级别以及每个级别对应的问题","content_id":"2542981","title":"滴滴日常后端一二面面经（排序ing）"}
+{"qid":"q-2542981-20","question":"MySQL默认的隔离级别","content_id":"2542981","title":"滴滴日常后端一二面面经（排序ing）"}
+{"qid":"q-2538107-6","question":"MySQL四个隔离级别有什么区别","content_id":"2538107","title":"猿辅导后端开发一面———手撕十年脑血栓"}
+{"qid":"q-2538107-7","question":"什么叫脏读","content_id":"2538107","title":"猿辅导后端开发一面———手撕十年脑血栓"}
+{"qid":"q-2536703-6","question":"什么是事务，事务的隔离级别有哪些","content_id":"2536703","title":"中国移动卓望公司 Java开发 二面"}
+{"qid":"q-2536703-7","question":"什么是幻读，如何解决幻读","content_id":"2536703","title":"中国移动卓望公司 Java开发 二面"}
+{"qid":"q-2535627-4","question":"事务隔离级别有哪些，各隔离级别下会发生什么情况，举例说明","content_id":"2535627","title":"高德Java 一面"}

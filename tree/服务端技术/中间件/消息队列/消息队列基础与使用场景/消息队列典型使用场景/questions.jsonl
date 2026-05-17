@@ -8,3 +8,11 @@
 {"qid":"q-2777228-3","question":"从同步改为Kafka异步解耦会引入什么问题","content_id":"2777228","title":"携程后端日常实习 已OC"}
 {"qid":"q-2797678-7","question":"RabbitMQ的基本功能、使用场景和用法","content_id":"2797678","title":"腾讯提前批一面面经（挑战全网最晚hhh，热乎的~）"}
 {"qid":"q-2779548-6","question":"延迟队列是怎么用的？","content_id":"2779548","title":"美团27实习后端二面 45min"}
+{"qid":"q-2652059-1","question":"消息中间件如何实现削峰填谷？","content_id":"2652059","title":"飞猪暑期实习一面"}
+{"qid":"q-2617839-8","question":"消息队列有什么应用场景？","content_id":"2617839","title":"6.12 字节跳动生活服务后端实习二面记录"}
+{"qid":"q-2593329-3","question":"RabbitMQ的使用场景","content_id":"2593329","title":"26Java-领雁科技-20min"}
+{"qid":"q-2574038-11","question":"kafka 如何使用的","content_id":"2574038","title":"阿里云一二三面时间线+面经"}
+{"qid":"q-2574038-12","question":"一般什么业务会使用 kafka","content_id":"2574038","title":"阿里云一二三面时间线+面经"}
+{"qid":"q-2565587-4","question":"消息队列的特点，以及使用消息队列解耦和使用数据库解耦的区别","content_id":"2565587","title":"蚂蚁Java应用开发一面凉经"}
+{"qid":"q-2541224-1","question":"消息队列的主要作用是什么？","content_id":"2541224","title":"杭州产链数字科技二面"}
+{"qid":"q-2535627-12","question":"消息队列（MQ）的使用场景","content_id":"2535627","title":"高德Java 一面"}

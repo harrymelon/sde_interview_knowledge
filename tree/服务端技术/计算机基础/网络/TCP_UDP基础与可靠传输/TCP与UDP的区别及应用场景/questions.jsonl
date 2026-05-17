@@ -19,3 +19,27 @@
 {"qid":"q-2692379-11","question":"udp优势","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
 {"qid":"q-2685815-14","question":"TCP和UDP的区别及使用场景","content_id":"2685815","title":"美团-核心本地商业后端一面-9.9（凉）"}
 {"qid":"q-2675377-3","question":"TCP协议的基本原理是什么？","content_id":"2675377","title":"点点互动-服务端-笔试"}
+{"qid":"q-2642429-10","question":"TCP与UDP分别介绍一下，有什么区别？","content_id":"2642429","title":"字节懂车帝 后端实习一面"}
+{"qid":"q-2617201-10","question":"TCP和UDP的区别及各自适用场景","content_id":"2617201","title":"字节跳动后端一面（已过）"}
+{"qid":"q-2592748-34","question":"TCP相对于UDP有哪些优势？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2579680-0","question":"TCP和UDP的区别及应用场景","content_id":"2579680","title":"蚂蚁KPI一面"}
+{"qid":"q-2574442-0","question":"TCP与UDP的区别是什么？","content_id":"2574442","title":"25届春招 美团后端 3.30笔试+AI面"}
+{"qid":"q-2572954-8","question":"TCP和UDP的区别及应用场景","content_id":"2572954","title":"腾讯WXG一面凉经"}
+{"qid":"q-2567838-10","question":"TCP和UDP协议的区别是什么？","content_id":"2567838","title":"灵犀互娱-日常实习-服务器开发- 一面二面hr面（已OC）"}
+{"qid":"q-2567838-11","question":"UDP如何实现安全通信？需要增添什么属性？","content_id":"2567838","title":"灵犀互娱-日常实习-服务器开发- 一面二面hr面（已OC）"}
+{"qid":"q-2564070-7","question":"TCP和UDP协议的区别","content_id":"2564070","title":"腾讯QQ-日常实习-后台开发-一面凉经"}
+{"qid":"q-2561318-12","question":"TCP与UDP的区别及适用场景","content_id":"2561318","title":"3.19字节后端一面(已过)"}
+{"qid":"q-2555330-1","question":"TCP和UDP的区别，UDP的应用场景","content_id":"2555330","title":"好未来Golang 一面"}
+{"qid":"q-2546652-5","question":"TCP和UDP的区别","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
+{"qid":"q-2546652-6","question":"什么场景用TCP，什么场景用UDP，腾讯会议用的是什么协议","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
+{"qid":"q-2546652-7","question":"UDP协议如何知道对方的网络连接情况，QUIC协议的作用","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
+{"qid":"q-2546652-8","question":"保证UDP可靠性的手段有哪些","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
+{"qid":"q-2546652-9","question":"QUIC协议还可以用在哪些场景","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
+{"qid":"q-2542926-1","question":"TCP 和 UDP 的区别是什么？","content_id":"2542926","title":"腾讯会议部门 一面凉经"}
+{"qid":"q-2542926-2","question":"适用于 TCP 和 UDP 的业务场景有哪些？","content_id":"2542926","title":"腾讯会议部门 一面凉经"}
+{"qid":"q-2542926-3","question":"为什么延迟低的场景使用 UDP？UDP 为什么性能会比 TCP 更好？","content_id":"2542926","title":"腾讯会议部门 一面凉经"}
+{"qid":"q-2542926-4","question":"观看视频和玩游戏不需要可靠性吗？为什么这些场景可以使用UDP？","content_id":"2542926","title":"腾讯会议部门 一面凉经"}
+{"qid":"q-2542926-5","question":"如何让 UDP 变得比 TCP 更可靠？","content_id":"2542926","title":"腾讯会议部门 一面凉经"}
+{"qid":"q-2542926-6","question":"如何设计一个比 TCP 更好的 UDP 方案？如何保证性能更好更可靠？","content_id":"2542926","title":"腾讯会议部门 一面凉经"}
+{"qid":"q-2534920-18","question":"如何实现可靠UDP（冗余传输、序号等）","content_id":"2534920","title":"腾讯一二面泡池子（已 offer）"}
+{"qid":"q-2535115-17","question":"TCP和UDP的区别是什么","content_id":"2535115","title":"腾讯实习基地一面凉经"}

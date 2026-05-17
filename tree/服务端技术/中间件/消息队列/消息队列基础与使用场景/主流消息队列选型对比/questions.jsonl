@@ -5,3 +5,14 @@
 {"qid":"q-2777891-19","question":"Kafka 和 Rabbitmq 这俩 MQ 有什么区别吗？","content_id":"2777891","title":"27日常实习京东科技后端二面"}
 {"qid":"q-2777399-7","question":"为什么使用RocketMQ而不是Kafka？","content_id":"2777399","title":"美团Java后端开发实习一面"}
 {"qid":"q-2767088-5","question":"Kafka和RabbitMQ对于consumer的区别是什么","content_id":"2767088","title":"字节tiktok后端日常二面"}
+{"qid":"q-2619815-4","question":"为什么选择使用 RabbitMQ 而不是其他消息队列？","content_id":"2619815","title":"字节一面秒挂版"}
+{"qid":"q-2613716-35","question":"RabbitMQ与RocketMQ的区别","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2585832-0","question":"为什么选择RabbitMQ？","content_id":"2585832","title":"字节跳动-日常实习-后端开发一面"}
+{"qid":"q-2579201-4","question":"用过哪种消息队列（MQ）？","content_id":"2579201","title":"贝壳 社招java一面"}
+{"qid":"q-2578225-13","question":"不同消息队列的区别是什么？","content_id":"2578225","title":"字节后端实习一面"}
+{"qid":"q-2556417-19","question":"Kafka、RocketMQ、RabbitMQ有什么区别，使用场景是什么？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
+{"qid":"q-2550372-6","question":"为什么用Kafka而不用RabbitMQ？","content_id":"2550372","title":"淘天一面 无八股无手撕就离谱"}
+{"qid":"q-2545555-9","question":"RabbitMQ、Kafka、RocketMQ之间的对比与选型","content_id":"2545555","title":"淘天集团-业务技术一面凉经"}
+{"qid":"q-2535350-1","question":"AutoMQ相对于Kafka新增了哪些效果？","content_id":"2535350","title":"小红书一面（25min, 已OC）"}
+{"qid":"q-2535115-0","question":"RocketMQ和Kafka的区别是什么","content_id":"2535115","title":"腾讯实习基地一面凉经"}
+{"qid":"q-2529766-0","question":"Mafka和Kafka有什么区别？","content_id":"2529766","title":"拼多多服务端开发面经三面"}

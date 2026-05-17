@@ -4,3 +4,5 @@
 {"qid":"q-2700457-4","question":"谈谈你对同步异步的理解","content_id":"2700457","title":"波克城市一面 9.23"}
 {"qid":"q-2788359-3","question":"什么是非阻塞I/O？","content_id":"2788359","title":"字节26秋招 C++面经"}
 {"qid":"q-2788359-4","question":"非阻塞I/O有哪几种？","content_id":"2788359","title":"字节26秋招 C++面经"}
+{"qid":"q-2577388-0","question":"为什么选择异步请求，同步请求不行吗？","content_id":"2577388","title":"腾讯云暑期实习一面"}
+{"qid":"q-2572890-13","question":"Netty和Tomcat中用的是BIO还是NIO？线程池的配置是什么？","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}

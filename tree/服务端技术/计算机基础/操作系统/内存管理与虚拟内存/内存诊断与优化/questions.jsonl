@@ -5,3 +5,4 @@
 {"qid":"q-2780402-8","question":"什么是CPU的NUMA架构？对程序性能有什么影响？","content_id":"2780402","title":"腾讯Golang开发一面-校招面经"}
 {"qid":"q-2763749-21","question":"Linux缓存机制（Page Cache等）","content_id":"2763749","title":"26届双非本秋招总结"}
 {"qid":"q-2779545-7","question":"进程崩溃之后内存空间是怎么被操作系统回收的？","content_id":"2779545","title":"美团27实习后端一面"}
+{"qid":"q-2551867-15","question":"如何排查和解决线上内存溢出的问题？","content_id":"2551867","title":"字节跳动一面（55min）"}

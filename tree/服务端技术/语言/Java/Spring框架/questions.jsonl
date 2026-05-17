@@ -1,0 +1,96 @@
+{"qid":"q-2654069-5","question":"Spring 循环依赖如何解决","content_id":"2654069","title":"唯品会Java一二面"}
+{"qid":"q-2625808-5","question":"依赖注入和控制反转的概念","content_id":"2625808","title":"省流版阿里后台开发面经"}
+{"qid":"q-2625808-6","question":"Spring框架如何实现依赖注入和控制反转","content_id":"2625808","title":"省流版阿里后台开发面经"}
+{"qid":"q-2625808-7","question":"Spring如何解决循环依赖","content_id":"2625808","title":"省流版阿里后台开发面经"}
+{"qid":"q-2625808-8","question":"Spring应用了哪些设计模式","content_id":"2625808","title":"省流版阿里后台开发面经"}
+{"qid":"q-2630409-11","question":"Spring Bean的生命周期是怎样的？","content_id":"2630409","title":"杭州趣链后端 开发实习"}
+{"qid":"q-2630409-12","question":"Spring中循环依赖的概念是什么？","content_id":"2630409","title":"杭州趣链后端 开发实习"}
+{"qid":"q-2630409-13","question":"Spring如何解决循环依赖问题？","content_id":"2630409","title":"杭州趣链后端 开发实习"}
+{"qid":"q-2630409-14","question":"Spring框架中使用了哪些设计模式？","content_id":"2630409","title":"杭州趣链后端 开发实习"}
+{"qid":"q-2622613-4","question":"项目使用的JDK版本和对应的Spring Boot版本是什么？","content_id":"2622613","title":"中文在线 后端开发实习生 二面 面经"}
+{"qid":"q-2616724-0","question":"Spring前后端的参数传递方式有哪些","content_id":"2616724","title":"06.10宁银消金后端开发岗面经"}
+{"qid":"q-2617839-7","question":"Spring事务传播行为有几种？为什么要有事务传播行为？","content_id":"2617839","title":"6.12 字节跳动生活服务后端实习二面记录"}
+{"qid":"q-2614214-0","question":"SpringBoot的@SpringBootApplication注解由哪些注解组成？@EnableAutoConfiguration的原理是什么？","content_id":"2614214","title":"06.05中金所技术Java一面凉经"}
+{"qid":"q-2614214-1","question":"什么是AOP？AOP的常见应用场景有哪些？","content_id":"2614214","title":"06.05中金所技术Java一面凉经"}
+{"qid":"q-2614214-2","question":"如何自定义注解并结合AOP实现日志记录？","content_id":"2614214","title":"06.05中金所技术Java一面凉经"}
+{"qid":"q-2617201-8","question":"Spring Boot中单例模式的使用场景，以及不借助IOC容器手动实现全局单一工具类的方式","content_id":"2617201","title":"字节跳动后端一面（已过）"}
+{"qid":"q-2615328-11","question":"Spring事务是怎样的？","content_id":"2615328","title":"上海汉得信息Java面经"}
+{"qid":"q-2615328-12","question":"事务的传播级别有哪些？","content_id":"2615328","title":"上海汉得信息Java面经"}
+{"qid":"q-2613716-3","question":"Spring事务传播行为","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2613716-24","question":"Spring中哪些地方用到了反射","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2593546-11","question":"AOP自定义切面的实现原理","content_id":"2593546","title":"Shopee一面（已凉）"}
+{"qid":"q-2592748-5","question":"讲一下拦截器的使用以及是否用到AOP","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2592748-6","question":"讲一下SpringBoot启动器的原理","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2592748-7","question":"讲一下依赖注入","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2592748-8","question":"Bean对象存储在哪里？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2593511-18","question":"Spring的Bean的生命周期是怎样的？","content_id":"2593511","title":"美团一面"}
+{"qid":"q-2590786-2","question":"Spring循环依赖在什么情况下会报错，即使有三级缓存也无法解决？","content_id":"2590786","title":"26暑假实习腾讯云智后台开发二面 后续二面过了"}
+{"qid":"q-2587472-17","question":"Spring配置文件的加载顺序和加载机制？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2587472-18","question":"Spring框架中从API请求到API响应的整个处理过程？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2580222-0","question":"Spring中的@SpringBootApplication注解的原理是什么？由哪些组合注解组成？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580222-1","question":"Spring启动过程中需要多少个Bean","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580222-2","question":"@Component和@Bean的区别是什么？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580222-3","question":"Bean的生命周期？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580222-4","question":"Bean的作用域有哪些？BeanFactory和FactoryBean有什么区别？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580222-5","question":"Spring中最重要的两个概念是什么？（AOP和IOC）","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580222-6","question":"Spring管理事务的方式有哪些？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580222-7","question":"Spring事务中哪些事务传播行为？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580222-8","question":"@Transactional的实现原理？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2579201-0","question":"Springboot的启动机制是什么？","content_id":"2579201","title":"贝壳 社招java一面"}
+{"qid":"q-2572890-6","question":"SpringTask如何实现？","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}
+{"qid":"q-2572890-7","question":"AOP的实现原理与日志记录过程？","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}
+{"qid":"q-2571318-0","question":"Spring Boot 自动配置与条件化加载的原理是什么？","content_id":"2571318","title":"美的Java一面"}
+{"qid":"q-2571904-6","question":"Spring中Controller层常用的注解有哪些","content_id":"2571904","title":"用友金融JAVA凉面"}
+{"qid":"q-2571904-7","question":"如何深入理解Spring IoC（不仅仅是依赖注入）","content_id":"2571904","title":"用友金融JAVA凉面"}
+{"qid":"q-2571904-8","question":"Spring中对Bean的理解以及AOP的使用与编写","content_id":"2571904","title":"用友金融JAVA凉面"}
+{"qid":"q-2569981-25","question":"什么情况下会使用事务？如何使用事务？编程式事务和声明式事务的区别","content_id":"2569981","title":"四非本 滴滴-后端实习面经(已OC)"}
+{"qid":"q-2569981-26","question":"注解式事务如何回滚？你一般怎么设置回滚的异常","content_id":"2569981","title":"四非本 滴滴-后端实习面经(已OC)"}
+{"qid":"q-2571174-12","question":"Spring的默认隔离级别和事务传播行为","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2571174-13","question":"Spring事务失效的场景有哪些","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2566751-24","question":"Spring是如何解决循环依赖问题的","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2562354-12","question":"Spring Boot的核心注解有哪些？","content_id":"2562354","title":"美团暑期实习后端 面经"}
+{"qid":"q-2562354-13","question":"Spring Boot中的Bean是如何被扫描到的？","content_id":"2562354","title":"美团暑期实习后端 面经"}
+{"qid":"q-2562354-14","question":"Spring Boot中application.yml和bootstrap.yml的区别是什么？","content_id":"2562354","title":"美团暑期实习后端 面经"}
+{"qid":"q-2559940-6","question":"嵌套@Transactional会有什么问题？","content_id":"2559940","title":"蓝色外卖软件一面，1h无手撕，嘴都说冒烟了（一周后约了二面）"}
+{"qid":"q-2559940-11","question":"AOP的底层原理是什么？","content_id":"2559940","title":"蓝色外卖软件一面，1h无手撕，嘴都说冒烟了（一周后约了二面）"}
+{"qid":"q-2557328-2","question":"Spring 依赖注入的实现方式有哪些？","content_id":"2557328","title":"字节广告业务后端一面"}
+{"qid":"q-2556417-0","question":"Spring的依赖注入有几种方式？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
+{"qid":"q-2556417-1","question":"Spring的事务传播机制是什么？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
+{"qid":"q-2556417-5","question":"Spring的IOC和AOP的实现原理是什么？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
+{"qid":"q-2556417-6","question":"AOP的使用场景有哪些？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
+{"qid":"q-2556417-7","question":"Spring循环依赖问题如何解决？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
+{"qid":"q-2556417-8","question":"SpringBoot的自动装配原理是什么？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
+{"qid":"q-2556417-9","question":"@ConfigurationProperties和@value有什么区别？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
+{"qid":"q-2556133-0","question":"说一下你觉得 SpringBoot 是干什么的","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2556133-1","question":"如何使用springboot搭建一个程序？","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2556133-2","question":"mapper service controller是springboot的吗？","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2556133-7","question":"写在接口里的，没有实现类，该怎么调用？","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2551829-5","question":"spring事物","content_id":"2551829","title":"虎牙 后端 春招一面"}
+{"qid":"q-2551170-1","question":"在Spring中使用第三方的依赖的Bean，如何在Bean使用前对它进行一些加工处理？加工处理时会有什么问题？","content_id":"2551170","title":"卓望数码 3.10 Java一面"}
+{"qid":"q-2551170-8","question":"Spring中，如果配置文件不在默认的resource目录下，如何读取到这个文件？","content_id":"2551170","title":"卓望数码 3.10 Java一面"}
+{"qid":"q-2551869-2","question":"拦截器的工作原理和实现原理","content_id":"2551869","title":"字节跳动二面（1h20min）"}
+{"qid":"q-2551869-6","question":"SpringBoot中注解的生效原理，注解上反射方法的实现","content_id":"2551869","title":"字节跳动二面（1h20min）"}
+{"qid":"q-2543734-1","question":"拦截器还有什么使用场景","content_id":"2543734","title":"成都致远互联Java一面"}
+{"qid":"q-2543734-12","question":"Yaml和properties的区别","content_id":"2543734","title":"成都致远互联Java一面"}
+{"qid":"q-2542188-3","question":"Spring事务原理及默认事务传播级别是什么","content_id":"2542188","title":"字节算力基础一面"}
+{"qid":"q-2542188-11","question":"Spring事务失效的原理是什么","content_id":"2542188","title":"字节算力基础一面"}
+{"qid":"q-2538964-7","question":"AOP 实现原理，jdk 和 cglib 区别","content_id":"2538964","title":"快手商业化 Java 二面"}
+{"qid":"q-2537521-8","question":"Spring常用注解有哪些？","content_id":"2537521","title":""}
+{"qid":"q-2535350-3","question":"介绍自定义注解加拦截器，简述AOP底层原理","content_id":"2535350","title":"小红书一面（25min, 已OC）"}
+{"qid":"q-2535350-4","question":"在Service类中，A方法有拦截器注解，B方法通过this.A()调用A方法，会有什么问题？","content_id":"2535350","title":"小红书一面（25min, 已OC）"}
+{"qid":"q-2535836-2","question":"什么是AOP以及如何用它捕获日志请求？","content_id":"2535836","title":"momenta 后端开发一面凉经——道心破碎"}
+{"qid":"q-2535836-9","question":"后端如何接收HTTP请求中的参数？","content_id":"2535836","title":"momenta 后端开发一面凉经——道心破碎"}
+{"qid":"q-2535836-10","question":"后端接收Long类型请求参数时如何做特殊处理如解析成字符串？","content_id":"2535836","title":"momenta 后端开发一面凉经——道心破碎"}
+{"qid":"q-2532597-6","question":"用户请求进来，用户的信息怎样在一个请求内传递","content_id":"2532597","title":"字节后端开发面经一面"}
+{"qid":"q-2531975-0","question":"谈谈对Spring的理解","content_id":"2531975","title":"衡阳镭目科技公司 Java后端开发 一面"}
+{"qid":"q-2532292-7","question":"spring ioc，aop的理解，有哪些应用场景","content_id":"2532292","title":"邦盛科技JAVA一二面"}
+{"qid":"q-2532292-8","question":"spring bean的生命周期","content_id":"2532292","title":"邦盛科技JAVA一二面"}
+{"qid":"q-2528555-0","question":"SpringBoot中常用的注解有哪些？","content_id":"2528555","title":"java小厂（0-20人）实习 一面面经（已oc"}
+{"qid":"q-2528555-1","question":"@Component和@Configuration注解的区别是什么？","content_id":"2528555","title":"java小厂（0-20人）实习 一面面经（已oc"}
+{"qid":"q-2528555-3","question":"Spring的二级缓存机制是什么？","content_id":"2528555","title":"java小厂（0-20人）实习 一面面经（已oc"}
+{"qid":"q-2529744-7","question":"Spring Boot的核心特性（IOC、AOP）是什么","content_id":"2529744","title":"拼多多服务端开发面经一面"}
+{"qid":"q-2529744-8","question":"Spring如何解决循环依赖（三级缓存机制）","content_id":"2529744","title":"拼多多服务端开发面经一面"}
+{"qid":"q-2529744-9","question":"Spring Boot简化了Spring的哪些配置工作","content_id":"2529744","title":"拼多多服务端开发面经一面"}
+{"qid":"q-2527891-10","question":"Spring IOC为什么默认为单例的？","content_id":"2527891","title":"第一次面试记录 - Java实习岗"}
+{"qid":"q-2523761-0","question":"Spring AOP 底层原理是什么？","content_id":"2523761","title":"饿了么面经"}
+{"qid":"q-2523761-12","question":"Spring MVC 参数处理器体现了什么设计思想？","content_id":"2523761","title":"饿了么面经"}

@@ -18,3 +18,11 @@
 {"qid":"q-2777352-3","question":"如何实现分布式锁？","content_id":"2777352","title":"27实习高德Java后端二面"}
 {"qid":"q-2735282-11","question":"分布式锁的实现原理","content_id":"2735282","title":"回旋加速 golang后端一面 11.4"}
 {"qid":"q-2790121-5","question":"分布式锁是如何实现的？","content_id":"2790121","title":"新大陆Java面经"}
+{"qid":"q-2650231-6","question":"如何考虑实现分布式锁？","content_id":"2650231","title":"浪潮提前批java一面"}
+{"qid":"q-2642429-17","question":"实现分布式锁还有哪些其他方案？","content_id":"2642429","title":"字节懂车帝 后端实习一面"}
+{"qid":"q-2587856-16","question":"除了Redis，还有哪些分布式锁的实现方案？","content_id":"2587856","title":"快手Java暑期实习一面"}
+{"qid":"q-2587472-9","question":"synchronized和分布式锁的区别与联系？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2566756-0","question":"分布式锁的使用场景有哪些？","content_id":"2566756","title":"虾皮（Shopee）后端一面 3.26"}
+{"qid":"q-2565587-2","question":"分布式锁的实现方式","content_id":"2565587","title":"蚂蚁Java应用开发一面凉经"}
+{"qid":"q-2543734-8","question":"分布式锁机制了解吗","content_id":"2543734","title":"成都致远互联Java一面"}
+{"qid":"q-2538107-14","question":"什么叫可重入性","content_id":"2538107","title":"猿辅导后端开发一面———手撕十年脑血栓"}

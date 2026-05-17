@@ -9,3 +9,6 @@
 {"qid":"q-2666306-17","question":"select 与 epoll 的区别？","content_id":"2666306","title":"美团 后端 一面"}
 {"qid":"q-2777845-12","question":"IO多路复用有哪些方式？它们的区别是什么？","content_id":"2777845","title":"字节tiktokshop后端实习生一面面经"}
 {"qid":"q-2781472-7","question":"为什么 select 的文件描述符集合是有序的","content_id":"2781472","title":"15.字节跳动-懂车帝后端校招二面（挂）"}
+{"qid":"q-2642429-8","question":"select、epoll、poll的实现区别与优缺点","content_id":"2642429","title":"字节懂车帝 后端实习一面"}
+{"qid":"q-2585832-7","question":"介绍一下epoll与select的区别","content_id":"2585832","title":"字节跳动-日常实习-后端开发一面"}
+{"qid":"q-2529766-4","question":"select、poll、epoll有什么区别？","content_id":"2529766","title":"拼多多服务端开发面经三面"}

@@ -48,3 +48,21 @@
 {"qid":"q-2674944-3","question":"联合索引（A,B,C）中WHERE B = XXX AND C = XXX会走索引吗？WHERE B = XXX AND A = XXX呢？","content_id":"2674944","title":"虾皮秋招一面"}
 {"qid":"q-2673922-4","question":"like查询会用到索引吗","content_id":"2673922","title":"8.29 友谊时光java实习一面"}
 {"qid":"q-2670349-5","question":"什么时候索引会失效","content_id":"2670349","title":"虾皮一面"}
+{"qid":"q-2659324-12","question":"MySQL 索引的最左匹配原则是什么？查询条件为 a c b 会命中索引吗？","content_id":"2659324","title":"百度文库一面"}
+{"qid":"q-2652265-25","question":"什么情况下会导致索引失效？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-26","question":"为什么查询条件和表字段类型不一样会导致索引失效？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-29","question":"联合索引不满足最左匹配原则为什么会失效？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2618388-6","question":"MySQL索引失效的场景有哪些","content_id":"2618388","title":"博彦科技-go后端开发"}
+{"qid":"q-2555330-6","question":"索引失效场景","content_id":"2555330","title":"好未来Golang 一面"}
+{"qid":"q-2551867-16","question":"MySQL的最左匹配原则是什么？什么情况下匹配不到索引？","content_id":"2551867","title":"字节跳动一面（55min）"}
+{"qid":"q-2551867-17","question":"Like查询在什么情况下会走索引？","content_id":"2551867","title":"字节跳动一面（55min）"}
+{"qid":"q-2545555-6","question":"联合索引需要注意的问题","content_id":"2545555","title":"淘天集团-业务技术一面凉经"}
+{"qid":"q-2543734-6","question":"索引失效的场景有哪些","content_id":"2543734","title":"成都致远互联Java一面"}
+{"qid":"q-2541224-0","question":"MySQL索引失效的场景有哪些？","content_id":"2541224","title":"杭州产链数字科技二面"}
+{"qid":"q-2536703-3","question":"索引失效的场景","content_id":"2536703","title":"中国移动卓望公司 Java开发 二面"}
+{"qid":"q-2535038-1","question":"联合索引（abc），当查询ab、ac会走索引吗？ac场景呢？","content_id":"2535038","title":"淘天直播社招一面"}
+{"qid":"q-2535038-2","question":"底层建了abc的联合索引，底层会建a、ab、abc这三个索引吗？","content_id":"2535038","title":"淘天直播社招一面"}
+{"qid":"q-2528555-4","question":"MySQL中索引失效的场景有哪些？","content_id":"2528555","title":"java小厂（0-20人）实习 一面面经（已oc"}
+{"qid":"q-2531587-15","question":"索引一定能加快查询吗？","content_id":"2531587","title":"腾讯hr部门二面"}
+{"qid":"q-2527891-5","question":"MySQL索引失效场景：AB联合索引中A AND B和A OR B，为什么A OR B会失效？","content_id":"2527891","title":"第一次面试记录 - Java实习岗"}
+{"qid":"q-2527891-8","question":"MySQL中like会使索引失效，假设在大段文本中匹配是怎样进行的？如果你来解决应该怎么处理？","content_id":"2527891","title":"第一次面试记录 - Java实习岗"}

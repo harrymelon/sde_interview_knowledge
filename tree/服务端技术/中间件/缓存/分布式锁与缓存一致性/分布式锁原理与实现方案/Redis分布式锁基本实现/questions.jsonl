@@ -18,3 +18,14 @@
 {"qid":"q-2746765-33","question":"第二个项目中数据不一致的原因及如何用Redis分布式锁解决（将不一致率从5%降至05%）","content_id":"2746765","title":"清程极智后端日常一面"}
 {"qid":"q-2797570-5","question":"项目中的分布式锁是怎么实现的？","content_id":"2797570","title":"焦点科技java后端一面30min"}
 {"qid":"q-2779397-17","question":"Redis中分布式锁的实现","content_id":"2779397","title":"快手Java后端开发-校招面经"}
+{"qid":"q-2642429-15","question":"如何用Redis实现分布式锁？","content_id":"2642429","title":"字节懂车帝 后端实习一面"}
+{"qid":"q-2642429-16","question":"如何为Redis分布式锁增加唯一标识？","content_id":"2642429","title":"字节懂车帝 后端实习一面"}
+{"qid":"q-2619252-3","question":"如何用Redis实现分布式锁？","content_id":"2619252","title":"6.16 字节跳动生活服务后端实习三面记录"}
+{"qid":"q-2618388-8","question":"Redis分布式锁的原理与实现","content_id":"2618388","title":"博彦科技-go后端开发"}
+{"qid":"q-2593329-0","question":"Redis分布式锁的实现方式","content_id":"2593329","title":"26Java-领雁科技-20min"}
+{"qid":"q-2587856-14","question":"如何使用Redis实现分布式锁？","content_id":"2587856","title":"快手Java暑期实习一面"}
+{"qid":"q-2566751-10","question":"分布式锁的实现方式","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2566756-4","question":"怎么实现分布式锁？","content_id":"2566756","title":"虾皮（Shopee）后端一面 3.26"}
+{"qid":"q-2556417-14","question":"Redis实现分布式锁有哪些方案？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
+{"qid":"q-2543734-9","question":"Setnx以及如何续期","content_id":"2543734","title":"成都致远互联Java一面"}
+{"qid":"q-2538107-15","question":"用Redis命令实现分布式锁用什么命令","content_id":"2538107","title":"猿辅导后端开发一面———手撕十年脑血栓"}

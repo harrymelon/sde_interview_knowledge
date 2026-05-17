@@ -1,0 +1,23 @@
+{"qid":"q-2654069-15","question":"JVM 垃圾回收原理","content_id":"2654069","title":"唯品会Java一二面"}
+{"qid":"q-2617723-10","question":"JVM的垃圾回收算法有哪些","content_id":"2617723","title":"饿了么1面"}
+{"qid":"q-2599670-6","question":"Java的GC在标记阶段认为对象是垃圾，但用户线程又引用它，Java如何保证正确和一致性","content_id":"2599670","title":"字节日常实习后端三面"}
+{"qid":"q-2583726-2","question":"JVM 垃圾回收后的空间是如何管理的？","content_id":"2583726","title":"pdd服务器二面，"}
+{"qid":"q-2583709-21","question":"怎么判定一个对象是垃圾？","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2583709-22","question":"哪些可以作为GC-Root？","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2562354-2","question":"Java垃圾回收算法的原理是什么？","content_id":"2562354","title":"美团暑期实习后端 面经"}
+{"qid":"q-2555330-15","question":"JVM垃圾回收机制","content_id":"2555330","title":"好未来Golang 一面"}
+{"qid":"q-2550714-3","question":"JVM垃圾回收策略有哪些","content_id":"2550714","title":"腾讯 微信支付一面"}
+{"qid":"q-2551869-8","question":"JVM中如何判断一个对象是垃圾","content_id":"2551869","title":"字节跳动二面（1h20min）"}
+{"qid":"q-2551869-9","question":"G1垃圾回收器使用的标记方法，可达性分析法中根节点的选取","content_id":"2551869","title":"字节跳动二面（1h20min）"}
+{"qid":"q-2529763-1","question":"JVM的垃圾回收机制是怎么工作的？","content_id":"2529763","title":"拼多多服务端开发面经二面"}
+{"qid":"q-2606607-5","question":"垃圾回收了解吗","content_id":"2606607","title":"05.20拼多多Java后端一面分享"}
+{"qid":"q-2608897-5","question":"JVM如何判断一个对象是否可以被回收？","content_id":"2608897","title":"众安保险Peek3-Java转正-1面"}
+{"qid":"q-2601773-1","question":"三色标记（三色标记算法）","content_id":"2601773","title":"5月12日 字节一面（后端开发-财经业务）-——50分钟左右"}
+{"qid":"q-2572890-18","question":"垃圾回收算法","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}
+{"qid":"q-2535627-5","question":"垃圾回收算法有哪些","content_id":"2535627","title":"高德Java 一面"}
+{"qid":"q-2587472-15","question":"JVM垃圾回收机制：年轻代和老年代回收机制的区别？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2560003-17","question":"Java语言为什么要设计垃圾回收机制？","content_id":"2560003","title":"拼多多服务端一面面经，全程项目"}
+{"qid":"q-2559940-15","question":"堆对象如何进行分代和转化？","content_id":"2559940","title":"蓝色外卖软件一面，1h无手撕，嘴都说冒烟了（一周后约了二面）"}
+{"qid":"q-2535627-6","question":"新生代和老年代的作用及垃圾回收特点","content_id":"2535627","title":"高德Java 一面"}
+{"qid":"q-2652265-9","question":"GC 算法有哪些？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2529763-2","question":"多线程同时分配和回收内存时，JVM如何做到高效率？","content_id":"2529763","title":"拼多多服务端开发面经二面"}

@@ -1,0 +1,212 @@
+{"qid":"q-2650231-7","question":"如何保证Java线程安全？","content_id":"2650231","title":"浪潮提前批java一面"}
+{"qid":"q-2654069-3","question":"如何实现线程安全的 HashMap？","content_id":"2654069","title":"唯品会Java一二面"}
+{"qid":"q-2654069-4","question":"ConcurrentHashMap 原理","content_id":"2654069","title":"唯品会Java一二面"}
+{"qid":"q-2654069-11","question":"Java 内存模型（JMM）","content_id":"2654069","title":"唯品会Java一二面"}
+{"qid":"q-2654069-12","question":"synchronized 实现原理","content_id":"2654069","title":"唯品会Java一二面"}
+{"qid":"q-2654069-14","question":"Java 线程池原理","content_id":"2654069","title":"唯品会Java一二面"}
+{"qid":"q-2631595-4","question":"synchronized的锁升级过程是怎样的？","content_id":"2631595","title":"袋鼠云java一面"}
+{"qid":"q-2631595-5","question":"synchronized锁加在方法、对象、类上的区别是什么？","content_id":"2631595","title":"袋鼠云java一面"}
+{"qid":"q-2631595-6","question":"volatile的可见性是什么？","content_id":"2631595","title":"袋鼠云java一面"}
+{"qid":"q-2631595-7","question":"volatile底层如何实现（内存屏障）？","content_id":"2631595","title":"袋鼠云java一面"}
+{"qid":"q-2652265-11","question":"JUC 上有哪些常用的工具类？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-12","question":"锁一般使用哪几种分类？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-13","question":"Lock 和 synchronized 属于哪种锁？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-14","question":"Lock 和 synchronized 的区别是什么？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-15","question":"公平锁和非公平锁有什么区别？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-16","question":"CAS 会有什么问题？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-17","question":"线程池一般有哪些参数？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-18","question":"任务拒绝策略有哪些？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-19","question":"核心线程数和最大线程数如何设置？与 CPU 和机器环境有什么关系？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-20","question":"什么是死锁？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-21","question":"如何避免死锁？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-22","question":"ThreadLocal 有什么影响？你用过吗？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2652265-23","question":"ThreadLocal 数据是怎么存储的？","content_id":"2652265","title":"有赞-暑期实习-一面"}
+{"qid":"q-2625808-12","question":"Java线程池参数有哪些","content_id":"2625808","title":"省流版阿里后台开发面经"}
+{"qid":"q-2625808-13","question":"Java线程池的代码实现（创建线程、队列满等）","content_id":"2625808","title":"省流版阿里后台开发面经"}
+{"qid":"q-2625808-14","question":"Java有哪些控制资源竞争的方法","content_id":"2625808","title":"省流版阿里后台开发面经"}
+{"qid":"q-2630409-3","question":"ConcurrentHashMap的底层实现原理及其线程安全机制是什么？","content_id":"2630409","title":"杭州趣链后端 开发实习"}
+{"qid":"q-2630409-4","question":"synchronized关键字的底层实现原理是什么？","content_id":"2630409","title":"杭州趣链后端 开发实习"}
+{"qid":"q-2630409-7","question":"线程池的概念和作用是什么？","content_id":"2630409","title":"杭州趣链后端 开发实习"}
+{"qid":"q-2630409-8","question":"线程池的核心参数有哪些？","content_id":"2630409","title":"杭州趣链后端 开发实习"}
+{"qid":"q-2630409-9","question":"线程池的拒绝策略有哪些？","content_id":"2630409","title":"杭州趣链后端 开发实习"}
+{"qid":"q-2630409-10","question":"当线程池核心线程数为0时，任务提交后线程池的行为是怎样的？","content_id":"2630409","title":"杭州趣链后端 开发实习"}
+{"qid":"q-2622613-6","question":"这个任务中使用的线程池参数是什么？","content_id":"2622613","title":"中文在线 后端开发实习生 二面 面经"}
+{"qid":"q-2619211-1","question":"介绍一下Java中的并发集合","content_id":"2619211","title":"腾讯ieg后端面经"}
+{"qid":"q-2619211-3","question":"线程池的核心线程数取决于什么？","content_id":"2619211","title":"腾讯ieg后端面经"}
+{"qid":"q-2619211-16","question":"什么是CAS操作？","content_id":"2619211","title":"腾讯ieg后端面经"}
+{"qid":"q-2616139-10","question":"项目中多线程如何使用的？线程池参数有哪些？执行原理？拒绝策略？","content_id":"2616139","title":"6.9 字节跳动生活服后端实习一面记录"}
+{"qid":"q-2616139-11","question":"如何保证线程池中的任务不丢失？","content_id":"2616139","title":"6.9 字节跳动生活服后端实习一面记录"}
+{"qid":"q-2616139-12","question":"项目中多个业务公用一个线程池还是分多个线程池？分析这两个方案的优劣？","content_id":"2616139","title":"6.9 字节跳动生活服后端实习一面记录"}
+{"qid":"q-2616139-13","question":"如果线程池使用后，没有达到预期效果，你会如何排查？","content_id":"2616139","title":"6.9 字节跳动生活服后端实习一面记录"}
+{"qid":"q-2616139-14","question":"如何排查java中的死锁？","content_id":"2616139","title":"6.9 字节跳动生活服后端实习一面记录"}
+{"qid":"q-2617201-5","question":"Java中线程安全的数据结构有哪些？除了Hashtable和ConcurrentHashMap还有哪些？","content_id":"2617201","title":"字节跳动后端一面（已过）"}
+{"qid":"q-2617201-6","question":"ConcurrentHashMap如何保证线程安全？其底层原理是什么？","content_id":"2617201","title":"字节跳动后端一面（已过）"}
+{"qid":"q-2617201-7","question":"volatile关键字的作用及其禁止指令重排和线程可见性的底层原理","content_id":"2617201","title":"字节跳动后端一面（已过）"}
+{"qid":"q-2615328-10","question":"线程池的创建方式有哪些？","content_id":"2615328","title":"上海汉得信息Java面经"}
+{"qid":"q-2604368-1","question":"ConcurrentHashMap 的线程安全原理；JDK 1.7 和 1.8 的区别是什么？","content_id":"2604368","title":"字节剪映后端开发一面凉经"}
+{"qid":"q-2604368-2","question":"synchronized 和 ReentrantLock 的异同点；为什么有了 synchronized 之后还要有 ReentrantLock？它们的底层如何实现？","content_id":"2604368","title":"字节剪映后端开发一面凉经"}
+{"qid":"q-2601773-0","question":"synchronized与lock的区别","content_id":"2601773","title":"5月12日 字节一面（后端开发-财经业务）-——50分钟左右"}
+{"qid":"q-2604061-5","question":"介绍一下线程池的核心参数","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2604061-6","question":"线程池工作原理","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2604061-7","question":"拒绝策略","content_id":"2604061","title":"soul java凉经，二面挂"}
+{"qid":"q-2598999-6","question":"Java中Synchronized和ReentrantLock的区别及各自实现原理是什么？","content_id":"2598999","title":""}
+{"qid":"q-2598999-7","question":"Java的内存模型是什么？","content_id":"2598999","title":""}
+{"qid":"q-2598999-8","question":"Volatile关键字的作用和实现原理是什么？","content_id":"2598999","title":""}
+{"qid":"q-2592031-12","question":"讲讲Java并发编程","content_id":"2592031","title":"4.22 美团核心本地商业-业务研发平台 后端一面"}
+{"qid":"q-2592031-13","question":"讲讲AQS","content_id":"2592031","title":"4.22 美团核心本地商业-业务研发平台 后端一面"}
+{"qid":"q-2592031-14","question":"讲讲volatile关键字","content_id":"2592031","title":"4.22 美团核心本地商业-业务研发平台 后端一面"}
+{"qid":"q-2592031-15","question":"volatile如何禁止指令重排序","content_id":"2592031","title":"4.22 美团核心本地商业-业务研发平台 后端一面"}
+{"qid":"q-2592031-16","question":"讲讲线程池","content_id":"2592031","title":"4.22 美团核心本地商业-业务研发平台 后端一面"}
+{"qid":"q-2592031-17","question":"假如核心线程还没满，有几个空闲的核心线程，又来了一个新任务，此时会怎么做？","content_id":"2592031","title":"4.22 美团核心本地商业-业务研发平台 后端一面"}
+{"qid":"q-2592748-3","question":"ThreadLocal中存储了哪些用户信息？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2592748-4","question":"多线程下如何通过ThreadLocal区分用户？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2592748-29","question":"线程池有哪些参数？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2592748-30","question":"讲一下Java中所用到的锁","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2592748-31","question":"讲一下CAS，Java是如何实现CAS的","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2592748-32","question":"CAS和乐观锁有什么关系？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2592748-33","question":"讲一下volatile的作用、实现原理及使用场景","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2590786-1","question":"如何通过ThreadLocal将当前登录用户ID通用地插入数据库，且不能使用AOP也不能与业务代码耦合？","content_id":"2590786","title":"26暑假实习腾讯云智后台开发二面 后续二面过了"}
+{"qid":"q-2593511-12","question":"Volatile关键字的作用和原理是什么？","content_id":"2593511","title":"美团一面"}
+{"qid":"q-2593511-13","question":"Volatile为什么不能保证原子性？","content_id":"2593511","title":"美团一面"}
+{"qid":"q-2593511-14","question":"Volatile的常见使用场景有哪些？","content_id":"2593511","title":"美团一面"}
+{"qid":"q-2593511-15","question":"ConcurrentHashMap的Put流程是怎样的？读操作做了哪些优化？","content_id":"2593511","title":"美团一面"}
+{"qid":"q-2593511-16","question":"ConcurrentHashMap扩容时读写操作怎么办？","content_id":"2593511","title":"美团一面"}
+{"qid":"q-2593511-17","question":"ConcurrentHashMap扩容为什么选择2倍？","content_id":"2593511","title":"美团一面"}
+{"qid":"q-2587856-2","question":"Java7和Java8中ConcurrentHashMap的区别是什么？","content_id":"2587856","title":"快手Java暑期实习一面"}
+{"qid":"q-2587856-3","question":"synchronized锁和ReentrantLock的公平性有什么区别？","content_id":"2587856","title":"快手Java暑期实习一面"}
+{"qid":"q-2587856-4","question":"ReentrantLock的公平性如何实现？","content_id":"2587856","title":"快手Java暑期实习一面"}
+{"qid":"q-2587856-5","question":"Java线程池的核心参数及工作原理是什么？","content_id":"2587856","title":"快手Java暑期实习一面"}
+{"qid":"q-2587856-6","question":"Java线程池的销毁过程是怎样的？","content_id":"2587856","title":"快手Java暑期实习一面"}
+{"qid":"q-2587856-7","question":"如果有一个无界队列不断向线程池提交请求，会出现什么现象？","content_id":"2587856","title":"快手Java暑期实习一面"}
+{"qid":"q-2587856-10","question":"ThreadLocal内存泄露是如何发生的？如何避免？","content_id":"2587856","title":"快手Java暑期实习一面"}
+{"qid":"q-2587472-3","question":"多线程查SQL时如何保证返回结果有序？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2587472-4","question":"虚拟线程是什么？为什么它对线程池化不敏感？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2581798-3","question":"Java中启动多线程的方式有哪些？","content_id":"2581798","title":"联想Java一面凉经  再见梦厂！"}
+{"qid":"q-2581798-4","question":"请详细说说线程池的工作原理和配置。","content_id":"2581798","title":"联想Java一面凉经  再见梦厂！"}
+{"qid":"q-2583709-11","question":"Java怎么保证并发安全？（synchronized、lock、原子类等）","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2583709-12","question":"Lock接口怎么实现的？（CAS+AQS）","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2583709-13","question":"CAS是干什么的？","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2583709-14","question":"CAS为什么要判断内存里的值与旧值是否相等？举例说明","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2583709-15","question":"CAS能保证线程安全吗？","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2583709-16","question":"ThreadLocal了解吗？","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2583709-17","question":"ThreadLocal的内存泄露是如何产生的？","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2583709-18","question":"ThreadLocal中ThreadLocalMap的key为什么是弱引用，value是强引用？","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2580222-13","question":"常见的线程池有哪些？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580222-14","question":"线程池的执行原理？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580222-15","question":"ThreadLocal的实现原理，需要注意什么？缺点是什么？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580222-16","question":"JUC包知道哪些？怎么使用？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580222-17","question":"ConcurrentHashmap了解过嘛？扩容机制呢？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580222-18","question":"ConcurrentHashmap实现原理是什么？并发机制是什么？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580222-30","question":"多线程中哪些参数？start()和run()的区别是什么？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580222-31","question":"Volatile和synchronized的区别是什么？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
+{"qid":"q-2580353-9","question":"Java中的互斥锁是如何工作的","content_id":"2580353","title":"拼多多社招 Java一二面"}
+{"qid":"q-2580353-10","question":"为什么ReentrantLock比synchronized更灵活","content_id":"2580353","title":"拼多多社招 Java一二面"}
+{"qid":"q-2580353-11","question":"ReentrantLock的lock和unlock方法是如何实现的","content_id":"2580353","title":"拼多多社招 Java一二面"}
+{"qid":"q-2578430-2","question":"volatile关键字的作用是什么？有序性是如何实现的？","content_id":"2578430","title":"美团 软件后端-直播部门 4.8 一面"}
+{"qid":"q-2574038-7","question":"两个线程交替打印 1-100 的奇数和偶数","content_id":"2574038","title":"阿里云一二三面时间线+面经"}
+{"qid":"q-2572628-1","question":"volatile关键字的可见性原理","content_id":"2572628","title":"快手Java日常一面"}
+{"qid":"q-2572994-3","question":"并发安全相关的几个问题，包括锁、JMM等。","content_id":"2572994","title":"4.1蚂蚁国际暑期一面"}
+{"qid":"q-2571364-2","question":"Java线程同步及公平锁/非公平锁","content_id":"2571364","title":"字节一面-春招"}
+{"qid":"q-2572890-5","question":"Java自带的延迟队列了解过吗？","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}
+{"qid":"q-2572890-9","question":"ThreadLocal中后台用户信息存储位置？","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}
+{"qid":"q-2572890-10","question":"了解什么并发工具类？","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}
+{"qid":"q-2572890-11","question":"主线程等待多个子线程执行完逻辑后再执行，可以用什么？","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}
+{"qid":"q-2572890-14","question":"阻塞队列是什么？线程池用的是什么队列？怎么自定义拒绝策略？","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}
+{"qid":"q-2569981-4","question":"线程池有哪七个参数","content_id":"2569981","title":"四非本 滴滴-后端实习面经(已OC)"}
+{"qid":"q-2569981-5","question":"为什么使用线程池而不是直接创建线程","content_id":"2569981","title":"四非本 滴滴-后端实习面经(已OC)"}
+{"qid":"q-2569981-6","question":"线程数量是越多越好吗","content_id":"2569981","title":"四非本 滴滴-后端实习面经(已OC)"}
+{"qid":"q-2569981-7","question":"volatile关键字有什么作用","content_id":"2569981","title":"四非本 滴滴-后端实习面经(已OC)"}
+{"qid":"q-2569981-8","question":"使用volatile需要注意什么（volatile只能保证可见性，不能保证原子性）","content_id":"2569981","title":"四非本 滴滴-后端实习面经(已OC)"}
+{"qid":"q-2569981-20","question":"如何使用CompletableFuture替代CountDownLatch进行服务编排和同步","content_id":"2569981","title":"四非本 滴滴-后端实习面经(已OC)"}
+{"qid":"q-2571174-8","question":"Java线程池的核心参数和原理","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2571174-21","question":"CAS操作为什么是线程安全的","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2571174-22","question":"高并发场景下使用CAS存在的问题","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2571174-23","question":"CAS除了ABA问题外还存在哪些问题","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2571174-24","question":"乐观锁与悲观锁的区别与应用场景","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2571174-25","question":"ThreadLocal的优势、原理和存在的问题","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2571174-27","question":"线程池中如何获取主线程中的数据","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2568004-4","question":"ThreadLocal使用注意事项及原理","content_id":"2568004","title":"3.27vivo一面凉经"}
+{"qid":"q-2568004-6","question":"Java中有哪些线程安全的类？","content_id":"2568004","title":"3.27vivo一面凉经"}
+{"qid":"q-2568004-7","question":"ConcurrentHashMap的内部原理是什么？","content_id":"2568004","title":"3.27vivo一面凉经"}
+{"qid":"q-2568004-8","question":"阻塞队列的内部原理是什么？","content_id":"2568004","title":"3.27vivo一面凉经"}
+{"qid":"q-2566751-22","question":"JUC可重入锁的原理（AQS）","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2566751-23","question":"ReentrantLock和CountDownLatch的区别","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2565587-6","question":"ThreadLocal的使用方式和存在的问题","content_id":"2565587","title":"蚂蚁Java应用开发一面凉经"}
+{"qid":"q-2565587-8","question":"ThreadLocal在异常时的释放以及造成阻塞的解决方法","content_id":"2565587","title":"蚂蚁Java应用开发一面凉经"}
+{"qid":"q-2565587-12","question":"synchronized与ReentrantLock的区别","content_id":"2565587","title":"蚂蚁Java应用开发一面凉经"}
+{"qid":"q-2560502-2","question":"ConcurrentHashMap相较于HashMap做了哪些改进","content_id":"2560502","title":"万得后端暑期一面（目前HR面）"}
+{"qid":"q-2560502-3","question":"线程池的核心参数与底层原理","content_id":"2560502","title":"万得后端暑期一面（目前HR面）"}
+{"qid":"q-2558987-4","question":"多线程交替打印数字的实现方式？","content_id":"2558987","title":"滴滴 后端开发 一面凉经"}
+{"qid":"q-2558131-0","question":"请介绍synchronized和ReentrantLock的区别与用法","content_id":"2558131","title":"字节后端开发一面面经"}
+{"qid":"q-2558131-1","question":"volatile关键字解决了什么问题","content_id":"2558131","title":"字节后端开发一面面经"}
+{"qid":"q-2558131-2","question":"多个线程给一个变量加一，用volatile能解决原子性问题吗？还会有什么问题","content_id":"2558131","title":"字节后端开发一面面经"}
+{"qid":"q-2558131-3","question":"除了加锁，还有什么方法可以保证多个线程对变量加一的原子性","content_id":"2558131","title":"字节后端开发一面面经"}
+{"qid":"q-2557328-1","question":"volatile 关键字的作用与原理是什么？","content_id":"2557328","title":"字节广告业务后端一面"}
+{"qid":"q-2557328-4","question":"多线程交替打印 ABC 如何实现？","content_id":"2557328","title":"字节广告业务后端一面"}
+{"qid":"q-2556417-3","question":"Java中实现多线程有哪几种方式？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
+{"qid":"q-2556417-4","question":"线程池有哪些核心参数？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
+{"qid":"q-2560003-13","question":"为什么用ThreadLocal去存储id？会不会有什么问题？","content_id":"2560003","title":"拼多多服务端一面面经，全程项目"}
+{"qid":"q-2560003-14","question":"ThreadLocal在项目中如果遇到跨线程会不会有什么问题？","content_id":"2560003","title":"拼多多服务端一面面经，全程项目"}
+{"qid":"q-2556448-3","question":"JMM分为哪些部分？解释有序性、原子性、可见性。","content_id":"2556448","title":"pdd服务端研发一面"}
+{"qid":"q-2558163-2","question":"线程池常见的参数有哪些？","content_id":"2558163","title":"携程后端开发二面凉经"}
+{"qid":"q-2555732-8","question":"创建线程的方式有几种？","content_id":"2555732","title":"京东工业后端开发一面凉经"}
+{"qid":"q-2555732-9","question":"runnable和callable有什么区别？","content_id":"2555732","title":"京东工业后端开发一面凉经"}
+{"qid":"q-2556133-10","question":"如何解决这个多线程问题？（加锁）","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2556133-11","question":"reentranktlock相比另一个锁，为什么更灵活？（trylock，公平锁）","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2556133-12","question":"什么是公平锁？","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2556133-13","question":"从你学过的课程里面，你觉得如果要实现一个锁，最关键的是什么？（答保证操作的原子性）","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2556133-14","question":"原子性是什么？","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2556133-15","question":"获取锁的过程需要几步？（答要获取到锁，把互斥变量改为1）","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2556133-16","question":"什么叫获取到锁？（答用cas操作记录下获取锁的线程）","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2556133-17","question":"什么是cas？是干什么的？","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2556133-18","question":"结合上面这么一条链路，你觉得实现一个锁最关键步骤是哪个步骤？（答cas）","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2550552-7","question":"ThreadLocal是什么，使用场景有哪些？","content_id":"2550552","title":"26Java-杭州小厂-二面25min"}
+{"qid":"q-2551867-10","question":"线程池有哪些参数？","content_id":"2551867","title":"字节跳动一面（55min）"}
+{"qid":"q-2551867-11","question":"拒绝策略有哪几种？","content_id":"2551867","title":"字节跳动一面（55min）"}
+{"qid":"q-2545555-0","question":"volatile关键字，底层原理是什么","content_id":"2545555","title":"淘天集团-业务技术一面凉经"}
+{"qid":"q-2545555-7","question":"ConcurrentHashMap的实现原理","content_id":"2545555","title":"淘天集团-业务技术一面凉经"}
+{"qid":"q-2544065-3","question":"介绍 Java 中的 synchronized 和 ReentrantLock 锁机制","content_id":"2544065","title":"字节数据平台实习一面菜鸡凉经"}
+{"qid":"q-2543734-13","question":"线程池的核心参数有哪些","content_id":"2543734","title":"成都致远互联Java一面"}
+{"qid":"q-2543734-14","question":"ThreadLocal了解吗","content_id":"2543734","title":"成都致远互联Java一面"}
+{"qid":"q-2543734-15","question":"ThreadLocal子线程如何访问父线程的数据","content_id":"2543734","title":"成都致远互联Java一面"}
+{"qid":"q-2538940-10","question":"线程池的原理与拷打（核心参数、拒绝策略、线程数配置等）","content_id":"2538940","title":"京东零售 Java 二面"}
+{"qid":"q-2538964-5","question":"多线程实现模式","content_id":"2538964","title":"快手商业化 Java 二面"}
+{"qid":"q-2538964-6","question":"JMM（Java内存模型）","content_id":"2538964","title":"快手商业化 Java 二面"}
+{"qid":"q-2538136-5","question":"CompletableFuture的了解和使用经验？底层原理是什么？","content_id":"2538136","title":"虎牙春招java一二面记录"}
+{"qid":"q-2538959-3","question":"线程池的原理和使用","content_id":"2538959","title":"美团数据研发 JAVA 二面"}
+{"qid":"q-2538959-4","question":"动态扩容的线程池是如何实现的","content_id":"2538959","title":"美团数据研发 JAVA 二面"}
+{"qid":"q-2536703-4","question":"什么是线程安全","content_id":"2536703","title":"中国移动卓望公司 Java开发 二面"}
+{"qid":"q-2536703-5","question":"线程安全的三个要素","content_id":"2536703","title":"中国移动卓望公司 Java开发 二面"}
+{"qid":"q-2536198-2","question":"服务中如何使用多线程？多线程如何实现同步？线程池的尺寸大概如何确定？","content_id":"2536198","title":"虾皮 Java 一面"}
+{"qid":"q-2535627-2","question":"ConcurrentHashMap 的实现原理","content_id":"2535627","title":"高德Java 一面"}
+{"qid":"q-2535627-8","question":"线程池的参数有哪些，为什么要有核心线程数和最大线程数两个参数","content_id":"2535627","title":"高德Java 一面"}
+{"qid":"q-2535038-0","question":"线程池什么时候复用线程？什么时候创建线程？任务队列满了怎么处理？核心线程是线程池创建时就初始化吗？","content_id":"2535038","title":"淘天直播社招一面"}
+{"qid":"q-2535115-9","question":"一个整数变量，两个线程同时进行+1操作，会有哪些结果，为什么","content_id":"2535115","title":"腾讯实习基地一面凉经"}
+{"qid":"q-2535115-10","question":"两个线程对共享变量进行+1操作时，加锁应该加在哪里","content_id":"2535115","title":"腾讯实习基地一面凉经"}
+{"qid":"q-2532597-5","question":"ThreadLocal的原理","content_id":"2532597","title":"字节后端开发面经一面"}
+{"qid":"q-2532292-2","question":"threadlocal的理解，底层原理","content_id":"2532292","title":"邦盛科技JAVA一二面"}
+{"qid":"q-2532292-3","question":"threadlocalmap的put过程","content_id":"2532292","title":"邦盛科技JAVA一二面"}
+{"qid":"q-2532292-5","question":"线程池用过吗，有哪些参数","content_id":"2532292","title":"邦盛科技JAVA一二面"}
+{"qid":"q-2532292-6","question":"线程池执行流程","content_id":"2532292","title":"邦盛科技JAVA一二面"}
+{"qid":"q-2532292-13","question":"线程池拒绝策略有哪些","content_id":"2532292","title":"邦盛科技JAVA一二面"}
+{"qid":"q-2532292-14","question":"JAVA中有哪些线程安全的类","content_id":"2532292","title":"邦盛科技JAVA一二面"}
+{"qid":"q-2532292-17","question":"synchronized锁是对象锁还是方法锁","content_id":"2532292","title":"邦盛科技JAVA一二面"}
+{"qid":"q-2532292-18","question":"synchronized是可重入锁吗","content_id":"2532292","title":"邦盛科技JAVA一二面"}
+{"qid":"q-2532292-20","question":"ReentrantLock","content_id":"2532292","title":"邦盛科技JAVA一二面"}
+{"qid":"q-2530782-0","question":"短链接更新时如何保证线程安全？","content_id":"2530782","title":"快看漫画-Java后端开发实习生OC"}
+{"qid":"q-2530782-2","question":"线程池是如何设置的？","content_id":"2530782","title":"快看漫画-Java后端开发实习生OC"}
+{"qid":"q-2530782-3","question":"线程池的最大线程数在什么场景下会用到？","content_id":"2530782","title":"快看漫画-Java后端开发实习生OC"}
+{"qid":"q-2530782-7","question":"volatile关键字的作用是什么？","content_id":"2530782","title":"快看漫画-Java后端开发实习生OC"}
+{"qid":"q-2530782-8","question":"为什么会有指令重排的这个功能？","content_id":"2530782","title":"快看漫画-Java后端开发实习生OC"}
+{"qid":"q-2529763-4","question":"多线程之间怎么样来做同步？","content_id":"2529763","title":"拼多多服务端开发面经二面"}
+{"qid":"q-2529763-5","question":"读写锁怎么实现的？怎么保证读的时候没人去写？","content_id":"2529763","title":"拼多多服务端开发面经二面"}
+{"qid":"q-2529653-1","question":"Java锁的底层原理","content_id":"2529653","title":"中国移动卓望公司 java开发-广州 一面"}
+{"qid":"q-2531587-5","question":"线程池的参数如何设置？","content_id":"2531587","title":"腾讯hr部门二面"}
+{"qid":"q-2531587-6","question":"为什么核心线程数多了CPU负载会高？","content_id":"2531587","title":"腾讯hr部门二面"}
+{"qid":"q-2531587-10","question":"线程池使用需要注意哪些点？","content_id":"2531587","title":"腾讯hr部门二面"}
+{"qid":"q-2531587-11","question":"ThreadLocal为什么会有内存泄露？","content_id":"2531587","title":"腾讯hr部门二面"}
+{"qid":"q-2531587-12","question":"ThreadLocalMap最大能装多少元素？","content_id":"2531587","title":"腾讯hr部门二面"}
+{"qid":"q-2527891-1","question":"替代同步锁的方式，举例","content_id":"2527891","title":"第一次面试记录 - Java实习岗"}
+{"qid":"q-2527891-2","question":"如何控制线程的执行顺序？","content_id":"2527891","title":"第一次面试记录 - Java实习岗"}
+{"qid":"q-2523761-3","question":"synchronized 底层原理是什么？","content_id":"2523761","title":"饿了么面经"}
+{"qid":"q-2527713-5","question":"什么是可重入锁？","content_id":"2527713","title":"Akulaku Java实习面经"}
