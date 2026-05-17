@@ -1,0 +1,36 @@
+{"qid":"q-2791102-4","question":"请描述RPC的连接过程","content_id":"2791102","title":"字节后端-一面"}
+{"qid":"q-2791102-5","question":"常见的寻址元数据有哪些？","content_id":"2791102","title":"字节后端-一面"}
+{"qid":"q-2779565-6","question":"如果让你实现一个RPC框架，会考虑用哪些技术解决哪些问题？","content_id":"2779565","title":"亚马逊Java后端开发一面凉经"}
+{"qid":"q-2779278-8","question":"一次RPC调用从A机器到B机器的实现细节有哪些？","content_id":"2779278","title":"小红书后端校招二面"}
+{"qid":"q-2778372-11","question":"有没有用过RPC服务","content_id":"2778372","title":"滴滴后端开发 26校招 二面"}
+{"qid":"q-2778372-12","question":"RPC是怎么实现的","content_id":"2778372","title":"滴滴后端开发 26校招 二面"}
+{"qid":"q-2763749-20","question":"RPC框架原理与选型","content_id":"2763749","title":"26届双非本秋招总结"}
+{"qid":"q-2730759-9","question":"RPC的原理是什么？","content_id":"2730759","title":"去哪儿java开发一天三面"}
+{"qid":"q-2666837-2","question":"RPC调用流程","content_id":"2666837","title":"美团java后端一面(挂)"}
+{"qid":"q-2583709-8","question":"RPC项目的背景和功能","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2583709-9","question":"一次RPC调用会经历哪些过程？（代理、编解码、网络通信、熔断降级等）","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2583709-10","question":"服务端怎么知道客户端调用了什么方法？（编码规则）","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2569981-23","question":"RPC相关：为什么做这个项目？实现原理是什么","content_id":"2569981","title":"四非本 滴滴-后端实习面经(已OC)"}
+{"qid":"q-2569981-24","question":"如何设计RPC协议？有哪些需要注意的点","content_id":"2569981","title":"四非本 滴滴-后端实习面经(已OC)"}
+{"qid":"q-2534920-16","question":"什么是RPC","content_id":"2534920","title":"腾讯一二面泡池子（已 offer）"}
+{"qid":"q-2534920-17","question":"RPC如何实现（基于TCP、可靠UDP、HTTP）","content_id":"2534920","title":"腾讯一二面泡池子（已 offer）"}
+{"qid":"q-2485500-0","question":"RPC原理及实现过程","content_id":"2485500","title":"中移动在线营销一面面经"}
+{"qid":"q-2495918-28","question":"RPC的底层思路是什么？包括服务提供、服务注册、服务发现、服务使用","content_id":"2495918","title":"【26日常】掌上先机 timeline+ 面经汇总"}
+{"qid":"q-2495918-29","question":"什么是RPC？为什么要有RPC？","content_id":"2495918","title":"【26日常】掌上先机 timeline+ 面经汇总"}
+{"qid":"q-2470476-0","question":"如何实现一个同步阻塞的RPC？","content_id":"2470476","title":"小红书日常实习-分布式存储"}
+{"qid":"q-2470476-1","question":"RPC的具体设计细节是怎样的？","content_id":"2470476","title":"小红书日常实习-分布式存储"}
+{"qid":"q-2470476-2","question":"RPC使用了什么线程模型？","content_id":"2470476","title":"小红书日常实习-分布式存储"}
+{"qid":"q-2815333-4","question":"跨服之间请求怎么调用和接收？","content_id":"2815333","title":"某游戏公司   服务端"}
+{"qid":"q-863792580864061440-6","question":"你用过RPC协议和微服务框架吗？请简述其原理","content_id":"863792580864061440","title":"竞技世界java一面"}
+{"qid":"q-2808982-22","question":"RPC调用的实现原理是什么？","content_id":"2808982","title":"美团 后端日常实习（OC）"}
+{"qid":"q-2837542-0","question":"RPC远程调用的过程是怎样的？","content_id":"2837542","title":"27美团暑期后端ai开发二面分享"}
+{"qid":"q-2837011-4","question":"微服务之间的调用方式（RPC等）","content_id":"2837011","title":"腾讯光子后台开发面经"}
+{"qid":"q-2834081-0","question":"RPC远程调用过程是怎样的？","content_id":"2834081","title":"美团暑期后端AI开发二面 攒人品中"}
+{"qid":"q-2834013-9","question":"RPC项目目前瓶颈在哪？","content_id":"2834013","title":"字节后端ai开发一面-日常实习分享"}
+{"qid":"q-2832824-3","question":"除了消息队列，你有没有想过其他通信方案？（RPC，HTTP等）","content_id":"2832824","title":"快手后端开发实习一面面经"}
+{"qid":"q-2832254-14","question":"讲一下RPC的架构。","content_id":"2832254","title":"淘天一面（后端社招）"}
+{"qid":"q-2831303-12","question":"RPC项目目前瓶颈在哪","content_id":"2831303","title":"字节后端开发一面热经"}
+{"qid":"q-2831070-2","question":"自制RPC框架的服务注册和发现怎么实现的？","content_id":"2831070","title":"美团暑期实习 ai后端一面分享"}
+{"qid":"q-2829516-0","question":"RPC远程调用过程是怎样的？","content_id":"2829516","title":"4.7美团暑期后端二面"}
+{"qid":"q-2843114-11","question":"RPC项目目前瓶颈在哪","content_id":"2843114","title":"AI后端开发一面分享-字节实习"}
+{"qid":"q-2840964-5","question":"微服务项目的RPC接口如何使用？","content_id":"2840964","title":"苏州聚复 全栈开发 已OC 附TL"}

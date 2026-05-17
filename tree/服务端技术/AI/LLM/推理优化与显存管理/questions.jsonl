@@ -12,3 +12,29 @@
 {"qid":"q-847976149895376896-10","question":"大模型推理优化技术：量化、蒸馏、MoE","content_id":"847976149895376896","title":"2026的你，应该知道哪些AI面试题？"}
 {"qid":"q-837660497750028288-5","question":"如何让大模型的响应时间变小（stream响应）？第一个token时间和总体时间如何优化？","content_id":"837660497750028288","title":"字节飞书AI后端一面凉经"}
 {"qid":"q-2671310-11","question":"大模型生成数据流推送（逐字输出）的方案是怎样的？","content_id":"2671310","title":"美团后端秋招一面"}
+{"qid":"q-2813022-9","question":"推理优化和并行加速如何实现？显存管理、CUDA架构、模型训练同步方式及高效通信？","content_id":"2813022","title":"字节ByteIntern剪映后端三面面经"}
+{"qid":"q-2812046-28","question":"模型推理链路是如何部署的？","content_id":"2812046","title":"26.3.4 字节AI搜索一面"}
+{"qid":"q-2809853-8","question":"KV Cache的原理是什么？","content_id":"2809853","title":"字节- AML大模型后端开发-一二面"}
+{"qid":"q-2809853-14","question":"多轮对话中如果a没有命中KV Cache缓存，后面的b、c可以命中吗？","content_id":"2809853","title":"字节- AML大模型后端开发-一二面"}
+{"qid":"q-2839556-1","question":"手写RMSNorm归一化，用CUDA C实现","content_id":"2839556","title":"美团大模型后端二面"}
+{"qid":"q-2837691-7","question":"大模型的部署工具有哪些？","content_id":"2837691","title":"滴滴后端开发一、二面"}
+{"qid":"q-2836559-4","question":"除了转ONNX，从模型角度和工程角度还有哪些提升推理速度的技术手段？","content_id":"2836559","title":"科大讯飞 - Java开发暑期实习 一面面经（攒人品ing）"}
+{"qid":"q-2833990-12","question":"大语言模型的参数了解吗？显存消耗在哪个层面？","content_id":"2833990","title":"钉钉27暑期后端ai研发一面面经 1h"}
+{"qid":"q-2832824-19","question":"你了解vLLM吗？你知道他的原理吗？","content_id":"2832824","title":"快手后端开发实习一面面经"}
+{"qid":"q-2831358-4","question":"大语言模型参数与显存消耗层面","content_id":"2831358","title":"4.8 钉钉-S项目-暑期实习java研发一面"}
+{"qid":"q-2830616-2","question":"推理框架优化的背景和方案有哪些？","content_id":"2830616","title":"腾讯TEG混元后台开发"}
+{"qid":"q-2829542-4","question":"什么是 KV Cache，它为什么能显著提升推理效率？","content_id":"2829542","title":"快手后端ai agent算法面经分享"}
+{"qid":"q-2829542-5","question":"Prefix Cache 和 KV Cache 有什么区别，分别适合什么场景？","content_id":"2829542","title":"快手后端ai agent算法面经分享"}
+{"qid":"q-2829542-6","question":"为什么大模型推理通常是 memory bound，而不是 compute bound？","content_id":"2829542","title":"快手后端ai agent算法面经分享"}
+{"qid":"q-2829542-7","question":"Batch 推理和单请求推理的吞吐与延迟 tradeoff 是什么？","content_id":"2829542","title":"快手后端ai agent算法面经分享"}
+{"qid":"q-2829542-8","question":"Continuous Batching 解决了什么问题，为什么对推理服务很重要？","content_id":"2829542","title":"快手后端ai agent算法面经分享"}
+{"qid":"q-2829542-9","question":"Prefill 和 Decode 两个阶段的性能瓶颈分别在哪里？","content_id":"2829542","title":"快手后端ai agent算法面经分享"}
+{"qid":"q-2829542-14","question":"量化是什么，INT8和FP16的核心区别是什么？","content_id":"2829542","title":"快手后端ai agent算法面经分享"}
+{"qid":"q-2829542-15","question":"推理量化会对模型效果造成什么影响，如何评估是否值得量化？","content_id":"2829542","title":"快手后端ai agent算法面经分享"}
+{"qid":"q-2829542-16","question":"张量并行、流水线并行、数据并行分别适合哪个阶段？","content_id":"2829542","title":"快手后端ai agent算法面经分享"}
+{"qid":"q-2829542-17","question":"单机多卡部署大模型时，通信开销主要来自哪里？","content_id":"2829542","title":"快手后端ai agent算法面经分享"}
+{"qid":"q-2829542-18","question":"为什么 GPU 显存是大模型部署的核心约束之一？","content_id":"2829542","title":"快手后端ai agent算法面经分享"}
+{"qid":"q-2829542-19","question":"模型参数量、上下文长度、并发数三者之间是什么关系？","content_id":"2829542","title":"快手后端ai agent算法面经分享"}
+{"qid":"q-2845191-8","question":"本地部署用的多大的模型，你的GPU指标参数是什么，如何做好推理优化和并行加速有了解过么？显存给我讲讲，cuda的架构以及模型训练的同步方式，以及如何可以进行高效的通信？","content_id":"2845191","title":"字节剪映后端ai开发三面面经分享 1h"}
+{"qid":"q-2843803-10","question":"Transformer中的KV Cache是什么？","content_id":"2843803","title":"字节飞书低代码平台 后台开发一面"}
+{"qid":"q-2841499-12","question":"你对大模型的推理框架有哪些了解？","content_id":"2841499","title":"字节搜索广告 后端开发一面"}

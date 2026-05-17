@@ -6,3 +6,13 @@
 {"qid":"q-2815768-11","question":"Redis签到记录用bitmap，在Java中对应的数据结构是什么？","content_id":"2815768","title":"小厂愉游java一面"}
 {"qid":"q-2571174-30","question":"网站统计为什么用HyperLogLog","content_id":"2571174","title":"淘天一二面凉经"}
 {"qid":"q-2777464-10","question":"Redis数据结构（ZSet、Bitmap）的应用场景及限制？","content_id":"2777464","title":"百度网盘 国际化Go实习一面凉经"}
+{"qid":"q-2838274-1","question":"Redis的Bitmap大概是一个什么样的物理结构？","content_id":"2838274","title":"27暑期 字节后端AI开发二面分享"}
+{"qid":"q-2837957-6","question":"Bitmap 的具体功能和实现原理是什么？如果要删数据怎么办？","content_id":"2837957","title":"京东27暑期后端ai开发一面分享"}
+{"qid":"q-2835437-1","question":"Redis bitmap在分片上传状态维护中的作用是什么？","content_id":"2835437","title":"腾讯后台ai开发一面 实习面经"}
+{"qid":"q-2832975-13","question":"bitmap的底层","content_id":"2832975","title":"腾讯暑期ai后台开发一面 攒人品中"}
+{"qid":"q-872222580944429056-3","question":"Redis中Bitmap的使用场景与原理","content_id":"872222580944429056","title":"腾讯视频 后台开发一面"}
+{"qid":"q-872222580944429056-4","question":"Redis中HyperLogLog的使用场景与原理","content_id":"872222580944429056","title":"腾讯视频 后台开发一面"}
+{"qid":"q-2831393-17","question":"HyperLogLog的原理是什么","content_id":"2831393","title":"腾讯 ima 4-8 已挂"}
+{"qid":"q-2843305-9","question":"Redis中Bitmap的底层实现是什么","content_id":"2843305","title":"暑期实习-腾讯ai后端开发一面分享"}
+{"qid":"q-2842627-12","question":"为什么选择Redis Bitmap数据结构","content_id":"2842627","title":"4.24 腾讯云智 后端一面"}
+{"qid":"q-2841121-11","question":"如何统计最近七天内每天都活跃的日活用户交集？","content_id":"2841121","title":"腾讯视频 后端开发 面经"}

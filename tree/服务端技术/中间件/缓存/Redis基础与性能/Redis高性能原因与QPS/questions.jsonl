@@ -39,3 +39,30 @@
 {"qid":"q-2816472-5","question":"访问Redis为什么快？谈谈I/O多路复用。","content_id":"2816472","title":"携程 后端开发实习"}
 {"qid":"q-864998819736387584-8","question":"单线程Redis为什么那么快？","content_id":"864998819736387584","title":"顺丰java一面"}
 {"qid":"q-2814882-3","question":"redis为什么那么快","content_id":"2814882","title":"字节后端暑期实习一面"}
+{"qid":"q-2814150-10","question":"Redis是单线程吗？多线程有什么优点？Redis为什么这么快？","content_id":"2814150","title":"近期两场小厂后端Java面经"}
+{"qid":"q-864092169466810368-3","question":"了解过Redis的并发性能吗？","content_id":"864092169466810368","title":"3.18腾讯后台开发一面"}
+{"qid":"q-2809612-9","question":"为什么Redis单线程还能支持高并发？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2809612-10","question":"epoll在Redis中用在什么场景？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2809301-2","question":"讲一下Redis为什么这么快","content_id":"2809301","title":"上海小小厂后端诡异面经(\u003c20人)"}
+{"qid":"q-861270934982758400-0","question":"介绍一下 Redis 为什么快","content_id":"861270934982758400","title":"3.11 京东零售暑期实习后端一面凉经+求问+攒人品"}
+{"qid":"q-860831057271095296-1","question":"为什么这个项目会比每次直接查数据库或远端缓存快很多？","content_id":"860831057271095296","title":"荣耀 通用软件开发-C++ 一面"}
+{"qid":"q-2840069-5","question":"Redis为什么性能强？Redis单线程讲解","content_id":"2840069","title":"腾讯视频暑期后端一面3.19"}
+{"qid":"q-2837734-13","question":"Redis为什么在高并发情况下表现得比较好？","content_id":"2837734","title":"AI后台开发日常实习一面分享 字节"}
+{"qid":"q-2835684-4","question":"Redis为什么比MySQL快？为什么单线程这么快？","content_id":"2835684","title":"美团ai后端开发一面 27日常实习一面"}
+{"qid":"q-2834703-26","question":"Redis为什么这么快？","content_id":"2834703","title":"字节一二三面hr面 面经 后端开发"}
+{"qid":"q-2834561-42","question":"为什么Redis快？","content_id":"2834561","title":"字节暑期后端面经（一共五轮技术面人傻了）"}
+{"qid":"q-2834014-7","question":"Redis为什么快？","content_id":"2834014","title":"北森云计算一面+HR"}
+{"qid":"q-2833503-12","question":"Redis为什么性能较好？","content_id":"2833503","title":"京东后端ai开发一面分享 夯中夯"}
+{"qid":"q-2833140-13","question":"Redis为什么在高并发情况下表现得比较好？","content_id":"2833140","title":"27字节AI后台开发日常实习一面"}
+{"qid":"q-2833012-16","question":"Redis高性能的核心体现","content_id":"2833012","title":"拼多多服务端研发实习生 一面"}
+{"qid":"q-872512773710696448-2","question":"Redis单点性能能达到多少QPS？集群性能又能达到多少？","content_id":"872512773710696448","title":"快手ai应用服务端开发 二面"}
+{"qid":"q-2832254-8","question":"多线程并发请求Redis是安全的吗？","content_id":"2832254","title":"淘天一面（后端社招）"}
+{"qid":"q-2831981-15","question":"Redis为什么快","content_id":"2831981","title":"携程暑期实习Java后端面经"}
+{"qid":"q-2831981-16","question":"Redis单节点能抗多少请求，怎么来的","content_id":"2831981","title":"携程暑期实习Java后端面经"}
+{"qid":"q-2831333-13","question":"Redis 为什么在高并发情况下表现得比较好？","content_id":"2831333","title":"字节ai后台开发日常实习一面分享"}
+{"qid":"q-2844171-0","question":"Redis为什么快？","content_id":"2844171","title":"字节跳动 后端开发 日常实习 三面"}
+{"qid":"q-878569217430253568-7","question":"Redis单线程之外，还有什么原理支撑它能做秒杀？","content_id":"878569217430253568","title":"同程旅行java二面"}
+{"qid":"q-2843681-0","question":"Redis为什么这么快？","content_id":"2843681","title":"字节后端ai开发一面-实习面经分享"}
+{"qid":"q-2842785-15","question":"Redis为什么速度快？","content_id":"2842785","title":"27日常实习字节Agent后端开发二面"}
+{"qid":"q-2842778-15","question":"Redis为什么速度快？","content_id":"2842778","title":"27实习字节后端agent开发一面"}
+{"qid":"q-2818381-5","question":"Redis简介，Redis为什么快","content_id":"2818381","title":"快手后端-Java开发一面面经"}

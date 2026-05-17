@@ -5,3 +5,10 @@
 {"qid":"q-2778372-9","question":"RabbitMQ延迟队列怎么实现","content_id":"2778372","title":"滴滴后端开发 26校招 二面"}
 {"qid":"q-2652059-2","question":"为何RabbitMQ能支撑5k吞吐量，而普通业务系统做不到？","content_id":"2652059","title":"飞猪暑期实习一面"}
 {"qid":"q-2585832-2","question":"RabbitMQ消费者轮询机制介绍","content_id":"2585832","title":"字节跳动-日常实习-后端开发一面"}
+{"qid":"q-863862680451362816-14","question":"RabbitMQ的几种模式（direct、topic、fanout）和组成（exchange、queue、binding）","content_id":"863862680451362816","title":"社招 北京 Java后端工程师"}
+{"qid":"q-2809855-4","question":"讲讲你对RabbitMQ理解","content_id":"2809855","title":"京东-零售部门后端一面面经"}
+{"qid":"q-862711776054448128-0","question":"RabbitMQ 的镜像队列是如何保证消息高可用的？","content_id":"862711776054448128","title":"25年11月合创经纬（深圳） Java开发 实习 二面"}
+{"qid":"q-2806576-11","question":"RabbitMQ 队列是怎么实现的（底层结构）","content_id":"2806576","title":"腾讯后台开发一面"}
+{"qid":"q-2835106-21","question":"RabbitMQ 消息队列的实现细节了解吗？","content_id":"2835106","title":"万类智生 后端开发面经"}
+{"qid":"q-2830275-12","question":"RabbitMQ的vhost是做什么的？","content_id":"2830275","title":"字节暑期实习ai后端二面-日常实习"}
+{"qid":"q-2844801-11","question":"RabbitMQ的队列是怎么实现的","content_id":"2844801","title":"27实习腾讯后端AI开发一面 70min"}

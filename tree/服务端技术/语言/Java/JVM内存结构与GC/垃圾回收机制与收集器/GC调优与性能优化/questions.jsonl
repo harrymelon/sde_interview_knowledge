@@ -3,3 +3,9 @@
 {"qid":"q-2779278-2","question":"减少对象创建的思路有哪些？","content_id":"2779278","title":"小红书后端校招二面"}
 {"qid":"q-2692379-35","question":"垃圾回收机制的时机","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
 {"qid":"q-2692379-36","question":"能手动触发垃圾回收吗","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
+{"qid":"q-2813185-1","question":"ZGC和G1对比优劣，观察了哪些指标？","content_id":"2813185","title":"xtransfer一面（Java社招）"}
+{"qid":"q-2809039-18","question":"频繁Full GC时如何进行GC参数调优？","content_id":"2809039","title":"货拉拉后端开发实习一面"}
+{"qid":"q-2806451-3","question":"大对象对系统（JVM）有什么影响？","content_id":"2806451","title":"京东一面（Java社招）"}
+{"qid":"q-2839531-4","question":"有哪些JVM垃圾回收器参数","content_id":"2839531","title":"27暑期拼多多后端ai开发一面"}
+{"qid":"q-2835587-0","question":"项目中的Full GC情况排查、解决方案及jmap工具的用途","content_id":"2835587","title":"邦盛科技面试"}
+{"qid":"q-2832254-3","question":"如何排查GC问题？怎么确认哪一个是大对象？","content_id":"2832254","title":"淘天一面（后端社招）"}

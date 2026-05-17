@@ -48,3 +48,32 @@
 {"qid":"q-2815111-14","question":"简单讲一下Spring的IOC和AOP。","content_id":"2815111","title":"有赞Java后端一面面经"}
 {"qid":"q-2814864-9","question":"如何将一个类交给Spring管理","content_id":"2814864","title":"广州联奕科技Java后端实习一面"}
 {"qid":"q-864257813076267008-2","question":"谈谈你对IoC的理解","content_id":"864257813076267008","title":"3-19 字节面经-经营管理与平台（一面）"}
+{"qid":"q-2811956-1","question":"请解释IOC（控制反转）","content_id":"2811956","title":"百度三面凉经"}
+{"qid":"q-2811953-0","question":"Spring的控制反转和依赖注入是什么？","content_id":"2811953","title":"比特鹰 春招一面"}
+{"qid":"q-2810792-3","question":"SpringAOP和SpringIOC是什么","content_id":"2810792","title":"广东用友网络一面（客户化开发-Java后端） 2026/3/16"}
+{"qid":"q-862395801836720128-3","question":"Java中哪些注解可以实现依赖注入？","content_id":"862395801836720128","title":"腾讯后台开发一面"}
+{"qid":"q-862378812741255168-10","question":"什么是 Spring 的依赖注入？有哪些方法进行依赖注入?","content_id":"862378812741255168","title":"小厂java 第二弹"}
+{"qid":"q-2808748-6","question":"@Autowired注入时出现多个bean的解决方案有哪些？","content_id":"2808748","title":"广州某小厂Java后端面经(线下)"}
+{"qid":"q-2807535-14","question":"Spring的核心思想是什么","content_id":"2807535","title":"西安天源迪科Java开发实习"}
+{"qid":"q-2805063-6","question":"Spring IOC和DI的概念与关系","content_id":"2805063","title":"中厂Java实习生面试"}
+{"qid":"q-860858674003070976-5","question":"解释Spring IOC核心思想","content_id":"860858674003070976","title":"杭州小厂 零零科技 后端面经"}
+{"qid":"q-2839211-4","question":"IoC的底层实现原理","content_id":"2839211","title":"TME一面凉经（后端）"}
+{"qid":"q-2838996-15","question":"Spring依赖注入实例化加载机制聊一下？","content_id":"2838996","title":"云智后台开发一面面经分享"}
+{"qid":"q-2838996-16","question":"依赖注入（@Autowired）大概是怎么一个过程？经过哪些步骤？","content_id":"2838996","title":"云智后台开发一面面经分享"}
+{"qid":"q-875794192662810624-2","question":"Spring中哪里体现了反射的思想","content_id":"875794192662810624","title":"4.20-字节data-一面"}
+{"qid":"q-2838636-12","question":"实际开发中分为四个层，这四个层的注解有什么区别，你知道这四个注解么","content_id":"2838636","title":"大二双非双一流本科后端开发小厂面经"}
+{"qid":"q-2838636-13","question":"控制反转IOC是什么？Spring中有多少种IOC容器？AOP动态代理有几种方式","content_id":"2838636","title":"大二双非双一流本科后端开发小厂面经"}
+{"qid":"q-2838038-5","question":"Java中哪些注解可以实现依赖注入","content_id":"2838038","title":"腾讯AI后台开发27实习一面分享"}
+{"qid":"q-874796779600998400-6","question":"Spring IoC是什么？解决了什么问题？","content_id":"874796779600998400","title":"成都致远互联java后端一面"}
+{"qid":"q-2836338-6","question":"IoC原理","content_id":"2836338","title":"TME后台开发暑期实习 酷我车载业务部 一面面经"}
+{"qid":"q-2835139-6","question":"IoC（控制反转）是什么？","content_id":"2835139","title":"美团ai暑期后端开发一面分享"}
+{"qid":"q-2835139-7","question":"如何声明一个对象？（@Autowired和构造器注入的区别）","content_id":"2835139","title":"美团ai暑期后端开发一面分享"}
+{"qid":"q-2834011-9","question":"注入Bean是怎么注入的","content_id":"2834011","title":"快手 本地生活核心 后端暑期 一面"}
+{"qid":"q-2830605-10","question":"@Autowired和@Resource的区别？","content_id":"2830605","title":"9本无实习Java Agent阿里一面"}
+{"qid":"q-2829341-7","question":"IOC（控制反转）是什么？讲一下IOC。","content_id":"2829341","title":"美团暑期后端一面 ：金融服务平台-技术平台"}
+{"qid":"q-2829341-8","question":"怎么声明一个对象？（@Autowired 和构造器注入）","content_id":"2829341","title":"美团暑期后端一面 ：金融服务平台-技术平台"}
+{"qid":"q-878938775747846144-3","question":"Spring 的 IoC 是什么？解决了什么问题？","content_id":"878938775747846144","title":"度小满后端一面"}
+{"qid":"q-2843032-6","question":"IoC（控制反转）是什么？讲一下 IoC。","content_id":"2843032","title":"暑期实习 AI后端开发一面-美团"}
+{"qid":"q-2842935-6","question":"说一下IoC内容","content_id":"2842935","title":"Tiktok后端ai开发一面面经 1h"}
+{"qid":"q-2840568-5","question":"Spring IoC的原理和内容","content_id":"2840568","title":"TikTok 国际电商后端一面"}
+{"qid":"q-2827751-20","question":"Spring启动时Controller如何被管理？Spring如何维护和映射注解？","content_id":"2827751","title":"4.3 飞猪 java后端二面"}

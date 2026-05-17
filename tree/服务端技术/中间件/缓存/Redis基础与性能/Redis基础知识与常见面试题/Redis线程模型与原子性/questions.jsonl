@@ -1,0 +1,12 @@
+{"qid":"q-2739684-18","question":"Redis中指令是原子操作吗？安全吗？","content_id":"2739684","title":"金山wps服务端一面"}
+{"qid":"q-2612259-8","question":"Redis单线程模型为什么没有线程安全问题？","content_id":"2612259","title":"KK集团后端管培生"}
+{"qid":"q-2535836-5","question":"Redis是单线程还是多线程？","content_id":"2535836","title":"momenta 后端开发一面凉经——道心破碎"}
+{"qid":"q-865630750865903616-1","question":"Redis如何保证原子性？请从线程模型、进程模型和并发角度解释。","content_id":"865630750865903616","title":"字节飞书后端一面面经分享"}
+{"qid":"q-2814440-2","question":"Redis和MySQL的事物区别是什么？","content_id":"2814440","title":"淘米二面（oc）"}
+{"qid":"q-2814440-4","question":"Redis的原子性和MySQL的原子性有什么区别？","content_id":"2814440","title":"淘米二面（oc）"}
+{"qid":"q-2814440-5","question":"Redis是怎么实现原子性的，可以回滚吗，为什么不设计一个回滚？","content_id":"2814440","title":"淘米二面（oc）"}
+{"qid":"q-2814440-6","question":"Redis有隔离性吗？","content_id":"2814440","title":"淘米二面（oc）"}
+{"qid":"q-2836367-3","question":"Redis的线程结构","content_id":"2836367","title":"腾讯日常实习 ai后台开发 一面分享"}
+{"qid":"q-2835069-15","question":"Redis是单线程还是多线程的","content_id":"2835069","title":"快手Java日常实习一面"}
+{"qid":"q-2835069-16","question":"单线程和多线程有什么区别","content_id":"2835069","title":"快手Java日常实习一面"}
+{"qid":"q-2835069-17","question":"Redis在做什么事的时候是单线程，什么时候是多线程","content_id":"2835069","title":"快手Java日常实习一面"}

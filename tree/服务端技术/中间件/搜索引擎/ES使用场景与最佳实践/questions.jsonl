@@ -11,3 +11,23 @@
 {"qid":"q-2545555-15","question":"搜索推荐和Elasticsearch的了解","content_id":"2545555","title":"淘天集团-业务技术一面凉经"}
 {"qid":"q-2518670-6","question":"Elasticsearch（ES）的使用场景和用法。","content_id":"2518670","title":"字节日常实习凉经"}
 {"qid":"q-2455660-2","question":"黑名单功能为什么不用Elasticsearch实现？基于什么考虑？","content_id":"2455660","title":"小红书 后端开发 日常实习一面面经"}
+{"qid":"q-2812561-5","question":"Elasticsearch 如果要更新某个字段，但字段太多，不能删除再添加，有其他方式吗？","content_id":"2812561","title":"安恒信息Java开发实习"}
+{"qid":"q-2811035-14","question":"如何保证ES和MySQL的缓存一致","content_id":"2811035","title":"药帮忙java一面面经"}
+{"qid":"q-2809612-18","question":"ES主要适用于什么场景？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2809612-19","question":"业务数据（如订单）能不能存在ES？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2809612-20","question":"多表数据聚合同步到ES怎么实现？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2809639-3","question":"es怎么用的","content_id":"2809639","title":"3.4百度服务端社招一面"}
+{"qid":"q-861917586647232512-3","question":"ElasticSearch数据聚合分析","content_id":"861917586647232512","title":"中通 JAVA软件开发  一面 面经"}
+{"qid":"q-2804947-35","question":"ES 深度聚合是什么？","content_id":"2804947","title":"转转一面（二面挂）"}
+{"qid":"q-2839585-3","question":"ES中text和keyword的区别","content_id":"2839585","title":"招银科技暑期实习-后端一面(base 成都)"}
+{"qid":"q-2839585-4","question":"ES怎么实现模糊查询，使用text还是keyword类型，使用match还是term","content_id":"2839585","title":"招银科技暑期实习-后端一面(base 成都)"}
+{"qid":"q-2839585-5","question":"你还了解哪些ES实现模糊查询的方式","content_id":"2839585","title":"招银科技暑期实习-后端一面(base 成都)"}
+{"qid":"q-2838911-1","question":"ES你是怎么用的？单体还是分布式？","content_id":"2838911","title":"蚂蚁后端开发一面(47min)"}
+{"qid":"q-2836338-25","question":"如何找日志（ES唯一ID）","content_id":"2836338","title":"TME后台开发暑期实习 酷我车载业务部 一面面经"}
+{"qid":"q-2833623-3","question":"Elasticsearch索引创建的步骤和注意事项","content_id":"2833623","title":"恒生电子一面"}
+{"qid":"q-2833623-4","question":"ES索引定时同步的实现方式","content_id":"2833623","title":"恒生电子一面"}
+{"qid":"q-2833503-17","question":"ES的核心能力有哪些？与MySQL的区别？","content_id":"2833503","title":"京东后端ai开发一面分享 夯中夯"}
+{"qid":"q-2830042-6","question":"在日志存储系统中，是否所有检索都走Elasticsearch？","content_id":"2830042","title":"携程暑期-ai后端开发一面 1h"}
+{"qid":"q-2843373-2","question":"为什么同时使用MySQL和ES？只用一个不行吗？","content_id":"2843373","title":"腾讯AI后端开发日常实习一面分享"}
+{"qid":"q-2843373-4","question":"可以理解为数据从MySQL同步到ES，ES是为了搜索，对吗？","content_id":"2843373","title":"腾讯AI后端开发日常实习一面分享"}
+{"qid":"q-2841470-2","question":"为什么使用Elasticsearch作为搜索引擎？","content_id":"2841470","title":"美团ai全栈面经"}

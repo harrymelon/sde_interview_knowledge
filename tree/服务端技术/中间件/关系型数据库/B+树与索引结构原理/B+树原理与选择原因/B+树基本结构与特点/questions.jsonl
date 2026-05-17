@@ -40,3 +40,38 @@
 {"qid":"q-2815088-7","question":"数据库索引的物理结构是什么样的？","content_id":"2815088","title":"字节暑期后端三面"}
 {"qid":"q-2815088-8","question":"B+ 树是一个什么样的结构？","content_id":"2815088","title":"字节暑期后端三面"}
 {"qid":"q-2814748-14","question":"MySQL B+树索引底层原理","content_id":"2814748","title":"得物2026春招 | 后端开发 | 面经 | Java面试"}
+{"qid":"q-863842176000593920-3","question":"B+树有什么特点？","content_id":"863842176000593920","title":"虾皮Java一面凉经"}
+{"qid":"q-2811587-1","question":"数据库索引是如何通过B+树提高查询效率的？","content_id":"2811587","title":"广州某科技公司面经（20min）"}
+{"qid":"q-2808977-14","question":"MySQL索引底层是怎么实现的？","content_id":"2808977","title":"微派 java秋招面经（排序挂）"}
+{"qid":"q-2808720-11","question":"MySQL的索引底层结构是什么？","content_id":"2808720","title":"腾讯后台开发二面"}
+{"qid":"q-860858674003070976-10","question":"InnoDB的数据结构采用哪些","content_id":"860858674003070976","title":"杭州小厂 零零科技 后端面经"}
+{"qid":"q-2839936-11","question":"B+树的基本结构与特点","content_id":"2839936","title":"富卫保险java开发"}
+{"qid":"q-2838469-18","question":"MySQL索引原理是什么？B+树结构？","content_id":"2838469","title":"美团ai全栈开发 实习一面 纯干货夯爆了"}
+{"qid":"q-2838096-3","question":"MySQL索引的数据结构是什么？","content_id":"2838096","title":"27实习 字节后端AI开发一面 攒人品中"}
+{"qid":"q-2837995-13","question":"MySQL的底层存储结构（存储引擎与索引结构）","content_id":"2837995","title":"腾讯AI后台开发二面分享"}
+{"qid":"q-2837734-18","question":"B+树是怎么样的结构？","content_id":"2837734","title":"AI后台开发日常实习一面分享 字节"}
+{"qid":"q-2836748-5","question":"MySQL索引的数据结构是什么？","content_id":"2836748","title":"用友（澳门） base珠海（OC）"}
+{"qid":"q-2836338-21","question":"MySQL中B+树","content_id":"2836338","title":"TME后台开发暑期实习 酷我车载业务部 一面面经"}
+{"qid":"q-2834484-21","question":"InnoDB存储引擎的底层数据结构是什么？","content_id":"2834484","title":"腾讯后台开发一面-腾讯云-技术与产品服务"}
+{"qid":"q-2834011-4","question":"MySQL索引底层","content_id":"2834011","title":"快手 本地生活核心 后端暑期 一面"}
+{"qid":"q-2833140-18","question":"B+树是怎么样的结构？","content_id":"2833140","title":"27字节AI后台开发日常实习一面"}
+{"qid":"q-2832288-8","question":"数据库索引的底层数据结构是什么？","content_id":"2832288","title":"实在智能Java日常实习二面（30min）"}
+{"qid":"q-2832129-3","question":"MySQL数据库索引的原理是什么？","content_id":"2832129","title":"蚂蚁智能体与大模型暑期实习一面面经"}
+{"qid":"q-2831519-3","question":"请说一说B+树的特点","content_id":"2831519","title":"韶音科技——Java（财经）—\u003eIT产品经理管培生面经"}
+{"qid":"q-2831333-18","question":"B+树是怎么样的结构？","content_id":"2831333","title":"字节ai后台开发日常实习一面分享"}
+{"qid":"q-2830629-10","question":"MySQL索引用的是什么数据结构?","content_id":"2830629","title":"腾讯ai后台开发一面 面没招了给我"}
+{"qid":"q-2830306-2","question":"MySQL索引的工作原理是什么？","content_id":"2830306","title":"暑期实习-字节-ai后端一面面经"}
+{"qid":"q-871416350042775552-15","question":"MySQL索引的底层结构是什么？","content_id":"871416350042775552","title":"浩鲸科技一面"}
+{"qid":"q-2829535-13","question":"MySQL的InnoDB引擎数据结构是什么样？","content_id":"2829535","title":"ai后端开发一面-美团实习面经分享"}
+{"qid":"q-2845729-9","question":"讲一讲B+树","content_id":"2845729","title":"go后端面经"}
+{"qid":"q-2845440-12","question":"如何判断BTree相等？追问：BPTree呢？","content_id":"2845440","title":"字节暑期后端ai开发一面面经分享"}
+{"qid":"q-2845382-2","question":"B+树的结构和用途？","content_id":"2845382","title":"27实习面经-腾讯后端AI开发一面 1h"}
+{"qid":"q-2844802-7","question":"什么是B+树？底层实现原理是什么？","content_id":"2844802","title":"腾讯音乐实习后端ai开发一面凉经"}
+{"qid":"q-2844435-7","question":"讲解一下 B+ 树的数据结构，以及它在数据库索引中是如何起到加速作用的？","content_id":"2844435","title":"美团软件开发工程师（后端方向）一面"}
+{"qid":"q-878291133086908416-4","question":"MySQL索引的底层原理是什么？","content_id":"878291133086908416","title":"小红书后端开发一面"}
+{"qid":"q-2843325-7","question":"B+树的范围查找怎么实现的？叶子结点有什么特征？","content_id":"2843325","title":"灵感互娱服务端开发实习生"}
+{"qid":"q-2843337-13","question":"MySQL 的 InnoDB 引擎数据结构是什么样？","content_id":"2843337","title":"AI后端开发实习面经分享-美团"}
+{"qid":"q-2843228-22","question":"B+树是什么结构？","content_id":"2843228","title":"米哈游服务器一面"}
+{"qid":"q-2842972-14","question":"MySQL的底层结构是怎样的？","content_id":"2842972","title":"27实习面经-腾讯后端AI开发二面"}
+{"qid":"q-2842898-10","question":"B+树的基本结构","content_id":"2842898","title":"27实习面经-滴滴后端ai开发二面"}
+{"qid":"q-2840724-17","question":"B+树的基本结构与特点","content_id":"2840724","title":"滴滴秋储golang平台一二面经"}

@@ -15,3 +15,12 @@
 {"qid":"q-2791575-5","question":"百度关键词命中系统为何要通过shell脚本让400多个实例重启，不重启是否无法完成数据更新？","content_id":"2791575","title":"【Zuvi原里-全栈开发工程师-一面】技术面经"}
 {"qid":"q-2817739-2","question":"一键部署是部署在什么地方？传送到服务器的是什么，是镜像包吗？","content_id":"2817739","title":"万兴科技后端开发日常实习一面凉经"}
 {"qid":"q-2817739-3","question":"Redis和Docker怎么结合？","content_id":"2817739","title":"万兴科技后端开发日常实习一面凉经"}
+{"qid":"q-2811953-11","question":"docker用过吗？docker-compose有什么用？","content_id":"2811953","title":"比特鹰 春招一面"}
+{"qid":"q-860939547746533376-0","question":"你在 OJ 项目中使用 Docker 部署时，是如何保证容器启动顺序和服务依赖的？","content_id":"860939547746533376","title":"阿里国际 Java开发 实习 二面"}
+{"qid":"q-2839936-7","question":"Docker了解吗","content_id":"2839936","title":"富卫保险java开发"}
+{"qid":"q-2836980-24","question":"Docker和K8s容器化使用情况如何？","content_id":"2836980","title":"广州嘉为科技java后端一面"}
+{"qid":"q-2843790-14","question":"请解释Docker image的概念。","content_id":"2843790","title":"上海踏云齐光golang小厂 面经复盘"}
+{"qid":"q-2843790-15","question":"如果没有Docker，如何部署项目？","content_id":"2843790","title":"上海踏云齐光golang小厂 面经复盘"}
+{"qid":"q-2842778-17","question":"docker和普通的虚拟机有什么区别？","content_id":"2842778","title":"27实习字节后端agent开发一面"}
+{"qid":"q-2842627-17","question":"容器化部署经验，Docker组件使用、Dockerfile编写、K8s使用情况","content_id":"2842627","title":"4.24 腾讯云智 后端一面"}
+{"qid":"q-2840916-0","question":"Docker的使用","content_id":"2840916","title":"2026-04-14商汤科技Go后端开发三面，截止23号无音讯"}

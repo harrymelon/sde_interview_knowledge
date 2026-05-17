@@ -1,0 +1,25 @@
+{"qid":"q-841002190931013632-10","question":"多Agent是怎么实现的？","content_id":"841002190931013632","title":"百度后端日常实习一面"}
+{"qid":"q-846448031389003776-8","question":"多智能体协同中实现一致性的机制是什么？","content_id":"846448031389003776","title":"面经 | 腾讯S3后台开发暑期提前批（一面）"}
+{"qid":"q-857289028817727488-5","question":"Multi-Agent 架构具体怎么实现？","content_id":"857289028817727488","title":"再战27暑期实习！SenseTime后端开发一面"}
+{"qid":"q-865566080410935296-3","question":"多智能体转接的底层逻辑是什么","content_id":"865566080410935296","title":"字节后端开发实习（AIDP）一面 40 min"}
+{"qid":"q-2812046-9","question":"多Agent系统中主控Agent的输入是什么？","content_id":"2812046","title":"26.3.4 字节AI搜索一面"}
+{"qid":"q-2812046-10","question":"子Agent如何让主控Agent感知到自己的状态？","content_id":"2812046","title":"26.3.4 字节AI搜索一面"}
+{"qid":"q-2812046-11","question":"Agent之间如何交互？采用什么协议？","content_id":"2812046","title":"26.3.4 字节AI搜索一面"}
+{"qid":"q-2812046-12","question":"为什么选择开发这些子Agent？各Agent的功能是什么？","content_id":"2812046","title":"26.3.4 字节AI搜索一面"}
+{"qid":"q-2812046-27","question":"为什么采用multi-agent架构而不是单一Agent加工具？","content_id":"2812046","title":"26.3.4 字节AI搜索一面"}
+{"qid":"q-2810571-4","question":"另一段项目里的Multi-agent架构","content_id":"2810571","title":"鹅厂后台开发llm方向 实习一面"}
+{"qid":"q-2831507-0","question":"Agent的任务系统与子代理（subagent）管理是如何实现的？","content_id":"2831507","title":"美团 软件开发（全栈）暑期实习 面经全记录（一面"}
+{"qid":"q-2830842-1","question":"Agent设计思路：如何划分Agent以及为什么这样设计？","content_id":"2830842","title":"腾讯ai后台开发一面凉经分享 50m"}
+{"qid":"q-871815930236391424-2","question":"说一下项目中的Advisor责任链","content_id":"871815930236391424","title":"4.9美团一面复盘加分享"}
+{"qid":"q-2830605-20","question":"了解多Agent协作吗？比如A2A协议或Multi-Agent设计模式？","content_id":"2830605","title":"9本无实习Java Agent阿里一面"}
+{"qid":"q-2830182-1","question":"如何对多场景/多context的Agent进行拆分？","content_id":"2830182","title":"虾皮ai后端开发-暑期实习一面 攒人品"}
+{"qid":"q-2830182-2","question":"为什么一定要拆分多Agent而不是用一个Agent？","content_id":"2830182","title":"虾皮ai后端开发-暑期实习一面 攒人品"}
+{"qid":"q-2830229-3","question":"支撑多agent协作场景需要哪些技术能力？","content_id":"2830229","title":"虾皮ai后端开发二面-日常实习"}
+{"qid":"q-2829854-1","question":"单Agent和多Agent路线如何选择？为什么最后选择了多Agent？","content_id":"2829854","title":"字节暑期后端agent开发一面"}
+{"qid":"q-2829854-8","question":"场景涉及多Agent的综合调用，是吗？","content_id":"2829854","title":"字节暑期后端agent开发一面"}
+{"qid":"q-2829854-10","question":"如果Tool背后是RPC接口，能否统一封装后交给同一个Agent内部调度？","content_id":"2829854","title":"字节暑期后端agent开发一面"}
+{"qid":"q-2829854-14","question":"如果Tool本身都能统一封装，为什么还要按业务拆Agent？","content_id":"2829854","title":"字节暑期后端agent开发一面"}
+{"qid":"q-2843563-5","question":"什么情况下使用单Agent，什么情况下使用Multi-Agent","content_id":"2843563","title":"AI后端开发实习一面分享-美团"}
+{"qid":"q-2843563-6","question":"Multi-Agent如何实现团队合作","content_id":"2843563","title":"AI后端开发实习一面分享-美团"}
+{"qid":"q-2843318-5","question":"什么情况下会用subagent？","content_id":"2843318","title":"京东ai后台开发暑期实习一面分享"}
+{"qid":"q-2827415-14","question":"多agent比单智能体好处是什么","content_id":"2827415","title":"3.31 美团食杂零售后端一面"}

@@ -29,3 +29,40 @@
 {"qid":"q-2814440-12","question":"为什么选择混合模式？","content_id":"2814440","title":"淘米二面（oc）"}
 {"qid":"q-2814388-15","question":"Redolog和Undolog的区别","content_id":"2814388","title":"春招Java后端开发 滴滴平台技术一二三面"}
 {"qid":"q-2642429-11","question":"解释MySQL的redo log、undo log和binlog","content_id":"2642429","title":"字节懂车帝 后端实习一面"}
+{"qid":"q-2812014-15","question":"介绍一下 MySQL 的三大日志（redo log、binlog、undo log）及其作用？","content_id":"2812014","title":"百度 服务端开发 暑期实习 二面凉经"}
+{"qid":"q-862971738391441408-4","question":"数据库日志（redo log、undo log、binlog）机制与事务状态","content_id":"862971738391441408","title":"社招 北京 全栈"}
+{"qid":"q-2809648-6","question":"MySQL 的三种日志（redo log、undo log、binlog）分别有什么作用？","content_id":"2809648","title":"3.9字节懂车帝社招一面"}
+{"qid":"q-862328439104155648-1","question":"redo/undo日志如何实现事务的原子性和持久性？","content_id":"862328439104155648","title":"星云联动 Java开发 一面"}
+{"qid":"q-2808977-11","question":"MySQL事务是怎么实现的？","content_id":"2808977","title":"微派 java秋招面经（排序挂）"}
+{"qid":"q-2808977-12","question":"MySQL突然宕机重启，数据会丢失吗？","content_id":"2808977","title":"微派 java秋招面经（排序挂）"}
+{"qid":"q-2837964-8","question":"数据库有几种 log？","content_id":"2837964","title":"字节27暑期实习后台开发一面 65min"}
+{"qid":"q-2837964-9","question":"一次修改数据的时候，几个 log 的顺序是什么？","content_id":"2837964","title":"字节27暑期实习后台开发一面 65min"}
+{"qid":"q-2837995-9","question":"MySQL binlog的使用方式，全量同步与增量同步的区别","content_id":"2837995","title":"腾讯AI后台开发二面分享"}
+{"qid":"q-2837995-11","question":"redo log和undo log的作用，事务隔离级别的实现机制","content_id":"2837995","title":"腾讯AI后台开发二面分享"}
+{"qid":"q-2837132-11","question":"undolog链特点","content_id":"2837132","title":"腾讯云智后台开发暑期二面（已过）"}
+{"qid":"q-2837063-5","question":"MySQL 三大日志 (redo log、undo log、binlog) 机制","content_id":"2837063","title":"滴滴后端一面二面 面经"}
+{"qid":"q-2836338-19","question":"MySQL事务如何实现的","content_id":"2836338","title":"TME后台开发暑期实习 酷我车载业务部 一面面经"}
+{"qid":"q-2835139-19","question":"redo log和undo log的作用是什么？","content_id":"2835139","title":"美团ai暑期后端开发一面分享"}
+{"qid":"q-2834544-4","question":"redo log、undo log、binlog 的区别是什么？","content_id":"2834544","title":"懂车帝后端ai开发二面分享 1h"}
+{"qid":"q-2834561-43","question":"MySQL所有数据都是直接写入磁盘吗？（BufferPool与WAL）","content_id":"2834561","title":"字节暑期后端面经（一共五轮技术面人傻了）"}
+{"qid":"q-2834561-44","question":"为什么redo log也是直接写磁盘，但比数据写入快？（环形缓冲区、顺序写入）","content_id":"2834561","title":"字节暑期后端面经（一共五轮技术面人傻了）"}
+{"qid":"q-2834014-2","question":"MySQL的三大日志（redo log、undo log、binlog）的机制是什么？","content_id":"2834014","title":"北森云计算一面+HR"}
+{"qid":"q-2833725-8","question":"redo log和bin log是如何共同工作保证一致性的？（两阶段提交）","content_id":"2833725","title":"懂车帝AI后端开发实习一面分享 65分钟"}
+{"qid":"q-2833737-14","question":"MySQL会丢失数据吗？如何保证数据不丢失？","content_id":"2833737","title":"美团暑期后端一面（已挂）"}
+{"qid":"q-2833597-12","question":"MySQL有哪三种日志？各自的作用是什么？","content_id":"2833597","title":"虾皮大模型后端开发一面-日常实习"}
+{"qid":"q-2833012-15","question":"MySQL的binlog、redolog、undolog各自解决的核心问题","content_id":"2833012","title":"拼多多服务端研发实习生 一面"}
+{"qid":"q-2830297-11","question":"MySQL事务怎么做的？","content_id":"2830297","title":"网易互娱 暑期实习 ai后端一面分享"}
+{"qid":"q-2829341-21","question":"redo log和undo log分别是什么？","content_id":"2829341","title":"美团暑期后端一面 ：金融服务平台-技术平台"}
+{"qid":"q-2845328-3","question":"MySQL 有哪些常见的日志？分别有什么作用？","content_id":"2845328","title":"字节 二面 后端 面经"}
+{"qid":"q-2845280-15","question":"介绍一下 MySQL 的三大日志（redo log、binlog、undo log）及其作用？","content_id":"2845280","title":"百度暑期实习后端AI开发二面凉经 好难"}
+{"qid":"q-2844171-1","question":"MySQL怎么进行写入的？","content_id":"2844171","title":"字节跳动 后端开发 日常实习 三面"}
+{"qid":"q-2844171-2","question":"为什么使用redolog写会快？","content_id":"2844171","title":"字节跳动 后端开发 日常实习 三面"}
+{"qid":"q-2843774-4","question":"redo log、undo log、bin log 分别有什么作用？","content_id":"2843774","title":"腾讯后端Agent开发一面-实习面经"}
+{"qid":"q-2843774-5","question":"MySQL 为什么需要 redo log、undo log、bin log 这些日志？","content_id":"2843774","title":"腾讯后端Agent开发一面-实习面经"}
+{"qid":"q-2843032-19","question":"什么是 redolog 和 undolog？","content_id":"2843032","title":"暑期实习 AI后端开发一面-美团"}
+{"qid":"q-2842942-8","question":"数据库有哪几种日志？","content_id":"2842942","title":"字节日常实习后端ai开发一面 攒攒人品"}
+{"qid":"q-2842942-9","question":"一次修改数据时，几种日志的写入顺序是什么？","content_id":"2842942","title":"字节日常实习后端ai开发一面 攒攒人品"}
+{"qid":"q-2842972-11","question":"redo log和undo log是干什么的？事务的每个隔离级别是靠什么实现的？","content_id":"2842972","title":"27实习面经-腾讯后端AI开发二面"}
+{"qid":"q-877505082206478336-1","question":"MySQL崩了怎么保证持久性？","content_id":"877505082206478336","title":"转转春招面经（总）"}
+{"qid":"q-2841470-20","question":"MySQL的三大日志（redo log、undo log、binlog）机制是什么？","content_id":"2841470","title":"美团ai全栈面经"}
+{"qid":"q-2826146-7","question":"MySQL有哪些日志？各自的作用是什么？","content_id":"2826146","title":"字节后端一面"}

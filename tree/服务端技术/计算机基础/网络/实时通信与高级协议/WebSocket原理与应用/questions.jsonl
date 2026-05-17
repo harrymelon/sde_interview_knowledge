@@ -1,0 +1,28 @@
+{"qid":"q-857347414137548800-2","question":"为什么选择使用WebSocket？","content_id":"857347414137548800","title":"字节crm后端二面"}
+{"qid":"q-2795714-6","question":"WebSocket原理及项目中如何使用","content_id":"2795714","title":"算力大陆后端开发面经"}
+{"qid":"q-2780402-5","question":"Websocket协议是如何实现全双工通信的？与HTTP长轮询有什么区别？","content_id":"2780402","title":"腾讯Golang开发一面-校招面经"}
+{"qid":"q-2672828-10","question":"WebSocket与HTTP有什么区别？","content_id":"2672828","title":"淘天java 26日后端一面"}
+{"qid":"q-2494992-8","question":"WebSocket是干什么的？为什么App能接收到通知？App被清后台怎么办？心跳机制和持久化消息如何保证及时接收通知？","content_id":"2494992","title":"字节抖音搜索26日常实习-三面+HR面"}
+{"qid":"q-2445516-7","question":"说说WebSocket","content_id":"2445516","title":"极质科技 Java开发工程师 实习二面"}
+{"qid":"q-2817552-6","question":"WebSocket通信是如何建立的？它相比HTTP有哪些优势？","content_id":"2817552","title":"腾讯 go 后台开发一面（原来以为凉了结果十分钟之后发了二面qwq）"}
+{"qid":"q-2817712-2","question":"大模型生成语句基于HTTP长连接逻辑时，和WebSocket的全双工通信特性有何本质区别？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-863444579318497280-0","question":"WebSocket 和 HTTP 有什么区别？","content_id":"863444579318497280","title":"贝施美医疗 软件开发-C++ 一面"}
+{"qid":"q-2811689-1","question":"讲一下WebSocket长连接原理","content_id":"2811689","title":"虾皮SSC后端一面面经"}
+{"qid":"q-863037717494366208-0","question":"WebSocket 心跳机制的核心作用是什么？","content_id":"863037717494366208","title":"腾讯 Java实习 二面"}
+{"qid":"q-2808977-4","question":"WebSocket底层是怎么实现的？","content_id":"2808977","title":"微派 java秋招面经（排序挂）"}
+{"qid":"q-2808977-5","question":"WebSocket和HTTP长连接有什么区别？","content_id":"2808977","title":"微派 java秋招面经（排序挂）"}
+{"qid":"q-2839224-17","question":"WebSocket 有哪些特性？","content_id":"2839224","title":"思谋一面（全栈）"}
+{"qid":"q-2838127-3","question":"AI 推荐后台采用 WebSocket 实时推送怎么实现的，为什么采用 WebSocket，为什么不采用长 HTTP 连接或其他的 RPC？","content_id":"2838127","title":"27实习腾讯后端ai开发一面分享"}
+{"qid":"q-2838127-4","question":"WebSocket 和普通 HTTP 的区别，从原理角度考虑","content_id":"2838127","title":"27实习腾讯后端ai开发一面分享"}
+{"qid":"q-2837830-0","question":"讲讲WebSocket，有对比过其他连接吗？为什么选这个？应用在哪里？","content_id":"2837830","title":"上海小公司java实习生一面（0-20人）"}
+{"qid":"q-2837063-12","question":"WebSocket 底层协议原理","content_id":"2837063","title":"滴滴后端一面二面 面经"}
+{"qid":"q-2832280-2","question":"为什么使用WebSocket？它与请求响应式（HTTP）有什么区别？","content_id":"2832280","title":"实在智能Java日常实习一面（35min）"}
+{"qid":"q-872181143913648128-4","question":"WebSocket有心跳机制吗？断线重连怎么实现？","content_id":"872181143913648128","title":"腾讯QQ后台开发Java一面 凉经"}
+{"qid":"q-872181143913648128-5","question":"多节点集群下，WebSocket连接分布在不同服务器上，用户A给用户B发消息怎么路由？","content_id":"872181143913648128","title":"腾讯QQ后台开发Java一面 凉经"}
+{"qid":"q-872181143913648128-6","question":"多节点之间怎么解决消息转发的延迟问题？","content_id":"872181143913648128","title":"腾讯QQ后台开发Java一面 凉经"}
+{"qid":"q-2841470-3","question":"WebSocket和SSE的区别及应用场景是什么？","content_id":"2841470","title":"美团ai全栈面经"}
+{"qid":"q-2841121-4","question":"项目中实现在线推送为什么使用 WebSocket 而不用 HTTP 轮询？","content_id":"2841121","title":"腾讯视频 后端开发 面经"}
+{"qid":"q-2778039-3","question":"商家接单流程中WebSocket的作用是什么？","content_id":"2778039","title":"27实习小红书后端开发一面"}
+{"qid":"q-2812062-12","question":"为什么礼物发送使用WebSocket长连接而不是HTTP？","content_id":"2812062","title":"真实业务和场景题的疯狂拷打"}
+{"qid":"q-2812062-13","question":"HTTP keep-alive长连接与WebSocket的区别？","content_id":"2812062","title":"真实业务和场景题的疯狂拷打"}
+{"qid":"q-2791345-11","question":"实时搜索通常使用什么网络协议（如WebSocket）？你了解或有使用过吗？讲一下","content_id":"2791345","title":"字节 后端开发 (Agent中台)一面凉"}

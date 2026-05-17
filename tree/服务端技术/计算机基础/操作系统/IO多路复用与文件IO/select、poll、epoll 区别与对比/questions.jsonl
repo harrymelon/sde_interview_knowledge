@@ -16,3 +16,12 @@
 {"qid":"q-2455681-4","question":"说说select,poll,epoll的数据结构。","content_id":"2455681","title":"快手 后端开发 日常实习一面面经"}
 {"qid":"q-2817544-6","question":"poll和epoll的区别是什么？检查事件的区别？","content_id":"2817544","title":"腾讯音乐商业化26春招后端一面"}
 {"qid":"q-2815905-8","question":"select和epoll的区别是什么？","content_id":"2815905","title":"滴滴c++后端一面凉经"}
+{"qid":"q-2809648-8","question":"IO 多路复用中 select、poll、epoll 有什么区别？","content_id":"2809648","title":"3.9字节懂车帝社招一面"}
+{"qid":"q-2807521-9","question":"介绍一下Select与epoll的区别，在项目中为什么不选择epoll？","content_id":"2807521","title":"字节后端暑期实习一面"}
+{"qid":"q-2836567-0","question":"请解释select、poll、epoll多路复用技术的实现原理、区别及应用场景，为什么多路复用更快？","content_id":"2836567","title":"柠檬微趣一面凉经"}
+{"qid":"q-2830465-12","question":"IO多路复用原理","content_id":"2830465","title":"字节暑期实习后端开发方向  已oc"}
+{"qid":"q-2845382-8","question":"IO多路复用有哪些方式？netty了解吗？","content_id":"2845382","title":"27实习面经-腾讯后端AI开发一面 1h"}
+{"qid":"q-2843325-14","question":"I/O多路复用有哪些？它们之间有什么区别？epoll为什么效率最高？","content_id":"2843325","title":"灵感互娱服务端开发实习生"}
+{"qid":"q-2842898-4","question":"epoll，poll，select区别","content_id":"2842898","title":"27实习面经-滴滴后端ai开发二面"}
+{"qid":"q-2840744-12","question":"select和epoll的区别是什么","content_id":"2840744","title":"腾讯ai后台开发一面面经分享 1h"}
+{"qid":"q-2840724-10","question":"epoll、poll、select 三者的区别","content_id":"2840724","title":"滴滴秋储golang平台一二面经"}

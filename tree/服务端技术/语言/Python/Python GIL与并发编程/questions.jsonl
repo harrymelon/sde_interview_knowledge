@@ -1,0 +1,11 @@
+{"qid":"q-2782248-9","question":"Python为什么是单进程单线程的？","content_id":"2782248","title":"实在智能-Java开发工程师-终面-45min"}
+{"qid":"q-2778378-4","question":"有没有了解过Python的GIL锁？","content_id":"2778378","title":"小鹏汽车后端开发校招面经 攒人品"}
+{"qid":"q-2817256-9","question":"Python 的 GIL 锁是什么？","content_id":"2817256","title":"323腾讯金融科技后台开发"}
+{"qid":"q-2817256-10","question":"如何优化 Python 性能？","content_id":"2817256","title":"323腾讯金融科技后台开发"}
+{"qid":"q-2811383-6","question":"Python中如何分别实现IO密集型和CPU密集型任务","content_id":"2811383","title":"字节后端一面"}
+{"qid":"q-2834484-2","question":"Python中是否有协程？","content_id":"2834484","title":"腾讯后台开发一面-腾讯云-技术与产品服务"}
+{"qid":"q-2842596-11","question":"Python GIL锁说一下","content_id":"2842596","title":"字节跳动-后端研发实习生（ai agent）-安全与风控 一面面经"}
+{"qid":"q-2790750-5","question":"并发处理方法","content_id":"2790750","title":"简智新创后端一面"}
+{"qid":"q-2836559-6","question":"如何解决Python单进程的OOM问题？","content_id":"2836559","title":"科大讯飞 - Java开发暑期实习 一面面经（攒人品ing）"}
+{"qid":"q-2836559-7","question":"为什么用多进程重构，而不是多线程？","content_id":"2836559","title":"科大讯飞 - Java开发暑期实习 一面面经（攒人品ing）"}
+{"qid":"q-2841121-1","question":"Python多进程解决OOM问题，为什么不用多线程？","content_id":"2841121","title":"腾讯视频 后端开发 面经"}

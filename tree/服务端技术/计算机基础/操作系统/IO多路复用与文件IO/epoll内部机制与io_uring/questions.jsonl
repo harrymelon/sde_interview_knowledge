@@ -1,2 +1,7 @@
 {"qid":"q-2532597-7","question":"epoll的原理","content_id":"2532597","title":"字节后端开发面经一面"}
 {"qid":"q-2817751-9","question":"Go的IO多路复用用的什么？讲讲Epoll","content_id":"2817751","title":"B站大会员后端开发一面"}
+{"qid":"q-2463051-17","question":"epoll的边缘触发和水平触发有什么区别","content_id":"2463051","title":"腾讯pcg应用平台"}
+{"qid":"q-2813111-2","question":"请解释io_uring和eventfd的实现原理？","content_id":"2813111","title":"腾讯QQ后台开发一面"}
+{"qid":"q-2834560-31","question":"epoll底层原理和数据结构","content_id":"2834560","title":"三战暑期腾讯后台面经"}
+{"qid":"q-2834560-47","question":"epoll如何处理socket","content_id":"2834560","title":"三战暑期腾讯后台面经"}
+{"qid":"q-2843325-15","question":"epoll的触发方式？有什么区别","content_id":"2843325","title":"灵感互娱服务端开发实习生"}

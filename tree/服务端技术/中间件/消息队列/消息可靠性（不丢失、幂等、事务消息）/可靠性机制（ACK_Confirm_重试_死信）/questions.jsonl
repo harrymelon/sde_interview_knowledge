@@ -8,3 +8,16 @@
 {"qid":"q-2543734-10","question":"死信队列是什么","content_id":"2543734","title":"成都致远互联Java一面"}
 {"qid":"q-2542981-7","question":"讲一讲死信队列","content_id":"2542981","title":"滴滴日常后端一二面面经（排序ing）"}
 {"qid":"q-2817378-4","question":"Kafka 的 ACK 确认机制详细说明","content_id":"2817378","title":"北京东华原医疗 Java 一面"}
+{"qid":"q-862704816219328512-1","question":"为什么重试需要使用二级队列优化，具体怎么做的？","content_id":"862704816219328512","title":"再战27暑期实习！SenseTime AI后端开发 二面+三面"}
+{"qid":"q-2809049-2","question":"MQ消费端消费失败怎么办？重试和兜底机制有哪些？","content_id":"2809049","title":"虾皮后端日常实习一面凉经"}
+{"qid":"q-861385090713071616-4","question":"Kafka自带的重试机制和自定义注解实现消费者重试？","content_id":"861385090713071616","title":"2025-11-05 KK集团一二面"}
+{"qid":"q-2836980-15","question":"MQ重试阈值和死信队列的处理方案是怎样的？","content_id":"2836980","title":"广州嘉为科技java后端一面"}
+{"qid":"q-2835594-0","question":"Kafka消费者端如何保证收到了ack，生产者端如何保证消息送到了？","content_id":"2835594","title":"虾皮后端ai开发 暑期实习一面面经"}
+{"qid":"q-2833751-3","question":"消息队列失败重试方案是什么？","content_id":"2833751","title":"去哪儿 后端一面"}
+{"qid":"q-2845584-7","question":"如何监听超时未收到ACK并进行重试？具体实现机制是什么？","content_id":"2845584","title":"正浩创新/EcoFlow java一面凉经"}
+{"qid":"q-2845239-8","question":"如果RabbitMQ发消息后，消费者去写MySQL的时候失败了怎么办","content_id":"2845239","title":"携程AI后端开发一面-实习面经分享"}
+{"qid":"q-2844095-0","question":"异步下单消息过期怎么办？","content_id":"2844095","title":"字节跳动 后端开发 日常实习 一面"}
+{"qid":"q-2844095-1","question":"Kafka生产者消息没发送出去怎么办？有重试机制吗？","content_id":"2844095","title":"字节跳动 后端开发 日常实习 一面"}
+{"qid":"q-2843373-5","question":"RabbitMQ死信队列是用来做什么的？","content_id":"2843373","title":"腾讯AI后端开发日常实习一面分享"}
+{"qid":"q-2843300-12","question":"MQ的ACK机制是什么","content_id":"2843300","title":"AI后端开发-美团实习一面 1h"}
+{"qid":"q-2841121-13","question":"死信队列里面是怎么处理的？","content_id":"2841121","title":"腾讯视频 后端开发 面经"}

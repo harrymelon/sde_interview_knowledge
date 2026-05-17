@@ -27,3 +27,23 @@
 {"qid":"q-864543031494467584-2","question":"使用Stream生成Map时name重复怎么解决？","content_id":"864543031494467584","title":"转码选手的寻找暑期实习之路（7）--飞猪Java开发暑期实习一面"}
 {"qid":"q-2814864-2","question":"HashMap的key值可以为null吗","content_id":"2814864","title":"广州联奕科技Java后端实习一面"}
 {"qid":"q-2814864-3","question":"存在哈希冲突时，HashMap如何通过key找到对应位置","content_id":"2814864","title":"广州联奕科技Java后端实习一面"}
+{"qid":"q-2463882-3","question":"讲一下HashMap","content_id":"2463882","title":"卓望数码 后端开发 一面面经"}
+{"qid":"q-2463882-4","question":"HashMap初始容量和负载因子默认值是多少？","content_id":"2463882","title":"卓望数码 后端开发 一面面经"}
+{"qid":"q-2812231-26","question":"Java的HashMap是怎么解决冲突的？","content_id":"2812231","title":"字节后端-推荐架构面经 已offer"}
+{"qid":"q-2812231-27","question":"实现“数组+链表”时，为什么不能直接用ArrayList或LinkedList替换掉那个数组？","content_id":"2812231","title":"字节后端-推荐架构面经 已offer"}
+{"qid":"q-2811668-5","question":"最快的获取Map中的对应关系的方法是什么？","content_id":"2811668","title":"网易有道Java服务端日常实习一面（50min）"}
+{"qid":"q-2809039-16","question":"HashMap的key可以为null吗？","content_id":"2809039","title":"货拉拉后端开发实习一面"}
+{"qid":"q-2807535-9","question":"HashMap的key可以为null吗","content_id":"2807535","title":"西安天源迪科Java开发实习"}
+{"qid":"q-2807113-5","question":"HashMap put流程","content_id":"2807113","title":"Moka Java开发一面"}
+{"qid":"q-2806566-1","question":"HashMap原理，put过程","content_id":"2806566","title":"美的后端研发日常实习面经"}
+{"qid":"q-2806452-2","question":"请介绍一下HashMap的数据结构。","content_id":"2806452","title":"转转-java开发-一面"}
+{"qid":"q-2838988-0","question":"HashMap的数据结构是什么？","content_id":"2838988","title":"熙牛医疗一面 Java后端实习"}
+{"qid":"q-2837772-4","question":"解决哈希冲突的办法","content_id":"2837772","title":"27实习百度AI后端开发一面 1h"}
+{"qid":"q-2833957-3","question":"HashMap的实现原理","content_id":"2833957","title":"虾皮AI infra后端开发一面分享"}
+{"qid":"q-2833170-3","question":"解决哈希冲突的方法有哪些？","content_id":"2833170","title":"百度ai后端开发一面分享-日常实习"}
+{"qid":"q-872133747653603328-4","question":"HashMap的实现原理","content_id":"872133747653603328","title":"27届-日常实习-虾皮DataInfra-一面"}
+{"qid":"q-871812235104944128-0","question":"HashMap数据结构、扩容机制，为什么用红黑树而不是AVL树？","content_id":"871812235104944128","title":"拼多多后端一面，比字节还难"}
+{"qid":"q-871815930236391424-23","question":"HashMap的put流程","content_id":"871815930236391424","title":"4.9美团一面复盘加分享"}
+{"qid":"q-2830609-3","question":"了解哪些map，怎么遍历HashMap","content_id":"2830609","title":"致远互联Java日常实习面经（15min）"}
+{"qid":"q-2829529-3","question":"解决哈希冲突的办法有哪些？","content_id":"2829529","title":"百度ai后端开发日常实习一面 55min"}
+{"qid":"q-877594204157861888-2","question":"HashMap的原理，如何根据hash值定位到数组，为什么一定要重写hashCode和equals","content_id":"877594204157861888","title":"微步在线Java一面"}

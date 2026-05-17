@@ -1,28 +1,25 @@
 {"qid":"q-2592031-2","question":"还有什么方法实现模拟高并发","content_id":"2592031","title":"4.22 美团核心本地商业-业务研发平台 后端一面"}
-{"qid":"q-2560502-11","question":"最近有在学什么技术","content_id":"2560502","title":"万得后端暑期一面（目前HR面）"}
 {"qid":"q-2529653-4","question":"讲讲熟悉的中间件","content_id":"2529653","title":"中国移动卓望公司 java开发-广州 一面"}
 {"qid":"q-2502850-1","question":"RPA（机器人流程自动化）的基本概念是什么？","content_id":"2502850","title":"咪咕rpa python后端日常实习面试感受12.16"}
-{"qid":"q-2501211-7","question":"渲染管线介绍一下","content_id":"2501211","title":"B站C++渲染引擎一面"}
-{"qid":"q-2501211-8","question":"如何渲染一个半透明物体的场景？不透明物体需要深度写入吗？半透明的物体需要深度写入吗？半透明的物体要进行深度测试吗？","content_id":"2501211","title":"B站C++渲染引擎一面"}
-{"qid":"q-2501211-9","question":"深度测试，模板测试，透明度测试的顺序","content_id":"2501211","title":"B站C++渲染引擎一面"}
-{"qid":"q-2501211-10","question":"讲一下泛光？","content_id":"2501211","title":"B站C++渲染引擎一面"}
-{"qid":"q-2501211-11","question":"讲一下前向渲染和延迟渲染？","content_id":"2501211","title":"B站C++渲染引擎一面"}
-{"qid":"q-2501211-12","question":"多线程环境下Opengl的share_context的哪些类型（texture,vbo,fbo,vao,programe）是可以正常读写的？","content_id":"2501211","title":"B站C++渲染引擎一面"}
-{"qid":"q-2501211-13","question":"矩阵顺序旋转（口撕）","content_id":"2501211","title":"B站C++渲染引擎一面"}
-{"qid":"q-2485500-4","question":"分类算法种类并详细讲解","content_id":"2485500","title":"中移动在线营销一面面经"}
 {"qid":"q-2470448-3","question":"概率论在面试中如何考察？","content_id":"2470448","title":"雷火一二面服务端"}
-{"qid":"q-2469011-8","question":"瀑布模型和敏捷开发的区别","content_id":"2469011","title":"锐明技术 java 秋招 面经"}
-{"qid":"q-2446756-7","question":"Git 有哪些常用指令？","content_id":"2446756","title":"用友金融 实习 JAVA"}
-{"qid":"q-2446756-8","question":"Git 出现冲突怎么解决？","content_id":"2446756","title":"用友金融 实习 JAVA"}
-{"qid":"q-2444526-5","question":"AI和OCR的区别是什么？","content_id":"2444526","title":"尹兆科技 秋招 Java一面"}
-{"qid":"q-2817712-24","question":"为什么`const a = {i:1, toString: function(){ return a.i++; }}; console.log(a==1 \u0026\u0026 a==2 \u0026\u0026 a==3)`会输出true？其底层类型转换和执行顺序是怎样的？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
-{"qid":"q-865564132177690624-6","question":"React的循环是如何实现的，哪些是循环，循环过程是怎样的","content_id":"865564132177690624","title":"3-23 腾讯面经  QQ部门（一面挂）"}
-{"qid":"q-2816570-2","question":"git如何查看每行代码更改的人员","content_id":"2816570","title":"北京亿智云golang社招一二面凉经"}
-{"qid":"q-2816570-3","question":"git协同开发时遇到冲突如何解决","content_id":"2816570","title":"北京亿智云golang社招一二面凉经"}
-{"qid":"q-2816267-16","question":"对HTML、DOM、JavaScript的掌握程度如何？","content_id":"2816267","title":"北大软件(郑州)java实习面经"}
-{"qid":"q-2816267-17","question":"如何处理前后端联调中的参数校验和异常？","content_id":"2816267","title":"北大软件(郑州)java实习面经"}
-{"qid":"q-2816267-24","question":"请分享一个你通过自学成功掌握并应用一项技术的具体案例。","content_id":"2816267","title":"北大软件(郑州)java实习面经"}
 {"qid":"q-2816271-2","question":"爬虫抓取自动化功能的实现细节","content_id":"2816271","title":"深圳市益普科技JAVA实习一面面经"}
-{"qid":"q-2816271-11","question":"谈谈Git协作经验。","content_id":"2816271","title":"深圳市益普科技JAVA实习一面面经"}
-{"qid":"q-864450180853133312-1","question":"你觉得AI是否可以替代程序员？","content_id":"864450180853133312","title":"面试官最爱问的 AI 问题之后端岗位"}
-{"qid":"q-864450180853133312-2","question":"你如何看待AI时代的到来？","content_id":"864450180853133312","title":"面试官最爱问的 AI 问题之后端岗位"}
+{"qid":"q-2812052-2","question":"聊聊实习经历里的easyexcel的跨行合并","content_id":"2812052","title":"熙牛医疗java一面面经"}
+{"qid":"q-2811953-6","question":"常见的中间件有哪些？每种有什么区别？","content_id":"2811953","title":"比特鹰 春招一面"}
+{"qid":"q-2810684-20","question":"python,golang,c++的区别和应用场景","content_id":"2810684","title":"字节 云计算后端实习 面经"}
+{"qid":"q-861686783346548736-6","question":"你了解过openclaw吗？","content_id":"861686783346548736","title":"字节跳动-中国交易与广告-后端-Go-一面"}
+{"qid":"q-2805351-9","question":"文件上传中使用多轮哈希的目的和优势","content_id":"2805351","title":"广州小厂爱奇创新后端面经"}
+{"qid":"q-2839350-6","question":"Android的消息机制是什么","content_id":"2839350","title":"26届后端java/go求职心得"}
+{"qid":"q-2839350-7","question":"Android View测量、布局以及绘制原理是什么","content_id":"2839350","title":"26届后端java/go求职心得"}
+{"qid":"q-2839350-8","question":"Android BitMap压缩策略有哪些","content_id":"2839350","title":"26届后端java/go求职心得"}
+{"qid":"q-2839350-9","question":"Parcelable和Serializable的作用、效率、区别及选择","content_id":"2839350","title":"26届后端java/go求职心得"}
+{"qid":"q-2839350-10","question":"Android事件分发机制是什么","content_id":"2839350","title":"26届后端java/go求职心得"}
+{"qid":"q-2838873-11","question":"分层记忆机制怎么实现？","content_id":"2838873","title":"4.15腾讯后台一面凉经"}
+{"qid":"q-2838873-12","question":"反诈预警怎么实现？","content_id":"2838873","title":"4.15腾讯后台一面凉经"}
+{"qid":"q-2837809-9","question":"OpenClaw是什么？","content_id":"2837809","title":"滴滴ai开发后端一面分享-27实习"}
+{"qid":"q-2836497-4","question":"点乘（点积）的定义是什么？如何计算？","content_id":"2836497","title":"道亨软件 面试"}
+{"qid":"q-2835594-6","question":"对比一下定时任务（如Quartz、XXL-Job等）的实现与选型。","content_id":"2835594","title":"虾皮后端ai开发 暑期实习一面面经"}
+{"qid":"q-2832975-8","question":"了解harness嘛，具体是做什么的","content_id":"2832975","title":"腾讯暑期ai后台开发一面 攒人品中"}
+{"qid":"q-2830969-0","question":"自己买机器，搭服务器怎么部署","content_id":"2830969","title":"拼多度 AI后端开发凉经分享"}
+{"qid":"q-2830629-19","question":"OpenClaw的底层原理","content_id":"2830629","title":"腾讯ai后台开发一面 面没招了给我"}
+{"qid":"q-2844674-5","question":"仿射变换算法怎么实现","content_id":"2844674","title":"华为 od 三面"}
+{"qid":"q-2844674-6","question":"处理图像毛边用什么算法","content_id":"2844674","title":"华为 od 三面"}

@@ -10,3 +10,13 @@
 {"qid":"q-2777334-3","question":"为什么HashMap要把链表转换为红黑树？","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}
 {"qid":"q-2777334-4","question":"红黑树查找的时间复杂度是多少？","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}
 {"qid":"q-2445927-2","question":"HashMap的链表为什么要转换成红黑树？","content_id":"2445927","title":"哈啰 Java后端开发 一面面经"}
+{"qid":"q-2807113-6","question":"为什么要用红黑树","content_id":"2807113","title":"Moka Java开发一面"}
+{"qid":"q-2807113-7","question":"红黑树查询时间复杂度","content_id":"2807113","title":"Moka Java开发一面"}
+{"qid":"q-860858674003070976-1","question":"红黑树相对于链表有什么优点","content_id":"860858674003070976","title":"杭州小厂 零零科技 后端面经"}
+{"qid":"q-2839946-16","question":"说一下HashMap的数据结构？为什么使用红黑树？","content_id":"2839946","title":"美团移动端开发一面（后端面）"}
+{"qid":"q-2836356-3","question":"红黑树结构特点","content_id":"2836356","title":"腾讯后端一面凉经"}
+{"qid":"q-2836356-4","question":"红黑树中红色和黑色节点的含义","content_id":"2836356","title":"腾讯后端一面凉经"}
+{"qid":"q-2835314-8","question":"HashMap的数据结构？为什么使用红黑树？红黑树的原理？","content_id":"2835314","title":"北京用友金融-java后端开发"}
+{"qid":"q-2830809-8","question":"HashMap红黑树和链表转换的要求，为什么阈值是8不是7和9，官方团队怎么测算的","content_id":"2830809","title":"字节AI后端开发 实习二面 感觉无了"}
+{"qid":"q-2844802-4","question":"红黑树底层原理是什么？","content_id":"2844802","title":"腾讯音乐实习后端ai开发一面凉经"}
+{"qid":"q-2843087-6","question":"HashMap的数据结构？为什么使用红黑树？红黑树的原理？","content_id":"2843087","title":"日常实习 用友后端ai开发面经分享"}

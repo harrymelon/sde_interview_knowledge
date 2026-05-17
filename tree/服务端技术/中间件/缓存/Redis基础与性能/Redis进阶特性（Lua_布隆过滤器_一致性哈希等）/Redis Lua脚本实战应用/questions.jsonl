@@ -1,0 +1,13 @@
+{"qid":"q-2778378-10","question":"高并发秒杀系统为什么要用Redis+Lua？","content_id":"2778378","title":"小鹏汽车后端开发校招面经 攒人品"}
+{"qid":"q-2816009-4","question":"Redis+Lua怎么应对百万级的队列式并发限流","content_id":"2816009","title":"腾讯混元后台一面面经"}
+{"qid":"q-2835437-3","question":"Redis+Lua脚本限流的具体实现是怎样的？如何设定具体限制的QPS大小？","content_id":"2835437","title":"腾讯后台ai开发一面 实习面经"}
+{"qid":"q-2823579-23","question":"Lua脚本能否满足同一用户60秒60个请求的限流需求？","content_id":"2823579","title":"美团暑期后端一面面经"}
+{"qid":"q-2809808-12","question":"在秒杀下单中，Lua 脚本具体做了什么？为什么要用 Lua，而不是分开执行多条指令？","content_id":"2809808","title":"快手杭州电商-大模型应用java一面面经"}
+{"qid":"q-2830549-6","question":"从纯分布式锁优化为Lua脚本方案后，系统的QPS具体提升了多少？性能翻倍的根本原因是什么？","content_id":"2830549","title":"爱学习一面"}
+{"qid":"q-2830549-7","question":"使用Lua脚本嵌入Redis执行确实能大幅提升并发性能，但在工程实践中，编写和维护Lua脚本存在哪些弊端或需要注意的风险？","content_id":"2830549","title":"爱学习一面"}
+{"qid":"q-2812470-1","question":"Redis+Lua的优势是什么","content_id":"2812470","title":"金山世游-游戏服务器开发-一面（已过）"}
+{"qid":"q-2809855-2","question":"系统讲一下你的拦截逻辑，Redis+Lua脚本干了什么，Lua主要负责对哪些参数处理？","content_id":"2809855","title":"京东-零售部门后端一面面经"}
+{"qid":"q-2809855-3","question":"Lua是如何结合进Redis使用的","content_id":"2809855","title":"京东-零售部门后端一面面经"}
+{"qid":"q-2818409-13","question":"Lua 脚本在 Redis 中如何编写？","content_id":"2818409","title":"腾讯 go 后端开发二面（透心凉）"}
+{"qid":"q-2842785-14","question":"为什么Redis可以做限流？怎么做限流？","content_id":"2842785","title":"27日常实习字节Agent后端开发二面"}
+{"qid":"q-2817378-6","question":"滑动窗口算法：用 Redis 实现可以使用哪些数据结构？具体有哪几种实现方式？","content_id":"2817378","title":"北京东华原医疗 Java 一面"}

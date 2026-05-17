@@ -14,3 +14,11 @@
 {"qid":"q-2781460-13","question":"Docker网络模式用的是桥接还是host？","content_id":"2781460","title":"9.腾讯PCG后端实习一面挂"}
 {"qid":"q-2797604-2","question":"YAML文件是怎么写的？","content_id":"2797604","title":"广州爱浦路go面经"}
 {"qid":"q-2545555-8","question":"Docker和Dockerfile的使用","content_id":"2545555","title":"淘天集团-业务技术一面凉经"}
+{"qid":"q-2811055-4","question":"Docker 怎么查看容器进程","content_id":"2811055","title":"深圳某小厂Java后端面经(线上)"}
+{"qid":"q-2811055-5","question":"Docker 如何进入容器","content_id":"2811055","title":"深圳某小厂Java后端面经(线上)"}
+{"qid":"q-2804986-10","question":"docker常用命令","content_id":"2804986","title":"中科闻歌-java实习面经"}
+{"qid":"q-2839224-13","question":"Docker 的基础使用包括哪些常用命令和配置？","content_id":"2839224","title":"思谋一面（全栈）"}
+{"qid":"q-2836748-10","question":"Docker如何进入容器？如何查看运行的容器？","content_id":"2836748","title":"用友（澳门） base珠海（OC）"}
+{"qid":"q-2834003-24","question":"Docker和K8s了解吗？Docker打包怎么做的？","content_id":"2834003","title":"腾讯云智后台开发暑期一面"}
+{"qid":"q-2843790-12","question":"Docker有哪些常用命令？","content_id":"2843790","title":"上海踏云齐光golang小厂 面经复盘"}
+{"qid":"q-2843790-13","question":"为什么需要Docker Compose？","content_id":"2843790","title":"上海踏云齐光golang小厂 面经复盘"}

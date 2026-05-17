@@ -1,0 +1,8 @@
+{"qid":"q-2779928-0","question":"如何删除Redis中的大key","content_id":"2779928","title":"Shopee后端开发一面-实习面经"}
+{"qid":"q-2779454-0","question":"Redis大key是什么？如何定义多大的Key算大？有什么影响和解决方案？如何拆分？","content_id":"2779454","title":"小鹏汽车二面（没绷住）"}
+{"qid":"q-2769770-4","question":"如何评估部署Redis应该申请多少内存资源或资源占用？","content_id":"2769770","title":"腾讯二面"}
+{"qid":"q-2693075-15","question":"如何评估 Redis 缓存内存大小是否充足","content_id":"2693075","title":"美团后端面经（意向）"}
+{"qid":"q-2555330-12","question":"大Key问题怎么解决（拓展热Key问题）","content_id":"2555330","title":"好未来Golang 一面"}
+{"qid":"q-2555330-16","question":"缓存热点数据如何处理","content_id":"2555330","title":"好未来Golang 一面"}
+{"qid":"q-2554077-4","question":"Redis如何进行内存预估？","content_id":"2554077","title":"字节后端实习面经+TL"}
+{"qid":"q-2836338-18","question":"Redis内存监控","content_id":"2836338","title":"TME后台开发暑期实习 酷我车载业务部 一面面经"}

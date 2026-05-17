@@ -23,3 +23,23 @@
 {"qid":"q-865615439768870912-0","question":"Java中checked exception与unchecked exception的继承体系差异？","content_id":"865615439768870912","title":"26年2月北京独创时代 Java开发工程师 一面"}
 {"qid":"q-865178403861819392-1","question":"finally块执行条件，什么情况下finally不会执行","content_id":"865178403861819392","title":"广州广电运通JAVA实习面经"}
 {"qid":"q-864646969501704192-6","question":"try-catch-finally的执行顺序是怎样的？","content_id":"864646969501704192","title":"成r科技一面"}
+{"qid":"q-2810792-1","question":"final和finally有什么区别","content_id":"2810792","title":"广东用友网络一面（客户化开发-Java后端） 2026/3/16"}
+{"qid":"q-2810382-4","question":"判断Java代码执行可能出现的异常","content_id":"2810382","title":"社招 北京 Java后端工程师"}
+{"qid":"q-862378812741255168-8","question":"在子类中覆盖父类的方法时，如何处理父类方法声明的异常?","content_id":"862378812741255168","title":"小厂java 第二弹"}
+{"qid":"q-2808748-1","question":"异常为什么要传递异常信息？如何捕获异常？","content_id":"2808748","title":"广州某小厂Java后端面经(线下)"}
+{"qid":"q-2807694-3","question":"finally代码块是不是每次都会执行？","content_id":"2807694","title":"27届成都某1000+ 人公司java实习一面（oc已拒）"}
+{"qid":"q-2807694-4","question":"try语句块中有return，是先执行return还是先执行finally？","content_id":"2807694","title":"27届成都某1000+ 人公司java实习一面（oc已拒）"}
+{"qid":"q-2807694-5","question":"try中的return和finally中的return哪个先执行？finally的return会不会覆盖try的return？","content_id":"2807694","title":"27届成都某1000+ 人公司java实习一面（oc已拒）"}
+{"qid":"q-2807694-6","question":"finally里不return，但修改了要返回的值，这个修改是否生效？","content_id":"2807694","title":"27届成都某1000+ 人公司java实习一面（oc已拒）"}
+{"qid":"q-2807694-7","question":"如果finally中修改的是引用数据类型，变更是否生效？","content_id":"2807694","title":"27届成都某1000+ 人公司java实习一面（oc已拒）"}
+{"qid":"q-861323759087521792-0","question":"常见的 Exception 有哪些？","content_id":"861323759087521792","title":"面试 Java 基础八股文第五期"}
+{"qid":"q-2805282-3","question":"try-catch-finally在没有异常时是否执行finally？如果执行，是在return前还是后？","content_id":"2805282","title":"第一次面试:Java全栈实习生面试题"}
+{"qid":"q-860917786690736128-1","question":"Java中运行时异常和受检异常最核心的区别是什么？","content_id":"860917786690736128","title":"抖音 Java开发实习生 一面"}
+{"qid":"q-2805351-1","question":"Java中为什么要传递异常信息？","content_id":"2805351","title":"广州小厂爱奇创新后端面经"}
+{"qid":"q-2839946-4","question":"Exception和Error的区别？中断和捕获？","content_id":"2839946","title":"美团移动端开发一面（后端面）"}
+{"qid":"q-2839946-5","question":"编译时异常和运行时异常的区别？举个例子？","content_id":"2839946","title":"美团移动端开发一面（后端面）"}
+{"qid":"q-2833819-7","question":"异常体系包括哪些，有什么区别","content_id":"2833819","title":"大二双非双一流后端开发小厂面经"}
+{"qid":"q-2831314-7","question":"finally关键字的作用与执行时机（不执行情况、try中return与finally顺序）","content_id":"2831314","title":"美团暑期ai后端一面 攒人品中"}
+{"qid":"q-871741241912741888-14","question":"受检异常和非受检异常的区别","content_id":"871741241912741888","title":"北京小厂一面"}
+{"qid":"q-871741241912741888-15","question":"Error和Exception的区别","content_id":"871741241912741888","title":"北京小厂一面"}
+{"qid":"q-871416350042775552-3","question":"Error和Exception的区别是什么？","content_id":"871416350042775552","title":"浩鲸科技一面"}

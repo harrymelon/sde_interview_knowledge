@@ -1,0 +1,17 @@
+{"qid":"q-2777891-9","question":"Rerank 需要传哪些参数？它怎么知道查询出来的 20 条数据中哪些更符合结果（里面前 10 条）？","content_id":"2777891","title":"27日常实习京东科技后端二面"}
+{"qid":"q-865245558980603904-5","question":"重排策略设计与算法选择","content_id":"865245558980603904","title":"腾讯视频后台一面凉经"}
+{"qid":"q-865245558980603904-6","question":"重排效果评估与排序融合策略","content_id":"865245558980603904","title":"腾讯视频后台一面凉经"}
+{"qid":"q-2809808-2","question":"在召回之后有没有做重排（Rerank）之类的操作？","content_id":"2809808","title":"快手杭州电商-大模型应用java一面面经"}
+{"qid":"q-2807111-6","question":"了解重排序的底层原理吗？","content_id":"2807111","title":"字节后端日常实习二面"}
+{"qid":"q-2807111-7","question":"重排序中Top-K的K是怎么确定的？","content_id":"2807111","title":"字节后端日常实习二面"}
+{"qid":"q-2833957-2","question":"介绍下Cross-Encoder Rerank模型，为什么用这个？","content_id":"2833957","title":"虾皮AI infra后端开发一面分享"}
+{"qid":"q-872133747653603328-3","question":"介绍下Cross-Encoder Rerank模型，为什么用这个？","content_id":"872133747653603328","title":"27届-日常实习-虾皮DataInfra-一面"}
+{"qid":"q-2831358-8","question":"精排（Rerank）原理与效果更好原因","content_id":"2831358","title":"4.8 钉钉-S项目-暑期实习java研发一面"}
+{"qid":"q-2833990-16","question":"精排（rerank）的维度是多少？原理是什么？","content_id":"2833990","title":"钉钉27暑期后端ai研发一面面经 1h"}
+{"qid":"q-2833990-17","question":"Rerank精排基于什么？为什么精排效果更好？","content_id":"2833990","title":"钉钉27暑期后端ai研发一面面经 1h"}
+{"qid":"q-871815930236391424-5","question":"说一下Rerank和topK，具体做了哪些操作","content_id":"871815930236391424","title":"4.9美团一面复盘加分享"}
+{"qid":"q-2830567-7","question":"召回和重排用的什么算法","content_id":"2830567","title":"字节tiktok ai后端开发一面-日常"}
+{"qid":"q-2829786-15","question":"RAG 中的 rerank 原理是什么？","content_id":"2829786","title":"字节后端实习agent一面分享"}
+{"qid":"q-2842596-3","question":"有什么好的方法平衡重排的速度和质量","content_id":"2842596","title":"字节跳动-后端研发实习生（ai agent）-安全与风控 一面面经"}
+{"qid":"q-2550372-18","question":"每一路的topk设的多少？","content_id":"2550372","title":"淘天一面 无八股无手撕就离谱"}
+{"qid":"q-2823579-8","question":"重排序用的什么模型？","content_id":"2823579","title":"美团暑期后端一面面经"}

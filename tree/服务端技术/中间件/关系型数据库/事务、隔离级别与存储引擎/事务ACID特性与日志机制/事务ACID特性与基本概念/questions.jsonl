@@ -31,3 +31,42 @@
 {"qid":"q-2815079-7","question":"你是怎么理解数据库的事务的？","content_id":"2815079","title":"字节暑期后端一面"}
 {"qid":"q-2814748-17","question":"MySQL事务ACID特性（原子性、一致性、隔离性、持久性）","content_id":"2814748","title":"得物2026春招 | 后端开发 | 面经 | Java面试"}
 {"qid":"q-2616139-6","question":"假如MySQL事务超时了, 如何排查？","content_id":"2616139","title":"6.9 字节跳动生活服后端实习一面记录"}
+{"qid":"q-2813317-4","question":"数据库ACID是什么？","content_id":"2813317","title":"3.12腾讯视频后端一面"}
+{"qid":"q-863862680451362816-0","question":"数据库事务的基本概念和ACID特性","content_id":"863862680451362816","title":"社招 北京 Java后端工程师"}
+{"qid":"q-2811519-15","question":"SQL如何保持数据的一致性？","content_id":"2811519","title":"航旅纵横一面"}
+{"qid":"q-2810801-10","question":"项目中有用到事务吗？如何保证一致性？","content_id":"2810801","title":"超星集团java一面"}
+{"qid":"q-2810717-4","question":"Redis和MySQL的原子操作是如何实现的","content_id":"2810717","title":"攒人品-杭州科工电子-C++面经"}
+{"qid":"q-862328439104155648-0","question":"事务的ACID特性有哪些？","content_id":"862328439104155648","title":"星云联动 Java开发 一面"}
+{"qid":"q-2808700-2","question":"MySQL事务是什么？在项目中哪里需要关注事务？","content_id":"2808700","title":"字节后端一面凉经"}
+{"qid":"q-2808700-11","question":"MySQL中的事务是什么？","content_id":"2808700","title":"字节后端一面凉经"}
+{"qid":"q-2806566-3","question":"MySQL事务，举例具体业务场景","content_id":"2806566","title":"美的后端研发日常实习面经"}
+{"qid":"q-2805971-9","question":"描述关系型数据库ACID事务特性，结合项目说明使用场景及未使用的隐患","content_id":"2805971","title":"小黑盒（一面）"}
+{"qid":"q-860915205667098624-0","question":"分享一个印象最深的Bug，如何定位和解决？具体场景是电商支付后库存未扣减的问题","content_id":"860915205667098624","title":"智晟未来信息科技 Java开发实习生 二面"}
+{"qid":"q-860858674003070976-8","question":"什么是数据库事务的ACID特性","content_id":"860858674003070976","title":"杭州小厂 零零科技 后端面经"}
+{"qid":"q-2804947-25","question":"MySQL 事务是什么？实现原理是什么？","content_id":"2804947","title":"转转一面（二面挂）"}
+{"qid":"q-2839531-14","question":"介绍一下事务","content_id":"2839531","title":"27暑期拼多多后端ai开发一面"}
+{"qid":"q-2839211-9","question":"ACID是什么","content_id":"2839211","title":"TME一面凉经（后端）"}
+{"qid":"q-2837961-11","question":"事务有哪几个特性？如何实现？","content_id":"2837961","title":"暑期实习 腾讯后端ai开发一面凉经"}
+{"qid":"q-2837825-0","question":"讲讲项目里的事务是如何使用的？","content_id":"2837825","title":"东软一面-java实习岗面试记录"}
+{"qid":"q-2837145-19","question":"事务四大特性是什么？","content_id":"2837145","title":"荣耀Java开发工程师实习生 一面面经"}
+{"qid":"q-874425297586745344-4","question":"MySQL 事务的 ACID 特性是什么？","content_id":"874425297586745344","title":"深圳小厂后端一面"}
+{"qid":"q-2835106-17","question":"数据库事务机制你了解多少？","content_id":"2835106","title":"万类智生 后端开发面经"}
+{"qid":"q-2833819-12","question":"事务的四大特性分别是什么，指什么","content_id":"2833819","title":"大二双非双一流后端开发小厂面经"}
+{"qid":"q-2833503-10","question":"事务的ACID特性分别是什么？","content_id":"2833503","title":"京东后端ai开发一面分享 夯中夯"}
+{"qid":"q-2833503-11","question":"事务的应用场景有哪些？","content_id":"2833503","title":"京东后端ai开发一面分享 夯中夯"}
+{"qid":"q-2833233-1","question":"MySQL 事务的处理机制是什么？","content_id":"2833233","title":"腾讯AI后台开发一面面经分享"}
+{"qid":"q-2831510-3","question":"MySQL ACID的一致性是什么？一致性和另外三个特性的关系？","content_id":"2831510","title":"快手日常实习 AI后端一面 夯爆了"}
+{"qid":"q-2831096-8","question":"MySQL数据库事务你是怎么控制的？怎么开启一个事务？怎么做事务回滚和提交？","content_id":"2831096","title":"春秋航空-Java开发实习"}
+{"qid":"q-871741241912741888-18","question":"事务的ACID是什么","content_id":"871741241912741888","title":"北京小厂一面"}
+{"qid":"q-2830469-5","question":"生产场景中删除五个订单的操作能否做成事务？","content_id":"2830469","title":"腾讯云agent后台开发二面-暑期实习"}
+{"qid":"q-2829773-9","question":"在什么情况下会使用事务？","content_id":"2829773","title":"携程ai后端开发二面-日常实习"}
+{"qid":"q-2845729-6","question":"事务的四个性质","content_id":"2845729","title":"go后端面经"}
+{"qid":"q-2845575-21","question":"MySQL事务机制","content_id":"2845575","title":"蚂蚁agent后端开发一面凉经分享"}
+{"qid":"q-2845511-4","question":"MySQL的ACID特性包括哪些？","content_id":"2845511","title":"浩鲸科技Java面经"}
+{"qid":"q-2845450-5","question":"MySQL事务的原理","content_id":"2845450","title":"字节暑期后端ai开发二面凉经 喜提人才库"}
+{"qid":"q-2844802-8","question":"MySQL事务有哪些特性？ACID分别是什么？","content_id":"2844802","title":"腾讯音乐实习后端ai开发一面凉经"}
+{"qid":"q-2843312-4","question":"MySQL ACID中的一致性是什么？一致性与另外三个特性的关系？","content_id":"2843312","title":"27日常实习-快手AI后端一面"}
+{"qid":"q-877505082206478336-0","question":"MySQL的ACID怎么保证？","content_id":"877505082206478336","title":"转转春招面经（总）"}
+{"qid":"q-2840882-0","question":"MySQL事务的四大特性是什么？","content_id":"2840882","title":"古茗后端开发管培生，关于我被问的猪脑过载得二三事"}
+{"qid":"q-2824606-3","question":"MySQL事务的ACID特性具体是什么？","content_id":"2824606","title":"字节暑期实习后端开发二面凉经"}
+{"qid":"q-2824134-6","question":"讲讲你对事务的理解，项目用到了吗？为什么这里必须用事务，不用会怎样？","content_id":"2824134","title":"山东胜软科技Java后端二面（25min）"}

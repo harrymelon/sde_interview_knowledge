@@ -19,3 +19,12 @@
 {"qid":"q-2456353-9","question":"消息队列的原理以及优缺点是什么？","content_id":"2456353","title":"小红书Java日常实习电商商家一面"}
 {"qid":"q-2455678-23","question":"简单的描述一下消息队列的一个工作原理","content_id":"2455678","title":"货拉拉 后端开发 日常实习二面面经"}
 {"qid":"q-2817378-0","question":"介绍 Kafka 概念，如主题（Topic）、分区（Partition）和副本（Replica）","content_id":"2817378","title":"北京东华原医疗 Java 一面"}
+{"qid":"q-2812048-6","question":"对消息队列（MQ）的了解程度如何？","content_id":"2812048","title":"腾讯瑞德铭（重庆）科技发展有限公司 后台开发凉经"}
+{"qid":"q-2807535-21","question":"消息队列的作用和基本原理","content_id":"2807535","title":"西安天源迪科Java开发实习"}
+{"qid":"q-2833503-16","question":"消息队列有了解吗？","content_id":"2833503","title":"京东后端ai开发一面分享 夯中夯"}
+{"qid":"q-2831981-13","question":"平时使用的什么消息队列？消息队列的作用？为什么不用线程池替换？","content_id":"2831981","title":"携程暑期实习Java后端面经"}
+{"qid":"q-2831476-2","question":"Kafka的原理是什么","content_id":"2831476","title":"第一次面试"}
+{"qid":"q-2830465-13","question":"消息队列的作用","content_id":"2830465","title":"字节暑期实习后端开发方向  已oc"}
+{"qid":"q-2830275-10","question":"有用过MQ或Redis吗？","content_id":"2830275","title":"字节暑期实习ai后端二面-日常实习"}
+{"qid":"q-2841827-9","question":"请介绍RabbitMQ的核心概念和常见面试问题准备。","content_id":"2841827","title":"美团全栈一面"}
+{"qid":"q-2821337-12","question":"消费者具体是干什么的？在业务中扮演什么角色？","content_id":"2821337","title":"快手后端-Java开发二面面经"}

@@ -20,3 +20,19 @@
 {"qid":"q-2814992-4","question":"MVCC（多版本并发控制）原理","content_id":"2814992","title":"腾讯实习后端开发一面面经"}
 {"qid":"q-2814388-14","question":"MVCC实现原理","content_id":"2814388","title":"春招Java后端开发 滴滴平台技术一二三面"}
 {"qid":"q-2785298-20","question":"对多版本并发控制有什么了解？","content_id":"2785298","title":"记录下自己双非硕秋招面经"}
+{"qid":"q-2808982-6","question":"MVCC解决了什么问题？","content_id":"2808982","title":"美团 后端日常实习（OC）"}
+{"qid":"q-2808720-10","question":"MVCC是如何使用的？","content_id":"2808720","title":"腾讯后台开发二面"}
+{"qid":"q-2804947-27","question":"MVCC 是什么？","content_id":"2804947","title":"转转一面（二面挂）"}
+{"qid":"q-2839832-10","question":"乐观的 MVCC 是什么","content_id":"2839832","title":"wxg后台开发一面"}
+{"qid":"q-2839832-11","question":"悲观的 MVCC 策略是什么样","content_id":"2839832","title":"wxg后台开发一面"}
+{"qid":"q-2839622-10","question":"有了MVCC还需要加锁吗","content_id":"2839622","title":"小红书对象存储一面"}
+{"qid":"q-2839211-12","question":"MVCC的实现原理","content_id":"2839211","title":"TME一面凉经（后端）"}
+{"qid":"q-2837995-12","question":"MySQL MVCC的使用机制","content_id":"2837995","title":"腾讯AI后台开发二面分享"}
+{"qid":"q-2837277-6","question":"简单介绍一下MVCC的原理","content_id":"2837277","title":"字节ai应用后端财经一面"}
+{"qid":"q-2837246-4","question":"介绍MVCC机制","content_id":"2837246","title":"影石移动端c++一面"}
+{"qid":"q-2837132-10","question":"mvcc解决什么问题","content_id":"2837132","title":"腾讯云智后台开发暑期二面（已过）"}
+{"qid":"q-2834588-9","question":"对MySQL的MVCC有了解么？","content_id":"2834588","title":"4.10美团后端ai开发一面 攒人品中"}
+{"qid":"q-2843681-8","question":"介绍一下MVCC","content_id":"2843681","title":"字节后端ai开发一面-实习面经分享"}
+{"qid":"q-2843681-10","question":"MVCC在哪几种隔离级别中用到？","content_id":"2843681","title":"字节后端ai开发一面-实习面经分享"}
+{"qid":"q-2843325-12","question":"MySQL是怎么解决并发问题的？","content_id":"2843325","title":"灵感互娱服务端开发实习生"}
+{"qid":"q-2818198-1","question":"MVCC的基本概念是什么？","content_id":"2818198","title":"kk集团后端管培生一面挂"}

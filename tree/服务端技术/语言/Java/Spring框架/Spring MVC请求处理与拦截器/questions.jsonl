@@ -7,3 +7,4 @@
 {"qid":"q-2535836-10","question":"后端接收Long类型请求参数时如何做特殊处理如解析成字符串？","content_id":"2535836","title":"momenta 后端开发一面凉经——道心破碎"}
 {"qid":"q-2532597-6","question":"用户请求进来，用户的信息怎样在一个请求内传递","content_id":"2532597","title":"字节后端开发面经一面"}
 {"qid":"q-2523761-12","question":"Spring MVC 参数处理器体现了什么设计思想？","content_id":"2523761","title":"饿了么面经"}
+{"qid":"q-2830319-10","question":"Spring哪个版本支持SSE？","content_id":"2830319","title":"携程ai后端暑期实习一面-攒人品中"}

@@ -1,0 +1,31 @@
+{"qid":"q-2797570-6","question":"Java是值传递还是引用传递？","content_id":"2797570","title":"焦点科技java后端一面30min"}
+{"qid":"q-2797570-7","question":"main方法中new ArrayList并add(\"A\")，调用change(list)方法，change中new ArrayList并add(\"B\")，问输出结果是什么？","content_id":"2797570","title":"焦点科技java后端一面30min"}
+{"qid":"q-2791467-9","question":"static关键字的作用是什么？","content_id":"2791467","title":"momenta后端实习二面"}
+{"qid":"q-2790763-0","question":"final关键字的作用和用法是什么？","content_id":"2790763","title":"美团一面（挂）"}
+{"qid":"q-2788907-1","question":"final关键字的作用是什么？","content_id":"2788907","title":"字节国际化广告后端一面"}
+{"qid":"q-2788907-2","question":"可以用final修饰抽象类吗？","content_id":"2788907","title":"字节国际化广告后端一面"}
+{"qid":"q-2505313-5","question":"final关键字是修饰什么的？修饰类的时候可以被继承吗？修饰方法的时候呢？","content_id":"2505313","title":"安全狗 java面经30min拷打"}
+{"qid":"q-2478202-2","question":"Java中super关键字和static关键字的用法与区别","content_id":"2478202","title":"中山志源电子科技有限公司"}
+{"qid":"q-2444943-2","question":"对静态类、静态方法、静态变量的理解","content_id":"2444943","title":"华为ICT通用软开java面经"}
+{"qid":"q-838069125107699712-1","question":"静态代码块的作用和执行时机","content_id":"838069125107699712","title":"华宇软件（实习） 一面面经"}
+{"qid":"q-838069125107699712-0","question":"Java中的访问修饰符有哪些？","content_id":"838069125107699712","title":"华宇软件（实习） 一面面经"}
+{"qid":"q-2698749-0","question":"Java protected修饰符的作用是什么？","content_id":"2698749","title":"厦门岛内中场JAVA开发笔试"}
+{"qid":"q-2693075-13","question":"protected 修饰符的作用域，什么时候用","content_id":"2693075","title":"美团后端面经（意向）"}
+{"qid":"q-864176651301552128-0","question":"Java中protected修饰符在跨包继承时的访问规则是什么？","content_id":"864176651301552128","title":"北京欣博电子科技 Java开发工程师 一面"}
+{"qid":"q-2839946-3","question":"Java的四种访问权限？protected和default的区别？","content_id":"2839946","title":"美团移动端开发一面（后端面）"}
+{"qid":"q-2839946-2","question":"静态内部类和匿名内部类的区别？两个对外部成员变量的访问上？","content_id":"2839946","title":"美团移动端开发一面（后端面）"}
+{"qid":"q-864176288552980480-0","question":"枚举类能否被继承？为什么？请结合枚举类的底层实现（final类、私有构造器）解释。","content_id":"864176288552980480","title":"诚迈科技Java开发工程师 一面"}
+{"qid":"q-2693075-23","question":"Object 类中的常见方法有哪些","content_id":"2693075","title":"美团后端面经（意向）"}
+{"qid":"q-2815741-1","question":"Object类有哪些常用方法","content_id":"2815741","title":"龙旗科技Java实习一面二面面经"}
+{"qid":"q-2838237-7","question":"Java里所有类的公共父类是什么？","content_id":"2838237","title":"27实习 携程AI后端开发一面分享"}
+{"qid":"q-2698749-7","question":"构造方法的特点和注意事项是什么？","content_id":"2698749","title":"厦门岛内中场JAVA开发笔试"}
+{"qid":"q-2831096-19","question":"类的构造方法有什么用？可以没有构造方法吗？","content_id":"2831096","title":"春秋航空-Java开发实习"}
+{"qid":"q-2831096-20","question":"类和对象有什么区别？","content_id":"2831096","title":"春秋航空-Java开发实习"}
+{"qid":"q-2831096-21","question":"通过什么方法实现实例化？","content_id":"2831096","title":"春秋航空-Java开发实习"}
+{"qid":"q-2843032-7","question":"怎么声明一个对象？","content_id":"2843032","title":"暑期实习 AI后端开发一面-美团"}
+{"qid":"q-2831096-22","question":"什么是Java的抽象？抽象类可以实例化吗？","content_id":"2831096","title":"春秋航空-Java开发实习"}
+{"qid":"q-2831096-23","question":"Java对象可以多继承吗？接口呢？","content_id":"2831096","title":"春秋航空-Java开发实习"}
+{"qid":"q-2478202-0","question":"Java语言的特点有哪些？","content_id":"2478202","title":"中山志源电子科技有限公司"}
+{"qid":"q-2692379-43","question":"Java效率比C++慢很多，那为什么还要这样实现","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
+{"qid":"q-2692379-45","question":"说一下Java和C++的区别还有你对Java设计理念的理解","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
+{"qid":"q-861981810547228672-0","question":"Java 相比 C++、Go 等语言的优势和特点是什么？","content_id":"861981810547228672","title":"腾讯 一面凉经"}

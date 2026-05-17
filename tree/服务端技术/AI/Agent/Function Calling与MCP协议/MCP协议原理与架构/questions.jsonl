@@ -1,0 +1,61 @@
+{"qid":"q-2781491-4","question":"MCP是什么","content_id":"2781491","title":"字节后端日常一二三面面经（oc）"}
+{"qid":"q-2790121-13","question":"对 Spring AI 和 MCP 的了解？","content_id":"2790121","title":"新大陆Java面经"}
+{"qid":"q-2792246-2","question":"MCP底层协议是什么","content_id":"2792246","title":"京东后端-一面"}
+{"qid":"q-2797678-18","question":"MCP（Model Context Protocol）的用途和使用经验","content_id":"2797678","title":"腾讯提前批一面面经（挑战全网最晚hhh，热乎的~）"}
+{"qid":"q-847976149895376896-16","question":"什么是MCP（模型上下文协议）","content_id":"847976149895376896","title":"2026的你，应该知道哪些AI面试题？"}
+{"qid":"q-857289028817727488-0","question":"MCP 使用的是什么协议？它和其他协议有什么区别？","content_id":"857289028817727488","title":"再战27暑期实习！SenseTime后端开发一面"}
+{"qid":"q-857316150563090432-3","question":"解释 MCP（多智能体协同框架）的概念","content_id":"857316150563090432","title":"理想汽车 后端开发-C++ 一面"}
+{"qid":"q-2779163-9","question":"MCP的概念、交互类型，以及项目设计是怎样的？","content_id":"2779163","title":"小红书一二面凉经"}
+{"qid":"q-2777292-2","question":"了解MCP吗？和大模型有哪些关系？","content_id":"2777292","title":"虾皮后端golang实习一面凉经"}
+{"qid":"q-2776522-3","question":"请你说一下MCP的工作流程？（在用户，系统，模型，MCP服务间）","content_id":"2776522","title":"凯通科技公司 Java实习"}
+{"qid":"q-2753426-0","question":"什么是MCP？","content_id":"2753426","title":"11.25深圳中小厂全栈"}
+{"qid":"q-2753426-1","question":"你做的MCP都实现了什么外部服务，怎么实现的？","content_id":"2753426","title":"11.25深圳中小厂全栈"}
+{"qid":"q-2717721-11","question":"MCP（Model Context Protocol）是什么？","content_id":"2717721","title":"美团-大模型后台开发实习生-道心破碎版"}
+{"qid":"q-2682123-3","question":"解释MCP协议","content_id":"2682123","title":"南京小米 java实习一面"}
+{"qid":"q-2612259-1","question":"MCP是什么？了解并用过吗？","content_id":"2612259","title":"KK集团后端管培生"}
+{"qid":"q-2587472-25","question":"MCP（Model Context Protocol）协议是什么？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2817378-15","question":"具体说一下在项目中如何使用 MCP","content_id":"2817378","title":"北京东华原医疗 Java 一面"}
+{"qid":"q-865327658194763776-4","question":"你了解过MCP（Model Context Protocol）吗？","content_id":"865327658194763776","title":"百度外包一、二面面经"}
+{"qid":"q-2816009-8","question":"MCP协议怎么实现？MCP Server需要向外暴露哪些接口？","content_id":"2816009","title":"腾讯混元后台一面面经"}
+{"qid":"q-863532788627116032-1","question":"请解释为什么当时要使用 MCP，MCP 有哪些好处？","content_id":"863532788627116032","title":"腾讯后端暑期实习面试记录"}
+{"qid":"q-2812017-11","question":"对 MCP（模型上下文协议）有了解吗？","content_id":"2812017","title":"腾讯S3 后台开发 一面凉经"}
+{"qid":"q-2811975-8","question":"对AI的看法、提示词工程和MCP协议","content_id":"2811975","title":"Shopee 后端研发春招"}
+{"qid":"q-2810801-11","question":"MCP 是什么？","content_id":"2810801","title":"超星集团java一面"}
+{"qid":"q-861892975133986816-9","question":"MCP协议的好处及未来前景","content_id":"861892975133986816","title":"抖音 - AI 全栈工程师 实习 一面二面凉经"}
+{"qid":"q-861686783346548736-5","question":"MCP协议能到哪一层？如何实现？","content_id":"861686783346548736","title":"字节跳动-中国交易与广告-后端-Go-一面"}
+{"qid":"q-2807489-4","question":"MCP协议与Function Calling的原理是什么","content_id":"2807489","title":"京东 jdy 零售后端一面"}
+{"qid":"q-2805029-3","question":"MCP自动生成组件文档你是怎么实现的？","content_id":"2805029","title":"有赞前端一面"}
+{"qid":"q-875794192662810624-4","question":"介绍一下你是怎么开发MCP工具的，以及你对MCP的理解","content_id":"875794192662810624","title":"4.20-字节data-一面"}
+{"qid":"q-2837734-1","question":"MCP是把自然语言转成预置查询类的工具吗？","content_id":"2837734","title":"AI后台开发日常实习一面分享 字节"}
+{"qid":"q-2837734-2","question":"操作内部平台时，工具会去操作吗？","content_id":"2837734","title":"AI后台开发日常实习一面分享 字节"}
+{"qid":"q-2837542-5","question":"MCP、Function Calling、Skills相关原理是什么？","content_id":"2837542","title":"27美团暑期后端ai开发二面分享"}
+{"qid":"q-2834560-5","question":"MCP协议了解吗","content_id":"2834560","title":"三战暑期腾讯后台面经"}
+{"qid":"q-2834024-1","question":"MCP服务的原理是什么？","content_id":"2834024","title":"字节后端一面"}
+{"qid":"q-2834008-5","question":"MCP怎么设计的？","content_id":"2834008","title":"美团 暑期实习 后端开发 面经"}
+{"qid":"q-2834010-3","question":"MCP协议如何设计？","content_id":"2834010","title":"携程 旅游事业部 后端暑期 一面"}
+{"qid":"q-2833140-2","question":"MCP是把自然语言转成预置查询类的工具吗？","content_id":"2833140","title":"27字节AI后台开发日常实习一面"}
+{"qid":"q-2833140-3","question":"操作内部平台时，工具会去操作吗？","content_id":"2833140","title":"27字节AI后台开发日常实习一面"}
+{"qid":"q-2832975-5","question":"mcp交互是怎么实现的，模型怎么知道他要怎么操作mcp","content_id":"2832975","title":"腾讯暑期ai后台开发一面 攒人品中"}
+{"qid":"q-2832936-6","question":"MCP的底层架构是什么？","content_id":"2832936","title":"哈啰后端agent一面 日常实习"}
+{"qid":"q-2831555-18","question":"MCP协议的底层原理","content_id":"2831555","title":"4.10京东后端实习一面凉经"}
+{"qid":"q-2831356-5","question":"MCP协议是什么？了解Skill吗？","content_id":"2831356","title":"字节大模型后端暑期一面 75min"}
+{"qid":"q-2831333-2","question":"MCP 是把自然语言转成预置查询类的工具吗？","content_id":"2831333","title":"字节ai后台开发日常实习一面分享"}
+{"qid":"q-2831333-3","question":"操作内部平台时，工具会去操作吗？","content_id":"2831333","title":"字节ai后台开发日常实习一面分享"}
+{"qid":"q-2830808-2","question":"MCP协议的原理与应用","content_id":"2830808","title":"360一面凉经"}
+{"qid":"q-2830757-7","question":"MCP协议是什么？","content_id":"2830757","title":"字节tiktok后端二面"}
+{"qid":"q-2830616-5","question":"MCP框架的原理和功能是什么？","content_id":"2830616","title":"腾讯TEG混元后台开发"}
+{"qid":"q-871679622218317824-0","question":"什么是 Agent 和 MCP？它们在 AI 系统中如何协同工作？","content_id":"871679622218317824","title":"蔚来  C++  一面 面经"}
+{"qid":"q-2830311-0","question":"MCP协议是如何设计的？","content_id":"2830311","title":"美团暑期实习二面-ai后端开发"}
+{"qid":"q-2830319-3","question":"MCP协议怎么设计的？","content_id":"2830319","title":"携程ai后端暑期实习一面-攒人品中"}
+{"qid":"q-2844435-16","question":"详细讲解一下 MCP（模型上下文协议）在项目中的运行机制。","content_id":"2844435","title":"美团软件开发工程师（后端方向）一面"}
+{"qid":"q-2844435-17","question":"为什么选择使用 MCP 协议来调用工具，而不是直接在代码里原生实现？","content_id":"2844435","title":"美团软件开发工程师（后端方向）一面"}
+{"qid":"q-2841966-2","question":"MCP协议主要的工作流程","content_id":"2841966","title":"美团全栈一面"}
+{"qid":"q-2841827-4","question":"请解释SSE（Server-Sent Events）和stdio在MCP协议中的区别。","content_id":"2841827","title":"美团全栈一面"}
+{"qid":"q-2827751-10","question":"MCP协议的理解和使用经验","content_id":"2827751","title":"4.3 飞猪 java后端二面"}
+{"qid":"q-2826862-12","question":"了解过MCP吗","content_id":"2826862","title":"中国平安春招一面"}
+{"qid":"q-2823579-13","question":"支持哪些MCP工具调用？MCP与模型交互的实现原理？","content_id":"2823579","title":"美团暑期后端一面面经"}
+{"qid":"q-2818409-21","question":"MCP 协议是什么？","content_id":"2818409","title":"腾讯 go 后端开发二面（透心凉）"}
+{"qid":"q-2834627-3","question":"自己做过什么智能体项目吗？是否用到MCP？","content_id":"2834627","title":"美团ai全栈开发日常实习一面分享"}
+{"qid":"q-2830874-5","question":"你的Agent接入了哪些工具？MCP是如何接入的？","content_id":"2830874","title":"字节一面面经（应该是后端）"}
+{"qid":"q-2843305-3","question":"MCP交互是怎么实现的，模型如何知道要操作MCP","content_id":"2843305","title":"暑期实习-腾讯ai后端开发一面分享"}
+{"qid":"q-2824126-8","question":"电商项目面向AI设计并MCP化，如何选择方向","content_id":"2824126","title":"27届 小红书PE全栈 一面 35min"}

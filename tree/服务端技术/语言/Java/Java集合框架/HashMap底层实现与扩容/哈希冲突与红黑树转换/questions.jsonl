@@ -1,0 +1,20 @@
+{"qid":"q-846688662325620736-5","question":"ArrayList 和 LinkedList 的区别，HashMap 的底层实现（包括红黑树转换条件）","content_id":"846688662325620736","title":"Java高薪必备八股文：春招备战指南"}
+{"qid":"q-2778133-5","question":"HashMap中key冲突时如何处理，为什么从JDK7的头插法改为JDK8的尾插法，各有何优缺点","content_id":"2778133","title":"小米后端开发一面-27实习面经"}
+{"qid":"q-2777318-13","question":"还有哪些处理hash冲突的方式？","content_id":"2777318","title":"小红书Java日常实习一面"}
+{"qid":"q-2777307-12","question":"HashMap中怎样解决hash冲突？","content_id":"2777307","title":"快手Java日常实习一面凉经"}
+{"qid":"q-2664637-6","question":"为什么HashMap不采用ThreadLocalMap解决哈希冲突的方法（开放寻址法）","content_id":"2664637","title":"京东零售后端秋招一面"}
+{"qid":"q-2836356-2","question":"哈希表冲突解决方式","content_id":"2836356","title":"腾讯后端一面凉经"}
+{"qid":"q-2836356-5","question":"哈希冲突的其他解决方案（除拉链法加红黑树外）","content_id":"2836356","title":"腾讯后端一面凉经"}
+{"qid":"q-2836356-6","question":"拉链法解决哈希冲突的原理","content_id":"2836356","title":"腾讯后端一面凉经"}
+{"qid":"q-2831567-6","question":"HashMap底层实现是什么？为什么链表转红黑树的阈值是6和8？HashMap是否线程安全？","content_id":"2831567","title":"4.10虾皮后端实习一面"}
+{"qid":"q-860946444415438848-10","question":"HashMap解决hash冲突的方式（链地址法、红黑树）","content_id":"860946444415438848","title":"java大厂面经速览（今日已更新！）"}
+{"qid":"q-860946444415438848-11","question":"JDK7与JDK8中HashMap实现的区别（红黑树引入等）","content_id":"860946444415438848","title":"java大厂面经速览（今日已更新！）"}
+{"qid":"q-860859906675478528-1","question":"HashMap 在 JDK 7 升级到 8 做过哪些优化？","content_id":"860859906675478528","title":"27 杭州 元启视界 JAVA 实习面经"}
+{"qid":"q-860859906675478528-5","question":"JDK 7 头插法为什么会出现死循环？","content_id":"860859906675478528","title":"27 杭州 元启视界 JAVA 实习面经"}
+{"qid":"q-860859906675478528-6","question":"JDK 8 为什么改成尾插法？","content_id":"860859906675478528","title":"27 杭州 元启视界 JAVA 实习面经"}
+{"qid":"q-2838996-14","question":"HashMap在JDK 8之前和8之后是怎么实现的？8有什么不同？","content_id":"2838996","title":"云智后台开发一面面经分享"}
+{"qid":"q-2844015-5","question":"解决哈希冲突的办法有哪些？","content_id":"2844015","title":"27实习AI后端开发一面-百度"}
+{"qid":"q-2824471-9","question":"Java 8前后HashMap的区别是什么？","content_id":"2824471","title":"3.31飞猪java后端开发一面"}
+{"qid":"q-2692379-18","question":"怎么尽量提升插入和查询的效率","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
+{"qid":"q-871521961380241408-5","question":"如果HashMap的key是一个对象，需要注意哪些问题？","content_id":"871521961380241408","title":"27届-暑期实习-字节国际广告CRM-一面凉经"}
+{"qid":"q-874328563736993792-2","question":"HashMap的底层原理是什么？什么条件下链表会转为红黑树？","content_id":"874328563736993792","title":"4.16-美团-一面"}

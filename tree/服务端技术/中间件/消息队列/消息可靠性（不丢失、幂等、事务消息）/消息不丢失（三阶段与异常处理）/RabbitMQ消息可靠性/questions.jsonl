@@ -1,0 +1,10 @@
+{"qid":"q-2787532-14","question":"RabbitMQ如何保证消息不丢失？","content_id":"2787532","title":"字节日常实习一面"}
+{"qid":"q-2789062-0","question":"把RabbitMQ交易任务分发改成线程池分发，应用挂掉后任务丢失如何解决？","content_id":"2789062","title":"牛客JAVA后端一面"}
+{"qid":"q-2754523-7","question":"RabbitMQ怎么保证消息不丢失？","content_id":"2754523","title":"E签宝 Java 一面"}
+{"qid":"q-2501517-12","question":"RabbitMQ消息不丢失保证","content_id":"2501517","title":"java后端日常实习面经"}
+{"qid":"q-2813311-8","question":"如果RabbitMQ发消息后消费者写MySQL失败了怎么办","content_id":"2813311","title":"携程3.18Java开发一面面经"}
+{"qid":"q-2805063-7","question":"RabbitMQ如何保证消息不丢失","content_id":"2805063","title":"中厂Java实习生面试"}
+{"qid":"q-2838636-19","question":"为什么选用RabbitMQ？如何保证消息不丢失","content_id":"2838636","title":"大二双非双一流本科后端开发小厂面经"}
+{"qid":"q-2838237-6","question":"RabbitMQ发消息后消费者写MySQL失败怎么办？","content_id":"2838237","title":"27实习 携程AI后端开发一面分享"}
+{"qid":"q-2830536-24","question":"如何保证RabbitMQ消费不丢失？生产端如何保证？消费端怎么保证？","content_id":"2830536","title":"字节一二三hr面 java面经（已off）"}
+{"qid":"q-2564070-0","question":"消息队列中如何通过交换机和队列持久化存储保证消息不丢失？","content_id":"2564070","title":"腾讯QQ-日常实习-后台开发-一面凉经"}

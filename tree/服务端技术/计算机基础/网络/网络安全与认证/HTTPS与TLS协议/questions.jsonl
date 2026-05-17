@@ -15,3 +15,21 @@
 {"qid":"q-865880571782717440-0","question":"HTTP 与 HTTPS 区别及 TLS 握手流程","content_id":"865880571782717440","title":"腾讯-微信支付 C++ 一面 面经 分析"}
 {"qid":"q-2817544-8","question":"讲讲HTTPS和非对称加密过程","content_id":"2817544","title":"腾讯音乐商业化26春招后端一面"}
 {"qid":"q-2816267-13","question":"描述HTTPS的握手过程。","content_id":"2816267","title":"北大软件(郑州)java实习面经"}
+{"qid":"q-2463051-16","question":"介绍HTTPS的工作原理","content_id":"2463051","title":"腾讯pcg应用平台"}
+{"qid":"q-2810684-12","question":"tls的握手过程","content_id":"2810684","title":"字节 云计算后端实习 面经"}
+{"qid":"q-2836855-2","question":"密码是前端传过来的吗？前后端传输过程中有没有加密？","content_id":"2836855","title":"字节-27届暑期-国际支付后端-二面-已挂"}
+{"qid":"q-2836855-10","question":"HTTPS 是怎么防止中间人攻击的？","content_id":"2836855","title":"字节-27届暑期-国际支付后端-二面-已挂"}
+{"qid":"q-2836855-11","question":"怎么判断服务端发过来的证书是合法有效的？","content_id":"2836855","title":"字节-27届暑期-国际支付后端-二面-已挂"}
+{"qid":"q-2836855-12","question":"CA 是什么？客户端从哪里拿到 CA 的公钥？","content_id":"2836855","title":"字节-27届暑期-国际支付后端-二面-已挂"}
+{"qid":"q-2836855-13","question":"每建立一个 HTTPS 连接，都要向互联网请求一次证书吗？证书链是怎么工作的？","content_id":"2836855","title":"字节-27届暑期-国际支付后端-二面-已挂"}
+{"qid":"q-2836405-1","question":"描述一下https中的SSL/TLS","content_id":"2836405","title":"美团暑期一面（凉）"}
+{"qid":"q-2834560-30","question":"服务器证书如何应用","content_id":"2834560","title":"三战暑期腾讯后台面经"}
+{"qid":"q-2833665-16","question":"你了解什么是公钥和私钥吗？","content_id":"2833665","title":"字节日常实习ai后端开发一面 拷打麻了"}
+{"qid":"q-2833665-17","question":"HTTPS工作流程中一直使用公钥私钥吗？","content_id":"2833665","title":"字节日常实习ai后端开发一面 拷打麻了"}
+{"qid":"q-2830711-7","question":"HTTPS具体的加密握手过程是怎样的","content_id":"2830711","title":"字节一面-后端（1h）"}
+{"qid":"q-2830711-8","question":"数字证书是如何验证身份的","content_id":"2830711","title":"字节一面-后端（1h）"}
+{"qid":"q-2830469-2","question":"HTTP 和 HTTPS 的区别是什么？请介绍一下 SSL 握手流程。","content_id":"2830469","title":"腾讯云agent后台开发二面-暑期实习"}
+{"qid":"q-2829995-8","question":"TLS建立连接的过程是怎样的？","content_id":"2829995","title":"腾讯后台开发二面凉经-内容服务部"}
+{"qid":"q-2843359-2","question":"TLS握手流程是怎样的？","content_id":"2843359","title":"腾讯云智二面挂"}
+{"qid":"q-2842167-8","question":"HTTPS 为什么安全","content_id":"2842167","title":"字节飞书后端暑期实习一面"}
+{"qid":"q-2841470-4","question":"HTTPS通信过程是怎样的？","content_id":"2841470","title":"美团ai全栈面经"}

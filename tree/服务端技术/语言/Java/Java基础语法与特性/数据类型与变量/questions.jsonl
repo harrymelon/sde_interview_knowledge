@@ -20,3 +20,30 @@
 {"qid":"q-2816271-8","question":"Java中基本类型和包装类的区别是什么？","content_id":"2816271","title":"深圳市益普科技JAVA实习一面面经"}
 {"qid":"q-864646969501704192-0","question":"Java八种基本数据类型是什么？","content_id":"864646969501704192","title":"成r科技一面"}
 {"qid":"q-2814531-1","question":"int的取值范围是多少，为什么？","content_id":"2814531","title":"JDS京东健康26校招微凉"}
+{"qid":"q-864177109177020416-0","question":"Java中自动装箱时，Integer.valueOf(127)和Integer.valueOf(128)有何区别？","content_id":"864177109177020416","title":"维创信息 Java开发工程师 一面"}
+{"qid":"q-864176440906883072-0","question":"基本数据类型与包装类在内存分配上有何本质差异？","content_id":"864176440906883072","title":"奇虎360 Java开发工程师 一面"}
+{"qid":"q-2811519-8","question":"Java的数据类型都有什么？","content_id":"2811519","title":"航旅纵横一面"}
+{"qid":"q-862378812741255168-0","question":"Java 支持的基本数据类型有哪些?","content_id":"862378812741255168","title":"小厂java 第二弹"}
+{"qid":"q-862378812741255168-1","question":"什么是自动拆箱和自动装箱?","content_id":"862378812741255168","title":"小厂java 第二弹"}
+{"qid":"q-862367705284816896-0","question":"Java八大基础类型有哪些？","content_id":"862367705284816896","title":"26届 小厂java实习面经"}
+{"qid":"q-2809039-4","question":"Java有哪些基本数据类型？","content_id":"2809039","title":"货拉拉后端开发实习一面"}
+{"qid":"q-861995389170298880-0","question":"int类型的取值范围是多少？","content_id":"861995389170298880","title":"3.13 JDY 京东健康后端开发实习一面面经"}
+{"qid":"q-2807694-8","question":"值传递和引用传递的区别？","content_id":"2807694","title":"27届成都某1000+ 人公司java实习一面（oc已拒）"}
+{"qid":"q-2807535-0","question":"Java基本数据类型有哪些","content_id":"2807535","title":"西安天源迪科Java开发实习"}
+{"qid":"q-2807113-0","question":"Java有哪些基本数据类型","content_id":"2807113","title":"Moka Java开发一面"}
+{"qid":"q-2806452-9","question":"Java是值传递还是引用传递？请用场景题说明。","content_id":"2806452","title":"转转-java开发-一面"}
+{"qid":"q-2805351-11","question":"Java中switch语句使用String参数的条件与注意事项","content_id":"2805351","title":"广州小厂爱奇创新后端面经"}
+{"qid":"q-860868408768757760-0","question":"Java中有哪些原始类型","content_id":"860868408768757760","title":"南京莱斯-Java开发- 一面 面经"}
+{"qid":"q-2839946-1","question":"Java有哪些基本类型？long和float占用的字节和区别？","content_id":"2839946","title":"美团移动端开发一面（后端面）"}
+{"qid":"q-873330307552862208-0","question":"int和Integer的区别是什么？","content_id":"873330307552862208","title":"外派恒生电子Java实习，面试完当天就OC了，才2500一个月，地点杭州滨江，兄弟们能去吗？😭"}
+{"qid":"q-2832288-1","question":"int和Integer的区别是什么？","content_id":"2832288","title":"实在智能Java日常实习二面（30min）"}
+{"qid":"q-2831096-24","question":"Java的基本类型有哪些？","content_id":"2831096","title":"春秋航空-Java开发实习"}
+{"qid":"q-871416350042775552-0","question":"Java的基本数据类型有哪些？int占几个字节？","content_id":"871416350042775552","title":"浩鲸科技一面"}
+{"qid":"q-2845575-13","question":"金融相关的计算金额用什么类型承载，double行不行","content_id":"2845575","title":"蚂蚁agent后端开发一面凉经分享"}
+{"qid":"q-2845584-8","question":"什么是值传递和引用传递？","content_id":"2845584","title":"正浩创新/EcoFlow java一面凉经"}
+{"qid":"q-2842865-2","question":"Java中的值传递和引用传递的区别是什么？","content_id":"2842865","title":"滴滴平台后端ai开发一面-实习面经"}
+{"qid":"q-2841869-0","question":"如何安全比较两个浮点数相等以及确定阈值？","content_id":"2841869","title":"得物后端AI面"}
+{"qid":"q-2841869-3","question":"Java中全局变量和局部变量的区别与选择？","content_id":"2841869","title":"得物后端AI面"}
+{"qid":"q-2841778-1","question":"不使用第三个变量如何交换两个变量的值","content_id":"2841778","title":"苏州凌云实习面试"}
+{"qid":"q-2840502-5","question":"Java 基本数据类型和包装类型的区别？","content_id":"2840502","title":"腾讯后台开发TME酷我车载业务部 二面"}
+{"qid":"q-2823559-2","question":"BigDecimal类的常用方法","content_id":"2823559","title":"招银网络科技笔试 java后端方向"}

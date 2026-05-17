@@ -35,3 +35,55 @@
 {"qid":"q-864998819736387584-6","question":"怎么优化数据库查询？","content_id":"864998819736387584","title":"顺丰java一面"}
 {"qid":"q-2815741-11","question":"介绍一下你实习查询优化是怎么做的","content_id":"2815741","title":"龙旗科技Java实习一面二面面经"}
 {"qid":"q-2815111-13","question":"说一下SQL优化的大概流程。","content_id":"2815111","title":"有赞Java后端一面面经"}
+{"qid":"q-863862680451362816-3","question":"SQL调优的处理方法","content_id":"863862680451362816","title":"社招 北京 Java后端工程师"}
+{"qid":"q-2812175-3","question":"SQL签名化和UNION ALL合并查询优化的目的是什么？","content_id":"2812175","title":"26.3.12 腾讯QQ游戏中心一面"}
+{"qid":"q-2812175-4","question":"SQL合并查询优化的思路是什么？","content_id":"2812175","title":"26.3.12 腾讯QQ游戏中心一面"}
+{"qid":"q-2812175-5","question":"将多个查询聚合后分发为什么能减少开销？","content_id":"2812175","title":"26.3.12 腾讯QQ游戏中心一面"}
+{"qid":"q-2812175-6","question":"查询聚合后应用层分发是否会有额外耗时？","content_id":"2812175","title":"26.3.12 腾讯QQ游戏中心一面"}
+{"qid":"q-2811062-3","question":"给一个SQL语句：select * from tableA where a = 0 and b \u003c 1 and c = 2 order by d desc，如何建索引并说明理由","content_id":"2811062","title":"百度后台开发实习一面"}
+{"qid":"q-2811062-5","question":"对这个SQL进行优化","content_id":"2811062","title":"百度后台开发实习一面"}
+{"qid":"q-2811055-3","question":"可以从哪方面进行SQL语句优化","content_id":"2811055","title":"深圳某小厂Java后端面经(线上)"}
+{"qid":"q-863064805987319808-3","question":"批量查询优化的实现方法","content_id":"863064805987319808","title":"途虎养车-Java开发-二面  面经"}
+{"qid":"q-863064805987319808-4","question":"分步查询与应用层组装的设计思路","content_id":"863064805987319808","title":"途虎养车-Java开发-二面  面经"}
+{"qid":"q-2810560-5","question":"了解SQL优化吗？有哪些常见优化手段？","content_id":"2810560","title":"27届java实习成都某百人厂"}
+{"qid":"q-2808884-13","question":"在处理频繁的修改和查询操作时，如何避免引发性能问题？","content_id":"2808884","title":"2026年03月06日 10点59分唯品会校招java一面"}
+{"qid":"q-2808389-0","question":"SQL优化的思路有哪些？","content_id":"2808389","title":"软通动力后端一面"}
+{"qid":"q-2808313-18","question":"如何优化数据库查询性能？","content_id":"2808313","title":"2026年03月02日 11点28分腾讯ieg春招技术面二面"}
+{"qid":"q-861917586647232512-5","question":"SQL查询优化","content_id":"861917586647232512","title":"中通 JAVA软件开发  一面 面经"}
+{"qid":"q-2807535-13","question":"MySQL如何进行优化","content_id":"2807535","title":"西安天源迪科Java开发实习"}
+{"qid":"q-2807314-7","question":"SQL 优化说说你的想法。","content_id":"2807314","title":"广东长正线下面试"}
+{"qid":"q-2806452-20","question":"你简历里提到的优化SQL具体是怎么做的？","content_id":"2806452","title":"转转-java开发-一面"}
+{"qid":"q-875830032529186816-5","question":"SQL调优经验","content_id":"875830032529186816","title":"杭州Web3厂Go后端面经"}
+{"qid":"q-2838111-6","question":"数据库（SQL）怎么优化？","content_id":"2838111","title":"字节后端一面"}
+{"qid":"q-2837151-3","question":"SQL优化题：给建表语句和查询语句，不加索引怎么优化？","content_id":"2837151","title":"4.17美团又又被捞后端实习一面"}
+{"qid":"q-2836832-8","question":"SQL查询优化中常用的方法有哪些？","content_id":"2836832","title":"美团 AI 面试后端面经4.16"}
+{"qid":"q-2836832-9","question":"如果某个SQL查询即使使用了索引但执行速度仍然很慢，如何系统性排查问题？","content_id":"2836832","title":"美团 AI 面试后端面经4.16"}
+{"qid":"q-2836832-10","question":"如果EXPLAIN分析发现查询走了全表扫描而不是索引扫描，如何判断是否需要优化？需要采取哪些具体措施？","content_id":"2836832","title":"美团 AI 面试后端面经4.16"}
+{"qid":"q-2835139-17","question":"常用的SQL优化技巧有哪些？","content_id":"2835139","title":"美团ai暑期后端开发一面分享"}
+{"qid":"q-873562699769073664-9","question":"SQL调优中SQL的执行顺序","content_id":"873562699769073664","title":"阳光保险一面"}
+{"qid":"q-2833656-7","question":"查询数据库30s确定是ForkJoinPool问题吗？如何用PG物化视图解决？","content_id":"2833656","title":"去哪儿春招 Java 一面 凉经"}
+{"qid":"q-2833656-8","question":"这个项目预测有问题，最后还是通过数据库手段解决的","content_id":"2833656","title":"去哪儿春招 Java 一面 凉经"}
+{"qid":"q-2833233-0","question":"MySQL 如何实现高并发查询？","content_id":"2833233","title":"腾讯AI后台开发一面面经分享"}
+{"qid":"q-2831981-0","question":"对数据库增删改查频繁的情况怎么处理","content_id":"2831981","title":"携程暑期实习Java后端面经"}
+{"qid":"q-2831519-1","question":"SQL优化有哪些常见手段？","content_id":"2831519","title":"韶音科技——Java（财经）—\u003eIT产品经理管培生面经"}
+{"qid":"q-2831087-3","question":"sql优化","content_id":"2831087","title":"成都500强外企27届Java全栈实习oc"}
+{"qid":"q-2830721-10","question":"SQL调优有哪些常见方法？","content_id":"2830721","title":"智乐活 1、2面 全栈"}
+{"qid":"q-2830255-8","question":"你说到explain，extra里的using filesort怎么去解决","content_id":"2830255","title":"字节暑期ai后端开发一面 攒人品"}
+{"qid":"q-2830182-10","question":"如果没有缓存或缓存失效，数据库特别慢且数据量大，有哪些优化措施？","content_id":"2830182","title":"虾皮ai后端开发-暑期实习一面 攒人品"}
+{"qid":"q-2829341-19","question":"常用的SQL优化技巧有哪些？","content_id":"2829341","title":"美团暑期后端一面 ：金融服务平台-技术平台"}
+{"qid":"q-2845662-7","question":"简单SQL性能优化实践","content_id":"2845662","title":"巨人网络｜26春招 游戏开发一面"}
+{"qid":"q-2845451-12","question":"如果一张表有50个字段要全部查询出来，如何优化？","content_id":"2845451","title":"暑期实习 京东后端Agent开发一面面经"}
+{"qid":"q-878938775747846144-12","question":"针对不同维度的查询需求，如何进行优化？","content_id":"878938775747846144","title":"度小满后端一面"}
+{"qid":"q-878569217430253568-1","question":"MySQL数据库有哪些调优方式？","content_id":"878569217430253568","title":"同程旅行java二面"}
+{"qid":"q-2843325-9","question":"MySQL调优了解过吗？","content_id":"2843325","title":"灵感互娱服务端开发实习生"}
+{"qid":"q-2843032-17","question":"常用的 SQL 优化技巧有哪些？","content_id":"2843032","title":"暑期实习 AI后端开发一面-美团"}
+{"qid":"q-2842935-8","question":"SQL优化怎么做？","content_id":"2842935","title":"Tiktok后端ai开发一面面经 1h"}
+{"qid":"q-2841470-11","question":"一亿条数据如何快速插入MySQL？","content_id":"2841470","title":"美团ai全栈面经"}
+{"qid":"q-2841470-21","question":"如何进行SQL调优？","content_id":"2841470","title":"美团ai全栈面经"}
+{"qid":"q-2840568-7","question":"SQL优化的方法与实践","content_id":"2840568","title":"TikTok 国际电商后端一面"}
+{"qid":"q-2826026-13","question":"实习的定时任务优化是怎么优化的，技术层面，数据库层面怎么优化的","content_id":"2826026","title":"量子泛娱Java实习面经"}
+{"qid":"q-2826026-16","question":"举一个实习中具体优化查询的案例","content_id":"2826026","title":"量子泛娱Java实习面经"}
+{"qid":"q-2823507-26","question":"请解释SQL签名化的概念和作用。","content_id":"2823507","title":"26.3.19 腾讯广告cpp一面"}
+{"qid":"q-2823507-28","question":"多个SQL合并后只查最小时间戳是什么意思？","content_id":"2823507","title":"26.3.19 腾讯广告cpp一面"}
+{"qid":"q-2823507-29","question":"SQL合并优化的前提是多个请求同时发过来吗？","content_id":"2823507","title":"26.3.19 腾讯广告cpp一面"}
+{"qid":"q-2820914-7","question":"SQL 查询优化的方法","content_id":"2820914","title":"美团后端暑期ai面"}

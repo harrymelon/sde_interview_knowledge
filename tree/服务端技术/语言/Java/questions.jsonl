@@ -1,27 +1,4 @@
-{"qid":"q-2617723-15","question":"volatile能保证线程安全吗，为什么","content_id":"2617723","title":"饿了么1面"}
-{"qid":"q-2613716-23","question":"Java反射的应用场景","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
-{"qid":"q-2613716-25","question":"反射的优缺点","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
-{"qid":"q-2613716-26","question":"Socket连接在Java中的实现","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
-{"qid":"q-2613716-27","question":"JDK动态代理与CGLib动态代理的区别","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
-{"qid":"q-2580222-10","question":"Hibernate了解过嘛？使用场景？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
-{"qid":"q-2572890-15","question":"怎么打包jar包？没有Maven之前怎么进行java开发？类似的框架了解吗？","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}
 {"qid":"q-2571712-0","question":"Java基础、多线程、Spring等知识点覆盖","content_id":"2571712","title":"3.31海康威视java笔试"}
-{"qid":"q-2556417-2","question":"ArrayList和LinkedList有什么区别？","content_id":"2556417","title":"亚信科技一面（30min，已OC）"}
-{"qid":"q-2551869-3","question":"动态代理的实现原理，为什么大部分情况下使用JDK动态代理","content_id":"2551869","title":"字节跳动二面（1h20min）"}
-{"qid":"q-2551869-4","question":"静态代理与动态代理的区别","content_id":"2551869","title":"字节跳动二面（1h20min）"}
-{"qid":"q-2551869-5","question":"实现动态代理时创建代理对象的方式","content_id":"2551869","title":"字节跳动二面（1h20min）"}
 {"qid":"q-2547261-1","question":"Java语言相关选择题知识点","content_id":"2547261","title":"京东笔试（后端开发）"}
-{"qid":"q-2535115-5","question":"String s = new String(\"abc\") 创建了几个对象，s表示什么，创建的对象分别存放在哪里","content_id":"2535115","title":"腾讯实习基地一面凉经"}
 {"qid":"q-2494887-0","question":"Java开发为什么卷，该如何应对和解决？","content_id":"2494887","title":"群面-当末流二本混入一堆985硕"}
-{"qid":"q-2494992-0","question":"文本编辑器写了txt代码，它最终是如何运行的？","content_id":"2494992","title":"字节抖音搜索26日常实习-三面+HR面"}
-{"qid":"q-2494992-1","question":"什么是编译型语言？什么是解释型语言？","content_id":"2494992","title":"字节抖音搜索26日常实习-三面+HR面"}
-{"qid":"q-2494992-2","question":"为什么Java是半编译半解释语言？","content_id":"2494992","title":"字节抖音搜索26日常实习-三面+HR面"}
-{"qid":"q-2494992-3","question":"JIT与AOT是什么？","content_id":"2494992","title":"字节抖音搜索26日常实习-三面+HR面"}
-{"qid":"q-2474734-0","question":"序列化是怎么实现的？","content_id":"2474734","title":"蔚来凉经"}
-{"qid":"q-2474734-2","question":"Java和Go在项目开发中的区别是什么？","content_id":"2474734","title":"蔚来凉经"}
-{"qid":"q-2450152-6","question":"Java中的文件流有哪几种？","content_id":"2450152","title":"海兴电力_java一面二面"}
-{"qid":"q-2455660-1","question":"Reactor响应式编程的基本原理是什么？","content_id":"2455660","title":"小红书 后端开发 日常实习一面面经"}
-{"qid":"q-2445927-0","question":"说说数据结构有哪些，以及各自特点","content_id":"2445927","title":"哈啰 Java后端开发 一面面经"}
-{"qid":"q-2445927-1","question":"JDK中哪种数据结构实现比较巧妙？","content_id":"2445927","title":"哈啰 Java后端开发 一面面经"}
-{"qid":"q-2444943-12","question":"C++和Java的区别和联系","content_id":"2444943","title":"华为ICT通用软开java面经"}
 {"qid":"q-2429201-2","question":"Java面试常见的八股知识点","content_id":"2429201","title":"华为通软面经"}

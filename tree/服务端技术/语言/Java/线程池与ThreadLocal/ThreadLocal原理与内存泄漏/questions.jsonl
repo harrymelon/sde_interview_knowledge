@@ -28,3 +28,48 @@
 {"qid":"q-2492820-4","question":"Java基础——ThreadLocal用过吗？是做什么的，使用场景是什么？","content_id":"2492820","title":"网易一面凉经"}
 {"qid":"q-2477745-3","question":"ThreadLocal的具体底层实现及应用场景","content_id":"2477745","title":"蚂蚁开发面经"}
 {"qid":"q-2814531-2","question":"ThreadLocal的原理和使用场景是什么？","content_id":"2814531","title":"JDS京东健康26校招微凉"}
+{"qid":"q-864165388366467072-3","question":"ThreadLocal原理，内存泄漏场景及解决办法","content_id":"864165388366467072","title":"字节后端二面，比一面难多了"}
+{"qid":"q-864171541578129408-1","question":"ThreadLocal内存泄漏的原因及如何处理？","content_id":"864171541578129408","title":"25年12月北京清大科越 Java后端开发工程师 一面"}
+{"qid":"q-862971738391441408-8","question":"ThreadLocal的使用及其与缓存一致性的关系","content_id":"862971738391441408","title":"社招 北京 全栈"}
+{"qid":"q-861995389170298880-1","question":"ThreadLocal是怎么使用的？","content_id":"861995389170298880","title":"3.13 JDY 京东健康后端开发实习一面面经"}
+{"qid":"q-2806566-2","question":"ThreadLocal原理以及内存泄漏问题","content_id":"2806566","title":"美的后端研发日常实习面经"}
+{"qid":"q-2805282-1","question":"ThreadLocal是什么？","content_id":"2805282","title":"第一次面试:Java全栈实习生面试题"}
+{"qid":"q-2838606-15","question":"ThreadLocal内存泄露，在线程池中除了手动remove还能怎么防止","content_id":"2838606","title":"滴滴java一面"}
+{"qid":"q-2837957-7","question":"你对 ThreadLocal 的了解是什么？","content_id":"2837957","title":"京东27暑期后端ai开发一面分享"}
+{"qid":"q-2837277-2","question":"ThreadLocal的使用场景和使用时有什么问题","content_id":"2837277","title":"字节ai应用后端财经一面"}
+{"qid":"q-2836748-2","question":"ThreadLocal的作用是什么？使用中遇到过什么问题？","content_id":"2836748","title":"用友（澳门） base珠海（OC）"}
+{"qid":"q-2835946-12","question":"ThreadLocal 的实现原理","content_id":"2835946","title":"27日常实习 美团ai后端开发一面"}
+{"qid":"q-2835139-16","question":"ThreadLocal在项目中有使用过吗？内存泄漏问题如何解决？","content_id":"2835139","title":"美团ai暑期后端开发一面分享"}
+{"qid":"q-873660050688991232-13","question":"对ThreadLocal的理解","content_id":"873660050688991232","title":"27届-暑期实习-腾讯-数据计算平台-一面"}
+{"qid":"q-2834010-11","question":"ThreadLocal会遇到哪些问题？","content_id":"2834010","title":"携程 旅游事业部 后端暑期 一面"}
+{"qid":"q-2833819-4","question":"Java中的ThreadLocal原理是什么，它有内存泄露的风险吗","content_id":"2833819","title":"大二双非双一流后端开发小厂面经"}
+{"qid":"q-2833751-8","question":"ThreadLocal的作用和内存泄露场景是什么？","content_id":"2833751","title":"去哪儿 后端一面"}
+{"qid":"q-2833522-19","question":"ThreadLocal用于什么场景比较合适？","content_id":"2833522","title":"27实习京东后端AI开发一面 攒人品"}
+{"qid":"q-2833522-20","question":"你了解ThreadLocal的实现原理吗？","content_id":"2833522","title":"27实习京东后端AI开发一面 攒人品"}
+{"qid":"q-2832975-18","question":"threadlocal如何实现线程隔离的","content_id":"2832975","title":"腾讯暑期ai后台开发一面 攒人品中"}
+{"qid":"q-872599725722132480-3","question":"为什么要用ThreadLocal而不直接用Map存储","content_id":"872599725722132480","title":"红茶移动Java开发一面"}
+{"qid":"q-2832129-4","question":"ThreadLocal原理、内存泄漏原理与排查方法是什么？","content_id":"2832129","title":"蚂蚁智能体与大模型暑期实习一面面经"}
+{"qid":"q-2831567-9","question":"ThreadLocal使用时需要注意什么？","content_id":"2831567","title":"4.10虾皮后端实习一面"}
+{"qid":"q-2831555-15","question":"ThreadLocal使用时需要注意什么","content_id":"2831555","title":"4.10京东后端实习一面凉经"}
+{"qid":"q-2831148-1","question":"ThreadLocal原理，内存泄漏的情况以及如何避免？","content_id":"2831148","title":"拼多多后端一面，比字节还难"}
+{"qid":"q-871812235104944128-1","question":"ThreadLocal原理，内存泄漏的情况以及如何避免？","content_id":"871812235104944128","title":"拼多多后端一面，比字节还难"}
+{"qid":"q-871815930236391424-30","question":"ThreadLocal原理","content_id":"871815930236391424","title":"4.9美团一面复盘加分享"}
+{"qid":"q-871815930236391424-31","question":"ThreadLocal内存泄漏问题","content_id":"871815930236391424","title":"4.9美团一面复盘加分享"}
+{"qid":"q-2830302-0","question":"ThreadLocal的生命周期是怎样的？","content_id":"2830302","title":"蚂蚁国际 ai后端开发 暑期实习一面"}
+{"qid":"q-2830319-11","question":"ThreadLocal会遇到哪些问题？","content_id":"2830319","title":"携程ai后端暑期实习一面-攒人品中"}
+{"qid":"q-871416350042775552-10","question":"ThreadLocal的原理及内存泄漏问题是什么？","content_id":"871416350042775552","title":"浩鲸科技一面"}
+{"qid":"q-2829336-9","question":"ThreadLocal是什么，常用方法有哪些，会遇到什么问题","content_id":"2829336","title":"美团软件开发工程师（后端方向）一面"}
+{"qid":"q-2829341-18","question":"ThreadLocal在项目中有用过吗？内存泄漏问题如何产生？","content_id":"2829341","title":"美团暑期后端一面 ：金融服务平台-技术平台"}
+{"qid":"q-2844806-10","question":"ThreadLocal是怎么实现的？","content_id":"2844806","title":"27实习字节后端ai开发一面凉经分享"}
+{"qid":"q-2843305-14","question":"ThreadLocal是如何实现线程隔离的","content_id":"2843305","title":"暑期实习-腾讯ai后端开发一面分享"}
+{"qid":"q-2843300-0","question":"ThreadLocal是什么，实际工程中用到了吗","content_id":"2843300","title":"AI后端开发-美团实习一面 1h"}
+{"qid":"q-2843032-16","question":"ThreadLocal 在项目中有用过吗？内存泄漏问题？","content_id":"2843032","title":"暑期实习 AI后端开发一面-美团"}
+{"qid":"q-2842995-11","question":"threadlocal实现原理","content_id":"2842995","title":"日常实习- AI后端开发一面-美团"}
+{"qid":"q-2842627-5","question":"ThreadLocal为什么key为弱引用value为强引用；ThreadLocal如何解决异步任务传递","content_id":"2842627","title":"4.24 腾讯云智 后端一面"}
+{"qid":"q-2841470-22","question":"ThreadLocal的原理和内存泄漏问题是什么？","content_id":"2841470","title":"美团ai全栈面经"}
+{"qid":"q-2827730-2","question":"ThreadLocal的缺陷，在底层设计上为啥key设为弱引用","content_id":"2827730","title":"4.2 美团后端开发二面"}
+{"qid":"q-2826026-4","question":"ThreadLocal内存泄漏","content_id":"2826026","title":"量子泛娱Java实习面经"}
+{"qid":"q-2827415-12","question":"ThreadLocal底层原理","content_id":"2827415","title":"3.31 美团食杂零售后端一面"}
+{"qid":"q-2824471-15","question":"ThreadLocal有什么作用？它是怎么保存参数的？强弱引用是什么？","content_id":"2824471","title":"3.31飞猪java后端开发一面"}
+{"qid":"q-2818381-7","question":"Java中ThreadLocal了解吗。怎么使用","content_id":"2818381","title":"快手后端-Java开发一面面经"}
+{"qid":"q-2818381-8","question":"Java中ThreadLocal的内存泄漏问题讲一下","content_id":"2818381","title":"快手后端-Java开发一面面经"}

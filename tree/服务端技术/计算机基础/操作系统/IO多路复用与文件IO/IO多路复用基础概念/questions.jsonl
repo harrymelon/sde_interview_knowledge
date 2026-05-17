@@ -13,3 +13,8 @@
 {"qid":"q-2529763-6","question":"IO多路复用的原理是什么？","content_id":"2529763","title":"拼多多服务端开发面经二面"}
 {"qid":"q-2531587-36","question":"数据包到服务器后怎么处理（从操作系统角度解释）？","content_id":"2531587","title":"腾讯hr部门二面"}
 {"qid":"q-2523761-4","question":"IO 多路复用的原理是什么？","content_id":"2523761","title":"饿了么面经"}
+{"qid":"q-2810684-8","question":"linux io模型和复用","content_id":"2810684","title":"字节 云计算后端实习 面经"}
+{"qid":"q-2807521-3","question":"Windows系统中有没有处理事件相关的库？","content_id":"2807521","title":"字节后端暑期实习一面"}
+{"qid":"q-2835684-5","question":"IO多路复用","content_id":"2835684","title":"美团ai后端开发一面 27日常实习一面"}
+{"qid":"q-2834560-41","question":"单线程处理多个请求的方法","content_id":"2834560","title":"三战暑期腾讯后台面经"}
+{"qid":"q-2841323-4","question":"IO多路复用的作用与常见模型（select、poll、epoll）","content_id":"2841323","title":"腾讯游戏后台一面凉经"}

@@ -1,0 +1,51 @@
+{"qid":"q-847976149895376896-17","question":"Function Calling与MCP的区别","content_id":"847976149895376896","title":"2026的你，应该知道哪些AI面试题？"}
+{"qid":"q-857289028817727488-2","question":"MCP 相比 Function Calling 有什么优势？","content_id":"857289028817727488","title":"再战27暑期实习！SenseTime后端开发一面"}
+{"qid":"q-2777963-2","question":"MCP和Tool有什么区别？","content_id":"2777963","title":"minimax agent后端"}
+{"qid":"q-2777445-8","question":"了解 Function Calling 和 MCP 吗?","content_id":"2777445","title":"美团Java后端开发实习二面"}
+{"qid":"q-2776522-4","question":"MCP和function-call？","content_id":"2776522","title":"凯通科技公司 Java实习"}
+{"qid":"q-2817712-16","question":"MCP和Skill的功能边界是什么？两者在工具调用、模块化设计上有何区别？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-2817712-17","question":"如何将现有MCP工具改造为支持Skill功能？具体的代码或配置修改步骤是什么？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-865566080410935296-4","question":"你是否了解skill，skill和MCP有什么区别","content_id":"865566080410935296","title":"字节后端开发实习（AIDP）一面 40 min"}
+{"qid":"q-865245558980603904-9","question":"MCP、Function Call、手写提示词拼接、Skill的应用场景与区别","content_id":"865245558980603904","title":"腾讯视频后台一面凉经"}
+{"qid":"q-2815363-11","question":"Function Call 与 MCP 的区别","content_id":"2815363","title":"字节跳动 后台开发 二面"}
+{"qid":"q-2814864-22","question":"MCP和Function Calling的区别","content_id":"2814864","title":"广州联奕科技Java后端实习一面"}
+{"qid":"q-2811606-5","question":"MCP协议与Function Calling的区别是什么？","content_id":"2811606","title":"货拉拉java实习面"}
+{"qid":"q-2810571-8","question":"从tools到MCP到Skills，为什么有了tools还要MCP有了MCP还要Skills，你觉得以后的发展趋势是什么","content_id":"2810571","title":"鹅厂后台开发llm方向 实习一面"}
+{"qid":"q-2809855-12","question":"FunctionCalling+Skills的区别和你的理解","content_id":"2809855","title":"京东-零售部门后端一面面经"}
+{"qid":"q-2807868-14","question":"mcp了解嘛？和function calling有什么区别","content_id":"2807868","title":"快手Java后端一面"}
+{"qid":"q-860907344115306496-1","question":"Skills和MCP是什么？有什么区别（规范格式 vs 统一接口）？","content_id":"860907344115306496","title":"27届-某智驾云平台后端开发"}
+{"qid":"q-2839810-2","question":"Skill和MCP的区别是什么？","content_id":"2839810","title":"蚂蚁后端一面凉经"}
+{"qid":"q-875794192662810624-5","question":"介绍一下tool、MCP、skill这几个概念的异同","content_id":"875794192662810624","title":"4.20-字节data-一面"}
+{"qid":"q-2838422-2","question":"使用SKILL还是MCP的形式进行交互？","content_id":"2838422","title":"美团后端agent开发暑期一面 攒人品中"}
+{"qid":"q-875014532303749120-3","question":"你最近了解的AI最新进展？了解Skills或MCP的概念吗？","content_id":"875014532303749120","title":"字节 TikTok-Shop 后端开发 一面"}
+{"qid":"q-2836748-12","question":"Skills和MCP有什么区别？是同一种东西吗？","content_id":"2836748","title":"用友（澳门） base珠海（OC）"}
+{"qid":"q-2835495-7","question":"为什么不使用先LLM再决策的方式？如何将其改为MCP接口？为什么不用MCP接口实现？","content_id":"2835495","title":"字节后端ai开发一面分享 暑期实习"}
+{"qid":"q-2835495-10","question":"MCP和Function Calling各有什么作用？它们的区别是什么？","content_id":"2835495","title":"字节后端ai开发一面分享 暑期实习"}
+{"qid":"q-2834627-5","question":"渐进式披露和MCP的区别是什么？","content_id":"2834627","title":"美团ai全栈开发日常实习一面分享"}
+{"qid":"q-2834081-5","question":"MCP、Function Calling、Skills的概念与使用","content_id":"2834081","title":"美团暑期后端AI开发二面 攒人品中"}
+{"qid":"q-2834024-4","question":"通过CLI命令调用工具和MCP服务有什么区别？","content_id":"2834024","title":"字节后端一面"}
+{"qid":"q-2834484-25","question":"请介绍MCP协议，以及如何选择MCP和Skills？","content_id":"2834484","title":"腾讯后台开发一面-腾讯云-技术与产品服务"}
+{"qid":"q-2833990-19","question":"解释Function Calling、MCP、Skill的概念、使用场景及解决的问题。","content_id":"2833990","title":"钉钉27暑期后端ai研发一面面经 1h"}
+{"qid":"q-2833737-1","question":"如何设计MCP服务或Skill来完成代码审查？","content_id":"2833737","title":"美团暑期后端一面（已挂）"}
+{"qid":"q-872181143913648128-7","question":"MCP和Function Calling有什么区别？","content_id":"872181143913648128","title":"腾讯QQ后台开发Java一面 凉经"}
+{"qid":"q-2831579-7","question":"了解过上下文工程吗？请介绍Skill、MCP、Rule。","content_id":"2831579","title":"27京东暑期ai后端开发面经分享"}
+{"qid":"q-2831358-11","question":"Function Calling、MCP、Skill的概念、场景与解决的问题","content_id":"2831358","title":"4.8 钉钉-S项目-暑期实习java研发一面"}
+{"qid":"q-2830929-9","question":"MCP协议和Function Calling的区别","content_id":"2830929","title":"货拉拉实习ai后端开发一面"}
+{"qid":"q-2830874-6","question":"MCP和Function Calling的区别？","content_id":"2830874","title":"字节一面面经（应该是后端）"}
+{"qid":"q-2830605-19","question":"了解MCP吗？它与Tool注册机制有什么区别？","content_id":"2830605","title":"9本无实习Java Agent阿里一面"}
+{"qid":"q-2830295-4","question":"skill和mcp区别","content_id":"2830295","title":"小红书暑期实习 AI全栈开发 二面"}
+{"qid":"q-2829516-5","question":"MCP、Function Calling、Skills是什么？","content_id":"2829516","title":"4.7美团暑期后端二面"}
+{"qid":"q-2845684-5","question":"MCP / Skill 的执行方式分别是什么？","content_id":"2845684","title":"美团暑期全栈一二面面经"}
+{"qid":"q-2845459-7","question":"Claude code的相关机制、代码、skills、hook是什么？MCP和skill有什么区别？","content_id":"2845459","title":"暑期实习美团AI全栈开发一面分享"}
+{"qid":"q-2844171-3","question":"MCP是什么？和function tools（Function Calling）有什么关系？","content_id":"2844171","title":"字节跳动 后端开发 日常实习 三面"}
+{"qid":"q-2844152-7","question":"MCP是什么，Function Calling是什么","content_id":"2844152","title":"字节跳动 后端开发 日常实习 二面"}
+{"qid":"q-2844152-8","question":"MCP和Function Calling是什么关系","content_id":"2844152","title":"字节跳动 后端开发 日常实习 二面"}
+{"qid":"q-2843992-4","question":"Skills、Tools和MCP之间的区别是什么？","content_id":"2843992","title":"AI全栈开发实习二面分享-小红书"}
+{"qid":"q-2843992-5","question":"如果我们自己实现一个工具服务让AI调用，你会选择Skills、MCP还是Tools方式实现？","content_id":"2843992","title":"AI全栈开发实习二面分享-小红书"}
+{"qid":"q-2843803-2","question":"MCP和Skill的区别是什么？","content_id":"2843803","title":"字节飞书低代码平台 后台开发一面"}
+{"qid":"q-2843318-7","question":"了解过上下文工程吗，skill，mcp，rule","content_id":"2843318","title":"京东ai后台开发暑期实习一面分享"}
+{"qid":"q-2843300-18","question":"MCP、skill、Agent是什么","content_id":"2843300","title":"AI后端开发-美团实习一面 1h"}
+{"qid":"q-2842831-2","question":"Skill和MCP的区别是什么？","content_id":"2842831","title":"27实习面经-蚂蚁后端ai开发一面"}
+{"qid":"q-2841827-5","question":"请介绍Skills和MCP（Model Context Protocol）的概念。","content_id":"2841827","title":"美团全栈一面"}
+{"qid":"q-2840760-2","question":"Skill和MCP的区别是什么？","content_id":"2840760","title":"27蚂蚁实习 AI后端开发一面凉经"}
+{"qid":"q-2824126-16","question":"Skill和MCP的区别","content_id":"2824126","title":"27届 小红书PE全栈 一面 35min"}

@@ -5,3 +5,5 @@
 {"qid":"q-2661686-4","question":"Go 中多个 defer 语句的执行顺序是怎样的？","content_id":"2661686","title":"某二线城市小厂golang面经."}
 {"qid":"q-2815096-12","question":"Defer是用来干什么的？","content_id":"2815096","title":"腾讯CSIG后端开发日常实习一面面经"}
 {"qid":"q-2814182-1","question":"Go语言中 defer func() 与 defer func{}() 的区别","content_id":"2814182","title":"小红书一面凉经"}
+{"qid":"q-2838270-11","question":"Defer是用来干什么的？","content_id":"2838270","title":"腾讯日常实习 后端AI开发一面 1h"}
+{"qid":"q-2837793-5","question":"defer 的用途和执行顺序","content_id":"2837793","title":"ai全栈开发腾讯一面-日常实习"}

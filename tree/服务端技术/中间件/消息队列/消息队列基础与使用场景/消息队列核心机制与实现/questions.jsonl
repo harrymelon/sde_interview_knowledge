@@ -5,3 +5,4 @@
 {"qid":"q-2693075-22","question":"如何让一条消息被所有消费者全部消费","content_id":"2693075","title":"美团后端面经（意向）"}
 {"qid":"q-2767088-6","question":"RabbitMQ的broker如何把消息给到消费者？Kafka如何把消息给到消费者","content_id":"2767088","title":"字节tiktok后端日常二面"}
 {"qid":"q-2540334-6","question":"RocketMQ如何实现的？","content_id":"2540334","title":"腾讯技术运营一面"}
+{"qid":"q-2833597-13","question":"发送一条消息的完整流程是怎样的？","content_id":"2833597","title":"虾皮大模型后端开发一面-日常实习"}

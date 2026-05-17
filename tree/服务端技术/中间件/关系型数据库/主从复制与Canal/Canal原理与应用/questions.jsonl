@@ -1,0 +1,18 @@
+{"qid":"q-857347414137548800-4","question":"基于Canal监听binlog的方式相比于缓存双删有什么缺点？","content_id":"857347414137548800","title":"字节crm后端二面"}
+{"qid":"q-857347414137548800-5","question":"基于Canal监听binlog同步时，会不会读到旧数据？","content_id":"857347414137548800","title":"字节crm后端二面"}
+{"qid":"q-2781491-19","question":"CDC底层原理","content_id":"2781491","title":"字节后端日常一二三面面经（oc）"}
+{"qid":"q-2565587-3","question":"Canal监听binlog的实现原理","content_id":"2565587","title":"蚂蚁Java应用开发一面凉经"}
+{"qid":"q-2434128-4","question":"mysql 订阅binlog的中间件","content_id":"2434128","title":"京东零售-Java-面经"}
+{"qid":"q-2815096-1","question":"评价系统为什么使用Canal？","content_id":"2815096","title":"腾讯CSIG后端开发日常实习一面面经"}
+{"qid":"q-2815096-2","question":"后台消费脚本如何判断一条语句是DDL还是DML？","content_id":"2815096","title":"腾讯CSIG后端开发日常实习一面面经"}
+{"qid":"q-2815096-3","question":"如何判断一条语句是DCL语句？","content_id":"2815096","title":"腾讯CSIG后端开发日常实习一面面经"}
+{"qid":"q-2806576-10","question":"MySQL 到 ES 同步的延迟如何优化","content_id":"2806576","title":"腾讯后台开发一面"}
+{"qid":"q-2839808-11","question":"Canal监听高并发的表会不会存在瓶颈，顺序怎么保证","content_id":"2839808","title":"京东后端一面"}
+{"qid":"q-2838270-0","question":"Canal的配置是怎么去配置的？有没有遇到什么难题？","content_id":"2838270","title":"腾讯日常实习 后端AI开发一面 1h"}
+{"qid":"q-2830255-4","question":"你说到canal，既然canal作为从库同步到redis，会和业务访问redis造成并发问题吗？","content_id":"2830255","title":"字节暑期ai后端开发一面 攒人品"}
+{"qid":"q-2844801-10","question":"MySQL到ES同步的延迟如何优化","content_id":"2844801","title":"27实习腾讯后端AI开发一面 70min"}
+{"qid":"q-2843300-9","question":"监听binlog为什么要使用异步更新","content_id":"2843300","title":"AI后端开发-美团实习一面 1h"}
+{"qid":"q-2843300-10","question":"Canal是什么","content_id":"2843300","title":"AI后端开发-美团实习一面 1h"}
+{"qid":"q-2843300-11","question":"binlog消费失败了怎么办","content_id":"2843300","title":"AI后端开发-美团实习一面 1h"}
+{"qid":"q-2842925-10","question":"canal监听高并发的表会不会存在瓶颈，顺序怎么保证","content_id":"2842925","title":"27实习京东后端ai开发一面分享"}
+{"qid":"q-2810717-5","question":"多数据库模式下的数据同步如何实现","content_id":"2810717","title":"攒人品-杭州科工电子-C++面经"}

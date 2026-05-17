@@ -1,0 +1,43 @@
+{"qid":"q-2795144-8","question":"Explain命令的作用是什么？","content_id":"2795144","title":"润科通用Java实习"}
+{"qid":"q-2794658-6","question":"用过explain吗？其作用是什么？核心关注哪些字段？","content_id":"2794658","title":"实在智能Java一面面经 （30min速通）"}
+{"qid":"q-2792732-8","question":"如何判断 SQL 是否命中了索引？","content_id":"2792732","title":"滴滴后端一面"}
+{"qid":"q-2792583-4","question":"如何查看SQL语句的执行效果？","content_id":"2792583","title":"小厂Java电话面试"}
+{"qid":"q-2788871-9","question":"使用explain分析慢SQL时，哪些字段比较重要？","content_id":"2788871","title":"百度国际化后台开发日常实习一面"}
+{"qid":"q-2785316-21","question":"如何分析SQL的执行计划","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2780119-11","question":"MySQL执行计划中关注的参数","content_id":"2780119","title":"百度后端开发一面-实习面经"}
+{"qid":"q-2777321-4","question":"explain关键字你通常会关注哪些输出信息作为判断？","content_id":"2777321","title":"字节今日头条Java日常实习一面凉经"}
+{"qid":"q-2778820-9","question":"使用Explain主要看哪些列？","content_id":"2778820","title":"汉得信息已offer一面面经分享"}
+{"qid":"q-2726168-6","question":"EXPLAIN除了索引情况还能提供哪些信息？","content_id":"2726168","title":"社招-JAVA后端-久其软件一面"}
+{"qid":"q-2702636-8","question":"使用explain分析SQL时，核心关注哪些指标？这些指标如何帮助优化？","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2659324-7","question":"MySQL 如何判断一条语句是否命中索引？","content_id":"2659324","title":"百度文库一面"}
+{"qid":"q-2659324-8","question":"使用 explain 分析 SQL 时会主动关注哪些字段？","content_id":"2659324","title":"百度文库一面"}
+{"qid":"q-2615328-13","question":"MySQL执行计划如何分析？","content_id":"2615328","title":"上海汉得信息Java面经"}
+{"qid":"q-2613716-28","question":"MySQL执行计划是什么","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2613716-29","question":"explain结果中哪些字段值得关注及其含义","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2603543-10","question":"explain有哪些重点字段","content_id":"2603543","title":"美团春招一面凉经"}
+{"qid":"q-2566751-20","question":"Explain结果中哪些字段判断是否走了索引","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2534483-8","question":"explain 的输出结果包含哪些信息","content_id":"2534483","title":"腾讯PCG QQ 后台开发一面"}
+{"qid":"q-2817751-2","question":"EXPLAIN中各个字段含义（type、key、key_len、extra）","content_id":"2817751","title":"B站大会员后端开发一面"}
+{"qid":"q-2812014-12","question":"如何分析和优化慢 SQL？Explain 重点看哪些字段？","content_id":"2812014","title":"百度 服务端开发 暑期实习 二面凉经"}
+{"qid":"q-2810560-6","question":"看过SQL执行计划吗？如何用Explain分析慢查询？","content_id":"2810560","title":"27届java实习成都某百人厂"}
+{"qid":"q-2809839-5","question":"线上出现慢查询一般如何进行处理？explain关键字如何使用？","content_id":"2809839","title":"航旅纵横java春招后端一面"}
+{"qid":"q-2808884-10","question":"在MySQL中，如何通过explain查询来分析circle执行计划并找出性能差的原因？","content_id":"2808884","title":"2026年03月06日 10点59分唯品会校招java一面"}
+{"qid":"q-2805971-12","question":"如何判断MySQL查询语句命中的索引","content_id":"2805971","title":"小黑盒（一面）"}
+{"qid":"q-2839595-9","question":"explain主要查看哪几个参数？","content_id":"2839595","title":"熙牛医疗一面  Java后端"}
+{"qid":"q-2838720-14","question":"数据库慢查询如何排查，Explain查询后的关键字介绍，每个关键字都有哪些值，代表什么含义","content_id":"2838720","title":"汉得信息Java开发 4.09"}
+{"qid":"q-2837032-4","question":"MySQL执行计划有哪些字段，重点关注什么信息？","content_id":"2837032","title":"虾皮后端开发面经"}
+{"qid":"q-2836748-7","question":"如何查询SQL走索引的情况？","content_id":"2836748","title":"用友（澳门） base珠海（OC）"}
+{"qid":"q-2835813-4","question":"SQL调优中执行计划的属性有哪些","content_id":"2835813","title":"得物一面：Java"}
+{"qid":"q-2835139-21","question":"如何查看一个SQL语句的查询性能？","content_id":"2835139","title":"美团ai暑期后端开发一面分享"}
+{"qid":"q-873660050688991232-2","question":"explain里面具体是通过哪些关键字进行分析？","content_id":"873660050688991232","title":"27届-暑期实习-腾讯-数据计算平台-一面"}
+{"qid":"q-2832278-0","question":"EXPLAIN 具体看哪些字段？","content_id":"2832278","title":"腾讯后台开发暑期实习 PCG技术线-应用效能技术方向 一面凉经"}
+{"qid":"q-2830536-18","question":"慢查询如何解决？explain关注哪些内容？","content_id":"2830536","title":"字节一二三hr面 java面经（已off）"}
+{"qid":"q-2829738-5","question":"你用过MySQL的explain吗？如何分析执行计划？","content_id":"2829738","title":"腾讯后台开发一面凉经分享"}
+{"qid":"q-2829535-11","question":"怎么看一个SQL的执行计划？","content_id":"2829535","title":"ai后端开发一面-美团实习面经分享"}
+{"qid":"q-2829341-23","question":"如何查看一个SQL语句的查询性能？","content_id":"2829341","title":"美团暑期后端一面 ：金融服务平台-技术平台"}
+{"qid":"q-2845451-9","question":"MySQL调优可以从哪些角度考虑？执行计划（explain）中需要关注哪些列？","content_id":"2845451","title":"暑期实习 京东后端Agent开发一面面经"}
+{"qid":"q-2845280-12","question":"如何分析和优化慢 SQL？Explain 重点看哪些字段？","content_id":"2845280","title":"百度暑期实习后端AI开发二面凉经 好难"}
+{"qid":"q-878623990552481792-3","question":"explain怎么看用没用到索引","content_id":"878623990552481792","title":"4.28 用友（java后端实习）面经"}
+{"qid":"q-2843803-6","question":"SQL慢查询原因排查常用命令？如何判断是否回表？","content_id":"2843803","title":"字节飞书低代码平台 后台开发一面"}
+{"qid":"q-2843337-11","question":"怎么看一个 SQL 的执行计划？","content_id":"2843337","title":"AI后端开发实习面经分享-美团"}
+{"qid":"q-2843032-21","question":"怎么查看一个 SQL 语句的查询性能？","content_id":"2843032","title":"暑期实习 AI后端开发一面-美团"}

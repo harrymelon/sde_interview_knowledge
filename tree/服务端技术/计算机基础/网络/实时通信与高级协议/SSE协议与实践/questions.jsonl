@@ -1,0 +1,28 @@
+{"qid":"q-857346654905626624-4","question":"你用 WebSocket 实现实时通讯，了解过 SSE 吗？两者有什么区别？","content_id":"857346654905626624","title":"小雨智造后端一面"}
+{"qid":"q-2796179-5","question":"请解释SSE通信模式，它与WebSocket有什么区别？","content_id":"2796179","title":"2.26 字节后端开发转正实习一面"}
+{"qid":"q-842801019334455296-7","question":"说一下SSE的细节，基于什么协议做的？","content_id":"842801019334455296","title":"腾讯后端日常实习二面(已OC)+一点随笔"}
+{"qid":"q-2780364-0","question":"SSE与WebSocket的区别？","content_id":"2780364","title":"小鹏汽车秋招Java后端面试记录"}
+{"qid":"q-2780374-0","question":"在与大模型的交互中，通常采用的是SSE协议，为什么要在项目中使用IM来进行通讯？","content_id":"2780374","title":"得物秋招Java后端面试记录"}
+{"qid":"q-2671310-12","question":"WebSocket和SSE的区别是什么？","content_id":"2671310","title":"美团后端秋招一面"}
+{"qid":"q-2817712-3","question":"SSE是否具备双工通信能力？如何清晰澄清SSE的单向推送特性？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-2817712-4","question":"SSE实现客户端消息推送时，持续推送无法中断的问题该如何解决？是否需要后端配合实现流程控制？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-2817712-5","question":"SSE存在自动断连风险，该如何优化协议稳定性以适配业务场景？有哪些重连或保活方案？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-2815096-4","question":"SSE和HTTP有什么区别？SSE是单向的吗？","content_id":"2815096","title":"腾讯CSIG后端开发日常实习一面面经"}
+{"qid":"q-2810966-4","question":"SSE（Server-Sent Events）是如何实现的？推理时是否也使用SSE？","content_id":"2810966","title":"字节 后端开发实习生-基础技术 一面"}
+{"qid":"q-2830469-0","question":"SSE（Server-Sent Events）使用过程中发生错误时，如何将错误信息传给客户端？","content_id":"2830469","title":"腾讯云agent后台开发二面-暑期实习"}
+{"qid":"q-2830469-1","question":"客户端使用 SSE 时切换网络（如 WiFi 切换到 4G）会发生什么？如何处理？是重新开始推送还是从中断处继续？","content_id":"2830469","title":"腾讯云agent后台开发二面-暑期实习"}
+{"qid":"q-2830297-0","question":"AI通信方式SSE为什么不用WebSocket？","content_id":"2830297","title":"网易互娱 暑期实习 ai后端一面分享"}
+{"qid":"q-2829537-9","question":"SSE协议是什么？","content_id":"2829537","title":"腾讯ai后台开发一面 压力拉满 80m"}
+{"qid":"q-2842785-12","question":"SSE和普通的HTTP的区别是什么？","content_id":"2842785","title":"27日常实习字节Agent后端开发二面"}
+{"qid":"q-2842785-13","question":"SSE和文件传输协议FTP有什么区别？","content_id":"2842785","title":"27日常实习字节Agent后端开发二面"}
+{"qid":"q-2842739-0","question":"SSE协议是什么？基于什么实现？用来解决什么问题？","content_id":"2842739","title":"腾讯后台ai开发一面面经分享 攒人品"}
+{"qid":"q-2842739-1","question":"SSE流式传输如何判断数据传输完毕？","content_id":"2842739","title":"腾讯后台ai开发一面面经分享 攒人品"}
+{"qid":"q-2842739-2","question":"SSE协议与TCP、UDP之间的关系是什么？","content_id":"2842739","title":"腾讯后台ai开发一面面经分享 攒人品"}
+{"qid":"q-2842778-12","question":"SSE和普通的HTTP的区别是什么？","content_id":"2842778","title":"27实习字节后端agent开发一面"}
+{"qid":"q-2842778-13","question":"SSE和文件传输协议FTP有什么区别？他们不都是流式传输吗？","content_id":"2842778","title":"27实习字节后端agent开发一面"}
+{"qid":"q-2835460-15","question":"Stream 流式输出为什么用 SSE？WebSocket 和 SSE 的区别？","content_id":"2835460","title":"字节tiktok后端客服平台"}
+{"qid":"q-872181143913648128-0","question":"SSE和WebSocket有什么区别？","content_id":"872181143913648128","title":"腾讯QQ后台开发Java一面 凉经"}
+{"qid":"q-2831393-3","question":"SSE是什么，与WebSocket有什么区别","content_id":"2831393","title":"腾讯 ima 4-8 已挂"}
+{"qid":"q-2831393-4","question":"项目中你是怎么使用SSE的","content_id":"2831393","title":"腾讯 ima 4-8 已挂"}
+{"qid":"q-2838270-3","question":"项目用到了SSE，SSE和HTTP有什么区别？SSE是单向的吗？","content_id":"2838270","title":"腾讯日常实习 后端AI开发一面 1h"}
+{"qid":"q-873350871373864960-0","question":"SSE 与 WebSocket 有什么区别？为什么在这个场景选择 SSE？","content_id":"873350871373864960","title":"美团暑期后端二面"}

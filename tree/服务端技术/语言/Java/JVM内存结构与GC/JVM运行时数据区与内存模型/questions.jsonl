@@ -1,1 +1,4 @@
 {"qid":"q-2779545-6","question":"Netty的直接内存操作是如何保证安全性的？","content_id":"2779545","title":"美团27实习后端一面"}
+{"qid":"q-2813135-2","question":"JVM内存模型是怎样的？","content_id":"2813135","title":"小红书一面"}
+{"qid":"q-2838226-15","question":"native 方法比如C++的代码是如何运行在JVM中的？","content_id":"2838226","title":"字节飞书golang一面"}
+{"qid":"q-2827213-6","question":"讲解JVM的内存模型（运行时数据区）","content_id":"2827213","title":"4.3腾讯后端三面面经（已挂）"}

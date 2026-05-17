@@ -69,3 +69,70 @@
 {"qid":"q-2815741-18","question":"Redis数据类型有哪些","content_id":"2815741","title":"龙旗科技Java实习一面二面面经"}
 {"qid":"q-2814531-10","question":"Redis的数据结构有哪些？用过哪些场景？","content_id":"2814531","title":"JDS京东健康26校招微凉"}
 {"qid":"q-2814392-14","question":"Redis常用的数据结构（string、zset、list）","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}
+{"qid":"q-2462228-2","question":"Redis数据类型有哪些？","content_id":"2462228","title":"杭州银行一面+笔试+二面"}
+{"qid":"q-2466261-15","question":"介绍 Redis 基本数据类型","content_id":"2466261","title":"小米-java-日常实习面经"}
+{"qid":"q-864092169466810368-10","question":"Redis除了K-V存储，还知道其他功能吗？","content_id":"864092169466810368","title":"3.18腾讯后台开发一面"}
+{"qid":"q-2813317-6","question":"Redis常用数据结构有哪些？分别适用什么场景？","content_id":"2813317","title":"3.12腾讯视频后端一面"}
+{"qid":"q-2813279-5","question":"Redis数据结构和Key设计","content_id":"2813279","title":"好未来二面（oc）"}
+{"qid":"q-2812014-0","question":"Redis 在你的项目中用在哪些场景？用到了哪些数据结构？","content_id":"2812014","title":"百度 服务端开发 暑期实习 二面凉经"}
+{"qid":"q-2812005-4","question":"讲一下Redis常用数据结构","content_id":"2812005","title":"百度 服务端开发 暑期实习 一面"}
+{"qid":"q-2811055-9","question":"Redis支持哪些数据结构","content_id":"2811055","title":"深圳某小厂Java后端面经(线上)"}
+{"qid":"q-2811035-15","question":"Redis的常用数据结构","content_id":"2811035","title":"药帮忙java一面面经"}
+{"qid":"q-2810643-16","question":"Redis 用过吗？有哪几种数据结构？","content_id":"2810643","title":"面试面到了童年回忆"}
+{"qid":"q-2809648-0","question":"Redis 有哪些数据结构？","content_id":"2809648","title":"3.9字节懂车帝社招一面"}
+{"qid":"q-2809639-9","question":"项目中redis用到哪些数据类型","content_id":"2809639","title":"3.4百度服务端社招一面"}
+{"qid":"q-2809639-10","question":"redis setnx锁底层是什么数据类型","content_id":"2809639","title":"3.4百度服务端社招一面"}
+{"qid":"q-2807868-4","question":"讲讲 Redis 的数据类型","content_id":"2807868","title":"快手Java后端一面"}
+{"qid":"q-2807694-9","question":"Redis的数据类型和应用场景有哪些？","content_id":"2807694","title":"27届成都某1000+ 人公司java实习一面（oc已拒）"}
+{"qid":"q-2807314-5","question":"Redis 支持哪些数据类型？","content_id":"2807314","title":"广东长正线下面试"}
+{"qid":"q-2807348-2","question":"Redis具体是如何缓存数据的？使用了哪些数据类型和存储内容？","content_id":"2807348","title":"京东健康JDY后端开发实习二面"}
+{"qid":"q-2805596-4","question":"Redis常用数据结构及其用法","content_id":"2805596","title":"27届小米java后端日常实习二面"}
+{"qid":"q-2805474-7","question":"Redis有哪些数据类型？常见应用场景是什么？","content_id":"2805474","title":"字节后端开发面经"}
+{"qid":"q-2805363-7","question":"Redis有几种数据结构，各种数据结构的特点和优缺点是什么？","content_id":"2805363","title":"腾讯27暑期提前批后台一面"}
+{"qid":"q-2805063-10","question":"Redis有哪些数据结构","content_id":"2805063","title":"中厂Java实习生面试"}
+{"qid":"q-860857950934437888-5","question":"SETNX命令的功能是什么？","content_id":"860857950934437888","title":"27 暑期实习 腾讯 后台开发 一面（2026.3.4）"}
+{"qid":"q-876494741410480128-0","question":"说一下redis常用的数据类型吧？","content_id":"876494741410480128","title":"上海逸迅信息科技有限公司-Java后端-base西安  已OC"}
+{"qid":"q-2839629-2","question":"你用过Redis的什么存储结构，怎么使用的","content_id":"2839629","title":"字节后端飞书低代码平台一面"}
+{"qid":"q-2839331-6","question":"Redis常见数据结构有哪些？","content_id":"2839331","title":""}
+{"qid":"q-2839224-9","question":"Redis 基础数据类型有哪些？分别适用什么应用场景？","content_id":"2839224","title":"思谋一面（全栈）"}
+{"qid":"q-2838911-7","question":"聊聊redis，基本数据结构","content_id":"2838911","title":"蚂蚁后端开发一面(47min)"}
+{"qid":"q-2838720-11","question":"Redis常用的数据结构有哪些，分别用在什么场景","content_id":"2838720","title":"汉得信息Java开发 4.09"}
+{"qid":"q-2838464-7","question":"Redis的基础数据结构有哪些？","content_id":"2838464","title":"百特云享复面 Java后端日常实习"}
+{"qid":"q-2837961-2","question":"缓存用的什么数据结构？","content_id":"2837961","title":"暑期实习 腾讯后端ai开发一面凉经"}
+{"qid":"q-2837961-3","question":"缓存的内容里有富文本或者 Emoji 符号这些吗？","content_id":"2837961","title":"暑期实习 腾讯后端ai开发一面凉经"}
+{"qid":"q-2837772-14","question":"Redis常用数据结构和场景","content_id":"2837772","title":"27实习百度AI后端开发一面 1h"}
+{"qid":"q-2837145-28","question":"Redis有哪些数据结构？","content_id":"2837145","title":"荣耀Java开发工程师实习生 一面面经"}
+{"qid":"q-2837063-8","question":"Redis 使用了哪些数据结构","content_id":"2837063","title":"滴滴后端一面二面 面经"}
+{"qid":"q-874688561830756352-6","question":"Redis 支持哪些数据结构","content_id":"874688561830756352","title":"腾讯 CSIG 后台开发 一面"}
+{"qid":"q-2836356-14","question":"Redis常用数据结构","content_id":"2836356","title":"腾讯后端一面凉经"}
+{"qid":"q-2835568-2","question":"Redis的基本数据结构有哪些？","content_id":"2835568","title":"星辉游戏C++服务端工程师"}
+{"qid":"q-2834703-0","question":"Redis里常用的数据结构有哪些？介绍一下每个数据结构的底层数据结构。","content_id":"2834703","title":"字节一二三面hr面 面经 后端开发"}
+{"qid":"q-2834678-6","question":"Redis支持哪些数据类型？常用命令有哪些？项目中有哪些应用场景？","content_id":"2834678","title":"字节-日常实习-后台ai开发一面分享"}
+{"qid":"q-2834082-9","question":"Redis 中存放点赞数据通常用什么结构？","content_id":"2834082","title":"字节日常实习 AI后端开发一面分享"}
+{"qid":"q-2834014-5","question":"Redis的基本数据类型有哪些？","content_id":"2834014","title":"北森云计算一面+HR"}
+{"qid":"q-2833570-7","question":"Redis常用接口有哪些","content_id":"2833570","title":"多益网络 游戏服务端开发工程师 一面"}
+{"qid":"q-2833233-3","question":"如果使用 Redis 存储点赞数据，用的是什么数据结构？数据如何存储？","content_id":"2833233","title":"腾讯AI后台开发一面面经分享"}
+{"qid":"q-2832975-15","question":"redis数据结构有哪些","content_id":"2832975","title":"腾讯暑期ai后台开发一面 攒人品中"}
+{"qid":"q-872222580944429056-5","question":"Redis中Geo数据类型的使用场景","content_id":"872222580944429056","title":"腾讯视频 后台开发一面"}
+{"qid":"q-2831981-17","question":"详解Redis有哪些数据结构，zset底层实现，各适用于什么场景","content_id":"2831981","title":"携程暑期实习Java后端面经"}
+{"qid":"q-2831939-0","question":"Redis使用了哪些数据结构？","content_id":"2831939","title":"字节二面-后端"}
+{"qid":"q-2831567-0","question":"Redis bitmap的底层实现是什么？","content_id":"2831567","title":"4.10虾皮后端实习一面"}
+{"qid":"q-2830929-5","question":"Redis用什么数据结构存储表中内容","content_id":"2830929","title":"货拉拉实习ai后端开发一面"}
+{"qid":"q-871815930236391424-17","question":"Redis用过哪些数据类型","content_id":"871815930236391424","title":"4.9美团一面复盘加分享"}
+{"qid":"q-2830629-7","question":"Redis的数据结构和数据类型有哪些?","content_id":"2830629","title":"腾讯ai后台开发一面 面没招了给我"}
+{"qid":"q-2830605-11","question":"Redis的常用数据类型及适用场景？","content_id":"2830605","title":"9本无实习Java Agent阿里一面"}
+{"qid":"q-2830536-20","question":"Redis有哪些常用数据结构？","content_id":"2830536","title":"字节一二三hr面 java面经（已off）"}
+{"qid":"q-871521961380241408-7","question":"Redis有哪些常见的数据类型？","content_id":"871521961380241408","title":"27届-暑期实习-字节国际广告CRM-一面凉经"}
+{"qid":"q-2829786-2","question":"Redis 的数据结构有哪些？在 Agent 对话上下文缓存中，你会选择哪种结构？","content_id":"2829786","title":"字节后端实习agent一面分享"}
+{"qid":"q-2829529-13","question":"Redis常用数据结构和应用场景有哪些？","content_id":"2829529","title":"百度ai后端开发日常实习一面 55min"}
+{"qid":"q-2829336-4","question":"Redis的基本数据类型有哪些","content_id":"2829336","title":"美团软件开发工程师（后端方向）一面"}
+{"qid":"q-2845729-10","question":"Redis中的数据类型","content_id":"2845729","title":"go后端面经"}
+{"qid":"q-2845446-2","question":"说一下Redis自带的原子操作指令，不用Lua","content_id":"2845446","title":"腾讯后台ai开发一面凉经 拉完了"}
+{"qid":"q-2845306-1","question":"Redis的key存的是什么？数据结构是什么？","content_id":"2845306","title":"27实习pdd后端ai开发一面分享"}
+{"qid":"q-2845280-0","question":"Redis 在你的项目中用在哪些场景？用到了哪些数据结构？","content_id":"2845280","title":"百度暑期实习后端AI开发二面凉经 好难"}
+{"qid":"q-2844015-15","question":"Redis常用数据结构和应用场景有哪些？","content_id":"2844015","title":"27实习AI后端开发一面-百度"}
+{"qid":"q-2843305-11","question":"Redis有哪些数据结构","content_id":"2843305","title":"暑期实习-腾讯ai后端开发一面分享"}
+{"qid":"q-2840882-1","question":"Redis有哪些数据结构？","content_id":"2840882","title":"古茗后端开发管培生，关于我被问的猪脑过载得二三事"}
+{"qid":"q-2829242-19","question":"在Redis里存一个Java对象，除了存成JSON字符串，还有别的方式吗？哪种更好？","content_id":"2829242","title":"27届成都Java实习百人厂面经"}
+{"qid":"q-2829242-20","question":"哈希（Hash）结构具体好在哪里？","content_id":"2829242","title":"27届成都Java实习百人厂面经"}
+{"qid":"q-2826862-1","question":"Redis的基本数据类型有哪些","content_id":"2826862","title":"中国平安春招一面"}

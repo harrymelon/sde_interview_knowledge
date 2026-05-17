@@ -17,3 +17,34 @@
 {"qid":"q-2449271-6","question":"synchronized和ReentrantLock的区别是什么？","content_id":"2449271","title":"去哪儿-Java开发-一面"}
 {"qid":"q-2817411-15","question":"synchronized 和 Lock 主要区别？","content_id":"2817411","title":"北京航天拓扑 Java 一面"}
 {"qid":"q-2814748-5","question":"ReentrantLock和synchronized的区别（手动 vs 自动、可中断/超时/公平锁）","content_id":"2814748","title":"得物2026春招 | 后端开发 | 面经 | Java面试"}
+{"qid":"q-2812062-4","question":"synchronized和ReentrantLock加锁时线程状态分别是什么？","content_id":"2812062","title":"真实业务和场景题的疯狂拷打"}
+{"qid":"q-2808884-3","question":"synchronized和reentrant lock在等待与唤醒机制上有什么区别？","content_id":"2808884","title":"2026年03月06日 10点59分唯品会校招java一面"}
+{"qid":"q-2808977-0","question":"synchronized和ReentrantLock的区别是什么？","content_id":"2808977","title":"微派 java秋招面经（排序挂）"}
+{"qid":"q-2807113-9","question":"Synchronized和ReentrantLock区别","content_id":"2807113","title":"Moka Java开发一面"}
+{"qid":"q-2805282-2","question":"synchronized和Lock有什么区别？","content_id":"2805282","title":"第一次面试:Java全栈实习生面试题"}
+{"qid":"q-2804947-19","question":"synchronized 和 ReentrantLock 的区别是什么？","content_id":"2804947","title":"转转一面（二面挂）"}
+{"qid":"q-2804947-22","question":"开发选择时会选 synchronized 还是 ReentrantLock，为什么？","content_id":"2804947","title":"转转一面（二面挂）"}
+{"qid":"q-2839936-4","question":"synchronized和ReentrantLock的区别","content_id":"2839936","title":"富卫保险java开发"}
+{"qid":"q-2839629-1","question":"synchronized和Lock的区别是什么","content_id":"2839629","title":"字节后端飞书低代码平台一面"}
+{"qid":"q-2837696-7","question":"synchronized 和 ReentrantLock 的区别是什么？","content_id":"2837696","title":"日常实习 字节AI后端开发一面 攒人品中"}
+{"qid":"q-2837132-7","question":"reentrantlock和synchronized能保证有序性吗","content_id":"2837132","title":"腾讯云智后台开发暑期二面（已过）"}
+{"qid":"q-2837145-24","question":"synchronized和ReentrantLock的区别是什么？","content_id":"2837145","title":"荣耀Java开发工程师实习生 一面面经"}
+{"qid":"q-2835332-1","question":"synchronized 和 ReentrantLock 的源码区别是什么？","content_id":"2835332","title":""}
+{"qid":"q-2834082-7","question":"synchronized 和 ReentrantLock 的区别是什么？","content_id":"2834082","title":"字节日常实习 AI后端开发一面分享"}
+{"qid":"q-2832975-17","question":"两种可重入锁对比","content_id":"2832975","title":"腾讯暑期ai后台开发一面 攒人品中"}
+{"qid":"q-2833012-2","question":"Synchronized与ReentrantLock的适用场景对比","content_id":"2833012","title":"拼多多服务端研发实习生 一面"}
+{"qid":"q-2830809-5","question":"synchronized和ReentrantLock的区别","content_id":"2830809","title":"字节AI后端开发 实习二面 感觉无了"}
+{"qid":"q-2830809-6","question":"synchronized和ReentrantLock的使用场景","content_id":"2830809","title":"字节AI后端开发 实习二面 感觉无了"}
+{"qid":"q-2830605-4","question":"synchronized和ReentrantLock的区别以及使用场景选择？","content_id":"2830605","title":"9本无实习Java Agent阿里一面"}
+{"qid":"q-871741241912741888-11","question":"ReentrantLock和synchronized的区别","content_id":"871741241912741888","title":"北京小厂一面"}
+{"qid":"q-871416350042775552-6","question":"Synchronized和ReentrantLock有什么区别？","content_id":"871416350042775552","title":"浩鲸科技一面"}
+{"qid":"q-2829804-6","question":"synchronized和ReentrantLock的区别是什么？","content_id":"2829804","title":"ai后端开发日常实习一面-蚂蚁国际"}
+{"qid":"q-871343540444397568-5","question":"synchronized和ReentrantLock的区别是什么？","content_id":"871343540444397568","title":"pdd 服务端研发实习生 一面"}
+{"qid":"q-2845511-1","question":"Synchronized与ReentrantLock的区别是什么？","content_id":"2845511","title":"浩鲸科技Java面经"}
+{"qid":"q-2845440-6","question":"Java中synchronized和ReentrantLock分别是如何实现的？","content_id":"2845440","title":"字节暑期后端ai开发一面面经分享"}
+{"qid":"q-878938775747846144-0","question":"Java 中 synchronized 和 ReentrantLock 的区别是什么？","content_id":"878938775747846144","title":"度小满后端一面"}
+{"qid":"q-878623990552481792-1","question":"Synchronize和ReentrantLock区别","content_id":"878623990552481792","title":"4.28 用友（java后端实习）面经"}
+{"qid":"q-2843305-13","question":"两种可重入锁（synchronized与ReentrantLock）的对比","content_id":"2843305","title":"暑期实习-腾讯ai后端开发一面分享"}
+{"qid":"q-2841420-1","question":"synchronized和ReentrantLock有什么区别？","content_id":"2841420","title":"社招Java 华盛通一面"}
+{"qid":"q-2824471-10","question":"synchronized和Lock的区别是什么？","content_id":"2824471","title":"3.31飞猪java后端开发一面"}
+{"qid":"q-2818381-9","question":"Java中Synchronized关键字和ReentrantLock关键字区别","content_id":"2818381","title":"快手后端-Java开发一面面经"}

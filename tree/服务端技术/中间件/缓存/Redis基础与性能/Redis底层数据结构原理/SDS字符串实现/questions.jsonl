@@ -6,3 +6,7 @@
 {"qid":"q-2674944-9","question":"Redis中的SDS是什么？","content_id":"2674944","title":"虾皮秋招一面"}
 {"qid":"q-2598999-1","question":"Redis的SDS结构是什么？","content_id":"2598999","title":""}
 {"qid":"q-2527713-9","question":"Redis String的底层数据结构是什么？","content_id":"2527713","title":"Akulaku Java实习面经"}
+{"qid":"q-2466261-16","question":"介绍一下 SDS","content_id":"2466261","title":"小米-java-日常实习面经"}
+{"qid":"q-2811975-7","question":"Redis的字符串（SDS）和普通C字符串有什么区别","content_id":"2811975","title":"Shopee 后端研发春招"}
+{"qid":"q-2838111-0","question":"Redis字符串（SDS）是怎么存储的？为什么这样设计？","content_id":"2838111","title":"字节后端一面"}
+{"qid":"q-2834014-6","question":"Redis的String实现原理是什么？","content_id":"2834014","title":"北森云计算一面+HR"}

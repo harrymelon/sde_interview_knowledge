@@ -1,0 +1,12 @@
+{"qid":"q-2797678-14","question":"Function Calling的定义和使用方法","content_id":"2797678","title":"腾讯提前批一面面经（挑战全网最晚hhh，热乎的~）"}
+{"qid":"q-2816577-0","question":"请讲解项目中使用的Function Calling机制。","content_id":"2816577","title":"百度外包一面凉经"}
+{"qid":"q-2810954-6","question":"AI在项目里怎么用的（Function calling）？","content_id":"2810954","title":"腾讯S3后台一面"}
+{"qid":"q-2810954-7","question":"流式输出吗？用的什么协议？Function call接口文档？怎么知道tools存不存在？","content_id":"2810954","title":"腾讯S3后台一面"}
+{"qid":"q-2809855-11","question":"FunctionCalling做了什么","content_id":"2809855","title":"京东-零售部门后端一面面经"}
+{"qid":"q-2809808-4","question":"Spring AI Alibaba 的 Function Calling 是怎么实现的？模型如何决定调用哪个工具？","content_id":"2809808","title":"快手杭州电商-大模型应用java一面面经"}
+{"qid":"q-2838996-6","question":"了解过工具的组成吗（name、description、prompt）？LLM输出框架Function Calling？","content_id":"2838996","title":"云智后台开发一面面经分享"}
+{"qid":"q-2830808-1","question":"Function Calling的原理与实现","content_id":"2830808","title":"360一面凉经"}
+{"qid":"q-2830605-17","question":"Function Calling的原理是什么？如何理解Tool Use？","content_id":"2830605","title":"9本无实习Java Agent阿里一面"}
+{"qid":"q-2830605-18","question":"大模型返回的Function Call参数格式不对怎么办？","content_id":"2830605","title":"9本无实习Java Agent阿里一面"}
+{"qid":"q-2824126-15","question":"Function Calling的概念","content_id":"2824126","title":"27届 小红书PE全栈 一面 35min"}
+{"qid":"q-2823579-14","question":"Function Calling是RPC调用还是HTTP调用？","content_id":"2823579","title":"美团暑期后端一面面经"}

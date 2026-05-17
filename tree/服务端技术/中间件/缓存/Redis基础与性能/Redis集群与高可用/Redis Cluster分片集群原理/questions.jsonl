@@ -1,0 +1,29 @@
+{"qid":"q-2787545-8","question":"Redis分片集群是如何分片的？有什么好处？","content_id":"2787545","title":"字节后端面经，严刑烤打3小时"}
+{"qid":"q-2785316-26","question":"Redis集群支持多DB吗","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2785316-27","question":"Redis集群如何保证可靠性","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2785316-28","question":"Redis集群能否解决大Key问题","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2768525-15","question":"是否了解Redis集群本身的一致性机制？","content_id":"2768525","title":"小小厂面经"}
+{"qid":"q-2702636-17","question":"Redis分片集群是如何实现数据写入和读取的？底层是否用哈希实现？","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2675321-9","question":"Redis分片集群中某个节点容量不够如何扩容？扩容后数据迁移和hash变化是怎样的？","content_id":"2675321","title":"秋招小红书后端凉经（社区技术）"}
+{"qid":"q-2657904-2","question":"Redis集群添加新节点的流程","content_id":"2657904","title":"钉钉26秋招二面面经"}
+{"qid":"q-2637442-7","question":"Redis集群怎么部署？采用什么架构？","content_id":"2637442","title":"7.18字节后端开发 生活服务实习一面"}
+{"qid":"q-2592748-20","question":"讲一下Redis集群","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2592748-22","question":"了解Redis集群分片吗？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2554077-2","question":"Redis的分片机制是什么？","content_id":"2554077","title":"字节后端实习面经+TL"}
+{"qid":"q-2554077-3","question":"Redis的集群机制是什么？","content_id":"2554077","title":"字节后端实习面经+TL"}
+{"qid":"q-2550552-9","question":"Redis分布式怎么实现的，有什么特点，底层源码中调用了几次Redis自己的API？","content_id":"2550552","title":"26Java-杭州小厂-二面25min"}
+{"qid":"q-2542936-5","question":"Redis集群中用户请求访问一个key时，服务端和Redis实例之间是如何交互的？","content_id":"2542936","title":"字节财经 二面 压力面 被拷打烂了"}
+{"qid":"q-2529744-11","question":"Redis集群（如MT集群）的数据同步机制是什么","content_id":"2529744","title":"拼多多服务端开发面经一面"}
+{"qid":"q-2515212-9","question":"Redis集群原理","content_id":"2515212","title":"飞书 后端日常实习 字节一面面经"}
+{"qid":"q-2457191-4","question":"redis集群如何搭建","content_id":"2457191","title":"10.11 58后端开发一面"}
+{"qid":"q-2455660-3","question":"请简述Redis集群的原理。","content_id":"2455660","title":"小红书 后端开发 日常实习一面面经"}
+{"qid":"q-2815363-5","question":"Redis 集群有哪些？Redis Cluster 原理","content_id":"2815363","title":"字节跳动 后台开发 二面"}
+{"qid":"q-2815363-6","question":"Redis 哈希槽、数据分片、实例增减时的迁移","content_id":"2815363","title":"字节跳动 后台开发 二面"}
+{"qid":"q-2814992-10","question":"Redis分片机制","content_id":"2814992","title":"腾讯实习后端开发一面面经"}
+{"qid":"q-2814392-0","question":"分布式缓存项目中的数据一致性、rehash和节点扩容问题","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}
+{"qid":"q-2838996-20","question":"Redis集群中如果有一个或两个节点有问题，是怎么做的？（故障发现与转移）","content_id":"2838996","title":"云智后台开发一面面经分享"}
+{"qid":"q-2837964-4","question":"了解过 Redis 集群吗？它是怎么做的？","content_id":"2837964","title":"字节27暑期实习后台开发一面 65min"}
+{"qid":"q-872512773710696448-0","question":"了解Redis集群吗？请说说Redis集群的原理和部署方式","content_id":"872512773710696448","title":"快手ai应用服务端开发 二面"}
+{"qid":"q-2830759-1","question":"Redis cluster集群如何分片写？","content_id":"2830759","title":"字节ai后端开发一面-暑期实习"}
+{"qid":"q-2842942-4","question":"Redis 集群是怎么实现的？","content_id":"2842942","title":"字节日常实习后端ai开发一面 攒攒人品"}
+{"qid":"q-2840502-12","question":"Redis Cluster 集群如何分配 key 在哪个 slot？","content_id":"2840502","title":"腾讯后台开发TME酷我车载业务部 二面"}

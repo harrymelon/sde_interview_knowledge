@@ -4,3 +4,11 @@
 {"qid":"q-2767088-4","question":"什么情况下会触发Kafka的rebalance？如何降低consumer重启次数","content_id":"2767088","title":"字节tiktok后端日常二面"}
 {"qid":"q-2701211-10","question":"一个topic创建16个partition，200个机器消费时，消费机制是怎样的？","content_id":"2701211","title":"网易云音乐java一面"}
 {"qid":"q-2603543-6","question":"Kafka的重分区机制是什么","content_id":"2603543","title":"美团春招一面凉经"}
+{"qid":"q-2837145-13","question":"Kafka rebalance场景有哪些？","content_id":"2837145","title":"荣耀Java开发工程师实习生 一面面经"}
+{"qid":"q-2837145-14","question":"Kafka分区数与消费者组消费者数的关系是什么？","content_id":"2837145","title":"荣耀Java开发工程师实习生 一面面经"}
+{"qid":"q-874424595946749952-14","question":"kafka分区分配及指定方法","content_id":"874424595946749952","title":"杭州小厂后端一面"}
+{"qid":"q-874423358480252928-2","question":"Kafka 消费者可以有多个吗？多个不相关应用消费同一个 Topic 可以做到吗？怎么做？多个消费者共享消费数据、处理慢的场景能做到吗？","content_id":"874423358480252928","title":"字节跳动后端一面"}
+{"qid":"q-2841869-10","question":"一个分区只能被一个消费者组的一个消费者消费的原因？","content_id":"2841869","title":"得物后端AI面"}
+{"qid":"q-2840476-7","question":"Google 链式拉取场景下，K8s 自动扩缩容引起 Kafka Rebalance 导致的幂等问题，如何保证数据不丢失和幂等性？","content_id":"2840476","title":"腾讯暑期面筋！"}
+{"qid":"q-2840476-8","question":"Kafka 的重平衡风暴详细说明及解决方案？","content_id":"2840476","title":"腾讯暑期面筋！"}
+{"qid":"q-2826146-3","question":"Kafka的Rebalance机制是什么？","content_id":"2826146","title":"字节后端一面"}

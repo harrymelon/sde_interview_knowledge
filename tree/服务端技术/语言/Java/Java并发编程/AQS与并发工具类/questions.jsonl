@@ -12,3 +12,17 @@
 {"qid":"q-2572890-5","question":"Java自带的延迟队列了解过吗？","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}
 {"qid":"q-2587472-3","question":"多线程查SQL时如何保证返回结果有序？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
 {"qid":"q-2527891-2","question":"如何控制线程的执行顺序？","content_id":"2527891","title":"第一次面试记录 - Java实习岗"}
+{"qid":"q-863815304080564224-5","question":"Semaphore信号量底层实现原理","content_id":"863815304080564224","title":"番茄小说后端开发 一面"}
+{"qid":"q-2812561-9","question":"CountDownLatch 底层原理是什么","content_id":"2812561","title":"安恒信息Java开发实习"}
+{"qid":"q-2805351-7","question":"Java中Semaphore控制并发的原理及与AQS的关系","content_id":"2805351","title":"广州小厂爱奇创新后端面经"}
+{"qid":"q-2805351-8","question":"使用CompletableFuture实现并发访问的常见方案","content_id":"2805351","title":"广州小厂爱奇创新后端面经"}
+{"qid":"q-2839936-13","question":"如何实现一个线程等待另一个线程执行完","content_id":"2839936","title":"富卫保险java开发"}
+{"qid":"q-2839531-6","question":"CompletableFuture的使用","content_id":"2839531","title":"27暑期拼多多后端ai开发一面"}
+{"qid":"q-2835559-3","question":"CompletableFuture的原理与使用？","content_id":"2835559","title":"广州oneway后端 28 oc"}
+{"qid":"q-2834008-2","question":"CountDownLatch底层如何实现？","content_id":"2834008","title":"美团 暑期实习 后端开发 面经"}
+{"qid":"q-2834008-3","question":"AQS原理讲一下","content_id":"2834008","title":"美团 暑期实习 后端开发 面经"}
+{"qid":"q-2834010-0","question":"CountDownLatch为什么配合线程池使用，而不是new一个Thread？","content_id":"2834010","title":"携程 旅游事业部 后端暑期 一面"}
+{"qid":"q-2830307-1","question":"CountDownLatch的底层实现原理是什么？","content_id":"2830307","title":"美团 ai后端开发 暑期实习一面"}
+{"qid":"q-2830307-2","question":"请详细讲讲AQS的原理。","content_id":"2830307","title":"美团 ai后端开发 暑期实习一面"}
+{"qid":"q-2830319-0","question":"CountDownLatch为什么配合线程池使用，而不是直接new Thread？","content_id":"2830319","title":"携程ai后端暑期实习一面-攒人品中"}
+{"qid":"q-2830275-6","question":"CountDownLatch用来做什么？它怎么做线程协调的？线程池在这里的作用是什么？","content_id":"2830275","title":"字节暑期实习ai后端二面-日常实习"}

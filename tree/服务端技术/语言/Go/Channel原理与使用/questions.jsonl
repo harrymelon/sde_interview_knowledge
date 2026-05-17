@@ -17,3 +17,31 @@
 {"qid":"q-2814392-5","question":"Go中channel的实现原理","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}
 {"qid":"q-2814392-6","question":"Go中channel的哪些操作会导致panic","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}
 {"qid":"q-2814182-2","question":"两个协程交叉输出字母和数字的并发实现，涉及channel定义与单向channel","content_id":"2814182","title":"小红书一面凉经"}
+{"qid":"q-2812014-17","question":"Go 中 channel 使用 make 初始化时需要注意什么？无缓冲和有缓冲 channel 有什么区别？","content_id":"2812014","title":"百度 服务端开发 暑期实习 二面凉经"}
+{"qid":"q-2812005-2","question":"讲一下Go里的Channel","content_id":"2812005","title":"百度 服务端开发 暑期实习 一面"}
+{"qid":"q-2810643-0","question":"Go 语言中 channel 的底层数据结构是什么样的？","content_id":"2810643","title":"面试面到了童年回忆"}
+{"qid":"q-2810643-1","question":"channel 为什么要这样设计？解决了什么问题？","content_id":"2810643","title":"面试面到了童年回忆"}
+{"qid":"q-2810643-2","question":"有缓冲 channel 和无缓冲 channel 的区别是什么？","content_id":"2810643","title":"面试面到了童年回忆"}
+{"qid":"q-2810643-3","question":"有缓冲和无缓冲 channel 分别对应哪些应用场景？","content_id":"2810643","title":"面试面到了童年回忆"}
+{"qid":"q-2810643-4","question":"如何用 channel 设计一个生产者消费者模型？","content_id":"2810643","title":"面试面到了童年回忆"}
+{"qid":"q-2809612-4","question":"对Go的channel怎么理解？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2809612-5","question":"channel一般用在什么业务场景？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2809612-6","question":"无缓冲和有缓冲channel的区别是什么？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-861975506076405760-0","question":"Go channel 如何实现进程间通信","content_id":"861975506076405760","title":"字节跳动-中国交易与广告-后端-Go-二面"}
+{"qid":"q-2807659-10","question":"给定100个ID，使用最多十个协程并发获取对应的age，如何用channel和WaitGroup实现？","content_id":"2807659","title":"百度实习生二面（golang后端）"}
+{"qid":"q-2806599-5","question":"请说一下channel以及如何使用。","content_id":"2806599","title":"百度日常实习一面（golang后端开发）"}
+{"qid":"q-2805971-19","question":"如何理解Go语言‘通过通信来共享内存，而不是通过共享内存来通信’的设计理念，Go如何实现","content_id":"2805971","title":"小黑盒（一面）"}
+{"qid":"q-2805971-20","question":"Go语言中channel的底层数据结构","content_id":"2805971","title":"小黑盒（一面）"}
+{"qid":"q-2837793-3","question":"channel 的理解、常见使用场景","content_id":"2837793","title":"ai全栈开发腾讯一面-日常实习"}
+{"qid":"q-2837793-4","question":"channel close 后的行为","content_id":"2837793","title":"ai全栈开发腾讯一面-日常实习"}
+{"qid":"q-2836584-6","question":"channel的原理与使用","content_id":"2836584","title":"双非大二，第三次面试就拿到实习了，过程有点梦幻"}
+{"qid":"q-874425297586745344-6","question":"Go 语言中 channel 和 select 的基本用法是什么？","content_id":"874425297586745344","title":"深圳小厂后端一面"}
+{"qid":"q-2836072-4","question":"Go channel 的底层实现是怎样的？有无阻塞机制？","content_id":"2836072","title":"腾讯云go后端一面"}
+{"qid":"q-871434737536024576-1","question":"Go的channel原理以及在项目中的使用场景有哪些？","content_id":"871434737536024576","title":"杭州ai小厂Go后端面经"}
+{"qid":"q-2845729-4","question":"用过channel吗，讲一讲在哪里用的","content_id":"2845729","title":"go后端面经"}
+{"qid":"q-2843790-2","question":"请解释Go中的channel是什么？","content_id":"2843790","title":"上海踏云齐光golang小厂 面经复盘"}
+{"qid":"q-2843790-6","question":"什么情况下会使用channel？","content_id":"2843790","title":"上海踏云齐光golang小厂 面经复盘"}
+{"qid":"q-2825014-20","question":"channel里有锁吗？实现看过吗？","content_id":"2825014","title":"字节AI应用后端开发 一二三面 面经"}
+{"qid":"q-2825014-21","question":"有缓冲channel用在什么场景？","content_id":"2825014","title":"字节AI应用后端开发 一二三面 面经"}
+{"qid":"q-2818409-2","question":"向一个 nil channel 发送或读取消息会怎样？","content_id":"2818409","title":"腾讯 go 后端开发二面（透心凉）"}
+{"qid":"q-2818409-3","question":"向一个已关闭的 channel 发送或接收消息会有什么结果？","content_id":"2818409","title":"腾讯 go 后端开发二面（透心凉）"}

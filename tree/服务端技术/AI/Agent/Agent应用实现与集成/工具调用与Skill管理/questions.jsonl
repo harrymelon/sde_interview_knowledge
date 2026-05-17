@@ -1,0 +1,20 @@
+{"qid":"q-2664677-7","question":"实习中Agent工具（Function Calling）是怎么实现的？","content_id":"2664677","title":"shopee 一面8.19"}
+{"qid":"q-2817556-1","question":"你的skills文件内容是什么？如何定义tool函数和调用逻辑顺序？","content_id":"2817556","title":"字节三面面经-记录一次很差的体验。"}
+{"qid":"q-2815083-9","question":"对 Skill 有了解吗？它的工作模式是怎样的？","content_id":"2815083","title":"字节暑期后端二面"}
+{"qid":"q-2814440-19","question":"引入了多个skill，你会怎么管理？","content_id":"2814440","title":"淘米二面（oc）"}
+{"qid":"q-2814440-20","question":"引入多个skill会触发什么问题？","content_id":"2814440","title":"淘米二面（oc）"}
+{"qid":"q-2814440-22","question":"agent的调用流程是怎么样的？","content_id":"2814440","title":"淘米二面（oc）"}
+{"qid":"q-2831598-6","question":"OpenClaw 执行 Skill 的原理？","content_id":"2831598","title":"广通优云（杭州校招）-Java开发-一面"}
+{"qid":"q-2838591-4","question":"如果跳过项目中的规范约束（如自有 Agent 的上下文文档），对工程会有什么影响？","content_id":"2838591","title":"快手 AI全栈开发 实习一面 夯爆了版"}
+{"qid":"q-2838591-5","question":"你有没有使用过工程中的已有 Skill？它们的作用是什么？","content_id":"2838591","title":"快手 AI全栈开发 实习一面 夯爆了版"}
+{"qid":"q-2838591-9","question":"你有没有看过社区或内部的 Skill 是做什么的，或者了解过它相关的内容？","content_id":"2838591","title":"快手 AI全栈开发 实习一面 夯爆了版"}
+{"qid":"q-2838591-14","question":"工程底层会有 Skill 来做代码可靠性保障吗？","content_id":"2838591","title":"快手 AI全栈开发 实习一面 夯爆了版"}
+{"qid":"q-2817712-19","question":"改造工具调用链路（如从MCP切换到skill接口）时，是否需要修改大模型本身？如何实现解耦以避免核心代码变动？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-2817712-20","question":"新建Scale工具文件并注册到映射体系的具体操作步骤是什么？如何保证工具调用的灵活性？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-2817712-22","question":"现有文件名匹配逻辑不够完善，该如何优化？需要考虑哪些匹配规则和异常场景？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-2825014-12","question":"Skill和上下文管理是什么关系？","content_id":"2825014","title":"字节AI应用后端开发 一二三面 面经"}
+{"qid":"q-2829516-6","question":"了解过OpenClaw吗？","content_id":"2829516","title":"4.7美团暑期后端二面"}
+{"qid":"q-2844152-5","question":"openclaw是什么","content_id":"2844152","title":"字节跳动 后端开发 日常实习 二面"}
+{"qid":"q-2844152-9","question":"Harness有了解吗","content_id":"2844152","title":"字节跳动 后端开发 日常实习 二面"}
+{"qid":"q-2837542-6","question":"你了解OpenCLAW吗？","content_id":"2837542","title":"27美团暑期后端ai开发二面分享"}
+{"qid":"q-2777924-0","question":"Agent工作流和工具重构的原因及如何防止后续效果劣化","content_id":"2777924","title":"字节跳动即梦全栈一面"}

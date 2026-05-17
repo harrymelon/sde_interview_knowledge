@@ -9,3 +9,6 @@
 {"qid":"q-2777399-1","question":"谈谈Java和Go在GC（垃圾回收）方面的区别？","content_id":"2777399","title":"美团Java后端开发实习一面"}
 {"qid":"q-2717721-0","question":"C语言、Go、Java三者的GC有什么区别？","content_id":"2717721","title":"美团-大模型后台开发实习生-道心破碎版"}
 {"qid":"q-2815462-6","question":"GC回收过程、分类及GC毛刺是什么？","content_id":"2815462","title":"3.17快手后端人生第一面"}
+{"qid":"q-2834003-5","question":"为什么GC需要STW？如果不暂停会造成什么影响？","content_id":"2834003","title":"腾讯云智后台开发暑期一面"}
+{"qid":"q-2829535-8","question":"什么情况下会发生Full GC？","content_id":"2829535","title":"ai后端开发一面-美团实习面经分享"}
+{"qid":"q-2841798-12","question":"STW在GC中是否必须？为什么？","content_id":"2841798","title":"字节一面凉经（后端开发）"}

@@ -14,3 +14,12 @@
 {"qid":"q-2817378-1","question":"分区和副本在 Kafka 中有什么区别","content_id":"2817378","title":"北京东华原医疗 Java 一面"}
 {"qid":"q-2815111-3","question":"项目中用过RocketMQ的哪些特性？","content_id":"2815111","title":"有赞Java后端一面面经"}
 {"qid":"q-2814388-10","question":"RocketMQ底层原理有哪些组件","content_id":"2814388","title":"春招Java后端开发 滴滴平台技术一二三面"}
+{"qid":"q-863860210215985152-2","question":"RabbitMQ如何实现不同队列使用不同线程池处理并设置消息优先？","content_id":"863860210215985152","title":"腾讯后台开发一面"}
+{"qid":"q-863862680451362816-13","question":"如何在服务器上搭建消息队列（RabbitMQ/Kafka）","content_id":"863862680451362816","title":"社招 北京 Java后端工程师"}
+{"qid":"q-2839331-0","question":"MQ怎样实现消息的存储？","content_id":"2839331","title":""}
+{"qid":"q-2839331-1","question":"MQ为什么选择ZooKeeper？","content_id":"2839331","title":""}
+{"qid":"q-2839331-3","question":"MQ实现的拉取和订阅模式各有什么优缺点？","content_id":"2839331","title":""}
+{"qid":"q-2834623-4","question":"使用消费者组做隔离，同一个消息发到一个topic上，该消费者组的所有消费者都会收到这个消息吗？","content_id":"2834623","title":"京东健康后端"}
+{"qid":"q-2834623-5","question":"不同的业务消息都发到同一个topic，所有消费者组都会收到这些消息吗？","content_id":"2834623","title":"京东健康后端"}
+{"qid":"q-2842785-0","question":"消息队列中多个消息投递，处理结果如何与发送的请求对应？","content_id":"2842785","title":"27日常实习字节Agent后端开发二面"}
+{"qid":"q-2842778-0","question":"有多个消息投递到消息队列，处理的结果怎么与发送的请求对应呢？","content_id":"2842778","title":"27实习字节后端agent开发一面"}

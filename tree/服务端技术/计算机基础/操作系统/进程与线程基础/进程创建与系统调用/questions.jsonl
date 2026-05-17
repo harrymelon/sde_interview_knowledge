@@ -9,3 +9,11 @@
 {"qid":"q-2529766-3","question":"有哪些常见的Linux系统调用？","content_id":"2529766","title":"拼多多服务端开发面经三面"}
 {"qid":"q-2817117-6","question":"写时复制（Copy-on-Write）是什么？有哪些典型应用场景（Redis RDB、CopyOnWriteArrayList、父子进程fork）？","content_id":"2817117","title":"富途后台一面"}
 {"qid":"q-2817117-7","question":"父进程fork子进程后，子进程能否看到父进程内存？父进程修改内存后子进程能看到吗？","content_id":"2817117","title":"富途后台一面"}
+{"qid":"q-2811975-6","question":"用户态和内核态的概念与切换","content_id":"2811975","title":"Shopee 后端研发春招"}
+{"qid":"q-861727193661968384-0","question":"详细说说父子进程，包括内存地址、共享页表、写时拷贝、子进程回收","content_id":"861727193661968384","title":"虾皮 Java开发 实习 二面"}
+{"qid":"q-2837358-3","question":"fork 创建子进程时的写时复制机制是什么？","content_id":"2837358","title":"字节一面"}
+{"qid":"q-2837208-5","question":"什么时候拆进程，什么时候合进程，举例说明","content_id":"2837208","title":"卓驭 mbd/c/c++实习生"}
+{"qid":"q-2834703-6","question":"一个进程在执行fork操作的时候，子进程会继承父进程的什么信息？","content_id":"2834703","title":"字节一二三面hr面 面经 后端开发"}
+{"qid":"q-2843774-0","question":"线程创建过程是怎样的？","content_id":"2843774","title":"腾讯后端Agent开发一面-实习面经"}
+{"qid":"q-2842898-7","question":"进程创建后的结构","content_id":"2842898","title":"27实习面经-滴滴后端ai开发二面"}
+{"qid":"q-2840724-14","question":"进程创建后的内存结构是怎样的？","content_id":"2840724","title":"滴滴秋储golang平台一二面经"}

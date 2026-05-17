@@ -5,3 +5,6 @@
 {"qid":"q-2654905-1","question":"Redis哈希扩容的过程是怎样的？","content_id":"2654905","title":"字节生服后端一面"}
 {"qid":"q-2654905-2","question":"Redis扩容过程中如果有大量写操作怎么办？","content_id":"2654905","title":"字节生服后端一面"}
 {"qid":"q-2455660-4","question":"Redis的渐进式哈希是什么？底层如何扩容？","content_id":"2455660","title":"小红书 后端开发 日常实习一面面经"}
+{"qid":"q-2809648-4","question":"Redis 的 hash 是如何进行扩容的？","content_id":"2809648","title":"3.9字节懂车帝社招一面"}
+{"qid":"q-2845328-6","question":"详细介绍一下 Redis 的 Rehash 过程？","content_id":"2845328","title":"字节 二面 后端 面经"}
+{"qid":"q-2841470-8","question":"Redis的哈希表如何实现渐进式扩容？","content_id":"2841470","title":"美团ai全栈面经"}

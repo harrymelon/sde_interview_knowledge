@@ -1,0 +1,29 @@
+{"qid":"q-2837949-2","question":"针对你的练手 agent 项目，当初你是怎么搭框架、做迭代的？心路历程是怎样的？","content_id":"2837949","title":"快手实习agent后端开发二面 攒人品"}
+{"qid":"q-2834737-2","question":"介绍一下你的Agent项目","content_id":"2834737","title":"京东物流 jdy实习 二面"}
+{"qid":"q-2834678-0","question":"AI工作流编排平台的核心设计与实现是怎样的？","content_id":"2834678","title":"字节-日常实习-后台ai开发一面分享"}
+{"qid":"q-2834678-1","question":"工作流中的DSL是如何设计的？","content_id":"2834678","title":"字节-日常实习-后台ai开发一面分享"}
+{"qid":"q-2834678-2","question":"工作流节点有哪些分类？","content_id":"2834678","title":"字节-日常实习-后台ai开发一面分享"}
+{"qid":"q-2834678-3","question":"TTS节点是如何实现的？","content_id":"2834678","title":"字节-日常实习-后台ai开发一面分享"}
+{"qid":"q-2834678-4","question":"大模型的输出是文本还是语音？播放如何实现？","content_id":"2834678","title":"字节-日常实习-后台ai开发一面分享"}
+{"qid":"q-2834484-28","question":"四个智能体是否使用了四个不同的模型？","content_id":"2834484","title":"腾讯后台开发一面-腾讯云-技术与产品服务"}
+{"qid":"q-2843373-8","question":"是有4个子Agent吗？每次用户请求都由主Agent协调，然后分给这4个？","content_id":"2843373","title":"腾讯AI后端开发日常实习一面分享"}
+{"qid":"q-2827415-0","question":"大模型项目做了什么","content_id":"2827415","title":"3.31 美团食杂零售后端一面"}
+{"qid":"q-2827415-4","question":"上线了吗，完整数据流向流程","content_id":"2827415","title":"3.31 美团食杂零售后端一面"}
+{"qid":"q-2827415-13","question":"openclaw爬论文skill这块怎么做的，怎么部署的","content_id":"2827415","title":"3.31 美团食杂零售后端一面"}
+{"qid":"q-2827415-15","question":"ppt agent是全部给智能体还是一部分","content_id":"2827415","title":"3.31 美团食杂零售后端一面"}
+{"qid":"q-2835536-2","question":"多轮对话的上下文你存在哪？如果内存满了怎么办？","content_id":"2835536","title":"保险外包Java岗"}
+{"qid":"q-2835314-2","question":"长期记忆如何实现？如果并发量上来了怎么优化？","content_id":"2835314","title":"北京用友金融-java后端开发"}
+{"qid":"q-2839808-1","question":"记忆系统中不同场景的偏好怎么处理","content_id":"2839808","title":"京东后端一面"}
+{"qid":"q-2823579-15","question":"会话是怎么存储的？","content_id":"2823579","title":"美团暑期后端一面面经"}
+{"qid":"q-871815930236391424-0","question":"说一下Agent项目使用的架构","content_id":"871815930236391424","title":"4.9美团一面复盘加分享"}
+{"qid":"q-871815930236391424-3","question":"数据库存储了什么，Agent的数据库有多少条数据","content_id":"871815930236391424","title":"4.9美团一面复盘加分享"}
+{"qid":"q-2842785-2","question":"项目中有没有前端流式输出展示？","content_id":"2842785","title":"27日常实习字节Agent后端开发二面"}
+{"qid":"q-2842778-2","question":"项目有没有前端流式输出展示？","content_id":"2842778","title":"27实习字节后端agent开发一面"}
+{"qid":"q-2830295-1","question":"nl2sql项目 pipeline怎么布的","content_id":"2830295","title":"小红书暑期实习 AI全栈开发 二面"}
+{"qid":"q-2830757-5","question":"讲一下注意力机制在你的项目怎么应用的？","content_id":"2830757","title":"字节tiktok后端二面"}
+{"qid":"q-2838636-22","question":"基于springAI对接阿里云百联，实现模块是怎么实现的","content_id":"2838636","title":"大二双非双一流本科后端开发小厂面经"}
+{"qid":"q-875371683769565184-2","question":"Coze 的执行引擎能否支撑你的系统","content_id":"875371683769565184","title":"字节 TikTok-Shop 后端开发 二面"}
+{"qid":"q-2834038-6","question":"项目用Web框架加WebSocket做什么？","content_id":"2834038","title":"日常实习-海天AI后端开发一面"}
+{"qid":"q-2834038-8","question":"离线消息具体怎么做的？","content_id":"2834038","title":"日常实习-海天AI后端开发一面"}
+{"qid":"q-2830582-10","question":"项目用Web框架加WebSocket做什么？","content_id":"2830582","title":"海天同创后端日常实习 一面面经"}
+{"qid":"q-2807868-12","question":"讲讲项目Redis实现会话记忆","content_id":"2807868","title":"快手Java后端一面"}

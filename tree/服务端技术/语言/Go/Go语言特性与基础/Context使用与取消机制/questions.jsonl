@@ -3,3 +3,4 @@
 {"qid":"q-2777292-7","question":"介绍一下Go的context的功能。","content_id":"2777292","title":"虾皮后端golang实习一面凉经"}
 {"qid":"q-2777292-8","question":"context取消后，子协程通过什么感知并取消？","content_id":"2777292","title":"虾皮后端golang实习一面凉经"}
 {"qid":"q-2815096-13","question":"Go语言中的Context可以用来做什么？","content_id":"2815096","title":"腾讯CSIG后端开发日常实习一面面经"}
+{"qid":"q-2838270-12","question":"Go里面的Context可以用来做什么？","content_id":"2838270","title":"腾讯日常实习 后端AI开发一面 1h"}

@@ -1,0 +1,32 @@
+{"qid":"q-2796546-3","question":"向量模型维度是如何选择的，为何是2048维","content_id":"2796546","title":"若比邻AI后端实习二面"}
+{"qid":"q-2796546-4","question":"精确度如何计算的，测试集规模是多少","content_id":"2796546","title":"若比邻AI后端实习二面"}
+{"qid":"q-2796546-5","question":"小说传记和电商场景分别选什么维度，如何定制RAG策略","content_id":"2796546","title":"若比邻AI后端实习二面"}
+{"qid":"q-2796546-6","question":"不同向量维度在向量空间的本质差异？谁的信息密度大","content_id":"2796546","title":"若比邻AI后端实习二面"}
+{"qid":"q-2796179-9","question":"如何将用户的问题或prompt进行向量化？是否对比过引入RAG向量化后的效果？","content_id":"2796179","title":"2.26 字节后端开发转正实习一面"}
+{"qid":"q-2795623-4","question":"稀疏向量和稠密向量的理解","content_id":"2795623","title":"共比邻AI后端实习一面面经"}
+{"qid":"q-2587472-24","question":"嵌入（embedding）是怎么做的？","content_id":"2587472","title":"腾讯云智西安后台开发一面（4.1）"}
+{"qid":"q-2550372-13","question":"bge m3嵌入后的具体向量长度？","content_id":"2550372","title":"淘天一面 无八股无手撕就离谱"}
+{"qid":"q-2811431-2","question":"Embedding的原理是什么？项目中用什么模型，与其他模型有何不同？","content_id":"2811431","title":"字节暑期剪映后端二面面经"}
+{"qid":"q-861975506076405760-6","question":"Embedding 模型算法的原理是什么","content_id":"861975506076405760","title":"字节跳动-中国交易与广告-后端-Go-二面"}
+{"qid":"q-2838911-4","question":"embedding用的什么？使用过别的吗？原理了解吗？","content_id":"2838911","title":"蚂蚁后端开发一面(47min)"}
+{"qid":"q-2837945-3","question":"为什么只对标题做 Embedding，而不对段落内容本身做 Embedding？当时的考虑是什么？","content_id":"2837945","title":"字节后端agent开发实习一面 1h"}
+{"qid":"q-2837542-4","question":"你用过哪些向量模型？","content_id":"2837542","title":"27美团暑期后端ai开发二面分享"}
+{"qid":"q-2837079-11","question":"讲一下Embedding的过程","content_id":"2837079","title":"小厂全栈"}
+{"qid":"q-2836255-3","question":"什么是嵌入","content_id":"2836255","title":"美团暑期 后端ai开发一面凉经分享"}
+{"qid":"q-2836255-4","question":"相关算法有哪些","content_id":"2836255","title":"美团暑期 后端ai开发一面凉经分享"}
+{"qid":"q-2835106-12","question":"为什么需要用 Embedding？","content_id":"2835106","title":"万类智生 后端开发面经"}
+{"qid":"q-2834623-10","question":"向量嵌入的维度是多少？","content_id":"2834623","title":"京东健康后端"}
+{"qid":"q-2833990-9","question":"为什么选768维度的embedding？","content_id":"2833990","title":"钉钉27暑期后端ai研发一面面经 1h"}
+{"qid":"q-2833990-10","question":"讲解一下embedding模型，怎么做embedding？","content_id":"2833990","title":"钉钉27暑期后端ai研发一面面经 1h"}
+{"qid":"q-2832975-3","question":"向量化这块是怎么做到的，用的什么模型底层算法是啥","content_id":"2832975","title":"腾讯暑期ai后台开发一面 攒人品中"}
+{"qid":"q-2832828-5","question":"你的嵌入向量是多少维度的？","content_id":"2832828","title":"快手后端开发实习二面（没凉！已OC）"}
+{"qid":"q-2831358-2","question":"Embedding模型原理与维度选择（768维度）","content_id":"2831358","title":"4.8 钉钉-S项目-暑期实习java研发一面"}
+{"qid":"q-871815930236391424-4","question":"如何实现向量化的","content_id":"871815930236391424","title":"4.9美团一面复盘加分享"}
+{"qid":"q-2830629-14","question":"embedding模型用的是什么?有了解过其他embedding模型吗","content_id":"2830629","title":"腾讯ai后台开发一面 面没招了给我"}
+{"qid":"q-2829516-4","question":"用过哪些向量模型？","content_id":"2829516","title":"4.7美团暑期后端二面"}
+{"qid":"q-2843305-1","question":"向量化是怎么实现的，使用的模型和底层算法是什么","content_id":"2843305","title":"暑期实习-腾讯ai后端开发一面分享"}
+{"qid":"q-2824126-12","question":"Embedding层设计考虑","content_id":"2824126","title":"27届 小红书PE全栈 一面 35min"}
+{"qid":"q-2823579-2","question":"向量化用的模型是什么？是自己部署的还是调的LLM接口？","content_id":"2823579","title":"美团暑期后端一面面经"}
+{"qid":"q-865245558980603904-2","question":"向量化模型选择与向量生成方式","content_id":"865245558980603904","title":"腾讯视频后台一面凉经"}
+{"qid":"q-865245558980603904-3","question":"向量化第三方API调用","content_id":"865245558980603904","title":"腾讯视频后台一面凉经"}
+{"qid":"q-2834081-4","question":"用过哪些向量模型？","content_id":"2834081","title":"美团暑期后端AI开发二面 攒人品中"}

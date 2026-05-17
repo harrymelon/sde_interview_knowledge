@@ -14,3 +14,4 @@
 {"qid":"q-2587856-11","question":"Redis常用的数据结构有哪些？","content_id":"2587856","title":"快手Java暑期实习一面"}
 {"qid":"q-2553032-13","question":"NoSQL 中的 KV 存储是什么？有什么特点？","content_id":"2553032","title":"腾讯一面 QQ后台开发"}
 {"qid":"q-2531587-2","question":"缓存为什么选用本地而不是分布式？","content_id":"2531587","title":"腾讯hr部门二面"}
+{"qid":"q-2831303-1","question":"实际项目里本地缓存命中率大概多少","content_id":"2831303","title":"字节后端开发一面热经"}

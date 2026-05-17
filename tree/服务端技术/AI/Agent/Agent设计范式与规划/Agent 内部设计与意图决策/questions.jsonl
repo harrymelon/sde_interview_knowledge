@@ -1,0 +1,24 @@
+{"qid":"q-2777924-3","question":"Agent内部设计是怎样的？","content_id":"2777924","title":"字节跳动即梦全栈一面"}
+{"qid":"q-2817712-14","question":"Agent与大模型的协作流程是怎样的？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-2814440-23","question":"你觉得agent有哪些地方可以优化？","content_id":"2814440","title":"淘米二面（oc）"}
+{"qid":"q-863532788627116032-3","question":"如果一轮 Tool Call 的返回结果非常多，你会如何设计 Agent 来处理？","content_id":"863532788627116032","title":"腾讯后端暑期实习面试记录"}
+{"qid":"q-2805363-15","question":"意图判断和意图识别是怎么处理的？","content_id":"2805363","title":"腾讯27暑期提前批后台一面"}
+{"qid":"q-2838996-3","question":"Agent决策机制：Agent如何决定什么时候调数据库，什么时候生成图表？这个决策是怎么实现的？","content_id":"2838996","title":"云智后台开发一面面经分享"}
+{"qid":"q-2838422-1","question":"Agent开发过程中如何实现约束？","content_id":"2838422","title":"美团后端agent开发暑期一面 攒人品中"}
+{"qid":"q-2838449-0","question":"在让AI拆解任务的时候，你怎么判断他的技术方案是不是合理的？","content_id":"2838449","title":"27暑期实习美团后端agent开发二面"}
+{"qid":"q-2837542-7","question":"Agent的执行过程是如何流转的？","content_id":"2837542","title":"27美团暑期后端ai开发二面分享"}
+{"qid":"q-2835106-14","question":"抛开所有框架，重新设计一个极简 Agent 系统怎么做？","content_id":"2835106","title":"万类智生 后端开发面经"}
+{"qid":"q-2834737-7","question":"你的Agent项目各层级都搭建好了，你认为还缺什么？","content_id":"2834737","title":"京东物流 jdy实习 二面"}
+{"qid":"q-2833656-2","question":"Agent的工作原理是什么？（定义tools，飞书机器人拦截，大模型意图识别，语义检索）","content_id":"2833656","title":"去哪儿春招 Java 一面 凉经"}
+{"qid":"q-2832254-15","question":"设计一个Agent需要考虑哪些方面？","content_id":"2832254","title":"淘天一面（后端社招）"}
+{"qid":"q-2830874-1","question":"你的Agent是如何设计的？","content_id":"2830874","title":"字节一面面经（应该是后端）"}
+{"qid":"q-2829995-3","question":"项目架构怎么确定的？有没有使用最近新发布的技术如skills？","content_id":"2829995","title":"腾讯后台开发二面凉经-内容服务部"}
+{"qid":"q-2829854-0","question":"在单Agent里面丰富tool的方案是否考虑过？","content_id":"2829854","title":"字节暑期后端agent开发一面"}
+{"qid":"q-2829516-7","question":"Agent执行过程是怎么流转的？","content_id":"2829516","title":"4.7美团暑期后端二面"}
+{"qid":"q-2843373-7","question":"能介绍一下一个Agent循环的基本流程吗？","content_id":"2843373","title":"腾讯AI后端开发日常实习一面分享"}
+{"qid":"q-2843300-15","question":"三种意图怎么划分的，低置信度是什么，是多少","content_id":"2843300","title":"AI后端开发-美团实习一面 1h"}
+{"qid":"q-2843300-16","question":"低置信度怎么解决，就这一种方案吗，什么时候歧义引导","content_id":"2843300","title":"AI后端开发-美团实习一面 1h"}
+{"qid":"q-2841121-23","question":"你项目里的 Agent 架构是怎么设计的？","content_id":"2841121","title":"腾讯视频 后端开发 面经"}
+{"qid":"q-2824126-13","question":"Agent是否需要有读数据库的能力","content_id":"2824126","title":"27届 小红书PE全栈 一面 35min"}
+{"qid":"q-2823579-6","question":"意图识别中如何识别关联的叶子节点？","content_id":"2823579","title":"美团暑期后端一面面经"}
+{"qid":"q-2818381-1","question":"Agent技术组成部分理解吗，讲讲执行链路","content_id":"2818381","title":"快手后端-Java开发一面面经"}

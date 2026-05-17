@@ -1,0 +1,19 @@
+{"qid":"q-2817712-7","question":"智能体Prompt的完整构建流程是怎样的？从角色设定、任务范围到格式化输出要求，具体步骤是什么？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-2817712-8","question":"智能体的场景化细节设计有哪些？该如何嵌入Prompt？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-2813022-6","question":"场景题：如何将Skills运用到项目中？请设计一下。抽象通用技能和特定技能如何赋予？","content_id":"2813022","title":"字节ByteIntern剪映后端三面面经"}
+{"qid":"q-2811956-5","question":"请说一说Skill和Rule（Agent中的技能与规则）","content_id":"2811956","title":"百度三面凉经"}
+{"qid":"q-2839808-5","question":"设计skill的话，会放哪些内容","content_id":"2839808","title":"京东后端一面"}
+{"qid":"q-2834627-4","question":"为什么要做渐进式披露？","content_id":"2834627","title":"美团ai全栈开发日常实习一面分享"}
+{"qid":"q-2834627-6","question":"SKILL的渐进式披露如何实现的？","content_id":"2834627","title":"美团ai全栈开发日常实习一面分享"}
+{"qid":"q-2831598-5","question":"讲一讲对 Skill 的理解？","content_id":"2831598","title":"广通优云（杭州校招）-Java开发-一面"}
+{"qid":"q-2829537-1","question":"为什么要把Prompts、MCP等调用模块抽象出来？有什么作用，解决了什么问题？","content_id":"2829537","title":"腾讯ai后台开发一面 压力拉满 80m"}
+{"qid":"q-2829537-12","question":"skills在解决什么问题？","content_id":"2829537","title":"腾讯ai后台开发一面 压力拉满 80m"}
+{"qid":"q-2829532-8","question":"在AI Agent中，Role（角色）和Skill（技能）的核心区别是什么？","content_id":"2829532","title":"虾皮日常实习 ai后端开发一面 夯爆了"}
+{"qid":"q-2845191-5","question":"场景题：如果要你运用skills运用到你的项目当中，你需要怎么设计，请给我设计一下？你说抽象通用技能和特定技能赋予，能详细展开说说么？","content_id":"2845191","title":"字节剪映后端ai开发三面面经分享 1h"}
+{"qid":"q-2843774-10","question":"Skills 和 Rules 有什么区别和联系？","content_id":"2843774","title":"腾讯后端Agent开发一面-实习面经"}
+{"qid":"q-2843774-11","question":"使用 Skills 会不会降低 Token 消耗？为什么？","content_id":"2843774","title":"腾讯后端Agent开发一面-实习面经"}
+{"qid":"q-2842925-4","question":"设计skill的话，会放哪些内容","content_id":"2842925","title":"27实习京东后端ai开发一面分享"}
+{"qid":"q-2842785-10","question":"为什么Agent还需要Instructions, Rules, MCP, Skills？","content_id":"2842785","title":"27日常实习字节Agent后端开发二面"}
+{"qid":"q-2842785-11","question":"Rules和Skills有什么区别？为什么不把Skills的指导写进Rules？","content_id":"2842785","title":"27日常实习字节Agent后端开发二面"}
+{"qid":"q-2842778-10","question":"为什么Agent还需要Instructions, Rules, MCP, Skills？","content_id":"2842778","title":"27实习字节后端agent开发一面"}
+{"qid":"q-2842778-11","question":"Rules和Skills有什么区别？为什么不把Skills的指导写进Rules？","content_id":"2842778","title":"27实习字节后端agent开发一面"}

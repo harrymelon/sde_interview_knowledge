@@ -3,3 +3,17 @@
 {"qid":"q-2467073-5","question":"boost和beast的区别","content_id":"2467073","title":"中望软件线下c++一面"}
 {"qid":"q-864591054404710400-0","question":"Qt元对象系统的组成是什么？","content_id":"864591054404710400","title":"C++"}
 {"qid":"q-864591054404710400-10","question":"动态库和静态库的区别是什么？","content_id":"864591054404710400","title":"C++"}
+{"qid":"q-2812181-11","question":"C++中的协程是什么？协程切换的上下文是什么？什么场景适合用协程？协程主要解决什么问题？","content_id":"2812181","title":"26.3.17 腾讯QQ游戏中心二面"}
+{"qid":"q-2811975-1","question":"Memory（C++内存问题）","content_id":"2811975","title":"Shopee 后端研发春招"}
+{"qid":"q-2811160-1","question":"FFmpeg了解底层的一些机制吗","content_id":"2811160","title":"万物心选后端一面面经😼"}
+{"qid":"q-2810848-8","question":"MFC 是什么？了解吗？","content_id":"2810848","title":"爱科科技C++软件开发一面"}
+{"qid":"q-2810543-6","question":"序列化格式（XML、JSON、Protobuf）及大小端问题","content_id":"2810543","title":"中控技术  面试c++服务端  社招 一面+二面"}
+{"qid":"q-2804909-1","question":"关键字volatile有什么作用？","content_id":"2804909","title":"腾讯c++后台开发一面"}
+{"qid":"q-2804909-6","question":"static int c 直接输出c的值是多少？","content_id":"2804909","title":"腾讯c++后台开发一面"}
+{"qid":"q-2834560-3","question":"位运算\u0026操作符的解释","content_id":"2834560","title":"三战暑期腾讯后台面经"}
+{"qid":"q-871504779522887680-2","question":"C++语言基础和了解程度","content_id":"871504779522887680","title":"实习-微信读书-后端开发初试"}
+{"qid":"q-2843228-0","question":"协程栈空间是独立栈还是共享栈？","content_id":"2843228","title":"米哈游服务器一面"}
+{"qid":"q-2843228-1","question":"设置协程栈的大小有什么考量？","content_id":"2843228","title":"米哈游服务器一面"}
+{"qid":"q-2843228-2","question":"什么时候会使用到协程栈空间？","content_id":"2843228","title":"米哈游服务器一面"}
+{"qid":"q-2843228-13","question":"前置++和后置++的区别及实现？","content_id":"2843228","title":"米哈游服务器一面"}
+{"qid":"q-2842204-1","question":"cmake语法有哪些常用指令？","content_id":"2842204","title":"快手一面面经"}

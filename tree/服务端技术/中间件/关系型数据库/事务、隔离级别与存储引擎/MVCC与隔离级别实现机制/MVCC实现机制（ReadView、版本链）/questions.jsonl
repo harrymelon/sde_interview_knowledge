@@ -37,3 +37,23 @@
 {"qid":"q-2815079-9","question":"事务的隔离性（Isolation）是怎么保证的？","content_id":"2815079","title":"字节暑期后端一面"}
 {"qid":"q-2815079-10","question":"MVCC（多版本并发控制）底层是怎么实现的？","content_id":"2815079","title":"字节暑期后端一面"}
 {"qid":"q-2815363-7","question":"SQL 分析题：一张表和一条数据，两个事务启动开始读取和更新，分析每个步骤中 select 或 update/insert 发生了什么","content_id":"2815363","title":"字节跳动 后台开发 二面"}
+{"qid":"q-2813036-1","question":"MySQL的MVCC实现机制是怎样的？","content_id":"2813036","title":"携程后端春招一面"}
+{"qid":"q-2809612-32","question":"InnoDB可重复读是怎么实现的？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-861951734824833024-0","question":"MySQL 中 MVCC 机制的底层实现原理是什么？","content_id":"861951734824833024","title":"广州华资软件 + Java开发 + 线上 + 二面 + 实习"}
+{"qid":"q-2807113-11","question":"可重复读是靠什么机制实现的","content_id":"2807113","title":"Moka Java开发一面"}
+{"qid":"q-2806269-7","question":"讲一下MVCC","content_id":"2806269","title":"卓世科技java一面"}
+{"qid":"q-2838388-6","question":"MySQL MVCC的实现原理是什么？","content_id":"2838388","title":"小米日常实习后端AI开发一面分享"}
+{"qid":"q-2836338-20","question":"MVCC在RR隔离级别下工作原理","content_id":"2836338","title":"TME后台开发暑期实习 酷我车载业务部 一面面经"}
+{"qid":"q-2836072-6","question":"MySQL MVCC 原理是什么？如何实现？","content_id":"2836072","title":"腾讯云go后端一面"}
+{"qid":"q-2836072-7","question":"MySQL 快照读是如何实现的？","content_id":"2836072","title":"腾讯云go后端一面"}
+{"qid":"q-2834803-3","question":"MySQL MVCC的实现原理","content_id":"2834803","title":"27暑期实习 美团ai全栈开发一面"}
+{"qid":"q-2834561-5","question":"MVCC机制原理","content_id":"2834561","title":"字节暑期后端面经（一共五轮技术面人傻了）"}
+{"qid":"q-2834024-8","question":"MySQL事务隔离级别、MVCC的原理和流程是什么？","content_id":"2834024","title":"字节后端一面"}
+{"qid":"q-2833725-7","question":"介绍下MVCC创建快照的流程。","content_id":"2833725","title":"懂车帝AI后端开发实习一面分享 65分钟"}
+{"qid":"q-2831356-8","question":"MVCC是什么？原理是什么？它是如何作用的？","content_id":"2831356","title":"字节大模型后端暑期一面 75min"}
+{"qid":"q-871815930236391424-12","question":"MVCC，版本链如何形成","content_id":"871815930236391424","title":"4.9美团一面复盘加分享"}
+{"qid":"q-878938775747846144-2","question":"MySQL InnoDB 中 MVCC 的实现原理是什么？","content_id":"878938775747846144","title":"度小满后端一面"}
+{"qid":"q-2842972-13","question":"MVCC是怎么使用的？","content_id":"2842972","title":"27实习面经-腾讯后端AI开发二面"}
+{"qid":"q-2842761-4","question":"MVCC的原理是什么？","content_id":"2842761","title":"小米后端ai开发实习一面分享 1h"}
+{"qid":"q-2841470-15","question":"MVCC的实现机制是什么？","content_id":"2841470","title":"美团ai全栈面经"}
+{"qid":"q-2826146-6","question":"MVCC是如何实现的？","content_id":"2826146","title":"字节后端一面"}

@@ -8,3 +8,4 @@
 {"qid":"q-2552645-1","question":"Epoll的原理是什么？红黑树在Epoll中如何应用，其键值分别代表什么？epoll_wait返回的事件队列是由谁将事件加入的？Epoll配合的线程池有几个线程，分别有什么作用？","content_id":"2552645","title":"后端字节广告一面凉经"}
 {"qid":"q-2815905-2","question":"epoll中的LT和ET模式有什么区别？","content_id":"2815905","title":"滴滴c++后端一面凉经"}
 {"qid":"q-2815083-5","question":"请讲解一下 Epoll 的工作原理。","content_id":"2815083","title":"字节暑期后端二面"}
+{"qid":"q-2845507-3","question":"epoll是怎么实现的？","content_id":"2845507","title":"美团面经   Java开发"}

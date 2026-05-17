@@ -1,0 +1,8 @@
+{"qid":"q-2779951-9","question":"序列化协议有哪些？它们之间的性能差异如何？","content_id":"2779951","title":"小红书后端校招一面"}
+{"qid":"q-2779278-11","question":"常见的序列化协议有哪些？它们之间的性能差异如何？","content_id":"2779278","title":"小红书后端校招二面"}
+{"qid":"q-2492820-3","question":"简介Dubbo，它采用的是什么序列化方式？","content_id":"2492820","title":"网易一面凉经"}
+{"qid":"q-2495918-30","question":"RPC项目中的难点：技术选型、序列化算法选择（JDK、JSON、Protobuf的优缺点，为什么选Protobuf）","content_id":"2495918","title":"【26日常】掌上先机 timeline+ 面经汇总"}
+{"qid":"q-2837542-2","question":"序列化协议有哪些？","content_id":"2837542","title":"27美团暑期后端ai开发二面分享"}
+{"qid":"q-2834081-2","question":"序列化协议有了解吗？","content_id":"2834081","title":"美团暑期后端AI开发二面 攒人品中"}
+{"qid":"q-2829516-2","question":"序列化协议有哪些？","content_id":"2829516","title":"4.7美团暑期后端二面"}
+{"qid":"q-2845584-3","question":"gRPC只支持protobuf吗？能否支持其他序列化格式？","content_id":"2845584","title":"正浩创新/EcoFlow java一面凉经"}

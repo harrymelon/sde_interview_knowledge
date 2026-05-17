@@ -7,3 +7,16 @@
 {"qid":"q-841830464737292288-0","question":"Go与Java的线程模型的核心区别","content_id":"841830464737292288","title":"百度日常实习后端二面热经（没凉，已OC，感谢面试官捞捞）"}
 {"qid":"q-2816577-6","question":"goroutine和协程有什么区别？","content_id":"2816577","title":"百度外包一面凉经"}
 {"qid":"q-2814992-13","question":"Go协程泄露的发生场景","content_id":"2814992","title":"腾讯实习后端开发一面面经"}
+{"qid":"q-2813066-6","question":"Go中的协程和线程的区别","content_id":"2813066","title":"字节go后端开发一面面经(已挂)"}
+{"qid":"q-2806599-2","question":"请讲一下goroutine。","content_id":"2806599","title":"百度日常实习一面（golang后端开发）"}
+{"qid":"q-2838127-9","question":"通过 goroutine 和 recover 实现异步操作日志是怎么实现的？为什么这样实现？","content_id":"2838127","title":"27实习腾讯后端ai开发一面分享"}
+{"qid":"q-2837793-0","question":"goroutine 和线程的区别","content_id":"2837793","title":"ai全栈开发腾讯一面-日常实习"}
+{"qid":"q-874426712837087232-4","question":"Go CSP模型是什么？","content_id":"874426712837087232","title":"掌上先机后端一面"}
+{"qid":"q-874423358480252928-3","question":"协程和线程的区别？协程在操作系统层面是什么？为什么是用户态？","content_id":"874423358480252928","title":"字节跳动后端一面"}
+{"qid":"q-2845729-3","question":"Go中的协程（goroutine）相关","content_id":"2845729","title":"go后端面经"}
+{"qid":"q-2845662-3","question":"Go协程（goroutine）与线程模型","content_id":"2845662","title":"巨人网络｜26春招 游戏开发一面"}
+{"qid":"q-2843790-3","question":"Go的goroutine和操作系统线程有什么区别？","content_id":"2843790","title":"上海踏云齐光golang小厂 面经复盘"}
+{"qid":"q-2843790-4","question":"为什么不能无限创建goroutine？","content_id":"2843790","title":"上海踏云齐光golang小厂 面经复盘"}
+{"qid":"q-2843790-5","question":"实际业务中什么情况下会使用goroutine？","content_id":"2843790","title":"上海踏云齐光golang小厂 面经复盘"}
+{"qid":"q-2825014-14","question":"协程和线程区别是什么？","content_id":"2825014","title":"字节AI应用后端开发 一二三面 面经"}
+{"qid":"q-2825014-15","question":"协程中断和线程中断的区别？","content_id":"2825014","title":"字节AI应用后端开发 一二三面 面经"}

@@ -13,3 +13,14 @@
 {"qid":"q-2494992-5","question":"const char * ptr、char const *ptr、char * const ptr 三者的区别？","content_id":"2494992","title":"字节抖音搜索26日常实习-三面+HR面"}
 {"qid":"q-864593404615786496-15","question":"C++指针和引用的区别是什么","content_id":"864593404615786496","title":"C++"}
 {"qid":"q-864591054404710400-2","question":"指针是什么？使用时需要注意什么？指针和引用的区别？","content_id":"864591054404710400","title":"C++"}
+{"qid":"q-2813079-0","question":"引用和指针的区别是什么？","content_id":"2813079","title":"攒人品-平旦科技-c++"}
+{"qid":"q-2812208-11","question":"代码 void SetDate(int*p) { p = new int(100); } 为什么pData还是nullptr","content_id":"2812208","title":"经纬恒润 C++开发实习一面"}
+{"qid":"q-2810848-3","question":"C++ 中二级指针的概念与用途","content_id":"2810848","title":"爱科科技C++软件开发一面"}
+{"qid":"q-863002151621046272-0","question":"什么是指针？指针的本质是什么？","content_id":"863002151621046272","title":"杭州信核 C++ 软件开发 一面 面经"}
+{"qid":"q-2834526-4","question":"使用指针时常见问题有哪些？如何避免？","content_id":"2834526","title":"恒生电子一面面经分享"}
+{"qid":"q-2833910-1","question":"常量指针和指针常量的区别是什么？","content_id":"2833910","title":"蔚来实习"}
+{"qid":"q-2829764-4","question":"C++ 引用是什么？","content_id":"2829764","title":"百度 - 后端 - 一面"}
+{"qid":"q-2844020-1","question":"C++中引用和指针的区别","content_id":"2844020","title":"上海银行总行金融科技岗 面经"}
+{"qid":"q-2842898-5","question":"vector传递引用和值有什么区别","content_id":"2842898","title":"27实习面经-滴滴后端ai开发二面"}
+{"qid":"q-2840724-2","question":"值传递和引用传递的区别","content_id":"2840724","title":"滴滴秋储golang平台一二面经"}
+{"qid":"q-2840724-11","question":"vector传递引用和值有什么区别？","content_id":"2840724","title":"滴滴秋储golang平台一二面经"}

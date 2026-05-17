@@ -5,3 +5,5 @@
 {"qid":"q-2674944-13","question":"Linux和网络相关的命令有哪些？","content_id":"2674944","title":"虾皮秋招一面"}
 {"qid":"q-2795642-5","question":"Linux 服务器部署相关的问题","content_id":"2795642","title":"用友网络后端面试"}
 {"qid":"q-2791108-2","question":"线上问题排查涉及哪些Linux命令","content_id":"2791108","title":"字节后端-二面"}
+{"qid":"q-2809639-8","question":"怎么从日志里面定位报500的错误信息 - 通过linux命令 cat|grep","content_id":"2809639","title":"3.4百度服务端社招一面"}
+{"qid":"q-2839224-1","question":"服务器日志排查错误的方法有哪些？","content_id":"2839224","title":"思谋一面（全栈）"}

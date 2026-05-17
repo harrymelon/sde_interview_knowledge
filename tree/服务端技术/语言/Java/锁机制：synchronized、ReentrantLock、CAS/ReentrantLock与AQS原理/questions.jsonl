@@ -30,3 +30,31 @@
 {"qid":"q-2815079-13","question":"ReentrantLock是怎么实现的？","content_id":"2815079","title":"字节暑期后端一面"}
 {"qid":"q-2815079-14","question":"AQS（AbstractQueuedSynchronizer）底层是怎么实现的？","content_id":"2815079","title":"字节暑期后端一面"}
 {"qid":"q-2814864-17","question":"说一下AQS","content_id":"2814864","title":"广州联奕科技Java后端实习一面"}
+{"qid":"q-863921083571867648-2","question":"AQS如何实现公平锁和非公平锁？","content_id":"863921083571867648","title":"转转春招后端一面"}
+{"qid":"q-2812052-8","question":"aqs是什么样子的","content_id":"2812052","title":"熙牛医疗java一面面经"}
+{"qid":"q-2812052-9","question":"aqs里面的状态变量，是通过什么方式去获取的","content_id":"2812052","title":"熙牛医疗java一面面经"}
+{"qid":"q-2812052-10","question":"里面的可重入锁，是怎么去体现可重入性的","content_id":"2812052","title":"熙牛医疗java一面面经"}
+{"qid":"q-2812052-11","question":"怎么体现公平和非公平呢","content_id":"2812052","title":"熙牛医疗java一面面经"}
+{"qid":"q-2812046-4","question":"互斥锁是如何实现的？","content_id":"2812046","title":"26.3.4 字节AI搜索一面"}
+{"qid":"q-2808977-1","question":"ReentrantLock公平锁和非公平锁是怎么实现的？","content_id":"2808977","title":"微派 java秋招面经（排序挂）"}
+{"qid":"q-2806451-0","question":"ReentrantLock 的原理是什么？","content_id":"2806451","title":"京东一面（Java社招）"}
+{"qid":"q-2804986-4","question":"说一下AQS","content_id":"2804986","title":"中科闻歌-java实习面经"}
+{"qid":"q-2804986-5","question":"公平锁是ReentrantLock实现的还是AQS实现的","content_id":"2804986","title":"中科闻歌-java实习面经"}
+{"qid":"q-2804947-21","question":"简单介绍一下 AQS 的数据结构","content_id":"2804947","title":"转转一面（二面挂）"}
+{"qid":"q-2838988-5","question":"AQS框架是什么机制？","content_id":"2838988","title":"熙牛医疗一面 Java后端实习"}
+{"qid":"q-2838988-6","question":"ReentrantLock是怎样的？","content_id":"2838988","title":"熙牛医疗一面 Java后端实习"}
+{"qid":"q-2838988-7","question":"ReentrantLock怎么体现可重入性？","content_id":"2838988","title":"熙牛医疗一面 Java后端实习"}
+{"qid":"q-2837696-8","question":"ReentrantLock 的公平性是如何实现的？","content_id":"2837696","title":"日常实习 字节AI后端开发一面 攒人品中"}
+{"qid":"q-2836980-6","question":"AQS队列结构的原理是什么？","content_id":"2836980","title":"广州嘉为科技java后端一面"}
+{"qid":"q-874424595946749952-10","question":"读写锁的饥饿问题及解决 （公平锁）","content_id":"874424595946749952","title":"杭州小厂后端一面"}
+{"qid":"q-2835332-2","question":"AQS 队列中具体的入队细节是怎样的？","content_id":"2835332","title":""}
+{"qid":"q-2834082-8","question":"ReentrantLock 的公平性是如何实现的？","content_id":"2834082","title":"字节日常实习 AI后端开发一面分享"}
+{"qid":"q-871416350042775552-8","question":"AQS的原理是什么？","content_id":"871416350042775552","title":"浩鲸科技一面"}
+{"qid":"q-871343540444397568-6","question":"如果想用公平锁，应该怎么实现？","content_id":"871343540444397568","title":"pdd 服务端研发实习生 一面"}
+{"qid":"q-2845451-3","question":"ReentrantLock的底层实现原理是什么？","content_id":"2845451","title":"暑期实习 京东后端Agent开发一面面经"}
+{"qid":"q-2842627-7","question":"CAS和AQS原理","content_id":"2842627","title":"4.24 腾讯云智 后端一面"}
+{"qid":"q-2841420-3","question":"ReentrantLock的源码实现原理是什么？","content_id":"2841420","title":"社招Java 华盛通一面"}
+{"qid":"q-2827751-14","question":"AQS框架的原理","content_id":"2827751","title":"4.3 飞猪 java后端二面"}
+{"qid":"q-2827751-17","question":"ReentrantLock的非公平锁、公平锁实现以及可重入原理","content_id":"2827751","title":"4.3 飞猪 java后端二面"}
+{"qid":"q-2826862-6","question":"ReentrantLock底层AQS原理","content_id":"2826862","title":"中国平安春招一面"}
+{"qid":"q-2824471-11","question":"读写锁（ReentrantReadWriteLock）是怎么实现的？读锁和写锁的底层实现原理是什么？","content_id":"2824471","title":"3.31飞猪java后端开发一面"}

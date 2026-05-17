@@ -1,3 +1,20 @@
 {"qid":"q-2816577-5","question":"PHP转Go有哪些区别和不适？","content_id":"2816577","title":"百度外包一面凉经"}
 {"qid":"q-2816570-1","question":"为什么要将旧版PHP系统升级到golang微服务","content_id":"2816570","title":"北京亿智云golang社招一二面凉经"}
 {"qid":"q-2816570-6","question":"旧PHP项目模块迁移到新Golang项目需要注意哪些点（DB层面、流量层面）","content_id":"2816570","title":"北京亿智云golang社招一二面凉经"}
+{"qid":"q-2813066-5","question":"Go语言和其他语言的区别，为什么用Go","content_id":"2813066","title":"字节go后端开发一面面经(已挂)"}
+{"qid":"q-2812005-0","question":"讲一下Go语言的一些特点","content_id":"2812005","title":"百度 服务端开发 暑期实习 一面"}
+{"qid":"q-861686783346548736-3","question":"git常用命令有哪些？如何处理合并冲突？","content_id":"861686783346548736","title":"字节跳动-中国交易与广告-后端-Go-一面"}
+{"qid":"q-2806599-0","question":"Go语言是面向对象编程还是面向过程编程？","content_id":"2806599","title":"百度日常实习一面（golang后端开发）"}
+{"qid":"q-2806599-1","question":"Go语言的优势是什么？","content_id":"2806599","title":"百度日常实习一面（golang后端开发）"}
+{"qid":"q-2805971-14","question":"如何看待Java和Go语言的区别，个人使用倾向性","content_id":"2805971","title":"小黑盒（一面）"}
+{"qid":"q-2838270-9","question":"Go里面的error和panic有什么区别？","content_id":"2838270","title":"腾讯日常实习 后端AI开发一面 1h"}
+{"qid":"q-2838270-10","question":"panic是怎么捕获的？","content_id":"2838270","title":"腾讯日常实习 后端AI开发一面 1h"}
+{"qid":"q-2838270-14","question":"为什么一个项目用Gin框架一个用Kratos框架？","content_id":"2838270","title":"腾讯日常实习 后端AI开发一面 1h"}
+{"qid":"q-2836584-4","question":"Go基础语法","content_id":"2836584","title":"双非大二，第三次面试就拿到实习了，过程有点梦幻"}
+{"qid":"q-2834560-19","question":"为什么不用Go写，用Go比C++好在哪里","content_id":"2834560","title":"三战暑期腾讯后台面经"}
+{"qid":"q-2834484-13","question":"了解泛型吗？请解释Go中的泛型","content_id":"2834484","title":"腾讯后台开发一面-腾讯云-技术与产品服务"}
+{"qid":"q-2833387-0","question":"请列举Golang相关的八股文知识点","content_id":"2833387","title":"快手二面凉"}
+{"qid":"q-2833387-3","question":"手撕多线程问题","content_id":"2833387","title":"快手二面凉"}
+{"qid":"q-871434737536024576-0","question":"Go的package异常机制是什么？","content_id":"871434737536024576","title":"杭州ai小厂Go后端面经"}
+{"qid":"q-2845662-2","question":"Go语言基础知识点","content_id":"2845662","title":"巨人网络｜26春招 游戏开发一面"}
+{"qid":"q-2818409-7","question":"Go 闭包中循环变量捕获问题，Go 1.22 前后行为差异是什么？","content_id":"2818409","title":"腾讯 go 后端开发二面（透心凉）"}

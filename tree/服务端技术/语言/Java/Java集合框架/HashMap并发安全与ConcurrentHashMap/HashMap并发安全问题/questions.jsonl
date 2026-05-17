@@ -1,0 +1,32 @@
+{"qid":"q-2792049-9","question":"在多线程环境下使用普通的 HashMap 会出现哪些具体的并发安全问题？（例如：值覆盖、扩容死循环等）","content_id":"2792049","title":"实在智能二面"}
+{"qid":"q-2788907-4","question":"HashMap为什么不是线程安全的？","content_id":"2788907","title":"字节国际化广告后端一面"}
+{"qid":"q-2782248-3","question":"HashMap线程不安全会出现什么问题？","content_id":"2782248","title":"实在智能-Java开发工程师-终面-45min"}
+{"qid":"q-2780371-1","question":"HashMap的并发安全问题有哪些？","content_id":"2780371","title":"网易校招Java后端一面技术面"}
+{"qid":"q-2778004-8","question":"HashMap在多线程下的问题","content_id":"2778004","title":"字节日常实习后端一面"}
+{"qid":"q-2778004-9","question":"HashMap的put操作在多线程下具体哪部分会出现问题","content_id":"2778004","title":"字节日常实习后端一面"}
+{"qid":"q-2778820-2","question":"HashMap会有什么线程安全问题？","content_id":"2778820","title":"汉得信息已offer一面面经分享"}
+{"qid":"q-2778948-5","question":"HashMap是线程安全的吗？多线程环境下会发生什么问题","content_id":"2778948","title":"深圳高益科技有限公司笔试"}
+{"qid":"q-2767092-2","question":"HashMap是不是线程安全的容器？多线程环境下使用会产生什么问题？","content_id":"2767092","title":"快手大模型后端日常一面"}
+{"qid":"q-2828540-19","question":"并发场景下直接用HashMap有什么线程安全问题？","content_id":"2828540","title":"快手java后端一面(oc版😼)"}
+{"qid":"q-2845451-4","question":"在并发场景下使用HashMap会有什么问题？","content_id":"2845451","title":"暑期实习 京东后端Agent开发一面面经"}
+{"qid":"q-2831356-6","question":"HashMap的线程安全问题是什么？多个线程同时put会发生什么？与ConcurrentHashMap的区别是什么？","content_id":"2831356","title":"字节大模型后端暑期一面 75min"}
+{"qid":"q-2463882-5","question":"HashMap扩容时出现高并发可能会有什么问题？","content_id":"2463882","title":"卓望数码 后端开发 一面面经"}
+{"qid":"q-2463882-6","question":"如何避免HashMap高并发扩容问题？","content_id":"2463882","title":"卓望数码 后端开发 一面面经"}
+{"qid":"q-2815768-7","question":"并发的时候HashMap存在什么问题？","content_id":"2815768","title":"小厂愉游java一面"}
+{"qid":"q-2835545-3","question":"如果使用HashMap做缓存，同时只有一个线程读和一个线程写，会不会有并发问题？","content_id":"2835545","title":"快手后端日常实习一面"}
+{"qid":"q-2449271-2","question":"HashMap是线程安全的吗？","content_id":"2449271","title":"去哪儿-Java开发-一面"}
+{"qid":"q-2440630-4","question":"HashMap线程安全的实现和底层结构是什么？","content_id":"2440630","title":"拼多多服务端开发 秋招一二三四面经"}
+{"qid":"q-2502784-0","question":"HashMap和Hashtable的区别是什么？","content_id":"2502784","title":"腾讯云智-后台开发-地图-一,二面经"}
+{"qid":"q-863815304080564224-6","question":"HashMap线程安全以及除了ConcurrentHashMap还有哪些线程安全的Map","content_id":"863815304080564224","title":"番茄小说后端开发 一面"}
+{"qid":"q-2837772-1","question":"Java线程安全的集合有哪些","content_id":"2837772","title":"27实习百度AI后端开发一面 1h"}
+{"qid":"q-2791467-3","question":"Java有哪些线程安全的集合类？它们是如何实现的？","content_id":"2791467","title":"momenta后端实习二面"}
+{"qid":"q-2754523-1","question":"线程不安全的集合怎么保证安全？","content_id":"2754523","title":"E签宝 Java 一面"}
+{"qid":"q-2767092-3","question":"想要使用线程安全的HashMap，有哪些解决方法？","content_id":"2767092","title":"快手大模型后端日常一面"}
+{"qid":"q-2731574-4","question":"如何设置一个线程安全的Map表","content_id":"2731574","title":"科大讯飞一面（Java）"}
+{"qid":"q-2449271-3","question":"如何将HashMap变为线程安全的？","content_id":"2449271","title":"去哪儿-Java开发-一面"}
+{"qid":"q-2833245-7","question":"哈希线程安全性","content_id":"2833245","title":"掌先3.26后端Java技术面凉经"}
+{"qid":"q-2814388-7","question":"Java集合有哪些线程安全的","content_id":"2814388","title":"春招Java后端开发 滴滴平台技术一二三面"}
+{"qid":"q-2838988-1","question":"与HashMap结构类似的线程安全类是什么？","content_id":"2838988","title":"熙牛医疗一面 Java后端实习"}
+{"qid":"q-2779397-2","question":"HashMap是线程安全的吗？哪些Hash结构是线程安全的","content_id":"2779397","title":"快手Java后端开发-校招面经"}
+{"qid":"q-2777328-2","question":"HashMap线程安全吗？哪些是线程安全的hash结构？","content_id":"2777328","title":"快手Java日常实习一面"}
+{"qid":"q-2789347-4","question":"CopyOnWriteArrayList的实现原理","content_id":"2789347","title":"中海达（java实习一面）面经"}

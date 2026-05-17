@@ -28,3 +28,37 @@
 {"qid":"q-864456050827612160-4","question":"JVM的内存是如何划分的？","content_id":"864456050827612160","title":"用友 JAVA开发 - 一面"}
 {"qid":"q-864456050827612160-7","question":"程序计数器的作用是什么？","content_id":"864456050827612160","title":"用友 JAVA开发 - 一面"}
 {"qid":"q-2814748-8","question":"JVM内存模型（堆、方法区、虚拟机栈、本地方法栈、程序计数器）","content_id":"2814748","title":"得物2026春招 | 后端开发 | 面经 | Java面试"}
+{"qid":"q-2811055-1","question":"JVM内存模型介绍一下","content_id":"2811055","title":"深圳某小厂Java后端面经(线上)"}
+{"qid":"q-2809853-10","question":"JVM分区有哪些？","content_id":"2809853","title":"字节- AML大模型后端开发-一二面"}
+{"qid":"q-2807441-5","question":"Java栈中存放什么？(包括本地方法栈)","content_id":"2807441","title":"3.12腾讯QQ后台实习"}
+{"qid":"q-2807113-2","question":"JVM内存模型","content_id":"2807113","title":"Moka Java开发一面"}
+{"qid":"q-860858674003070976-2","question":"简述JVM有哪些内存结构","content_id":"860858674003070976","title":"杭州小厂 零零科技 后端面经"}
+{"qid":"q-2804947-8","question":"JVM 的内存分布是怎样的？","content_id":"2804947","title":"转转一面（二面挂）"}
+{"qid":"q-2804947-10","question":"程序计数器为什么不会发生溢出？","content_id":"2804947","title":"转转一面（二面挂）"}
+{"qid":"q-876393541956624384-2","question":"JVM内存结构（运行时数据区）包括哪些部分","content_id":"876393541956624384","title":"心虚是社死的前兆"}
+{"qid":"q-2838988-13","question":"JVM的内存模型是怎样的？","content_id":"2838988","title":"熙牛医疗一面 Java后端实习"}
+{"qid":"q-2838988-14","question":"JVM中哪些区域是内存私有的？","content_id":"2838988","title":"熙牛医疗一面 Java后端实习"}
+{"qid":"q-2838226-14","question":"JVM内存模型分哪些区域？","content_id":"2838226","title":"字节飞书golang一面"}
+{"qid":"q-2837277-3","question":"讲一下JVM内存区域，各个JDK版本有什么差异","content_id":"2837277","title":"字节ai应用后端财经一面"}
+{"qid":"q-874328563736993792-3","question":"JVM的内存结构包括哪些部分？","content_id":"874328563736993792","title":"4.16-美团-一面"}
+{"qid":"q-2836338-1","question":"JVM内存结构","content_id":"2836338","title":"TME后台开发暑期实习 酷我车载业务部 一面面经"}
+{"qid":"q-2835314-5","question":"JVM内存模型","content_id":"2835314","title":"北京用友金融-java后端开发"}
+{"qid":"q-873553789842702336-1","question":"讲一讲Java里面的JVM内存分配，内存模型是怎样的？","content_id":"873553789842702336","title":"蚂蚁后端一面"}
+{"qid":"q-2834003-1","question":"请说一下Java运行时内存区域划分","content_id":"2834003","title":"腾讯云智后台开发暑期一面"}
+{"qid":"q-2833812-13","question":"Java的内存是怎么进行管理的？","content_id":"2833812","title":"字节后端ai开发二面-日常实习 1h"}
+{"qid":"q-2833245-3","question":"JVM内存区域","content_id":"2833245","title":"掌先3.26后端Java技术面凉经"}
+{"qid":"q-872599725722132480-8","question":"JVM内存区域划分","content_id":"872599725722132480","title":"红茶移动Java开发一面"}
+{"qid":"q-2832129-0","question":"JVM内存区域有哪些？","content_id":"2832129","title":"蚂蚁智能体与大模型暑期实习一面面经"}
+{"qid":"q-2831567-11","question":"Java的内存管理包括哪些部分？","content_id":"2831567","title":"4.10虾皮后端实习一面"}
+{"qid":"q-2831448-0","question":"JVM内存结构以及是否调优过?","content_id":"2831448","title":"京东 后端ai开发二面 日常实习面经分享"}
+{"qid":"q-2831356-9","question":"JVM的内存区域划分是怎样的？栈的作用是什么？","content_id":"2831356","title":"字节大模型后端暑期一面 75min"}
+{"qid":"q-2831070-4","question":"String常量池放在哪？","content_id":"2831070","title":"美团暑期实习 ai后端一面分享"}
+{"qid":"q-2830915-9","question":"JVM内存模型","content_id":"2830915","title":"tme腾讯音乐后台开发暑期实习一面面经"}
+{"qid":"q-2830250-0","question":"JVM内存是怎样的？创建一个包括age和name的person类，讲讲它涉及的JVM底层","content_id":"2830250","title":"腾讯云智-暑期实习后端开发一二面"}
+{"qid":"q-871416350042775552-11","question":"JVM内存模型（运行时数据区）是怎样的？","content_id":"871416350042775552","title":"浩鲸科技一面"}
+{"qid":"q-2845584-13","question":"JVM运行时数据区域有哪些？","content_id":"2845584","title":"正浩创新/EcoFlow java一面凉经"}
+{"qid":"q-878291133086908416-0","question":"说说JVM的内存区域划分？","content_id":"878291133086908416","title":"小红书后端开发一面"}
+{"qid":"q-2841121-5","question":"Java 程序运行时，JVM 内存分为哪几块？","content_id":"2841121","title":"腾讯视频 后端开发 面经"}
+{"qid":"q-2840502-3","question":"JVM 内存结构了解吗？","content_id":"2840502","title":"腾讯后台开发TME酷我车载业务部 二面"}
+{"qid":"q-2824471-13","question":"JVM内存模型中常量存放在哪里？方法区里包含什么？","content_id":"2824471","title":"3.31飞猪java后端开发一面"}
+{"qid":"q-2820914-4","question":"JVM 中堆栈、方法区、程序计数器的结构","content_id":"2820914","title":"美团后端暑期ai面"}

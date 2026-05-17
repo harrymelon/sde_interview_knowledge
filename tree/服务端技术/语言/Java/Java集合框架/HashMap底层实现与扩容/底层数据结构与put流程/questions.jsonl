@@ -1,0 +1,70 @@
+{"qid":"q-858701426594197504-0","question":"请讲一下HashMap的底层实现数据结构？什么时候会进行扩容？以及整个数据结构会如何变化？","content_id":"858701426594197504","title":"航旅纵横JAVA 春招"}
+{"qid":"q-857348560604442624-0","question":"介绍一下HashMap的底层实现","content_id":"857348560604442624","title":"哈啰后端一面"}
+{"qid":"q-2795115-4","question":"Java集合底层数据结构（HashMap、ConcurrentHashMap等）","content_id":"2795115","title":"字节后端一面"}
+{"qid":"q-2794719-0","question":"HashMap在Java 8中的内部数据结构是什么？","content_id":"2794719","title":"实在智能Java二面面经 （仍需沉淀）"}
+{"qid":"q-2792532-15","question":"HashMap的put过程","content_id":"2792532","title":"字节后端三面面经"}
+{"qid":"q-2792049-4","question":"请介绍一下 HashMap 内部的数据结构。","content_id":"2792049","title":"实在智能二面"}
+{"qid":"q-2792049-6","question":"为什么底层要基于数组加链表的形式来实现哈希表？数组的作用是什么？","content_id":"2792049","title":"实在智能二面"}
+{"qid":"q-2792049-7","question":"JDK 8 中，哈希函数是如何计算哈希值并确定元素在桶中位置的？（扰动函数的作用）","content_id":"2792049","title":"实在智能二面"}
+{"qid":"q-2791469-19","question":"HashMap的底层结构是什么？","content_id":"2791469","title":"字节后端实习一面"}
+{"qid":"q-850316604708532224-1","question":"HashMap的底层实现原理是什么","content_id":"850316604708532224","title":"中科创达 Java开发 一面 面经"}
+{"qid":"q-2789477-11","question":"HashMap的底层原理","content_id":"2789477","title":"b站Java日常实习面经"}
+{"qid":"q-2788907-3","question":"HashMap的底层数据结构是什么？","content_id":"2788907","title":"字节国际化广告后端一面"}
+{"qid":"q-2786025-0","question":"请解释Java集合框架中常见集合类的底层实现和特性（如HashMap、ConcurrentHashMap等）","content_id":"2786025","title":"米哈游效能部门后端实习oc"}
+{"qid":"q-2782248-1","question":"HashMap的底层原理是什么？","content_id":"2782248","title":"实在智能-Java开发工程师-终面-45min"}
+{"qid":"q-2780360-5","question":"Java HashMap的存储方式是什么？","content_id":"2780360","title":"京东Java后端开发一面-日常实习"}
+{"qid":"q-2779545-2","question":"请讲解HashMap的工作原理","content_id":"2779545","title":"美团27实习后端一面"}
+{"qid":"q-2778133-3","question":"HashMap的key和value是否允许为null","content_id":"2778133","title":"小米后端开发一面-27实习面经"}
+{"qid":"q-2778133-4","question":"HashMap如何存储键值对，Entry内部数据结构，key和value如何存储","content_id":"2778133","title":"小米后端开发一面-27实习面经"}
+{"qid":"q-2777851-5","question":"请讲讲HashMap的实现原理","content_id":"2777851","title":"京东科技后端实习一面"}
+{"qid":"q-2777417-2","question":"讲一下Java的HashMap","content_id":"2777417","title":"java面经"}
+{"qid":"q-2777318-12","question":"详细介绍HashMap（结构、扩容、寻址put过程、hash冲突）","content_id":"2777318","title":"小红书Java日常实习一面"}
+{"qid":"q-2777334-2","question":"介绍一下HashMap","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}
+{"qid":"q-2778820-1","question":"HashMap的基本数据结构是什么？","content_id":"2778820","title":"汉得信息已offer一面面经分享"}
+{"qid":"q-2778522-1","question":"HashMap的结构和特点","content_id":"2778522","title":"快手后端日常实习一面凉经"}
+{"qid":"q-2767092-1","question":"HashMap的数据结构是什么样的？","content_id":"2767092","title":"快手大模型后端日常一面"}
+{"qid":"q-2738102-7","question":"Java里HashMap的底层实现逻辑简要描述一下","content_id":"2738102","title":"图拉斯二面"}
+{"qid":"q-2735988-0","question":"HashMap 底层源码看过吗？简单讲一下有哪些部分","content_id":"2735988","title":"11.5古茗java一面 30min"}
+{"qid":"q-2725004-1","question":"Java中HashMap是干什么的，主要用途？插入、删除时间复杂度？什么时候链表变红黑树？","content_id":"2725004","title":"字节后端日常一面"}
+{"qid":"q-2720957-1","question":"讲一下 HashMap 的底层原理以及扩容机制","content_id":"2720957","title":"27四非本，字节后端实习OC"}
+{"qid":"q-2692379-17","question":"Hashmap底层说一下","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
+{"qid":"q-2692379-19","question":"如果要查找快，查询快，还有解决非空的问题，怎么做","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
+{"qid":"q-2680728-2","question":"HashMap怎么实现的？","content_id":"2680728","title":"滴滴正式批:"}
+{"qid":"q-2666837-0","question":"HashMap底层数据结构和put流程","content_id":"2666837","title":"美团java后端一面(挂)"}
+{"qid":"q-2664677-0","question":"HashMap底层原理是什么？","content_id":"2664677","title":"shopee 一面8.19"}
+{"qid":"q-2477686-1","question":"介绍一下HashMap","content_id":"2477686","title":"联通广东产互 秋招 后端开发一面"}
+{"qid":"q-2495918-5","question":"HashMap的底层原理是什么？","content_id":"2495918","title":"【26日常】掌上先机 timeline+ 面经汇总"}
+{"qid":"q-2446709-0","question":"HashMap的底层实现是怎样的？","content_id":"2446709","title":"快手秋招 Java 一面"}
+{"qid":"q-2445516-2","question":"HashMap的底层数据结构是什么","content_id":"2445516","title":"极质科技 Java开发工程师 实习二面"}
+{"qid":"q-864456050827612160-0","question":"HashMap的底层原理是什么？详细描述put流程","content_id":"864456050827612160","title":"用友 JAVA开发 - 一面"}
+{"qid":"q-2814748-0","question":"HashMap底层实现原理（数组+链表+红黑树，初始容量16，负载因子0.75，扩容为2倍）","content_id":"2814748","title":"得物2026春招 | 后端开发 | 面经 | Java面试"}
+{"qid":"q-2812052-3","question":"hashmap的底层结构讲一讲","content_id":"2812052","title":"熙牛医疗java一面面经"}
+{"qid":"q-2811519-10","question":"HashMap的底层原理是什么？","content_id":"2811519","title":"航旅纵横一面"}
+{"qid":"q-2811035-7","question":"HashMap底层存放原理","content_id":"2811035","title":"药帮忙java一面面经"}
+{"qid":"q-2810176-1","question":"Java 里的 HashMap 原理是什么？为什么会有扩容？","content_id":"2810176","title":"后端开发实习生"}
+{"qid":"q-2809039-13","question":"HashMap的put方法的执行流程是什么？","content_id":"2809039","title":"货拉拉后端开发实习一面"}
+{"qid":"q-2808700-12","question":"HashMap底层有了解吗？","content_id":"2808700","title":"字节后端一面凉经"}
+{"qid":"q-2807432-0","question":"HashMap的底层原理是什么？","content_id":"2807432","title":"北京小厂 Java 实习面经"}
+{"qid":"q-2805617-0","question":"Hash取值的平均时间复杂度为什么是O(1)？","content_id":"2805617","title":"字节后端一面"}
+{"qid":"q-2805474-2","question":"Java的HashMap底层实现原理","content_id":"2805474","title":"字节后端开发面经"}
+{"qid":"q-860946444415438848-8","question":"HashMap的底层数据结构（数组+链表/红黑树）","content_id":"860946444415438848","title":"java大厂面经速览（今日已更新！）"}
+{"qid":"q-860859906675478528-2","question":"往 HashMap 里 put 一个值的过程是怎样的？","content_id":"860859906675478528","title":"27 杭州 元启视界 JAVA 实习面经"}
+{"qid":"q-2805063-1","question":"HashMap的底层结构和put流程是怎样的","content_id":"2805063","title":"中厂Java实习生面试"}
+{"qid":"q-860858674003070976-0","question":"介绍Java中常用的HashMap，以及Java 8之后有什么优化","content_id":"860858674003070976","title":"杭州小厂 零零科技 后端面经"}
+{"qid":"q-2839211-3","question":"HashMap的底层实现","content_id":"2839211","title":"TME一面凉经（后端）"}
+{"qid":"q-2838720-3","question":"HashMap底层原理","content_id":"2838720","title":"汉得信息Java开发 4.09"}
+{"qid":"q-2837005-4","question":"HashMap底层实现原理","content_id":"2837005","title":"4.17懂车帝后端实习一面"}
+{"qid":"q-2833819-2","question":"HashMap的底层原理是什么，为什么要从链表转成红黑树","content_id":"2833819","title":"大二双非双一流后端开发小厂面经"}
+{"qid":"q-2831981-6","question":"哈希表put一个元素的流程","content_id":"2831981","title":"携程暑期实习Java后端面经"}
+{"qid":"q-2830629-18","question":"HashMap怎么实现的?扩容机制是怎么样的","content_id":"2830629","title":"腾讯ai后台开发一面 面没招了给我"}
+{"qid":"q-2830605-1","question":"HashMap的底层实现以及Java7和Java8的区别是什么？","content_id":"2830605","title":"9本无实习Java Agent阿里一面"}
+{"qid":"q-2830536-26","question":"HashMap底层实现原理？发生哈希冲突时如何处理？","content_id":"2830536","title":"字节一二三hr面 java面经（已off）"}
+{"qid":"q-2830465-6","question":"HashMap底层实现原理","content_id":"2830465","title":"字节暑期实习后端开发方向  已oc"}
+{"qid":"q-2830302-4","question":"HashMap的设计原理是怎样的？","content_id":"2830302","title":"蚂蚁国际 ai后端开发 暑期实习一面"}
+{"qid":"q-871416350042775552-2","question":"HashMap的底层数据结构是什么？","content_id":"871416350042775552","title":"浩鲸科技一面"}
+{"qid":"q-2844802-3","question":"HashMap底层实现原理是什么？","content_id":"2844802","title":"腾讯音乐实习后端ai开发一面凉经"}
+{"qid":"q-2844435-9","question":"讲讲 HashMap 的实现原理","content_id":"2844435","title":"美团软件开发工程师（后端方向）一面"}
+{"qid":"q-2842995-12","question":"哈希表怎么实现？","content_id":"2842995","title":"日常实习- AI后端开发一面-美团"}
+{"qid":"q-2840969-0","question":"问HashMap的原理","content_id":"2840969","title":"腾讯云智ai后台开发一面分享 50min"}
+{"qid":"q-2824471-7","question":"HashMap底层结构是什么样的？如何扩容？是线程安全的吗？","content_id":"2824471","title":"3.31飞猪java后端开发一面"}
+{"qid":"q-2819916-0","question":"哈希表底层结构是什么？","content_id":"2819916","title":"字节一面挂我做对了什么"}

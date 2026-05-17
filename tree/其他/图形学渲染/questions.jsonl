@@ -1,0 +1,7 @@
+{"qid":"q-2501211-7","question":"渲染管线介绍一下","content_id":"2501211","title":"B站C++渲染引擎一面"}
+{"qid":"q-2501211-8","question":"如何渲染一个半透明物体的场景？不透明物体需要深度写入吗？半透明的物体需要深度写入吗？半透明的物体要进行深度测试吗？","content_id":"2501211","title":"B站C++渲染引擎一面"}
+{"qid":"q-2501211-9","question":"深度测试，模板测试，透明度测试的顺序","content_id":"2501211","title":"B站C++渲染引擎一面"}
+{"qid":"q-2501211-10","question":"讲一下泛光？","content_id":"2501211","title":"B站C++渲染引擎一面"}
+{"qid":"q-2501211-11","question":"讲一下前向渲染和延迟渲染？","content_id":"2501211","title":"B站C++渲染引擎一面"}
+{"qid":"q-2501211-12","question":"多线程环境下Opengl的share_context的哪些类型（texture,vbo,fbo,vao,programe）是可以正常读写的？","content_id":"2501211","title":"B站C++渲染引擎一面"}
+{"qid":"q-2501211-13","question":"矩阵顺序旋转（口撕）","content_id":"2501211","title":"B站C++渲染引擎一面"}

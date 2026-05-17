@@ -1,0 +1,25 @@
+{"qid":"q-854424569665335296-1","question":"智能指针有哪几种？shared_ptr的实现原理是什么？","content_id":"854424569665335296","title":"快手C++ 一面 面经"}
+{"qid":"q-851565802816876544-1","question":"shared_ptr的实现原理是什么？","content_id":"851565802816876544","title":"C++ 智能指针与内存管理面试题"}
+{"qid":"q-2779967-11","question":"shared_ptr有哪些常用函数？","content_id":"2779967","title":"腾讯C++后端实习一面"}
+{"qid":"q-2698153-0","question":"智能指针的底层原理及手撕shared_ptr实现","content_id":"2698153","title":"拼多多服务端一面"}
+{"qid":"q-2680611-20","question":"shared_ptr 的控制块设计？","content_id":"2680611","title":"影石C++一面"}
+{"qid":"q-2680611-21","question":"shared_ptr 的引用计数存储在哪里？","content_id":"2680611","title":"影石C++一面"}
+{"qid":"q-2501211-1","question":"shared_ptr是怎么实现的？","content_id":"2501211","title":"B站C++渲染引擎一面"}
+{"qid":"q-2501211-2","question":"shared_ptr是线程安全的吗？","content_id":"2501211","title":"B站C++渲染引擎一面"}
+{"qid":"q-2486547-4","question":"shared_ptr管理数组资源需要考虑什么？删除器怎么实现？","content_id":"2486547","title":"虎牙C++后台秋招"}
+{"qid":"q-863771805712949248-0","question":"shared_ptr 是线程安全的吗？引用计数和对象本身分别是什么情况？","content_id":"863771805712949248","title":"百度 C++软件开发 二面 面经"}
+{"qid":"q-863771775325179904-1","question":"为什么推荐用 make_shared 而不是直接 new 来构造 shared_ptr？","content_id":"863771775325179904","title":"百度 C++软件开发 一面 面经"}
+{"qid":"q-863707911594184704-1","question":"shared_ptr 的引用计数是如何实现的？","content_id":"863707911594184704","title":"微派 c++软件开发 二面 面经"}
+{"qid":"q-863083714023038976-0","question":"make_shared的作用和优势是什么？","content_id":"863083714023038976","title":"小米汽车 中间件-C++ 二面"}
+{"qid":"q-2807521-8","question":"说一下智能指针，引用计数是怎么实现的？你来设计你会怎么实现？在项目中使用智能指针了吗？","content_id":"2807521","title":"字节后端暑期实习一面"}
+{"qid":"q-2837246-7","question":"智能指针是否线程安全","content_id":"2837246","title":"影石移动端c++一面"}
+{"qid":"q-2833927-14","question":"实现带引用计数的智能指针时，引用计数为什么不能用int或static int？应该用什么类型？","content_id":"2833927","title":"经纬恒润 C++开发一面"}
+{"qid":"q-2829764-2","question":"智能指针 share_ptr 的原理","content_id":"2829764","title":"百度 - 后端 - 一面"}
+{"qid":"q-2829764-3","question":"情景题，问某情境下 share_ptr 的引用计数分别是多少？","content_id":"2829764","title":"百度 - 后端 - 一面"}
+{"qid":"q-2780286-2","question":"shared_ptr有什么问题？weak_ptr如何解决的？","content_id":"2780286","title":"智元机器人校招C++后端一面"}
+{"qid":"q-2779967-10","question":"weak_ptr为什么被引入？请举例说明循环引用问题。","content_id":"2779967","title":"腾讯C++后端实习一面"}
+{"qid":"q-2779967-12","question":"能在构造函数中调用shared_from_this吗？","content_id":"2779967","title":"腾讯C++后端实习一面"}
+{"qid":"q-2486547-16","question":"智能指针的选择？循环引用如何解决？","content_id":"2486547","title":"虎牙C++后台秋招"}
+{"qid":"q-848289871868260352-1","question":"智能指针的实现原理是什么？shared_ptr和unique_ptr有什么区别？","content_id":"848289871868260352","title":"大华C++ 一面总结"}
+{"qid":"q-864639303056424960-0","question":"shared_ptr 性能优于 unique_ptr 的原因是什么","content_id":"864639303056424960","title":"腾讯 WXG客户端开发-C++ 一面"}
+{"qid":"q-873487932324179968-0","question":"shared_ptr 性能优于 unique_ptr 吗？为什么？","content_id":"873487932324179968","title":"腾讯WXG 客户端开发-C++ 一面"}

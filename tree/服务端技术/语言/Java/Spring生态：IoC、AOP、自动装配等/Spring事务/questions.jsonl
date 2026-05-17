@@ -22,3 +22,26 @@
 {"qid":"q-864998819736387584-11","question":"讲讲事务传播机制","content_id":"864998819736387584","title":"顺丰java一面"}
 {"qid":"q-864721402140639232-1","question":"Spring 事务失效的场景有哪些？","content_id":"864721402140639232","title":"27届java小厂面试   面经"}
 {"qid":"q-864721402140639232-2","question":"Spring 事务的实现原理是什么？","content_id":"864721402140639232","title":"27届java小厂面试   面经"}
+{"qid":"q-2811035-13","question":"Spring @Transactional事务什么情况会失效","content_id":"2811035","title":"药帮忙java一面面经"}
+{"qid":"q-876423852971065344-9","question":"讲一下事务，声明式事务失效有哪些情况？","content_id":"876423852971065344","title":"致远互联 Java开发一面"}
+{"qid":"q-2839595-18","question":"事务失效有哪些情况？","content_id":"2839595","title":"熙牛医疗一面  Java后端"}
+{"qid":"q-2839595-19","question":"事务失效的解决方法是什么？","content_id":"2839595","title":"熙牛医疗一面  Java后端"}
+{"qid":"q-2838464-13","question":"了解Spring事务吗？","content_id":"2838464","title":"百特云享复面 Java后端日常实习"}
+{"qid":"q-2836748-9","question":"Spring如何开启事务？什么情况会导致事务失效？","content_id":"2836748","title":"用友（澳门） base珠海（OC）"}
+{"qid":"q-2835946-10","question":"Spring 事务注解使用时需要注意什么","content_id":"2835946","title":"27日常实习 美团ai后端开发一面"}
+{"qid":"q-2834011-8","question":"Spring为什么加了@Transactional就有事务了","content_id":"2834011","title":"快手 本地生活核心 后端暑期 一面"}
+{"qid":"q-2833819-8","question":"Spring事务中try catch捕获到异常还会回滚吗","content_id":"2833819","title":"大二双非双一流后端开发小厂面经"}
+{"qid":"q-2832288-14","question":"Spring中与事务相关的注解有哪些？使用时需要注意什么？","content_id":"2832288","title":"实在智能Java日常实习二面（30min）"}
+{"qid":"q-2831981-10","question":"Transactional注解什么情况会失效及应对情况","content_id":"2831981","title":"携程暑期实习Java后端面经"}
+{"qid":"q-2831096-9","question":"Spring事务有几个隔离级别？","content_id":"2831096","title":"春秋航空-Java开发实习"}
+{"qid":"q-2831096-10","question":"一个方法上有@Transaction注解，里面子方法也有@Transaction，两个事务回滚会同时执行吗？","content_id":"2831096","title":"春秋航空-Java开发实习"}
+{"qid":"q-2831096-11","question":"主方法中每个子方法都加了@Transaction，其中一个抛异常，外面方法会回滚吗？","content_id":"2831096","title":"春秋航空-Java开发实习"}
+{"qid":"q-871416350042775552-14","question":"事务的传播行为有哪些？","content_id":"871416350042775552","title":"浩鲸科技一面"}
+{"qid":"q-2844806-9","question":"@Transactional能实现什么目的？怎么回滚？这个注解和数据库有什么关系？","content_id":"2844806","title":"27实习字节后端ai开发一面凉经分享"}
+{"qid":"q-878588128464756736-5","question":"Spring事务的传播机制有哪些","content_id":"878588128464756736","title":"腾讯 PCG 后台开发 一面"}
+{"qid":"q-2843774-8","question":"Spring 中一个方法加上 @Transactional 注解，方法内先调用另一个普通方法再抛异常，事务会不会回滚？","content_id":"2843774","title":"腾讯后端Agent开发一面-实习面经"}
+{"qid":"q-2842995-9","question":"事务注解这块有什么需要注意的？","content_id":"2842995","title":"日常实习- AI后端开发一面-美团"}
+{"qid":"q-2840552-4","question":"@Transactional注解失效情况有哪些","content_id":"2840552","title":"4.20 美团金融服务后端 一面"}
+{"qid":"q-2829242-6","question":"事务失效还有哪些场景？除了注解失效还有什么原因？","content_id":"2829242","title":"27届成都Java实习百人厂面经"}
+{"qid":"q-2829242-7","question":"事务的传播行为有哪几种？请解释常见的几种。","content_id":"2829242","title":"27届成都Java实习百人厂面经"}
+{"qid":"q-2824134-7","question":"事务失效的场景有哪些？","content_id":"2824134","title":"山东胜软科技Java后端二面（25min）"}

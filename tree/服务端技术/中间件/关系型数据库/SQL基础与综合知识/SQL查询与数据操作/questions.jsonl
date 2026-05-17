@@ -1,60 +1,15 @@
-{"qid":"q-2795073-2","question":"MySQL 多表联查中，左连接和右连接有什么区别？","content_id":"2795073","title":"小厂全栈开发"}
-{"qid":"q-854766261299900416-7","question":"MySQL连表查询join如果没有on会怎样？单纯join是什么连接？on条件和where条件区别是什么？","content_id":"854766261299900416","title":"他山科技一面"}
-{"qid":"q-2788893-6","question":"口述简单SQL题：group by和order by的使用","content_id":"2788893","title":"网思科技java后端实习1.18（已oc）base济南"}
-{"qid":"q-2788907-21","question":"如何编写分数筛选的SQL查询？","content_id":"2788907","title":"字节国际化广告后端一面"}
-{"qid":"q-2789209-1","question":"SQL题：表中有sku,name,effectiveTime三个字段，effectiveTime表示生效时间，每次更新数据都会插入最新的生效时间，要求查询出最新的生效记录","content_id":"2789209","title":"腾讯2026技术提前批后台开发一面"}
-{"qid":"q-2784999-0","question":"MySQL中用户信息表和用户购买清单表如何关联？","content_id":"2784999","title":"我的水平能应聘JAVA后端开发吗？"}
-{"qid":"q-2781462-5","question":"SQL：有一张表，里面只有两个字段ID和邮箱，需要对邮箱相同的部分使用delete进行去重","content_id":"2781462","title":"11.北京瓜子二手车后端实习一面面经（2025年4月3投递，4月3约面）"}
 {"qid":"q-2781934-11","question":"手撕SQL：查询phone表中有一条及以上记录的user。","content_id":"2781934","title":"广州小厂爱奇创新Java实习面经"}
-{"qid":"q-2781491-31","question":"SQL排序类型","content_id":"2781491","title":"字节后端日常一二三面面经（oc）"}
 {"qid":"q-2791001-6","question":"SQL查询：表（学生名字，科目名字，科目成绩），怎么展示每个科目的最好成绩并且按要求的科目名字排序输出？","content_id":"2791001","title":"车300Java开发"}
-{"qid":"q-2790248-12","question":"MyBatis中#{}和${}的区别","content_id":"2790248","title":"字节后端二面"}
-{"qid":"q-2790248-13","question":"MyBatis中@Param注解的作用","content_id":"2790248","title":"字节后端二面"}
-{"qid":"q-2790248-14","question":"MyBatis中如何实现分表查询","content_id":"2790248","title":"字节后端二面"}
-{"qid":"q-2778948-0","question":"如何查询最后登录的1000名用户，字段包含最后登录时间","content_id":"2778948","title":"深圳高益科技有限公司笔试"}
-{"qid":"q-2778948-1","question":"如何编写SQL将表中含有某个字段的记录将该字段值修改为0","content_id":"2778948","title":"深圳高益科技有限公司笔试"}
 {"qid":"q-2778948-2","question":"如何查询表中重复的昵称","content_id":"2778948","title":"深圳高益科技有限公司笔试"}
-{"qid":"q-838038489668046848-3","question":"SQL查询成绩最高的前三条记录","content_id":"838038489668046848","title":"27小厂Java后端实习"}
-{"qid":"q-2739811-7","question":"创建索引的 SQL 语法是什么？","content_id":"2739811","title":"安恒信息二面（我还以为是hr面，结果是技术面）"}
-{"qid":"q-2726924-3","question":"SQL题：统计student表中各个年龄的学生数量","content_id":"2726924","title":"百度后端日常二面（云方向）"}
-{"qid":"q-2726924-4","question":"SQL题：统计同一个年龄学生超过20人的年龄","content_id":"2726924","title":"百度后端日常二面（云方向）"}
-{"qid":"q-2722227-1","question":"批量SQL INSERT操作时，每条记录的列结构不固定时如何解决？","content_id":"2722227","title":"乐牛游戏 游戏服务端开发工程师 凉经"}
-{"qid":"q-2698749-8","question":"SQL基本语法包括哪些内容？","content_id":"2698749","title":"厦门岛内中场JAVA开发笔试"}
-{"qid":"q-2693075-0","question":"查询每个 act_id 对应的最晚插入记录，如何编写 SQL？","content_id":"2693075","title":"美团后端面经（意向）"}
-{"qid":"q-2675377-7","question":"游戏场景下要执行多少次UPDATE SQL语句如何分析？","content_id":"2675377","title":"点点互动-服务端-笔试"}
-{"qid":"q-2666837-8","question":"SQL join考察","content_id":"2666837","title":"美团java后端一面(挂)"}
-{"qid":"q-2649352-4","question":"count(1)与count(*)的区别是什么？","content_id":"2649352","title":"米哈游测试提前批"}
-{"qid":"q-2617839-10","question":"写SQL：员工表和部门表，计算每个部门薪资最高的员工","content_id":"2617839","title":"6.12 字节跳动生活服务后端实习二面记录"}
-{"qid":"q-2615510-6","question":"简单概述一下mysql的增删改查的四个语句","content_id":"2615510","title":"26民本 亚信万联-java实习 面试"}
-{"qid":"q-2615510-7","question":"场景题：两张表有重复数据，如何查询并去重输出（MINUS操作）","content_id":"2615510","title":"26民本 亚信万联-java实习 面试"}
-{"qid":"q-2615510-8","question":"统计分数在75分以上的男生和女生分别有多少人的SQL怎么写","content_id":"2615510","title":"26民本 亚信万联-java实习 面试"}
-{"qid":"q-2615510-9","question":"查询有两科成绩在75分以上的人的SQL怎么写","content_id":"2615510","title":"26民本 亚信万联-java实习 面试"}
-{"qid":"q-2615510-10","question":"简单介绍一下子查询","content_id":"2615510","title":"26民本 亚信万联-java实习 面试"}
-{"qid":"q-2593539-7","question":"SQL题：选出每个年级的最高分","content_id":"2593539","title":"字节一面（已凉）"}
-{"qid":"q-2593539-8","question":"知道SQL窗口函数吗？","content_id":"2593539","title":"字节一面（已凉）"}
-{"qid":"q-2592031-21","question":"LEFT/RIGHT/INNER JOIN 的区别","content_id":"2592031","title":"4.22 美团核心本地商业-业务研发平台 后端一面"}
-{"qid":"q-2580222-27","question":"Mysql中模糊查询的%和_的区别？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
-{"qid":"q-2574038-8","question":"SQL：Score 表 name、subject、socre，求每个科目得分最大的两名同学","content_id":"2574038","title":"阿里云一二三面时间线+面经"}
 {"qid":"q-2571712-2","question":"SQL题：求某演员最忙的年份","content_id":"2571712","title":"3.31海康威视java笔试"}
-{"qid":"q-2558987-3","question":"SELECT * 有什么问题？","content_id":"2558987","title":"滴滴 后端开发 一面凉经"}
-{"qid":"q-2555051-6","question":"编写 SQL 查询重复 email","content_id":"2555051","title":"PDD 一面"}
-{"qid":"q-2555732-11","question":"SQL题：统计网站当天访问次数最多的城市","content_id":"2555732","title":"京东工业后端开发一面凉经"}
-{"qid":"q-2550714-6","question":"SQL查询部门平均工资、人数和部门名称","content_id":"2550714","title":"腾讯 微信支付一面"}
-{"qid":"q-2550372-0","question":"在使用ES之前，数据库模糊匹配怎么做的？","content_id":"2550372","title":"淘天一面 无八股无手撕就离谱"}
-{"qid":"q-2546048-6","question":"SQL题（涉及子查询和多表联查）","content_id":"2546048","title":"腾讯WXG微信支付一二面（凉）且有感"}
-{"qid":"q-2538720-7","question":"项目中update语句写法可能存在的问题","content_id":"2538720","title":"字节跳动抖音搜索golang一面（大概率寄）"}
-{"qid":"q-2538940-14","question":"查询一个班级中学生成绩综合降序（SQL 手撕）","content_id":"2538940","title":"京东零售 Java 二面"}
-{"qid":"q-2538940-15","question":"如果班级没有成绩怎么办？","content_id":"2538940","title":"京东零售 Java 二面"}
-{"qid":"q-2538136-1","question":"左连接和右连接的区别是什么？","content_id":"2538136","title":"虎牙春招java一二面记录"}
-{"qid":"q-2506490-4","question":"写一条SQL查询消息表中两个人对话的上下文记录","content_id":"2506490","title":"中国电子云-后端日常实习"}
 {"qid":"q-2470448-2","question":"SQL题考察哪些内容？","content_id":"2470448","title":"雷火一二面服务端"}
 {"qid":"q-2463887-12","question":"select id from table_a where id = xxx 和 select * from table_b where id = xxx，这两个查询语句有什么区别","content_id":"2463887","title":"途虎养车 后端开发 一面面经"}
-{"qid":"q-2456353-11","question":"SQL查询：员工表与bonus表，查询bonus小于1000的员工姓名和bonus（left join）","content_id":"2456353","title":"小红书Java日常实习电商商家一面"}
-{"qid":"q-2455672-2","question":"SQL分组查询的写法","content_id":"2455672","title":"美团 后端开发 日常实习一面面经"}
-{"qid":"q-2444526-6","question":"MySQL开窗函数的使用","content_id":"2444526","title":"尹兆科技 秋招 Java一面"}
-{"qid":"q-865176678006325248-9","question":"请考察SQL复杂查询能力，包括高级关键字如列转行、递归查询。","content_id":"865176678006325248","title":"北大软件(郑州)java实习面经"}
-{"qid":"q-2816267-9","question":"考察SQL复杂查询、高级关键字（如列转行、递归查询）的掌握程度。","content_id":"2816267","title":"北大软件(郑州)java实习面经"}
-{"qid":"q-2816267-11","question":"你在项目中写过的最复杂的SQL是什么？如何实现自定义查询（如SQL拼接）？","content_id":"2816267","title":"北大软件(郑州)java实习面经"}
 {"qid":"q-2815741-16","question":"写SQL查询年龄20到30的人","content_id":"2815741","title":"龙旗科技Java实习一面二面面经"}
-{"qid":"q-2815079-6","question":"从成绩表中查出所有选修课程分数都大于80分的学生姓名","content_id":"2815079","title":"字节暑期后端一面"}
-{"qid":"q-2814531-4","question":"SQL分页如何实现？","content_id":"2814531","title":"JDS京东健康26校招微凉"}
+{"qid":"q-2808982-14","question":"手撕SQL：具体根据场景编写SQL语句","content_id":"2808982","title":"美团 后端日常实习（OC）"}
+{"qid":"q-2835495-12","question":"一道SQL题目如何解答？","content_id":"2835495","title":"字节后端ai开发一面分享 暑期实习"}
+{"qid":"q-2835047-1","question":"项目中如何使用SQL的","content_id":"2835047","title":"28届济南小厂Java面经"}
+{"qid":"q-873563932680609792-3","question":"数据库查询SQL怎么写？","content_id":"873563932680609792","title":"能链一面"}
+{"qid":"q-2831314-12","question":"手写一个SQL查询语句","content_id":"2831314","title":"美团暑期ai后端一面 攒人品中"}
+{"qid":"q-878006921544941568-0","question":"请手写SQL查询（具体题目忘记）","content_id":"878006921544941568","title":"三道手撕？字节后端三面你别太离谱！"}
+{"qid":"q-2824134-8","question":"给了一张数据库表，两个查询需求，说一下怎么写查询语句","content_id":"2824134","title":"山东胜软科技Java后端二面（25min）"}
+{"qid":"q-2823507-27","question":"端上查询本地数据库时，每次都需要建立连接吗？如何优化？","content_id":"2823507","title":"26.3.19 腾讯广告cpp一面"}

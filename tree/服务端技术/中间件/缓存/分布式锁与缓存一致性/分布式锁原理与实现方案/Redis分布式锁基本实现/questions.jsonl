@@ -43,3 +43,73 @@
 {"qid":"q-2816849-0","question":"Redis 分布式锁具体是怎么实现的？","content_id":"2816849","title":"浙健体检Java后端开发一面--已约2面"}
 {"qid":"q-2816577-10","question":"Redis如何实现分布式锁？请求非常多时可能有什么问题？","content_id":"2816577","title":"百度外包一面凉经"}
 {"qid":"q-2814400-11","question":"Redis分布式锁的底层实现原理","content_id":"2814400","title":"快手-后端开发日常实习-研发效能部(二面)"}
+{"qid":"q-864092169466810368-6","question":"SETNX为什么能实现分布式锁功能？","content_id":"864092169466810368","title":"3.18腾讯后台开发一面"}
+{"qid":"q-864092169466810368-7","question":"为什么两个并发获取锁，最后只有一个能获取成功？","content_id":"864092169466810368","title":"3.18腾讯后台开发一面"}
+{"qid":"q-2813459-4","question":"MySQL查询资格时产生并发问题，如何加分布式锁？","content_id":"2813459","title":"虾皮SSC后台二面(已oc)"}
+{"qid":"q-2813317-14","question":"你怎么设计分布式锁？","content_id":"2813317","title":"3.12腾讯视频后端一面"}
+{"qid":"q-2812231-12","question":"使用SETNX指令跟执行Lua脚本的差异是什么？","content_id":"2812231","title":"字节后端-推荐架构面经 已offer"}
+{"qid":"q-2812231-31","question":"为什么Lua脚本能做到分布式一致性？它是如何把多条命令聚合为原子操作的？","content_id":"2812231","title":"字节后端-推荐架构面经 已offer"}
+{"qid":"q-2812231-32","question":"Lua脚本是如何编排这些多条Redis命令的？它是感知多个用户的命令还是单用户的顺序命令？","content_id":"2812231","title":"字节后端-推荐架构面经 已offer"}
+{"qid":"q-2812005-6","question":"如何用Redis实现锁","content_id":"2812005","title":"百度 服务端开发 暑期实习 一面"}
+{"qid":"q-2811062-11","question":"Redis的分布式锁主要用到哪些命令？","content_id":"2811062","title":"百度后台开发实习一面"}
+{"qid":"q-2810643-19","question":"Go 语言中怎么使用分布式锁？","content_id":"2810643","title":"面试面到了童年回忆"}
+{"qid":"q-863032861148917760-0","question":"Redis 分布式锁在主从切换时为什么会出现锁丢失？","content_id":"863032861148917760","title":"华兴致远 Java开发 二面"}
+{"qid":"q-861917586647232512-1","question":"Redis分布式锁保证并发安全","content_id":"861917586647232512","title":"中通 JAVA软件开发  一面 面经"}
+{"qid":"q-2807539-5","question":"分布式锁是怎么实现的？是用的现成的吗？","content_id":"2807539","title":"沥泉科技 golang后端开发实习生一面"}
+{"qid":"q-2806865-4","question":"双重判定锁加分布式锁怎么使用？","content_id":"2806865","title":"美团AI工具后端开发"}
+{"qid":"q-2806576-8","question":"Redis 分布式锁的实现","content_id":"2806576","title":"腾讯后台开发一面"}
+{"qid":"q-861264096061128704-0","question":"项目中保证抽奖结果保存的核心技术方案是什么？","content_id":"861264096061128704","title":"我家云 Java开发 实习 二面"}
+{"qid":"q-2839810-3","question":"如何用Redis实现分布式锁？","content_id":"2839810","title":"蚂蚁后端一面凉经"}
+{"qid":"q-2839810-4","question":"为什么必须用lua，不用lua会有什么问题？","content_id":"2839810","title":"蚂蚁后端一面凉经"}
+{"qid":"q-2839331-4","question":"Redis怎么实现分布式锁？","content_id":"2839331","title":""}
+{"qid":"q-2839331-5","question":"Redis分布式锁开锁（解锁）哪一步需要保证原子性？","content_id":"2839331","title":""}
+{"qid":"q-2839224-10","question":"Redis 分布式锁如何实现？","content_id":"2839224","title":"思谋一面（全栈）"}
+{"qid":"q-875830032529186816-6","question":"Redis分布式锁","content_id":"875830032529186816","title":"杭州Web3厂Go后端面经"}
+{"qid":"q-2838464-6","question":"使用Redis锁时用的是什么框架？","content_id":"2838464","title":"百特云享复面 Java后端日常实习"}
+{"qid":"q-875371683769565184-11","question":"Redis 实现分布式锁的原理是什么","content_id":"875371683769565184","title":"字节 TikTok-Shop 后端开发 二面"}
+{"qid":"q-2837960-6","question":"Redis 分布式锁的 key 怎么设计？","content_id":"2837960","title":"蚂蚁暑期后端agent开发一面分享"}
+{"qid":"q-2837772-11","question":"Redis分布式锁的实现","content_id":"2837772","title":"27实习百度AI后端开发一面 1h"}
+{"qid":"q-2837145-4","question":"Redisson分布式锁解决缓存击穿是什么样的场景？","content_id":"2837145","title":"荣耀Java开发工程师实习生 一面面经"}
+{"qid":"q-2837145-5","question":"没拿到Redisson分布式锁的线程是直接返回吗？","content_id":"2837145","title":"荣耀Java开发工程师实习生 一面面经"}
+{"qid":"q-874284937816330240-2","question":"说一下行锁升级为Redis分布式锁的背景和实现方案","content_id":"874284937816330240","title":"恩希云 一面 JAVA 社招两年 面经"}
+{"qid":"q-2836197-0","question":"Redis分布式锁解决限流","content_id":"2836197","title":"字节ai后端开发凉 拼尽全力依然无法战胜"}
+{"qid":"q-2834850-17","question":"分布式锁的性能瓶颈应对","content_id":"2834850","title":"美团ai 一面 攒人品ing"}
+{"qid":"q-2834703-10","question":"你项目的Redis分布式锁是怎么实现的？执行什么命令？","content_id":"2834703","title":"字节一二三面hr面 面经 后端开发"}
+{"qid":"q-2834703-12","question":"怎么确保这个锁没有被其他的线程抢到？有过期时间吗？","content_id":"2834703","title":"字节一二三面hr面 面经 后端开发"}
+{"qid":"q-2834547-2","question":"Lua脚本实现分布式锁相比SETNX的优点是什么？","content_id":"2834547","title":"快手二面已挂-java后端"}
+{"qid":"q-2834561-25","question":"怎么设计一个高性能的分布式锁？会遇到哪些问题？","content_id":"2834561","title":"字节暑期后端面经（一共五轮技术面人傻了）"}
+{"qid":"q-2834479-5","question":"Redis的分布式锁如何实现？锁粒度是什么？","content_id":"2834479","title":"腾讯云后端开发暑期实习一面面经"}
+{"qid":"q-2834011-2","question":"Redis分布式锁setnx加锁后如果进程挂了怎么办（资源一直被锁）","content_id":"2834011","title":"快手 本地生活核心 后端暑期 一面"}
+{"qid":"q-2834003-17","question":"Redis分布式锁怎么用？","content_id":"2834003","title":"腾讯云智后台开发暑期一面"}
+{"qid":"q-2833862-11","question":"你们的分布式锁在Redis里具体是怎么实现的？","content_id":"2833862","title":"xtransfer二面（Java社招）"}
+{"qid":"q-2833623-1","question":"Redis分布式锁的实现原理","content_id":"2833623","title":"恒生电子一面"}
+{"qid":"q-2833170-10","question":"Redis分布式锁如何实现？","content_id":"2833170","title":"百度ai后端开发一面分享-日常实习"}
+{"qid":"q-2832261-7","question":"分布式锁怎么用Redis实现","content_id":"2832261","title":"腾讯金融科技暑期一面凉经（偏基础 + 项目拷打 + 手撕）"}
+{"qid":"q-2831393-12","question":"聊聊你项目里的互斥锁","content_id":"2831393","title":"腾讯 ima 4-8 已挂"}
+{"qid":"q-2831087-1","question":"redis怎么防止误删别人的锁","content_id":"2831087","title":"成都500强外企27届Java全栈实习oc"}
+{"qid":"q-2831096-14","question":"Redis怎么加锁的？","content_id":"2831096","title":"春秋航空-Java开发实习"}
+{"qid":"q-2831067-11","question":"分布式锁的实现方式，解锁时如何保证原子性防止误删？","content_id":"2831067","title":"27暑期携程 AI后端一面"}
+{"qid":"q-2830759-5","question":"分布式锁使用什么锁？具体怎么实现？","content_id":"2830759","title":"字节ai后端开发一面-暑期实习"}
+{"qid":"q-2830419-1","question":"项目中如何防止超卖？锁的底层原理是什么？","content_id":"2830419","title":"字节跳动后端实习一面凉经"}
+{"qid":"q-2830319-7","question":"分布式锁怎么做，除了NX锁以外还有哪些实现方式？","content_id":"2830319","title":"携程ai后端暑期实习一面-攒人品中"}
+{"qid":"q-2830297-12","question":"Redis如何实现分布式锁？","content_id":"2830297","title":"网易互娱 暑期实习 ai后端一面分享"}
+{"qid":"q-2830297-13","question":"SET NX实际场景有哪些？","content_id":"2830297","title":"网易互娱 暑期实习 ai后端一面分享"}
+{"qid":"q-2829529-10","question":"Redis分布式锁的实现方式有哪些？","content_id":"2829529","title":"百度ai后端开发日常实习一面 55min"}
+{"qid":"q-2845451-7","question":"分布式锁（用setnx命令实现）的底层实现原理是什么？","content_id":"2845451","title":"暑期实习 京东后端Agent开发一面面经"}
+{"qid":"q-2844801-8","question":"Redis分布式锁的基本实现","content_id":"2844801","title":"27实习腾讯后端AI开发一面 70min"}
+{"qid":"q-2844015-12","question":"Redis分布式锁的实现原理是什么？","content_id":"2844015","title":"27实习AI后端开发一面-百度"}
+{"qid":"q-2843870-1","question":"Redis分布式锁的应用场景有哪些？","content_id":"2843870","title":"字节27实习后端ai开发二面分享"}
+{"qid":"q-2843870-2","question":"Redis分布式锁的工作流程是怎样的？","content_id":"2843870","title":"字节27实习后端ai开发二面分享"}
+{"qid":"q-2843741-4","question":"Redis分布式锁底层原理","content_id":"2843741","title":"字节后端ai开发实习二面 1h"}
+{"qid":"q-2843228-26","question":"分布式锁怎么用？","content_id":"2843228","title":"米哈游服务器一面"}
+{"qid":"q-2842935-4","question":"分布式锁是怎么实现的？","content_id":"2842935","title":"Tiktok后端ai开发一面面经 1h"}
+{"qid":"q-2842831-3","question":"如何用Redis实现分布式锁？","content_id":"2842831","title":"27实习面经-蚂蚁后端ai开发一面"}
+{"qid":"q-2842831-4","question":"为什么必须用lua，不用lua会有什么问题？","content_id":"2842831","title":"27实习面经-蚂蚁后端ai开发一面"}
+{"qid":"q-2841420-4","question":"Redis实现分布式锁有哪些方式？","content_id":"2841420","title":"社招Java 华盛通一面"}
+{"qid":"q-2840760-3","question":"如何用Redis实现分布式锁？","content_id":"2840760","title":"27蚂蚁实习 AI后端开发一面凉经"}
+{"qid":"q-2840760-4","question":"为什么必须用Lua脚本来实现Redis分布式锁？不用Lua会有什么问题？","content_id":"2840760","title":"27蚂蚁实习 AI后端开发一面凉经"}
+{"qid":"q-2840568-3","question":"Redis分布式锁的实现原理","content_id":"2840568","title":"TikTok 国际电商后端一面"}
+{"qid":"q-2829242-18","question":"Redis分布式锁有哪几种类型？","content_id":"2829242","title":"27届成都Java实习百人厂面经"}
+{"qid":"q-2828540-5","question":"如何利用MD5配合分布式锁做内容级别去重的？","content_id":"2828540","title":"快手java后端一面(oc版😼)"}
+{"qid":"q-2826550-10","question":"Redis的分布式锁如何实现？SETNX的value可以随便传吗？有什么要求？","content_id":"2826550","title":"日常实习-百度AI后台开发二面分享"}
+{"qid":"q-2818409-12","question":"如何使用分布式锁？","content_id":"2818409","title":"腾讯 go 后端开发二面（透心凉）"}

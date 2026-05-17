@@ -1,0 +1,54 @@
+{"qid":"q-857245232822251520-0","question":"说说TCP四次挥手的完整过程，每个阶段的状态是什么？","content_id":"857245232822251520","title":"顺丰C++ 开发一面 面经"}
+{"qid":"q-857245232822251520-1","question":"主动关闭连接的一方会进入什么状态？这个状态会持续多久？为什么要这样设计？","content_id":"857245232822251520","title":"顺丰C++ 开发一面 面经"}
+{"qid":"q-2781460-7","question":"Linux上出现大量TIME_WAIT状态如何排查？","content_id":"2781460","title":"9.腾讯PCG后端实习一面挂"}
+{"qid":"q-2779928-4","question":"服务器中有大量TIME_WAIT状态是怎么引起的，如何解决","content_id":"2779928","title":"Shopee后端开发一面-实习面经"}
+{"qid":"q-2778471-4","question":"TCP四次挥手的过程是怎样的？","content_id":"2778471","title":"腾讯后端实习二面 27实习"}
+{"qid":"q-2778471-5","question":"TCP的CLOSE_WAIT状态是什么？","content_id":"2778471","title":"腾讯后端实习二面 27实习"}
+{"qid":"q-2778471-6","question":"TCP的TIME_WAIT状态是什么？","content_id":"2778471","title":"腾讯后端实习二面 27实习"}
+{"qid":"q-2739684-6","question":"TCP四次挥手过程，为什么需要等待2MSL？","content_id":"2739684","title":"金山wps服务端一面"}
+{"qid":"q-2734965-8","question":"四次挥手中，客户端为什么需要TIME_WAIT状态？","content_id":"2734965","title":"tplink 后端一面"}
+{"qid":"q-2686860-9","question":"TCP四次挥手的过程是怎样的","content_id":"2686860","title":"腾讯后端一面凉经"}
+{"qid":"q-2686860-10","question":"TIME_WAIT为什么要等待2MSL","content_id":"2686860","title":"腾讯后端一面凉经"}
+{"qid":"q-2674944-16","question":"TCP四次挥手中TIME_WAIT出现的时机及原因是什么？","content_id":"2674944","title":"虾皮秋招一面"}
+{"qid":"q-2671310-5","question":"close_wait和time_wait状态过多有什么影响？哪个危害更大？","content_id":"2671310","title":"美团后端秋招一面"}
+{"qid":"q-2672446-0","question":"TCP的CLOSE_WAIT阶段是什么？为什么会出现大量CLOSE_WAIT？如何排查？","content_id":"2672446","title":"秋招记录14——美团后端一面"}
+{"qid":"q-2672446-1","question":"TCP的TIME_WAIT阶段是什么？为什么会有大量客户端处于TIME_WAIT？如何排查、解决？有哪些危害？","content_id":"2672446","title":"秋招记录14——美团后端一面"}
+{"qid":"q-2667196-8","question":"请描述TCP四次挥手的过程","content_id":"2667196","title":"快手一面凉经"}
+{"qid":"q-2619211-10","question":"为何断开连接需要四次挥手，三次不行？","content_id":"2619211","title":"腾讯ieg后端面经"}
+{"qid":"q-2619211-11","question":"TCP挥手过程中网络突然中断如何处理？","content_id":"2619211","title":"腾讯ieg后端面经"}
+{"qid":"q-2617201-11","question":"TCP四次挥手的具体过程","content_id":"2617201","title":"字节跳动后端一面（已过）"}
+{"qid":"q-2613716-18","question":"客户端宕机后服务端如何判断断开连接","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2613716-19","question":"TCP协议如何判断是否与客户端断开连接","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2599670-7","question":"服务器出现大量的time_wait的原因及解决方法","content_id":"2599670","title":"字节日常实习后端三面"}
+{"qid":"q-2592748-35","question":"讲一下四次挥手","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2592748-36","question":"可不可以不要第四次挥手？为什么要等待2MSL？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2557328-3","question":"为什么 TCP 连接释放需要四次挥手？","content_id":"2557328","title":"字节广告业务后端一面"}
+{"qid":"q-2554077-6","question":"TCP为什么需要四次挥手？","content_id":"2554077","title":"字节后端实习面经+TL"}
+{"qid":"q-2546652-10","question":"TCP四次挥手的过程","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
+{"qid":"q-2534920-10","question":"为什么TIME_WAIT需要等待2MSL（2RTT）","content_id":"2534920","title":"腾讯一二面泡池子（已 offer）"}
+{"qid":"q-2523761-1","question":"TCP 四次挥手的过程","content_id":"2523761","title":"饿了么面经"}
+{"qid":"q-2817544-7","question":"讲讲四次挥手和TIME_WAIT的作用","content_id":"2817544","title":"腾讯音乐商业化26春招后端一面"}
+{"qid":"q-864165388366467072-5","question":"TCP TIME_WAIT状态为什么要等2MSL","content_id":"864165388366467072","title":"字节后端二面，比一面难多了"}
+{"qid":"q-2813279-8","question":"TCP四次挥手为什么需要四次","content_id":"2813279","title":"好未来二面（oc）"}
+{"qid":"q-2813279-9","question":"TIME_WAIT过多的解决办法","content_id":"2813279","title":"好未来二面（oc）"}
+{"qid":"q-2810643-14","question":"为什么要有 TIME_WAIT 状态？","content_id":"2810643","title":"面试面到了童年回忆"}
+{"qid":"q-2810643-15","question":"TIME_WAIT 太多会有什么问题，怎么解决？","content_id":"2810643","title":"面试面到了童年回忆"}
+{"qid":"q-2807176-1","question":"TCP四次挥手的过程","content_id":"2807176","title":"腾讯暑期提前批后台一面"}
+{"qid":"q-2805596-8","question":"TCP四次挥手过程","content_id":"2805596","title":"27届小米java后端日常实习二面"}
+{"qid":"q-2839224-5","question":"TIME_WAIT 状态出现在哪里？有什么作用？为什么是 2MSL？","content_id":"2839224","title":"思谋一面（全栈）"}
+{"qid":"q-2836405-2","question":"描述一下TIME_WAIT状态，它出现在tcp链接的哪个位置","content_id":"2836405","title":"美团暑期一面（凉）"}
+{"qid":"q-2836559-13","question":"断开连接中，这种“一方断开，另一方还在发送数据”的状态叫什么专有名词？","content_id":"2836559","title":"科大讯飞 - Java开发暑期实习 一面面经（攒人品ing）"}
+{"qid":"q-2835128-6","question":"请描述一下 TCP 四次挥手的流程。","content_id":"2835128","title":"腾讯ieg 游戏后台开发实习 一面"}
+{"qid":"q-2834479-11","question":"断开连接时，某些情况下可以三次挥手吗？","content_id":"2834479","title":"腾讯云后端开发暑期实习一面面经"}
+{"qid":"q-2834484-8","question":"TCP四次挥手的过程是什么？","content_id":"2834484","title":"腾讯后台开发一面-腾讯云-技术与产品服务"}
+{"qid":"q-2830768-1","question":"TCP 协议四次挥手后是直接断开吗？要等待多久？","content_id":"2830768","title":"前端开发的后端面经：字节跳动后端开发一面"}
+{"qid":"q-2829764-5","question":"TCP 四次挥手的过程？","content_id":"2829764","title":"百度 - 后端 - 一面"}
+{"qid":"q-2845382-4","question":"TCP四次挥手的过程和目的？","content_id":"2845382","title":"27实习面经-腾讯后端AI开发一面 1h"}
+{"qid":"q-2845382-5","question":"TIME_WAIT发生在什么时候？TIME_WAIT过多的情况如何优化？","content_id":"2845382","title":"27实习面经-腾讯后端AI开发一面 1h"}
+{"qid":"q-2842044-1","question":"请讲解TCP四次挥手过程及TIME_WAIT状态的意义","content_id":"2842044","title":"腾讯视频暑期后端二面"}
+{"qid":"q-2842865-6","question":"TCP挥手只有三次会怎样？","content_id":"2842865","title":"滴滴平台后端ai开发一面-实习面经"}
+{"qid":"q-2840724-6","question":"TCP挥手只有三次会怎样？","content_id":"2840724","title":"滴滴秋储golang平台一二面经"}
+{"qid":"q-2832975-19","question":"两台主机通过tcp连接了，假如这时候网线断了会发生什么","content_id":"2832975","title":"腾讯暑期ai后台开发一面 攒人品中"}
+{"qid":"q-2843305-15","question":"两台主机通过TCP连接后网线断了会发生什么","content_id":"2843305","title":"暑期实习-腾讯ai后端开发一面分享"}
+{"qid":"q-2843325-18","question":"服务器有大量CLOSE_WAIT状态的TCP连接如何排查和处理？","content_id":"2843325","title":"灵感互娱服务端开发实习生"}
+{"qid":"q-2834479-12","question":"为什么客户端在第四次挥手后不直接进入close而要等待？等待时间是多少？为什么？","content_id":"2834479","title":"腾讯云后端开发暑期实习一面面经"}

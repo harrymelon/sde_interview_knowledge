@@ -21,3 +21,42 @@
 {"qid":"q-2814400-3","question":"点赞功能为何选择Kafka而非RocketMQ，选型考量是什么？","content_id":"2814400","title":"快手-后端开发日常实习-研发效能部(二面)"}
 {"qid":"q-2814388-9","question":"RocketMQ特性","content_id":"2814388","title":"春招Java后端开发 滴滴平台技术一二三面"}
 {"qid":"q-2814388-12","question":"RocketMQ和RabbitMQ的区别及使用场景","content_id":"2814388","title":"春招Java后端开发 滴滴平台技术一二三面"}
+{"qid":"q-863862680451362816-12","question":"RabbitMQ和Kafka的选型对比","content_id":"863862680451362816","title":"社招 北京 Java后端工程师"}
+{"qid":"q-2811975-3","question":"Kafka和RocketMQ的区别及选型","content_id":"2811975","title":"Shopee 后端研发春招"}
+{"qid":"q-2811689-4","question":"其他MQ的选型考虑，分布式事务问题怎么解决","content_id":"2811689","title":"虾皮SSC后端一面面经"}
+{"qid":"q-2809612-23","question":"Kafka和RocketMQ的区别是什么？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2807404-8","question":"RabbitMQ和Kafka有什么异同？","content_id":"2807404","title":"字节后端实习一面"}
+{"qid":"q-861385090713071616-6","question":"Kafka相比RabbitMQ有哪些缺点？","content_id":"861385090713071616","title":"2025-11-05 KK集团一二面"}
+{"qid":"q-2804918-1","question":"为什么使用Kafka而不使用RocketMQ？它们之间有什么区别？","content_id":"2804918","title":"字节后端一面"}
+{"qid":"q-2840142-1","question":"你们为什么用 Kafka，为什么不用 RabbitMQ 或其他更轻量的 MQ？Kafka 和 RabbitMQ 的最大区别是什么？","content_id":"2840142","title":"蔚来日常实习  面经"}
+{"qid":"q-2840069-6","question":"为什么用RocketMQ？有没有了解过别的消息队列？怎么做的选型？","content_id":"2840069","title":"腾讯视频暑期后端一面3.19"}
+{"qid":"q-2840069-7","question":"RocketMQ和Kafka的区别是什么？","content_id":"2840069","title":"腾讯视频暑期后端一面3.19"}
+{"qid":"q-2839622-4","question":"为什么用RabbitMQ？了解其他MQ吗","content_id":"2839622","title":"小红书对象存储一面"}
+{"qid":"q-2838388-0","question":"为什么选择Redis而非RocketMQ作为消息队列？","content_id":"2838388","title":"小米日常实习后端AI开发一面分享"}
+{"qid":"q-2838388-1","question":"Redis和RocketMQ作为消息队列的区别是什么？如何解决Redis消息丢失问题？","content_id":"2838388","title":"小米日常实习后端AI开发一面分享"}
+{"qid":"q-2837964-10","question":"了解过 Kafka 和 Rocketmq 这两块吗？","content_id":"2837964","title":"字节27暑期实习后台开发一面 65min"}
+{"qid":"q-2837995-2","question":"为什么使用RabbitMQ和RocketMQ而不是Kafka？Kafka在什么情况下会丢数据？","content_id":"2837995","title":"腾讯AI后台开发二面分享"}
+{"qid":"q-2836255-1","question":"为什么不用kafka","content_id":"2836255","title":"美团暑期 后端ai开发一面凉经分享"}
+{"qid":"q-2835946-6","question":"主流消息中间件的技术原理对比及优缺点","content_id":"2835946","title":"27日常实习 美团ai后端开发一面"}
+{"qid":"q-2835594-5","question":"为什么使用Kafka？","content_id":"2835594","title":"虾皮后端ai开发 暑期实习一面面经"}
+{"qid":"q-2834703-20","question":"为什么 RocketMQ 的吞吐量比 RabbitMQ 更高？","content_id":"2834703","title":"字节一二三面hr面 面经 后端开发"}
+{"qid":"q-2832975-12","question":"和rabbitmq的区别是什么，具体各自用来做什么","content_id":"2832975","title":"腾讯暑期ai后台开发一面 攒人品中"}
+{"qid":"q-2832280-0","question":"为什么选择RabbitMQ而不是其他消息队列？","content_id":"2832280","title":"实在智能Java日常实习一面（35min）"}
+{"qid":"q-2831939-8","question":"项目中是否调研过其他消息队列的选型？","content_id":"2831939","title":"字节二面-后端"}
+{"qid":"q-2831510-6","question":"还知道哪些消息队列中间件？它们之间有什么区别？","content_id":"2831510","title":"快手日常实习 AI后端一面 夯爆了"}
+{"qid":"q-2831393-16","question":"为什么使用RabbitMQ，它有哪些使用场景","content_id":"2831393","title":"腾讯 ima 4-8 已挂"}
+{"qid":"q-2829336-0","question":"主流消息队列有哪些，为什么选择RocketMQ","content_id":"2829336","title":"美团软件开发工程师（后端方向）一面"}
+{"qid":"q-2829336-2","question":"Redis和RocketMQ的共同点和差异是什么","content_id":"2829336","title":"美团软件开发工程师（后端方向）一面"}
+{"qid":"q-2845584-2","question":"Redis Stream、Kafka、RocketMQ各自实现的功能和优劣势对比","content_id":"2845584","title":"正浩创新/EcoFlow java一面凉经"}
+{"qid":"q-2845306-6","question":"消息队列为什么用Kafka？和其他两个对比有什么优势和不足？","content_id":"2845306","title":"27实习pdd后端ai开发一面分享"}
+{"qid":"q-878938775747846144-5","question":"消息队列选型时会考虑哪些因素？","content_id":"878938775747846144","title":"度小满后端一面"}
+{"qid":"q-2843305-8","question":"Kafka和RabbitMQ的区别是什么，各自适用于什么场景","content_id":"2843305","title":"暑期实习-腾讯ai后端开发一面分享"}
+{"qid":"q-2842995-5","question":"你还了解哪些相关的中间件？技术原理上对比一下优缺点和区别？","content_id":"2842995","title":"日常实习- AI后端开发一面-美团"}
+{"qid":"q-2842942-10","question":"了解过 Kafka 和 RocketMQ 吗？它们有什么区别？","content_id":"2842942","title":"字节日常实习后端ai开发一面 攒攒人品"}
+{"qid":"q-2842972-2","question":"为什么使用RabbitMQ和RocketMQ而不使用Kafka？Kafka在什么情况下会丢数据？","content_id":"2842972","title":"27实习面经-腾讯后端AI开发二面"}
+{"qid":"q-2841798-1","question":"为什么选择RabbitMQ而不是其他消息队列组件？","content_id":"2841798","title":"字节一面凉经（后端开发）"}
+{"qid":"q-2841323-2","question":"RabbitMQ选型原因、分片分区与超大流量承载","content_id":"2841323","title":"腾讯游戏后台一面凉经"}
+{"qid":"q-2827213-3","question":"除RocketMQ外，对其他主流消息队列的了解","content_id":"2827213","title":"4.3腾讯后端三面面经（已挂）"}
+{"qid":"q-2827213-4","question":"如何理解MQ选型中的“严谨”？","content_id":"2827213","title":"4.3腾讯后端三面面经（已挂）"}
+{"qid":"q-2824471-20","question":"为什么选择Kafka而不是RocketMQ？两者的选型对比？","content_id":"2824471","title":"3.31飞猪java后端开发一面"}
+{"qid":"q-2821337-11","question":"谈谈对MQ的理解，RabbitMQ与其它MQ的区别，MQ的组成部分。","content_id":"2821337","title":"快手后端-Java开发二面面经"}

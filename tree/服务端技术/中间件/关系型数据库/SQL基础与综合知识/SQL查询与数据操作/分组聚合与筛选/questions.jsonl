@@ -1,0 +1,19 @@
+{"qid":"q-2788893-6","question":"口述简单SQL题：group by和order by的使用","content_id":"2788893","title":"网思科技java后端实习1.18（已oc）base济南"}
+{"qid":"q-2788907-21","question":"如何编写分数筛选的SQL查询？","content_id":"2788907","title":"字节国际化广告后端一面"}
+{"qid":"q-2726924-3","question":"SQL题：统计student表中各个年龄的学生数量","content_id":"2726924","title":"百度后端日常二面（云方向）"}
+{"qid":"q-2726924-4","question":"SQL题：统计同一个年龄学生超过20人的年龄","content_id":"2726924","title":"百度后端日常二面（云方向）"}
+{"qid":"q-2550714-6","question":"SQL查询部门平均工资、人数和部门名称","content_id":"2550714","title":"腾讯 微信支付一面"}
+{"qid":"q-2538940-14","question":"查询一个班级中学生成绩综合降序（SQL 手撕）","content_id":"2538940","title":"京东零售 Java 二面"}
+{"qid":"q-2813874-0","question":"一个成绩表，有学生姓名，课程成绩，课程分数三个列，写一个sql，去对学生总成绩进行排序。请完整复述下你的sql。","content_id":"2813874","title":"药帮忙java二面+hr面 面经"}
+{"qid":"q-2813874-1","question":"sum() 和 count() 的区别是什么？","content_id":"2813874","title":"药帮忙java二面+hr面 面经"}
+{"qid":"q-2815079-6","question":"从成绩表中查出所有选修课程分数都大于80分的学生姓名","content_id":"2815079","title":"字节暑期后端一面"}
+{"qid":"q-2837957-5","question":"写查询指定用户总分的 SQL 语句","content_id":"2837957","title":"京东27暑期后端ai开发一面分享"}
+{"qid":"q-2844574-3","question":"SQL分组后如何筛选计数大于100的记录（HAVING子句）","content_id":"2844574","title":"中电信翼康科技有限公司（济南）一面（Java）"}
+{"qid":"q-2812005-14","question":"查询员工平均年龄大于20岁的部门ID","content_id":"2812005","title":"百度 服务端开发 暑期实习 一面"}
+{"qid":"q-2615510-8","question":"统计分数在75分以上的男生和女生分别有多少人的SQL怎么写","content_id":"2615510","title":"26民本 亚信万联-java实习 面试"}
+{"qid":"q-2615510-9","question":"查询有两科成绩在75分以上的人的SQL怎么写","content_id":"2615510","title":"26民本 亚信万联-java实习 面试"}
+{"qid":"q-2593539-7","question":"SQL题：选出每个年级的最高分","content_id":"2593539","title":"字节一面（已凉）"}
+{"qid":"q-2555051-6","question":"编写 SQL 查询重复 email","content_id":"2555051","title":"PDD 一面"}
+{"qid":"q-2805351-10","question":"查询用户表中号码数量大于2的用户的SQL写法","content_id":"2805351","title":"广州小厂爱奇创新后端面经"}
+{"qid":"q-2455672-2","question":"SQL分组查询的写法","content_id":"2455672","title":"美团 后端开发 日常实习一面面经"}
+{"qid":"q-2834623-19","question":"有一张含姓名和分数的表，查询分数最高的学生姓名","content_id":"2834623","title":"京东健康后端"}

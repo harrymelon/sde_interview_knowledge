@@ -8,3 +8,9 @@
 {"qid":"q-2572890-13","question":"Netty和Tomcat中用的是BIO还是NIO？线程池的配置是什么？","content_id":"2572890","title":"腾讯S3后端开发一面凉经"}
 {"qid":"q-2475594-1","question":"同步与异步的概念与区别是什么？","content_id":"2475594","title":"烽火通信"}
 {"qid":"q-2817751-10","question":"阻塞IO和非阻塞IO？","content_id":"2817751","title":"B站大会员后端开发一面"}
+{"qid":"q-2812231-23","question":"同步I/O和异步I/O的概念怎么理解？","content_id":"2812231","title":"字节后端-推荐架构面经 已offer"}
+{"qid":"q-2812231-24","question":"异步I/O是在用户态执行还是系统态（内核）执行？谁来负责通知结果？","content_id":"2812231","title":"字节后端-推荐架构面经 已offer"}
+{"qid":"q-2811519-12","question":"I/O都有哪几种方法？","content_id":"2811519","title":"航旅纵横一面"}
+{"qid":"q-2837063-11","question":"网络 IO 线程模型 (BIO/NIO/AIO 及多线程原因)","content_id":"2837063","title":"滴滴后端一面二面 面经"}
+{"qid":"q-872231782303686656-0","question":"阻塞和非阻塞有什么区别","content_id":"872231782303686656","title":"拼多多 客户端开发-C++ 一面(暑期)"}
+{"qid":"q-2843228-14","question":"socket的阻塞和非阻塞是什么？","content_id":"2843228","title":"米哈游服务器一面"}

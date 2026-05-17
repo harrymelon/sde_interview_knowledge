@@ -1,0 +1,7 @@
+{"qid":"q-854766261299900416-12","question":"Redis里面有事务吗？Redis里面想要执行多条指令用什么？","content_id":"854766261299900416","title":"他山科技一面"}
+{"qid":"q-2838996-17","question":"Redis的pipeline和事务有什么区别？","content_id":"2838996","title":"云智后台开发一面面经分享"}
+{"qid":"q-2838996-18","question":"Redis事务（EXEC）能保证原子性吗？有什么局限性？如果要保证原子性怎么做？在EXEC执行前客户端连接断开了会发生什么？事务中的命令是顺序执行的吗？能否被中断？","content_id":"2838996","title":"云智后台开发一面面经分享"}
+{"qid":"q-2831567-3","question":"Redis管道pipeline的作用和原理是什么？","content_id":"2831567","title":"4.10虾皮后端实习一面"}
+{"qid":"q-2805971-22","question":"项目中Redis Pipeline批量操作与MGET/MSET批量操作的区别","content_id":"2805971","title":"小黑盒（一面）"}
+{"qid":"q-2613716-33","question":"Redis的管道机制","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2613716-34","question":"管道机制在其他系统中的应用","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}

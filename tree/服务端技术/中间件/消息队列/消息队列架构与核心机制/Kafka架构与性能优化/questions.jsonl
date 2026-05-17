@@ -9,3 +9,25 @@
 {"qid":"q-2652059-10","question":"Kafka的刷盘机制如何实现？","content_id":"2652059","title":"飞猪暑期实习一面"}
 {"qid":"q-2579528-7","question":"Kafka本地磁盘存储耗尽了怎么办？","content_id":"2579528","title":"万物心选二面（40min）"}
 {"qid":"q-2817398-3","question":"Kafka 部署时如何搭建生产环境和消费环境？具体的集群架构或部署方式是什么？","content_id":"2817398","title":"大北农集团 Java 一面"}
+{"qid":"q-2814008-1","question":"Kafka的底层细节，如何在项目中工作的，topic是什么，项目里有几个？","content_id":"2814008","title":"英科再生 java岗面经"}
+{"qid":"q-864175073098289152-1","question":"Kafka中高水位( HW )与日志末端偏移量( LEO )的关系？","content_id":"864175073098289152","title":"25年12月小红书Java开发工程师 二面"}
+{"qid":"q-862395801836720128-8","question":"Kafka如何保持高流量和高可用？","content_id":"862395801836720128","title":"腾讯后台开发一面"}
+{"qid":"q-861385090713071616-5","question":"Kafka为什么这么快？","content_id":"861385090713071616","title":"2025-11-05 KK集团一二面"}
+{"qid":"q-2804918-2","question":"请解释Kafka的实现原理，某个字段值的含义及代表的情况，生产者是同步还是异步？","content_id":"2804918","title":"字节后端一面"}
+{"qid":"q-2838038-10","question":"Kafka如何保持高流量，高可用","content_id":"2838038","title":"腾讯AI后台开发27实习一面分享"}
+{"qid":"q-874424595946749952-11","question":"kafka topic/partition/broker 的关系","content_id":"874424595946749952","title":"杭州小厂后端一面"}
+{"qid":"q-874424595946749952-12","question":"partition 是逻辑还是物理分区","content_id":"874424595946749952","title":"杭州小厂后端一面"}
+{"qid":"q-874423358480252928-1","question":"Kafka 为什么吞吐量大？","content_id":"874423358480252928","title":"字节跳动后端一面"}
+{"qid":"q-873660050688991232-7","question":"介绍下Kafka消息队列的原理？","content_id":"873660050688991232","title":"27届-暑期实习-腾讯-数据计算平台-一面"}
+{"qid":"q-2834561-28","question":"Kafka高性能的原因","content_id":"2834561","title":"字节暑期后端面经（一共五轮技术面人傻了）"}
+{"qid":"q-873246417131692032-10","question":"Kafka相关","content_id":"873246417131692032","title":"中航信移动科技股份有限公司 java开发 已OC"}
+{"qid":"q-2833737-4","question":"Kafka高吞吐的原因是什么？","content_id":"2833737","title":"美团暑期后端一面（已挂）"}
+{"qid":"q-2832975-11","question":"kafka如何实现高吞吐量","content_id":"2832975","title":"腾讯暑期ai后台开发一面 攒人品中"}
+{"qid":"q-2832278-13","question":"Kafka offset了解吗？","content_id":"2832278","title":"腾讯后台开发暑期实习 PCG技术线-应用效能技术方向 一面凉经"}
+{"qid":"q-2829786-11","question":"Kafka 为什么高吞吐？","content_id":"2829786","title":"字节后端实习agent一面分享"}
+{"qid":"q-2843305-7","question":"Kafka如何实现高吞吐量","content_id":"2843305","title":"暑期实习-腾讯ai后端开发一面分享"}
+{"qid":"q-2840552-13","question":"Kafka的ISR机制和Raft等算法的区别","content_id":"2840552","title":"4.20 美团金融服务后端 一面"}
+{"qid":"q-2826146-1","question":"Kafka的多Partition机制是什么？","content_id":"2826146","title":"字节后端一面"}
+{"qid":"q-2826146-4","question":"Kafka如何让所有消费者都消费同一条消息？","content_id":"2826146","title":"字节后端一面"}
+{"qid":"q-2824471-21","question":"Kafka底层大概有哪些组件？","content_id":"2824471","title":"3.31飞猪java后端开发一面"}
+{"qid":"q-2818409-18","question":"Kafka 节点数、分区数、消费者节点数如何配置？项目有几个服务？","content_id":"2818409","title":"腾讯 go 后端开发二面（透心凉）"}

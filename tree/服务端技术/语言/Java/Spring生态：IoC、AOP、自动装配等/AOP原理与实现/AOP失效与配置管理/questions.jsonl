@@ -1,0 +1,11 @@
+{"qid":"q-2794758-4","question":"Spring中IOC和AOP的理解，AOP什么时候失效，以及两种动态代理模式的详细说明","content_id":"2794758","title":"tts ai后端实习生一面"}
+{"qid":"q-2788907-12","question":"AOP在什么情况下会失效？","content_id":"2788907","title":"字节国际化广告后端一面"}
+{"qid":"q-2788907-13","question":"如果两个方法A和B都在AOP范围内，直接用A调用B，AOP会失效吗？","content_id":"2788907","title":"字节国际化广告后端一面"}
+{"qid":"q-2780728-5","question":"Spring AOP原理：同一个Service中方法b调用带@Log注解的方法a，调用b时是否会有日志输出？为什么？","content_id":"2780728","title":"蔚来后台开发 凉经"}
+{"qid":"q-2735988-9","question":"Spring AOP 的两种动态代理实现是什么？它们会导致哪些 @Transactional 注解失效问题？","content_id":"2735988","title":"11.5古茗java一面 30min"}
+{"qid":"q-2829242-5","question":"如果自定义注解失效了，可能是什么原因？","content_id":"2829242","title":"27届成都Java实习百人厂面经"}
+{"qid":"q-858066489113313280-2","question":"多个切面如何控制执行顺序？","content_id":"858066489113313280","title":"2512，广州乐趣无限-Java游戏后端"}
+{"qid":"q-858066489113313280-3","question":"切面能否按环境或配置开关控制？","content_id":"858066489113313280","title":"2512，广州乐趣无限-Java游戏后端"}
+{"qid":"q-2506490-8","question":"拦截器和AOP的相似之处是什么？","content_id":"2506490","title":"中国电子云-后端日常实习"}
+{"qid":"q-2808884-8","question":"Spring AOP使用的哪种设计模式及代理方式？在哪些场景下会使用Spring AOP，以及使用时应注意哪些问题？","content_id":"2808884","title":"2026年03月06日 10点59分唯品会校招java一面"}
+{"qid":"q-878569217430253568-5","question":"AOP是什么？切面代码报错是否会影响核心业务流程？如何处理？","content_id":"878569217430253568","title":"同程旅行java二面"}

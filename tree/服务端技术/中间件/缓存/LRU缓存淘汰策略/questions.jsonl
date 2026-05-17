@@ -14,3 +14,33 @@
 {"qid":"q-2815369-3","question":"手写LRU缓存淘汰算法","content_id":"2815369","title":"字节跳动 后台开发 三面"}
 {"qid":"q-2815245-0","question":"实现一个LRU缓存","content_id":"2815245","title":"滴滴一面（Java社招）"}
 {"qid":"q-864227419266228224-1","question":"手撕LRU缓存","content_id":"864227419266228224","title":"转码选手的寻找暑期实习之路（6）-携程Java研发工程师一面"}
+{"qid":"q-2812181-3","question":"缓存怎么做淘汰？","content_id":"2812181","title":"26.3.17 腾讯QQ游戏中心二面"}
+{"qid":"q-2809853-16","question":"手写LRU缓存","content_id":"2809853","title":"字节- AML大模型后端开发-一二面"}
+{"qid":"q-2807176-7","question":"实现LRU缓存淘汰算法","content_id":"2807176","title":"腾讯暑期提前批后台一面"}
+{"qid":"q-2807111-8","question":"手撕带TTL的LRU算法","content_id":"2807111","title":"字节后端日常实习二面"}
+{"qid":"q-2839622-3","question":"LRU2如果缓存满了怎么办","content_id":"2839622","title":"小红书对象存储一面"}
+{"qid":"q-2839531-1","question":"如何实现线程安全的LRU缓存","content_id":"2839531","title":"27暑期拼多多后端ai开发一面"}
+{"qid":"q-2838534-4","question":"手撕LRU缓存淘汰算法","content_id":"2838534","title":"腾讯-pcg-应用效能后端开发timeline"}
+{"qid":"q-2837964-12","question":"手撕：LRU","content_id":"2837964","title":"字节27暑期实习后台开发一面 65min"}
+{"qid":"q-2837246-1","question":"介绍LRU-K缓存淘汰算法","content_id":"2837246","title":"影石移动端c++一面"}
+{"qid":"q-2836072-12","question":"LRU 缓存淘汰算法的原理和实现是怎样的？","content_id":"2836072","title":"腾讯云go后端一面"}
+{"qid":"q-2834560-51","question":"STL如何实现LRU","content_id":"2834560","title":"三战暑期腾讯后台面经"}
+{"qid":"q-2834479-14","question":"手撕LRU缓存","content_id":"2834479","title":"腾讯云后端开发暑期实习一面面经"}
+{"qid":"q-2834012-3","question":"LRU缓存淘汰算法","content_id":"2834012","title":"快手 本地生活核心 后端暑期 二面"}
+{"qid":"q-2833737-17","question":"LRU在操作系统里是如何实现的？","content_id":"2833737","title":"美团暑期后端一面（已挂）"}
+{"qid":"q-2833570-6","question":"内存淘汰算法（LRU、LFU）的原理","content_id":"2833570","title":"多益网络 游戏服务端开发工程师 一面"}
+{"qid":"q-872181143913648128-9","question":"手撕代码：实现LRU缓存（双向链表+HashMap）","content_id":"872181143913648128","title":"腾讯QQ后台开发Java一面 凉经"}
+{"qid":"q-872181143913648128-10","question":"LRU中删除最老节点时，HashMap中对应的映射也需要删除，如何避免遗漏？","content_id":"872181143913648128","title":"腾讯QQ后台开发Java一面 凉经"}
+{"qid":"q-2831148-3","question":"手写LRU缓存，要求O(1)读写（手写实现，不使用LinkedHashMap库）。","content_id":"2831148","title":"拼多多后端一面，比字节还难"}
+{"qid":"q-2831303-0","question":"Guava Cache 和 Caffeine 分别使用了什么缓存淘汰算法","content_id":"2831303","title":"字节后端开发一面热经"}
+{"qid":"q-871812235104944128-3","question":"手写LRU缓存，要求O(1)读写，不用库实现。","content_id":"871812235104944128","title":"拼多多后端一面，比字节还难"}
+{"qid":"q-2830419-3","question":"手撕LRU缓存（思路：链表）","content_id":"2830419","title":"字节跳动后端实习一面凉经"}
+{"qid":"q-2829786-17","question":"LRU 缓存","content_id":"2829786","title":"字节后端实习agent一面分享"}
+{"qid":"q-2829764-9","question":"LRU 缓存","content_id":"2829764","title":"百度 - 后端 - 一面"}
+{"qid":"q-2843968-1","question":"手撕LRU缓存淘汰策略","content_id":"2843968","title":"百度后端一面"}
+{"qid":"q-2842942-12","question":"手撕 LRU 缓存。","content_id":"2842942","title":"字节日常实习后端ai开发一面 攒攒人品"}
+{"qid":"q-2841121-18","question":"实现 O(1) 时间复杂度的 LRU 缓存","content_id":"2841121","title":"腾讯视频 后端开发 面经"}
+{"qid":"q-2840744-18","question":"实现一个LRU，用什么数据结构","content_id":"2840744","title":"腾讯ai后台开发一面面经分享 1h"}
+{"qid":"q-2840552-12","question":"手撕LRU缓存","content_id":"2840552","title":"4.20 美团金融服务后端 一面"}
+{"qid":"q-2826550-0","question":"LRU缓存如何实现？","content_id":"2826550","title":"日常实习-百度AI后台开发二面分享"}
+{"qid":"q-2822083-0","question":"手写LRU缓存淘汰算法","content_id":"2822083","title":"27届暑期后端腾讯cdg一面 90min  一周后挂"}

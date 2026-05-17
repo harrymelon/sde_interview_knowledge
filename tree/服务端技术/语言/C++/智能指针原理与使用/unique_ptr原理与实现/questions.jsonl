@@ -1,0 +1,9 @@
+{"qid":"q-858425164415922176-0","question":"std::unique_ptr自定义删除器的用法和场景是什么？","content_id":"858425164415922176","title":"安恒信息 C++开发 一面"}
+{"qid":"q-856986375638220800-7","question":"std::make_unique安全创建unique_ptr的好处","content_id":"856986375638220800","title":"三七互娱 游戏开发-C++ 二面"}
+{"qid":"q-2781693-3","question":"项目中为什么使用unique_ptr而不是shared_ptr？","content_id":"2781693","title":"01.14 经纬恒润c++开发一面凉经"}
+{"qid":"q-2501211-0","question":"unique_ptr是怎么实现的？","content_id":"2501211","title":"B站C++渲染引擎一面"}
+{"qid":"q-2815905-5","question":"unique_ptr怎么实现所有权转移的？","content_id":"2815905","title":"滴滴c++后端一面凉经"}
+{"qid":"q-863584541888344064-0","question":"C++中智能指针有哪些类型？重点说一下unique_ptr和shared_ptr的区别","content_id":"863584541888344064","title":"佳期投资 C++开发 一面"}
+{"qid":"q-2810717-8","question":"unique_ptr的原理是什么","content_id":"2810717","title":"攒人品-杭州科工电子-C++面经"}
+{"qid":"q-2836497-3","question":"结构体中包含unique_ptr和shared_ptr成员，将其放入vector会有什么问题？","content_id":"2836497","title":"道亨软件 面试"}
+{"qid":"q-874292865545822208-0","question":"智能指针（unique_ptr, shared_ptr）原理与区别是什么？","content_id":"874292865545822208","title":"我总结了20+ C++大厂面试题拿了10+ offer"}

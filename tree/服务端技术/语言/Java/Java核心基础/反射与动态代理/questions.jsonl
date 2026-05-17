@@ -18,3 +18,5 @@
 {"qid":"q-2538940-9","question":"实际开发中，哪些地方用到了反射？","content_id":"2538940","title":"京东零售 Java 二面"}
 {"qid":"q-2559940-12","question":"CGLIB和JDK动态代理的区别","content_id":"2559940","title":"蓝色外卖软件一面，1h无手撕，嘴都说冒烟了（一周后约了二面）"}
 {"qid":"q-2523761-8","question":"Java 元注解有哪些？","content_id":"2523761","title":"饿了么面经"}
+{"qid":"q-2839629-9","question":"反射是什么，你是怎么使用的","content_id":"2839629","title":"字节后端飞书低代码平台一面"}
+{"qid":"q-2824134-5","question":"讲一下Java中哪些语句用到了反射，反射的原理是什么？","content_id":"2824134","title":"山东胜软科技Java后端二面（25min）"}

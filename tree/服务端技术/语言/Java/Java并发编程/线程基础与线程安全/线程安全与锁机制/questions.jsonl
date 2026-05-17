@@ -1,0 +1,23 @@
+{"qid":"q-2650231-7","question":"如何保证Java线程安全？","content_id":"2650231","title":"浪潮提前批java一面"}
+{"qid":"q-2625808-14","question":"Java有哪些控制资源竞争的方法","content_id":"2625808","title":"省流版阿里后台开发面经"}
+{"qid":"q-2583709-11","question":"Java怎么保证并发安全？（synchronized、lock、原子类等）","content_id":"2583709","title":"饿了么暑期后端一面（约2面）"}
+{"qid":"q-2572994-3","question":"并发安全相关的几个问题，包括锁、JMM等。","content_id":"2572994","title":"4.1蚂蚁国际暑期一面"}
+{"qid":"q-2536703-4","question":"什么是线程安全","content_id":"2536703","title":"中国移动卓望公司 Java开发 二面"}
+{"qid":"q-2536703-5","question":"线程安全的三个要素","content_id":"2536703","title":"中国移动卓望公司 Java开发 二面"}
+{"qid":"q-2535115-9","question":"一个整数变量，两个线程同时进行+1操作，会有哪些结果，为什么","content_id":"2535115","title":"腾讯实习基地一面凉经"}
+{"qid":"q-2530782-0","question":"短链接更新时如何保证线程安全？","content_id":"2530782","title":"快看漫画-Java后端开发实习生OC"}
+{"qid":"q-2466261-18","question":"并发问题是怎么产生的？","content_id":"2466261","title":"小米-java-日常实习面经"}
+{"qid":"q-2809433-1","question":"什么是线程安全？如何确保线程安全？","content_id":"2809433","title":"CVTE线下面经"}
+{"qid":"q-2839211-1","question":"如何判断写的链表是否是线程安全","content_id":"2839211","title":"TME一面凉经（后端）"}
+{"qid":"q-2838226-17","question":"讲一下如何解决java多线程的并发安全问题？","content_id":"2838226","title":"字节飞书golang一面"}
+{"qid":"q-2838226-18","question":"如果加锁会影响性能，这样怎么办？如何解决性能问题？","content_id":"2838226","title":"字节飞书golang一面"}
+{"qid":"q-2838226-19","question":"公平换非公平？锁粒度？乐观CAS？读写分离？","content_id":"2838226","title":"字节飞书golang一面"}
+{"qid":"q-2838038-3","question":"Java里面如何实现线程安全的","content_id":"2838038","title":"腾讯AI后台开发27实习一面分享"}
+{"qid":"q-2836197-2","question":"线程安全的解决方案有哪些","content_id":"2836197","title":"字节ai后端开发凉 拼尽全力依然无法战胜"}
+{"qid":"q-2833623-6","question":"Java并发控制的手段（锁、volatile、CAS等）","content_id":"2833623","title":"恒生电子一面"}
+{"qid":"q-2833570-5","question":"什么是线程安全与线程不安全","content_id":"2833570","title":"多益网络 游戏服务端开发工程师 一面"}
+{"qid":"q-2831519-7","question":"请讲一讲线程安全的概念和实现方式","content_id":"2831519","title":"韶音科技——Java（财经）—\u003eIT产品经理管培生面经"}
+{"qid":"q-2830929-7","question":"多线程竞争相关问题","content_id":"2830929","title":"货拉拉实习ai后端开发一面"}
+{"qid":"q-2845575-16","question":"如何判断一段代码是否是线程安全的","content_id":"2845575","title":"蚂蚁agent后端开发一面凉经分享"}
+{"qid":"q-2845575-17","question":"一段代码一定会发生竞争吗","content_id":"2845575","title":"蚂蚁agent后端开发一面凉经分享"}
+{"qid":"q-2845575-18","question":"传入两个int值a和b，return a+b，这段代码是否线程安全","content_id":"2845575","title":"蚂蚁agent后端开发一面凉经分享"}

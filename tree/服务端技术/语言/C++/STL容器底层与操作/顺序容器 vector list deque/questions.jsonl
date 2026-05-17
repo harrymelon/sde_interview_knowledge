@@ -1,0 +1,37 @@
+{"qid":"q-2799530-7","question":"C++ vector容器的底层实现","content_id":"2799530","title":"腾讯，北极光，后端一面"}
+{"qid":"q-2799530-8","question":"C++ list容器的底层实现","content_id":"2799530","title":"腾讯，北极光，后端一面"}
+{"qid":"q-857647941266255872-1","question":"vector 与 list 的区别与使用场景是什么","content_id":"857647941266255872","title":"金山 C++ 一面凉经"}
+{"qid":"q-857647941266255872-2","question":"vector push_back 均摊 O(1) 的原因是什么","content_id":"857647941266255872","title":"金山 C++ 一面凉经"}
+{"qid":"q-857322312889053184-0","question":"vector 与普通数组的区别有哪些？","content_id":"857322312889053184","title":"理想汽车 后端开发-C++ 三面"}
+{"qid":"q-857322312889053184-1","question":"vector 的 push_back 为什么是均摊 O(1)？","content_id":"857322312889053184","title":"理想汽车 后端开发-C++ 三面"}
+{"qid":"q-857322312889053184-2","question":"vector 与 list 的区别及各自适用场景？","content_id":"857322312889053184","title":"理想汽车 后端开发-C++ 三面"}
+{"qid":"q-858418821919408128-0","question":"emplace_back 和 push_back 之间的区别是什么？","content_id":"858418821919408128","title":"网易互娱-游戏研发-C++ 一面"}
+{"qid":"q-858418821919408128-1","question":"emplace_back 是否比 push_back 更高效？","content_id":"858418821919408128","title":"网易互娱-游戏研发-C++ 一面"}
+{"qid":"q-858125562487828480-2","question":"vector 的 push_back 和 emplace_back 有什么区别？","content_id":"858125562487828480","title":"CVTE 软件开发工程师-C++ 一面"}
+{"qid":"q-850812970010456064-0","question":"vector的底层实现原理是什么？","content_id":"850812970010456064","title":"C++ STL容器面试题"}
+{"qid":"q-850812970010456064-1","question":"list和vector的区别是什么？","content_id":"850812970010456064","title":"C++ STL容器面试题"}
+{"qid":"q-2700563-8","question":"手写vector容器的实现。","content_id":"2700563","title":"2025.9.23 美团C++软件一面"}
+{"qid":"q-2680611-17","question":"vector 扩容过程？","content_id":"2680611","title":"影石C++一面"}
+{"qid":"q-2680611-18","question":"vector 扩容时如何判断哪些元素需要移动哪些需要拷贝？","content_id":"2680611","title":"影石C++一面"}
+{"qid":"q-2680611-19","question":"push_back 和 emplace_back 区别？","content_id":"2680611","title":"影石C++一面"}
+{"qid":"q-2518366-1","question":"详细讲一下deque的实现","content_id":"2518366","title":"禾赛C++实习"}
+{"qid":"q-2518366-2","question":"详细讲一下vector的实现","content_id":"2518366","title":"禾赛C++实习"}
+{"qid":"q-2501211-6","question":"STL中使用vector要注意什么","content_id":"2501211","title":"B站C++渲染引擎一面"}
+{"qid":"q-864433149558743040-0","question":"vector和list的区别是什么？各自适合什么场景？","content_id":"864433149558743040","title":"昆仑天工 - C++软件开发 一面"}
+{"qid":"q-2812208-7","question":"vector跟list底层上有什么区别","content_id":"2812208","title":"经纬恒润 C++开发实习一面"}
+{"qid":"q-2812208-8","question":"它们查找、插入、删除的复杂度记得吗","content_id":"2812208","title":"经纬恒润 C++开发实习一面"}
+{"qid":"q-2812208-9","question":"vector在什么情况下更适用","content_id":"2812208","title":"经纬恒润 C++开发实习一面"}
+{"qid":"q-2836567-1","question":"请解释vector的底层原理，包括内存分配、扩容机制等。","content_id":"2836567","title":"柠檬微趣一面凉经"}
+{"qid":"q-2835568-0","question":"vector如何实现扩容？","content_id":"2835568","title":"星辉游戏C++服务端工程师"}
+{"qid":"q-2834526-1","question":"vector的实现逻辑是什么？","content_id":"2834526","title":"恒生电子一面面经分享"}
+{"qid":"q-2845755-0","question":"vector和list底层数据结构是什么？","content_id":"2845755","title":"博世面经"}
+{"qid":"q-2845313-4","question":"Vector容器插入操作的平均时间复杂度","content_id":"2845313","title":"文远知行C++开发（自驾infra）面经"}
+{"qid":"q-2844674-9","question":"vector扩容过程","content_id":"2844674","title":"华为 od 三面"}
+{"qid":"q-878018125772382208-0","question":"C++中vector和list的区别与选择","content_id":"878018125772382208","title":"金山 C++ 软件开发一面复盘：面试重点分析 + 全部面试题整理"}
+{"qid":"q-878018125772382208-1","question":"vector动态数组扩容机制","content_id":"878018125772382208","title":"金山 C++ 软件开发一面复盘：面试重点分析 + 全部面试题整理"}
+{"qid":"q-2843228-9","question":"如果让你设计一个vector，你觉得都应该有哪些接口？","content_id":"2843228","title":"米哈游服务器一面"}
+{"qid":"q-2843228-10","question":"设计vector时可能需要哪些成员变量？","content_id":"2843228","title":"米哈游服务器一面"}
+{"qid":"q-2842898-6","question":"vector的底层原理","content_id":"2842898","title":"27实习面经-滴滴后端ai开发二面"}
+{"qid":"q-2840724-12","question":"vector的迭代器失效情况有哪些？","content_id":"2840724","title":"滴滴秋储golang平台一二面经"}
+{"qid":"q-2840724-13","question":"vector的底层原理是什么？","content_id":"2840724","title":"滴滴秋储golang平台一二面经"}
+{"qid":"q-871416511011840000-0","question":"vector扩容机制是怎样的？","content_id":"871416511011840000","title":"OD面经-Python转C"}

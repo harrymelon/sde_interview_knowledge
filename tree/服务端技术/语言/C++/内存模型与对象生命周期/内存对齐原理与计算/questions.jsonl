@@ -4,3 +4,5 @@
 {"qid":"q-2779967-2","question":"一个类有public和private的两个虚方法以及int、double、char三个变量，该类占多大内存？","content_id":"2779967","title":"腾讯C++后端实习一面"}
 {"qid":"q-2777602-2","question":"什么是内存对齐？为什么需要内存对齐？","content_id":"2777602","title":"快手快star后端校招二面 1h"}
 {"qid":"q-2675377-11","question":"结构体内存对齐的原理是什么？","content_id":"2675377","title":"点点互动-服务端-笔试"}
+{"qid":"q-2834560-36","question":"char*的大小和结构体内存对齐","content_id":"2834560","title":"三战暑期腾讯后台面经"}
+{"qid":"q-872225421591404544-0","question":"内存对齐是什么？计算两个结构体 sizeof 的大小","content_id":"872225421591404544","title":"网易互娱 C++开发实习 一面(暑期)"}

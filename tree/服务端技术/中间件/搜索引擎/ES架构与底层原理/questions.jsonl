@@ -13,3 +13,17 @@
 {"qid":"q-2555732-5","question":"ES查询为什么比MySQL要快？","content_id":"2555732","title":"京东工业后端开发一面凉经"}
 {"qid":"q-2542936-0","question":"ES的底层架构是什么？请描述倒排索引、索引库、文档等组件。","content_id":"2542936","title":"字节财经 二面 压力面 被拷打烂了"}
 {"qid":"q-2816999-1","question":"你对Elasticsearch了解的深度如何？","content_id":"2816999","title":"安恒信息Java开发实习"}
+{"qid":"q-2814008-4","question":"Elasticsearch的底层原理，是怎么搜索的？","content_id":"2814008","title":"英科再生 java岗面经"}
+{"qid":"q-2812561-7","question":"Elasticsearch 的查询构造条件，master 节点和另一个节点的区别","content_id":"2812561","title":"安恒信息Java开发实习"}
+{"qid":"q-2809612-21","question":"ES集群健康状态有哪几种，分别代表什么？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2809612-22","question":"ES设置分片和副本，允许节点宕机数量怎么判断？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2808720-5","question":"Elasticsearch的倒排索引原理是什么？","content_id":"2808720","title":"腾讯后台开发二面"}
+{"qid":"q-2839585-2","question":"你了解ES吗","content_id":"2839585","title":"招银科技暑期实习-后端一面(base 成都)"}
+{"qid":"q-2835594-2","question":"ES的底层数据结构是如何实现的？请介绍一下Elasticsearch。","content_id":"2835594","title":"虾皮后端ai开发 暑期实习一面面经"}
+{"qid":"q-2835594-3","question":"ES的结构是什么样的？","content_id":"2835594","title":"虾皮后端ai开发 暑期实习一面面经"}
+{"qid":"q-2835495-1","question":"ES中存储的数据内容是什么？ES的写入具体过程是怎样的？","content_id":"2835495","title":"字节后端ai开发一面分享 暑期实习"}
+{"qid":"q-873660050688991232-9","question":"ES使用的是什么索引结构了解过吗？","content_id":"873660050688991232","title":"27届-暑期实习-腾讯-数据计算平台-一面"}
+{"qid":"q-873660050688991232-10","question":"有深度使用过ES吗？ES的架构了解吗？","content_id":"873660050688991232","title":"27届-暑期实习-腾讯-数据计算平台-一面"}
+{"qid":"q-2833522-4","question":"ES底层的存储结构是怎样的？","content_id":"2833522","title":"27实习京东后端AI开发一面 攒人品"}
+{"qid":"q-2833522-5","question":"若ES中已存储部分数据，执行更新操作时，ES内部的整个更新流程是怎样的？","content_id":"2833522","title":"27实习京东后端AI开发一面 攒人品"}
+{"qid":"q-2842972-7","question":"ES的倒排索引原理","content_id":"2842972","title":"27实习面经-腾讯后端AI开发二面"}

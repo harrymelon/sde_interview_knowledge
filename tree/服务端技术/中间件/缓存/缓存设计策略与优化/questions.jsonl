@@ -1,0 +1,11 @@
+{"qid":"q-2812175-7","question":"缓存特征优化本质上优化了什么？","content_id":"2812175","title":"26.3.12 腾讯QQ游戏中心一面"}
+{"qid":"q-2812175-8","question":"高中低频分层缓存为什么能解决性能问题？","content_id":"2812175","title":"26.3.12 腾讯QQ游戏中心一面"}
+{"qid":"q-2812175-9","question":"缓存优化方案针对的是更新机制还是读取性能？","content_id":"2812175","title":"26.3.12 腾讯QQ游戏中心一面"}
+{"qid":"q-2812175-10","question":"缓存的过期时间如何设定？","content_id":"2812175","title":"26.3.12 腾讯QQ游戏中心一面"}
+{"qid":"q-2812175-11","question":"缓存如何淘汰？","content_id":"2812175","title":"26.3.12 腾讯QQ游戏中心一面"}
+{"qid":"q-2812175-12","question":"缓存容量限制如何设计？","content_id":"2812175","title":"26.3.12 腾讯QQ游戏中心一面"}
+{"qid":"q-2806894-15","question":"为什么订单反查用本地缓存，而不用 Redis？","content_id":"2806894","title":"转转二面"}
+{"qid":"q-2806894-16","question":"Caffeine 和 Guava Cache 有什么区别？","content_id":"2806894","title":"转转二面"}
+{"qid":"q-2835545-2","question":"直接用Redis+MySQL不行吗？为什么还要用Guava本地缓存？","content_id":"2835545","title":"快手后端日常实习一面"}
+{"qid":"q-873992050780270592-5","question":"如果不用Redis缓存，如何用Java API实现一个有TTL的KV缓存？","content_id":"873992050780270592","title":"杭州观妙科技-java岗面经"}
+{"qid":"q-2830255-2","question":"提到本地缓存，你怎么做本地缓存，具体缓存什么","content_id":"2830255","title":"字节暑期ai后端开发一面 攒人品"}

@@ -8,3 +8,16 @@
 {"qid":"q-2446748-4","question":"Redis的zset底层实现是什么？","content_id":"2446748","title":"数字马力 JAVA 二面"}
 {"qid":"q-2816472-6","question":"Redis有哪些数据类型？Zset的底层数据结构及跳表的原理。","content_id":"2816472","title":"携程 后端开发实习"}
 {"qid":"q-2701287-6","question":"介绍一下Redis的zset","content_id":"2701287","title":"腾讯 QQ 后端开发实习二面"}
+{"qid":"q-2812005-5","question":"排行榜用哪个数据结构","content_id":"2812005","title":"百度 服务端开发 暑期实习 一面"}
+{"qid":"q-2806269-1","question":"Redis ZSet排行榜怎么实现","content_id":"2806269","title":"卓世科技java一面"}
+{"qid":"q-2837959-3","question":"ZSet 数据结构怎么实现点赞排行榜功能？","content_id":"2837959","title":"27暑期 腾讯后端ai开发一面 1h"}
+{"qid":"q-2837696-10","question":"热帖一般怎么实现？","content_id":"2837696","title":"日常实习 字节AI后端开发一面 攒人品中"}
+{"qid":"q-873992050780270592-2","question":"排行榜功能是如何设计的？","content_id":"873992050780270592","title":"杭州观妙科技-java岗面经"}
+{"qid":"q-2835460-9","question":"排行榜 ZSet 是怎么做的？member 和 score 分别存什么？点赞排行榜什么时候更新？每次有点赞都要更新吗？","content_id":"2835460","title":"字节tiktok后端客服平台"}
+{"qid":"q-2835460-10","question":"取消点赞怎么设计？如何保证一人不能多次点赞？","content_id":"2835460","title":"字节tiktok后端客服平台"}
+{"qid":"q-2834082-10","question":"热帖一般怎么实现？","content_id":"2834082","title":"字节日常实习 AI后端开发一面分享"}
+{"qid":"q-2833819-14","question":"使用ZSet进行排名，如果分数一样怎么排名","content_id":"2833819","title":"大二双非双一流后端开发小厂面经"}
+{"qid":"q-2833233-4","question":"如何实现查看最近点赞的人的功能？","content_id":"2833233","title":"腾讯AI后台开发一面面经分享"}
+{"qid":"q-2830536-21","question":"ZSet一般使用场景？","content_id":"2830536","title":"字节一二三hr面 java面经（已off）"}
+{"qid":"q-2843300-8","question":"为什么使用Zset","content_id":"2843300","title":"AI后端开发-美团实习一面 1h"}
+{"qid":"q-2828540-20","question":"查询用户“最近上传的10个视频”，选Redis的哪种数据结构，为什么？","content_id":"2828540","title":"快手java后端一面(oc版😼)"}

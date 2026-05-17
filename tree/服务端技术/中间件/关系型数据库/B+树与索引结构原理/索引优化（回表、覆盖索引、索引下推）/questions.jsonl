@@ -31,3 +31,37 @@
 {"qid":"q-2815111-10","question":"在规避回表的情况下，真实写SQL时应该怎么写？","content_id":"2815111","title":"有赞Java后端一面面经"}
 {"qid":"q-2814992-5","question":"索引覆盖是什么","content_id":"2814992","title":"腾讯实习后端开发一面面经"}
 {"qid":"q-2814392-10","question":"MySQL覆盖索引的概念","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}
+{"qid":"q-2812231-19","question":"什么情况下不需要“回表”查询？","content_id":"2812231","title":"字节后端-推荐架构面经 已offer"}
+{"qid":"q-2811062-2","question":"介绍一下覆盖索引","content_id":"2811062","title":"百度后台开发实习一面"}
+{"qid":"q-2811035-10","question":"什么是回表","content_id":"2811035","title":"药帮忙java一面面经"}
+{"qid":"q-2811035-11","question":"主键索引查询是否会走全表扫描","content_id":"2811035","title":"药帮忙java一面面经"}
+{"qid":"q-2810748-1","question":"MySQL 索引结构，覆盖索引的原理","content_id":"2810748","title":"JDY已oc，附timeline和面经"}
+{"qid":"q-2810560-4","question":"为什么回表查询慢？","content_id":"2810560","title":"27届java实习成都某百人厂"}
+{"qid":"q-862335021128978432-1","question":"MySQL 索引下推（ICP）的核心作用是什么？","content_id":"862335021128978432","title":"星云联动 Java开发 二面"}
+{"qid":"q-2808720-14","question":"什么是覆盖索引？","content_id":"2808720","title":"腾讯后台开发二面"}
+{"qid":"q-2808720-15","question":"覆盖索引有什么好处？","content_id":"2808720","title":"腾讯后台开发二面"}
+{"qid":"q-2808313-1","question":"MySQL回表是什么意思？","content_id":"2808313","title":"2026年03月02日 11点28分腾讯ieg春招技术面二面"}
+{"qid":"q-2806452-17","question":"如何避免回表查询？","content_id":"2806452","title":"转转-java开发-一面"}
+{"qid":"q-2805596-2","question":"MySQL回表","content_id":"2805596","title":"27届小米java后端日常实习二面"}
+{"qid":"q-2805596-3","question":"MySQL索引下推","content_id":"2805596","title":"27届小米java后端日常实习二面"}
+{"qid":"q-2804947-30","question":"哪个会回表？为什么回表？","content_id":"2804947","title":"转转一面（二面挂）"}
+{"qid":"q-2804947-33","question":"索引跳跃扫描和索引下推是什么？","content_id":"2804947","title":"转转一面（二面挂）"}
+{"qid":"q-2838096-4","question":"什么是索引覆盖？","content_id":"2838096","title":"27实习 字节后端AI开发一面 攒人品中"}
+{"qid":"q-2837995-16","question":"MySQL覆盖索引的概念与原理","content_id":"2837995","title":"腾讯AI后台开发二面分享"}
+{"qid":"q-2837132-15","question":"回表是什么","content_id":"2837132","title":"腾讯云智后台开发暑期二面（已过）"}
+{"qid":"q-2837032-6","question":"如何优化索引？","content_id":"2837032","title":"虾皮后端开发面经"}
+{"qid":"q-2834830-2","question":"什么是MySQL回表？如何避免？","content_id":"2834830","title":"AI全栈开发暑期实习二面 美团"}
+{"qid":"q-873660050688991232-3","question":"介绍下索引下推","content_id":"873660050688991232","title":"27届-暑期实习-腾讯-数据计算平台-一面"}
+{"qid":"q-873660050688991232-4","question":"explain计划里面哪个字段能看出使用了索引下推呢？","content_id":"873660050688991232","title":"27届-暑期实习-腾讯-数据计算平台-一面"}
+{"qid":"q-2834561-4","question":"什么是回表？","content_id":"2834561","title":"字节暑期后端面经（一共五轮技术面人傻了）"}
+{"qid":"q-2832288-6","question":"什么情况下数据库查询不会回表？","content_id":"2832288","title":"实在智能Java日常实习二面（30min）"}
+{"qid":"q-872140603436322816-3","question":"回表是什么？什么时候会发生回表？","content_id":"872140603436322816","title":"27届-日常实习-虾皮DataInfra-二面"}
+{"qid":"q-871815930236391424-14","question":"什么是索引下推","content_id":"871815930236391424","title":"4.9美团一面复盘加分享"}
+{"qid":"q-871348771542552576-3","question":"如何利用AI自动化识别项目中因索引设计不当导致的回表性能问题？技术实现思路是怎样的？","content_id":"871348771542552576","title":"27届-暑期实习-携程-一面"}
+{"qid":"q-2845584-14","question":"什么是MySQL的回表查询？","content_id":"2845584","title":"正浩创新/EcoFlow java一面凉经"}
+{"qid":"q-2845459-5","question":"什么是覆盖索引？什么是回表？如何利用覆盖索引优化程序？","content_id":"2845459","title":"暑期实习美团AI全栈开发一面分享"}
+{"qid":"q-2844095-8","question":"索引覆盖是什么？","content_id":"2844095","title":"字节跳动 后端开发 日常实习 一面"}
+{"qid":"q-2843793-2","question":"MySQL索引覆盖是什么","content_id":"2843793","title":"27实习有赞后端AI开发一面面经分享"}
+{"qid":"q-2823195-3","question":"什么是MySQL索引覆盖？","content_id":"2823195","title":"有赞java一面"}
+{"qid":"q-2820295-14","question":"什么是覆盖索引？","content_id":"2820295","title":"万兴科技 golang后端开发实习生一面"}
+{"qid":"q-2820914-8","question":"索引下推的例子？索引下推的底层实现","content_id":"2820914","title":"美团后端暑期ai面"}

@@ -48,3 +48,30 @@
 {"qid":"q-2814531-6","question":"如何查看最左匹配原则是否生效？","content_id":"2814531","title":"JDS京东健康26校招微凉"}
 {"qid":"q-2814748-16","question":"MySQL最左匹配原则及索引失效场景","content_id":"2814748","title":"得物2026春招 | 后端开发 | 面经 | Java面试"}
 {"qid":"q-2814392-9","question":"MySQL联合索引生效和失效的场景","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}
+{"qid":"q-863842176000593920-2","question":"什么是联合索引？","content_id":"863842176000593920","title":"虾皮Java一面凉经"}
+{"qid":"q-2811689-12","question":"讲一下联合索引的左右前缀法则","content_id":"2811689","title":"虾皮SSC后端一面面经"}
+{"qid":"q-2811689-13","question":"AB联合索引，A走嘛，B走嘛，具体讲一下为什么","content_id":"2811689","title":"虾皮SSC后端一面面经"}
+{"qid":"q-2809612-35","question":"联合索引的最左匹配原则是什么？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2808700-0","question":"最左匹配原则是什么？","content_id":"2808700","title":"字节后端一面凉经"}
+{"qid":"q-2806452-19","question":"请解释最左匹配原则。","content_id":"2806452","title":"转转-java开发-一面"}
+{"qid":"q-2805971-11","question":"建立MySQL联合索引需要注意哪些事项","content_id":"2805971","title":"小黑盒（一面）"}
+{"qid":"q-2804947-31","question":"联合索引 ABC，查询 AB 是否回表、是否走索引？","content_id":"2804947","title":"转转一面（二面挂）"}
+{"qid":"q-2804947-32","question":"联合索引 ABC，只查 C 会怎样？","content_id":"2804947","title":"转转一面（二面挂）"}
+{"qid":"q-876423852971065344-12","question":"联合索引怎么使用？最左匹配原则是什么？","content_id":"876423852971065344","title":"致远互联 Java开发一面"}
+{"qid":"q-2839751-3","question":"对于A、B、C三个字段的联合索引，WHERE A=? ORDER BY C能走索引吗？","content_id":"2839751","title":"熙牛医疗 二面  java后端日常实习"}
+{"qid":"q-2838464-11","question":"了解联合索引吗？","content_id":"2838464","title":"百特云享复面 Java后端日常实习"}
+{"qid":"q-2838096-5","question":"联合索引索引失效的情况有哪些？","content_id":"2838096","title":"27实习 字节后端AI开发一面 攒人品中"}
+{"qid":"q-2837959-9","question":"为什么不建时间、姓名这样的联合索引？","content_id":"2837959","title":"27暑期 腾讯后端ai开发一面 1h"}
+{"qid":"q-2837132-14","question":"联合索引ABC，AB BC AC走不走索引","content_id":"2837132","title":"腾讯云智后台开发暑期二面（已过）"}
+{"qid":"q-2834011-7","question":"联合索引失效场景","content_id":"2834011","title":"快手 本地生活核心 后端暑期 一面"}
+{"qid":"q-2832278-1","question":"联合索引最左前缀原则讲一下","content_id":"2832278","title":"腾讯后台开发暑期实习 PCG技术线-应用效能技术方向 一面凉经"}
+{"qid":"q-2832288-7","question":"对于联合索引 (A, B, C)，查询条件为 C=1 AND A=1 时，索引利用情况如何？","content_id":"2832288","title":"实在智能Java日常实习二面（30min）"}
+{"qid":"q-871815930236391424-10","question":"联合索引和最左匹配原则","content_id":"871815930236391424","title":"4.9美团一面复盘加分享"}
+{"qid":"q-2830306-4","question":"联合索引是怎么实现的？","content_id":"2830306","title":"暑期实习-字节-ai后端一面面经"}
+{"qid":"q-2845451-11","question":"非聚簇索引下组合索引条件只有AB，查询ID大约在2500万位置的10条数据，SQL的执行逻辑是什么？","content_id":"2845451","title":"暑期实习 京东后端Agent开发一面面经"}
+{"qid":"q-878569217430253568-3","question":"联合索引有哪些相关知识点？","content_id":"878569217430253568","title":"同程旅行java二面"}
+{"qid":"q-2844095-7","question":"联合索引ABC，SELECT A,B,C FROM table WHERE B=x AND A=y AND C=z ORDER BY id 会走什么索引？为什么有时候走主键索引有时候走联合索引？","content_id":"2844095","title":"字节跳动 后端开发 日常实习 一面"}
+{"qid":"q-2841798-14","question":"联合索引的顺序调换如何优化SQL查询？","content_id":"2841798","title":"字节一面凉经（后端开发）"}
+{"qid":"q-2841420-7","question":"MySQL联合索引(a,b,c)中，查询条件组合a b、b c、a c哪些会失效？为什么失效？为什么索引失效的机制要这样设置？","content_id":"2841420","title":"社招Java 华盛通一面"}
+{"qid":"q-2826026-7","question":"where a=1 and c=3，联合索引是abc，索引会生效吗，为什么，c不生效的话a会生效吗","content_id":"2826026","title":"量子泛娱Java实习面经"}
+{"qid":"q-2818381-6","question":"MySQL索引了解吗，联合索引介绍下，最左匹配前缀举例说明","content_id":"2818381","title":"快手后端-Java开发一面面经"}

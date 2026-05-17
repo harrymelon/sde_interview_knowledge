@@ -3,3 +3,14 @@
 {"qid":"q-2815741-23","question":"K8s的作用是什么","content_id":"2815741","title":"龙旗科技Java实习一面二面面经"}
 {"qid":"q-2815741-24","question":"容器化部署的优点是什么","content_id":"2815741","title":"龙旗科技Java实习一面二面面经"}
 {"qid":"q-2815741-25","question":"虚拟机和容器有什么区别","content_id":"2815741","title":"龙旗科技Java实习一面二面面经"}
+{"qid":"q-861975506076405760-3","question":"Kubernetes Pod 的节点亲和性如何配置","content_id":"861975506076405760","title":"字节跳动-中国交易与广告-后端-Go-二面"}
+{"qid":"q-861686783346548736-4","question":"你有使用k8s做过什么项目？","content_id":"861686783346548736","title":"字节跳动-中国交易与广告-后端-Go-一面"}
+{"qid":"q-861253050533416960-0","question":"从 Docker 单机部署迁移到 K8s，应用需要满足哪些核心条件？","content_id":"861253050533416960","title":"科拉奥（杭州）科技有限公司 Java开发 实习 二面"}
+{"qid":"q-2838996-31","question":"K8s接触过吗？Docker呢？","content_id":"2838996","title":"云智后台开发一面面经分享"}
+{"qid":"q-2838996-32","question":"部署服务怎么做？","content_id":"2838996","title":"云智后台开发一面面经分享"}
+{"qid":"q-2834484-16","question":"了解Kubernetes（K8s）吗？","content_id":"2834484","title":"腾讯后台开发一面-腾讯云-技术与产品服务"}
+{"qid":"q-872599725722132480-1","question":"K8S中deployment和StatefulSet的区别以及为什么不全用StatefulSet","content_id":"872599725722132480","title":"红茶移动Java开发一面"}
+{"qid":"q-871813640653963264-0","question":"Kubernetes Pod的生命周期有哪些阶段？","content_id":"871813640653963264","title":"4.9-腾讯金融-一面挂"}
+{"qid":"q-2829876-7","question":"项目中使用k3s部署服务的流程","content_id":"2829876","title":"腾讯IEG暑期一面"}
+{"qid":"q-2840916-1","question":"服务部署的相关问题","content_id":"2840916","title":"2026-04-14商汤科技Go后端开发三面，截止23号无音讯"}
+{"qid":"q-2840916-2","question":"运维的相关问题","content_id":"2840916","title":"2026-04-14商汤科技Go后端开发三面，截止23号无音讯"}

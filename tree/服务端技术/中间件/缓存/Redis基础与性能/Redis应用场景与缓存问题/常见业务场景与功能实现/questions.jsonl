@@ -31,3 +31,40 @@
 {"qid":"q-2815333-9","question":"跨服的排行榜怎么实现的？","content_id":"2815333","title":"某游戏公司   服务端"}
 {"qid":"q-2815079-0","question":"项目中使用Redis做限流，具体是怎么防止刷单的？","content_id":"2815079","title":"字节暑期后端一面"}
 {"qid":"q-2815079-1","question":"如何限制“一人一单”？如果用户ID不是自增的，怎么限制？","content_id":"2815079","title":"字节暑期后端一面"}
+{"qid":"q-2814150-11","question":"项目中将Redis用到了哪些方面？","content_id":"2814150","title":"近期两场小厂后端Java面经"}
+{"qid":"q-863860210215985152-3","question":"Redis在项目中怎么使用的？","content_id":"863860210215985152","title":"腾讯后台开发一面"}
+{"qid":"q-2813279-3","question":"Redis在礼物连击/礼物飘屏业务中的使用场景","content_id":"2813279","title":"好未来二面（oc）"}
+{"qid":"q-863149485696745472-0","question":"用Redis做缓存，具体针对什么热点数据？什么是热点数据？","content_id":"863149485696745472","title":"字节后端一面"}
+{"qid":"q-2810954-2","question":"Redis在项目中起到什么作用？用了什么数据结构？订单异步生成是如何实现的？","content_id":"2810954","title":"腾讯S3后台一面"}
+{"qid":"q-2809565-1","question":"使用Redis实现滑动窗口统计功能（固定时间窗口用Zset，固定次数窗口用List）","content_id":"2809565","title":"京东云后端一面"}
+{"qid":"q-2809612-8","question":"Redis适用哪些业务场景？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2806646-4","question":"设计接口判断用户1小时内不能发相同评论，几千万用户，用Redis什么数据结构？","content_id":"2806646","title":"小红书一面（Java社招）"}
+{"qid":"q-2806576-6","question":"如何设计视频点赞功能（多级缓存思路）","content_id":"2806576","title":"腾讯后台开发一面"}
+{"qid":"q-861270934982758400-1","question":"项目中用 Redis 优化部门人员树的加载优化，具体 key-value 是如何设置的","content_id":"861270934982758400","title":"3.11 京东零售暑期实习后端一面凉经+求问+攒人品"}
+{"qid":"q-860831057271095296-0","question":"缓存一致性与热点数据治理项目可以用在哪里？","content_id":"860831057271095296","title":"荣耀 通用软件开发-C++ 一面"}
+{"qid":"q-876494741410480128-1","question":"如果实现保存页面的点击量和用户量（唯一性），你会怎么设计？","content_id":"876494741410480128","title":"上海逸迅信息科技有限公司-Java后端-base西安  已OC"}
+{"qid":"q-2839456-0","question":"Redis Zset（有序集合）的应用场景是什么？","content_id":"2839456","title":"字节跳动-中国广告与贸易-后端开发"}
+{"qid":"q-2838911-8","question":"你用redis做知识库缓存，怎么做的？","content_id":"2838911","title":"蚂蚁后端开发一面(47min)"}
+{"qid":"q-2837964-0","question":"除了做缓存和分布式锁，Redis 还能做什么？","content_id":"2837964","title":"字节27暑期实习后台开发一面 65min"}
+{"qid":"q-2837734-12","question":"如果用Redis的缓存，会在哪个阶段去做？","content_id":"2837734","title":"AI后台开发日常实习一面分享 字节"}
+{"qid":"q-2837696-9","question":"Redis 中存放点赞数据通常用什么结构？","content_id":"2837696","title":"日常实习 字节AI后端开发一面 攒人品中"}
+{"qid":"q-2837145-8","question":"滑动窗口限流用的Redis哪个数据结构？","content_id":"2837145","title":"荣耀Java开发工程师实习生 一面面经"}
+{"qid":"q-2837145-9","question":"滑动窗口限流中key和请求数怎么设置？","content_id":"2837145","title":"荣耀Java开发工程师实习生 一面面经"}
+{"qid":"q-2835946-5","question":"Redis 实现原子性预扣减时数据结构怎么设计","content_id":"2835946","title":"27日常实习 美团ai后端开发一面"}
+{"qid":"q-2834623-1","question":"如何用Redis实现5分钟内不能重复发的去重功能？","content_id":"2834623","title":"京东健康后端"}
+{"qid":"q-2834623-21","question":"Redis中存储了哪些数据？是如何使用的？","content_id":"2834623","title":"京东健康后端"}
+{"qid":"q-2834560-13","question":"如何知道哪个热点更热","content_id":"2834560","title":"三战暑期腾讯后台面经"}
+{"qid":"q-2834479-4","question":"Redis缓存策略：存哪些数据，为什么？","content_id":"2834479","title":"腾讯云后端开发暑期实习一面面经"}
+{"qid":"q-2833140-12","question":"如果用Redis的缓存，会在哪个阶段去做？","content_id":"2833140","title":"27字节AI后台开发日常实习一面"}
+{"qid":"q-2831519-0","question":"你在项目中使用Redis的具体场景和用法是什么？","content_id":"2831519","title":"韶音科技——Java（财经）—\u003eIT产品经理管培生面经"}
+{"qid":"q-2831567-1","question":"如何用bitmap存储QQ号？","content_id":"2831567","title":"4.10虾皮后端实习一面"}
+{"qid":"q-2831393-6","question":"Session共享怎么实现的，Redis的key和value怎么储存的","content_id":"2831393","title":"腾讯 ima 4-8 已挂"}
+{"qid":"q-878687099648565248-0","question":"Redis全局唯一ID的生成原因、含义和用途是什么？为什么不直接用MySQL自增ID？","content_id":"878687099648565248","title":"字节后端暑期实习一面凉经"}
+{"qid":"q-2844574-1","question":"Redis缓存中存储哪些MySQL数据（热点数据）","content_id":"2844574","title":"中电信翼康科技有限公司（济南）一面（Java）"}
+{"qid":"q-2844027-1","question":"使用Redis实现滑动窗口统计功能的两种方法：固定时间窗口（ZSet）和固定次数窗口（List）","content_id":"2844027","title":"27实习-京东云后端AI开发一面分享"}
+{"qid":"q-2843487-8","question":"点赞功能怎么设计的","content_id":"2843487","title":"AI全栈开发一面分享-小红书 50min"}
+{"qid":"q-2842935-2","question":"你用Redis做了什么？","content_id":"2842935","title":"Tiktok后端ai开发一面面经 1h"}
+{"qid":"q-2842778-14","question":"为什么Redis可以做限流？怎么做限流？","content_id":"2842778","title":"27实习字节后端agent开发一面"}
+{"qid":"q-2829242-14","question":"在这个学习项目中，你是如何用Redis解决Session共享问题的？","content_id":"2829242","title":"27届成都Java实习百人厂面经"}
+{"qid":"q-2829242-17","question":"除了Session共享，你在项目中还用它做什么？","content_id":"2829242","title":"27届成都Java实习百人厂面经"}
+{"qid":"q-2820914-10","question":"用 Redis 限制评价次数，在实现中可能会遇到哪些问题？","content_id":"2820914","title":"美团后端暑期ai面"}

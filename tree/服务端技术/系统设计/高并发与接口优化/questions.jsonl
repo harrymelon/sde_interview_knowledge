@@ -4,3 +4,10 @@
 {"qid":"q-2817779-3","question":"怎么获取文件分片或大小？","content_id":"2817779","title":"9377游戏｜后端开发 面经（含答案）"}
 {"qid":"q-2817779-6","question":"下载很大的 Excel 怎么办？","content_id":"2817779","title":"9377游戏｜后端开发 面经（含答案）"}
 {"qid":"q-2816577-2","question":"如何处理用户的非法输入？","content_id":"2816577","title":"百度外包一面凉经"}
+{"qid":"q-2836302-1","question":"为什么不使用时间轮算法实现定时任务调度","content_id":"2836302","title":"xtransfer 高级开发 一面 JAVA 社招两年"}
+{"qid":"q-2836302-2","question":"为什么不用xxl-job","content_id":"2836302","title":"xtransfer 高级开发 一面 JAVA 社招两年"}
+{"qid":"q-2836302-3","question":"异步任务框架的架构设计（三层：调度层、执行层、治理层）","content_id":"2836302","title":"xtransfer 高级开发 一面 JAVA 社招两年"}
+{"qid":"q-2836302-8","question":"治理层职责：清理超时任务和分表","content_id":"2836302","title":"xtransfer 高级开发 一面 JAVA 社招两年"}
+{"qid":"q-2836302-12","question":"定时任务框架的架构（迁移层、触发层、执行层）及瓶颈在哪里","content_id":"2836302","title":"xtransfer 高级开发 一面 JAVA 社招两年"}
+{"qid":"q-2842898-1","question":"手撕：爬虫一个文件，10个一批并发访问","content_id":"2842898","title":"27实习面经-滴滴后端ai开发二面"}
+{"qid":"q-2842898-3","question":"如果给了一万行，然后任务处理的时间不同，该怎么办","content_id":"2842898","title":"27实习面经-滴滴后端ai开发二面"}

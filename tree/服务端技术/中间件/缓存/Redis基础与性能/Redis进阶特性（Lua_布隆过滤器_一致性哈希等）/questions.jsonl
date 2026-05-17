@@ -1,39 +1,17 @@
-{"qid":"q-857348066750234624-6","question":"了解一致性哈希吗？它是怎么实现的？和传统哈希的区别是什么？","content_id":"857348066750234624","title":"字节crm后端一面"}
-{"qid":"q-2795604-11","question":"布隆过滤器的原理是什么？以及主要解决什么问题？","content_id":"2795604","title":"小鹏汽车 Java后端面经"}
-{"qid":"q-854766261299900416-12","question":"Redis里面有事务吗？Redis里面想要执行多条指令用什么？","content_id":"854766261299900416","title":"他山科技一面"}
-{"qid":"q-2786439-0","question":"Lua 脚本在实际中用来干嘛？","content_id":"2786439","title":"jdy-创新零售后端一面-40min"}
-{"qid":"q-2786439-1","question":"为什么 Lua 脚本能保证 Redis 原子性操作？","content_id":"2786439","title":"jdy-创新零售后端一面-40min"}
 {"qid":"q-2781465-0","question":"Setnx是什么操作？实现什么功能？内部如何实现？","content_id":"2781465","title":"字节tts后端校招一面"}
-{"qid":"q-2781465-1","question":"Lua脚本对Redis发出的指令是一条还是多条？Redis内部如何执行Lua脚本确保原子性？","content_id":"2781465","title":"字节tts后端校招一面"}
 {"qid":"q-2787838-6","question":"redis中有许多key，如何找到前缀相同的key把他们放到一起","content_id":"2787838","title":"迅雷网络 风控后端一面"}
 {"qid":"q-846045342515621888-8","question":"Redis的keys命令在项目中可以使用吗","content_id":"846045342515621888","title":"后端开发面试记录"}
-{"qid":"q-2780217-15","question":"5亿条数据放到布隆过滤器中，大概需要多大内存?如何估算?","content_id":"2780217","title":"亚马逊Java后端一面-实习面经"}
-{"qid":"q-2779565-15","question":"5亿条数据放到布隆过滤器中大概需要多大内存？如何估算？","content_id":"2779565","title":"亚马逊Java后端开发一面凉经"}
-{"qid":"q-2778178-3","question":"布隆过滤器过期后无效判断怎么处理？","content_id":"2778178","title":"携程后端实习一面 1h"}
-{"qid":"q-2778153-0","question":"布隆过滤器的原理、底层实现以及可能遇到的问题","content_id":"2778153","title":"滴滴后端开发一面-实习面经"}
-{"qid":"q-2778153-1","question":"布隆过滤器如何解决hash碰撞？大量访问导致失效如何解决？布隆过滤器如何刷新？","content_id":"2778153","title":"滴滴后端开发一面-实习面经"}
-{"qid":"q-2778153-3","question":"布隆过滤器在项目中部署的位置","content_id":"2778153","title":"滴滴后端开发一面-实习面经"}
 {"qid":"q-2777987-15","question":"Redis多路修改，并发最后成功写入的原因是什么？","content_id":"2777987","title":"京东后端实习一面"}
-{"qid":"q-2777292-17","question":"Redis的布隆过滤器。","content_id":"2777292","title":"虾皮后端golang实习一面凉经"}
-{"qid":"q-2778378-10","question":"高并发秒杀系统为什么要用Redis+Lua？","content_id":"2778378","title":"小鹏汽车后端开发校招面经 攒人品"}
 {"qid":"q-2748415-10","question":"如何使用Pub/Sub机制实现缓存更新通知？","content_id":"2748415","title":"百度后端日常一面"}
-{"qid":"q-2735282-24","question":"Lua脚本在分布式环境下能否保证原子性？","content_id":"2735282","title":"回旋加速 golang后端一面 11.4"}
-{"qid":"q-2701211-18","question":"布隆过滤器使用过程中有什么需要注意的点？","content_id":"2701211","title":"网易云音乐java一面"}
-{"qid":"q-2701211-19","question":"布隆过滤器：如果key没命中，这个key一定不存在吗？","content_id":"2701211","title":"网易云音乐java一面"}
-{"qid":"q-2701211-20","question":"如何优化布隆过滤器以减少误判？","content_id":"2701211","title":"网易云音乐java一面"}
-{"qid":"q-2692379-2","question":"Lua脚本是干什么的","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
-{"qid":"q-2685815-23","question":"布隆过滤器介绍一下","content_id":"2685815","title":"美团-核心本地商业后端一面-9.9（凉）"}
-{"qid":"q-2682123-17","question":"布隆过滤器存在什么问题？","content_id":"2682123","title":"南京小米 java实习一面"}
-{"qid":"q-2674944-5","question":"布隆过滤器的实现原理是什么？","content_id":"2674944","title":"虾皮秋招一面"}
-{"qid":"q-2613716-33","question":"Redis的管道机制","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
-{"qid":"q-2613716-34","question":"管道机制在其他系统中的应用","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
 {"qid":"q-2593546-15","question":"Lua脚本里面有哪些操作？","content_id":"2593546","title":"Shopee一面（已凉）"}
 {"qid":"q-2580222-12","question":"Lua脚本有了解过嘛？有哪些注意事项？缺点是什么？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
 {"qid":"q-2578225-10","question":"Redis多线程是如何实现的？","content_id":"2578225","title":"字节后端实习一面"}
-{"qid":"q-2571174-5","question":"Redis使用Lua脚本的好处","content_id":"2571174","title":"淘天一二面凉经"}
-{"qid":"q-2571174-6","question":"Redis为什么选择Lua作为原子性操作","content_id":"2571174","title":"淘天一二面凉经"}
-{"qid":"q-865630750865903616-0","question":"你为什么在项目中使用Lua脚本？Lua脚本在Redis中的作用是什么？","content_id":"865630750865903616","title":"字节飞书后端一面面经分享"}
-{"qid":"q-2817378-6","question":"滑动窗口算法：用 Redis 实现可以使用哪些数据结构？具体有哪几种实现方式？","content_id":"2817378","title":"北京东华原医疗 Java 一面"}
-{"qid":"q-2816849-1","question":"你会用到 Lua 脚本在 Redis 中做一些操作吗？","content_id":"2816849","title":"浙健体检Java后端开发一面--已约2面"}
-{"qid":"q-2816009-4","question":"Redis+Lua怎么应对百万级的队列式并发限流","content_id":"2816009","title":"腾讯混元后台一面面经"}
 {"qid":"q-2814882-5","question":"Redis 6.0加入了多线程，具体针对哪一方面","content_id":"2814882","title":"字节后端暑期实习一面"}
+{"qid":"q-2808977-10","question":"Redis怎么查看key的内存占用？","content_id":"2808977","title":"微派 java秋招面经（排序挂）"}
+{"qid":"q-2804918-0","question":"Redis为什么要配合Lua脚本使用？除了Lua脚本还有哪些方法实现原子操作？这些方法如何实现？","content_id":"2804918","title":"字节后端一面"}
+{"qid":"q-2838096-1","question":"基于Redis的pub/sub实现的动态配置中心消息丢失了怎么办？","content_id":"2838096","title":"27实习 字节后端AI开发一面 攒人品中"}
+{"qid":"q-2837079-8","question":"Lua脚本有什么用，除了Redis还有哪些使用场景","content_id":"2837079","title":"小厂全栈"}
+{"qid":"q-2843517-1","question":"Redis两个操作，一个操作删一个key，同时另一个操作往这个key里增加内容，如何处理？","content_id":"2843517","title":"27日常实习 腾讯AI后台开发一面"}
+{"qid":"q-2842935-3","question":"Redis发布订阅（pub/sub）的原理是什么？是不是建立了长链接？","content_id":"2842935","title":"Tiktok后端ai开发一面面经 1h"}
+{"qid":"q-2841323-1","question":"Redis发布订阅机制原理","content_id":"2841323","title":"腾讯游戏后台一面凉经"}
+{"qid":"q-2840568-2","question":"Redis的发布订阅模式原理，是否建立了长连接","content_id":"2840568","title":"TikTok 国际电商后端一面"}

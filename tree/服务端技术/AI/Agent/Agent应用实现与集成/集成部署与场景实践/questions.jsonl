@@ -1,0 +1,36 @@
+{"qid":"q-2795623-1","question":"智能体项目中WebRTC方案是什么，如何实现的？","content_id":"2795623","title":"共比邻AI后端实习一面面经"}
+{"qid":"q-2795623-2","question":"ASR/TTS是如何集成的，对话是如何实现的？","content_id":"2795623","title":"共比邻AI后端实习一面面经"}
+{"qid":"q-2777445-6","question":"大模型应用中，意图识别(Intent Recognition)是如何实现的?","content_id":"2777445","title":"美团Java后端开发实习二面"}
+{"qid":"q-2817552-2","question":"你用过哪些AI工具？你是如何使用Agent辅助开发的？有哪些Agent相关的尝试？","content_id":"2817552","title":"腾讯 go 后台开发一面（原来以为凉了结果十分钟之后发了二面qwq）"}
+{"qid":"q-2817378-19","question":"场景题：如何结合 RAG、本地私有化大模型数据库以及 Skills 实现 AI 辅助药师开药的合理用药检测方案","content_id":"2817378","title":"北京东华原医疗 Java 一面"}
+{"qid":"q-2817378-24","question":"叙述一下你的系统如何实现多场景对话、自动答疑、操作指引以及场景切换功能","content_id":"2817378","title":"北京东华原医疗 Java 一面"}
+{"qid":"q-2815741-27","question":"讲一下你自己写的Agent项目整个流程怎么做的","content_id":"2815741","title":"龙旗科技Java实习一面二面面经"}
+{"qid":"q-2815363-9","question":"Agent 项目介绍","content_id":"2815363","title":"字节跳动 后台开发 二面"}
+{"qid":"q-2811431-3","question":"RAG系统整体流程：前端调用到用户输入流经的全过程，包括工具调用、交互、记忆更新和输出返回。","content_id":"2811431","title":"字节暑期剪映后端二面面经"}
+{"qid":"q-2807404-1","question":"项目中用到的大模型工作流具体是怎么样的？它如何工作？","content_id":"2807404","title":"字节后端实习一面"}
+{"qid":"q-2805363-14","question":"你的Agent项目是怎么做的？有没有知识库训练？","content_id":"2805363","title":"腾讯27暑期提前批后台一面"}
+{"qid":"q-2838996-2","question":"场景题：根据用户的需求查询数据库生成报表的AI Agent，怎么设计？","content_id":"2838996","title":"云智后台开发一面面经分享"}
+{"qid":"q-2838469-6","question":"查空教室+推荐火锅，多轮推理、任务调度是怎么做的？","content_id":"2838469","title":"美团ai全栈开发 实习一面 纯干货夯爆了"}
+{"qid":"q-2837949-0","question":"在做 AI Agent 项目时，你更倾向于手写代码还是使用 AI/Web Coding 方式？","content_id":"2837949","title":"快手实习agent后端开发二面 攒人品"}
+{"qid":"q-2834830-8","question":"使用AI编码实现自动提交周报的功能","content_id":"2834830","title":"AI全栈开发暑期实习二面 美团"}
+{"qid":"q-2834623-16","question":"RAG接口是如何与Agent打通的？如何结合？","content_id":"2834623","title":"京东健康后端"}
+{"qid":"q-2834038-4","question":"是把用户聊天记录直接转发到API吗？","content_id":"2834038","title":"日常实习-海天AI后端开发一面"}
+{"qid":"q-2833990-3","question":"PDF中的图片内容（饼状图、折线图）怎么提取语义信息？","content_id":"2833990","title":"钉钉27暑期后端ai研发一面面经 1h"}
+{"qid":"q-2833990-4","question":"OCR背后的原理是什么？给一个饼图如何输出内容？","content_id":"2833990","title":"钉钉27暑期后端ai研发一面面经 1h"}
+{"qid":"q-2833990-5","question":"如何识别占比、类比这样的语义识别？","content_id":"2833990","title":"钉钉27暑期后端ai研发一面面经 1h"}
+{"qid":"q-2833656-0","question":"请介绍你的Agent项目","content_id":"2833656","title":"去哪儿春招 Java 一面 凉经"}
+{"qid":"q-2833656-1","question":"Agent的输入来源是什么？（用户飞书群，主动和被动）","content_id":"2833656","title":"去哪儿春招 Java 一面 凉经"}
+{"qid":"q-2833656-3","question":"Agent如何起作用？（通过studio部署，到不同的业务组，监听他们的业务代码）","content_id":"2833656","title":"去哪儿春招 Java 一面 凉经"}
+{"qid":"q-2833656-4","question":"Agent需要fetch代码吗？","content_id":"2833656","title":"去哪儿春招 Java 一面 凉经"}
+{"qid":"q-2832374-0","question":"AI处理违规评论的AI Coding实现思路","content_id":"2832374","title":"美团暑期后端二面（已offer）"}
+{"qid":"q-2831536-0","question":"在美团App中集成语音下单Agent的技术实现方案有哪些？纯语音场景下用户长时间未收到反馈如何改进用户体验？","content_id":"2831536","title":"美团 软件开发（全栈）暑期实习 面经全记录（二面"}
+{"qid":"q-2830250-13","question":"讲讲你做的Agent","content_id":"2830250","title":"腾讯云智-暑期实习后端开发一二面"}
+{"qid":"q-2834803-0","question":"请描述你的Agent项目实现细节与难点","content_id":"2834803","title":"27暑期实习 美团ai全栈开发一面"}
+{"qid":"q-2837639-3","question":"讲一讲你的agent项目","content_id":"2837639","title":"AI后端开发 京东日常实习二面分享"}
+{"qid":"q-2845575-0","question":"介绍一下Agent项目","content_id":"2845575","title":"蚂蚁agent后端开发一面凉经分享"}
+{"qid":"q-2845575-3","question":"Agent的数据从哪里来","content_id":"2845575","title":"蚂蚁agent后端开发一面凉经分享"}
+{"qid":"q-2845575-7","question":"回答过程有没有优化过再返回给用户","content_id":"2845575","title":"蚂蚁agent后端开发一面凉经分享"}
+{"qid":"q-2842935-7","question":"拷打agent，讲了RAG（Agent相关实现）","content_id":"2842935","title":"Tiktok后端ai开发一面面经 1h"}
+{"qid":"q-2841499-11","question":"Agent项目部署在哪里？部署过程中遇到了哪些问题？","content_id":"2841499","title":"字节搜索广告 后端开发一面"}
+{"qid":"q-2841323-5","question":"Agent在实际业务中的落地场景与任务","content_id":"2841323","title":"腾讯游戏后台一面凉经"}
+{"qid":"q-2777891-6","question":"在实习时是否做过一些 agent 相关的工作？","content_id":"2777891","title":"27日常实习京东科技后端二面"}

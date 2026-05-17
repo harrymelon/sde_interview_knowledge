@@ -24,3 +24,4 @@
 {"qid":"q-2592748-33","question":"讲一下volatile的作用、实现原理及使用场景","content_id":"2592748","title":"腾讯云智后台开发一面"}
 {"qid":"q-2580222-31","question":"Volatile和synchronized的区别是什么？","content_id":"2580222","title":"4月10日Java春招面试记录--jm"}
 {"qid":"q-2556133-14","question":"原子性是什么？","content_id":"2556133","title":"字节 后端 数据 一面面经"}
+{"qid":"q-2830809-4","question":"JMM的可见性、原子性、有序性怎么实现的","content_id":"2830809","title":"字节AI后端开发 实习二面 感觉无了"}

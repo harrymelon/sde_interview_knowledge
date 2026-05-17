@@ -11,3 +11,27 @@
 {"qid":"q-2475239-3","question":"CAS和synchronized有什么区别","content_id":"2475239","title":"同程旅行校招一面Java岗位成都base"}
 {"qid":"q-2817630-4","question":"乐观锁的具体操作是什么？CAS是改值还是++？","content_id":"2817630","title":"百度后台开发实习一二面"}
 {"qid":"q-2815111-12","question":"理解CAS中的ABA问题吗？如何规避这种情况？","content_id":"2815111","title":"有赞Java后端一面面经"}
+{"qid":"q-2466261-17","question":"介绍 CAS","content_id":"2466261","title":"小米-java-日常实习面经"}
+{"qid":"q-2812231-15","question":"CAS是做什么的？它有什么问题？","content_id":"2812231","title":"字节后端-推荐架构面经 已offer"}
+{"qid":"q-2806452-7","question":"请介绍CAS原理、ABA问题及解决办法，除了ABA问题还有哪些问题？","content_id":"2806452","title":"转转-java开发-一面"}
+{"qid":"q-2839810-6","question":"CAS实现的乐观锁有什么局限性？在哪些场景下有风险？","content_id":"2839810","title":"蚂蚁后端一面凉经"}
+{"qid":"q-2839595-4","question":"讲一下CAS的原理","content_id":"2839595","title":"熙牛医疗一面  Java后端"}
+{"qid":"q-2837772-3","question":"CAS存在的问题","content_id":"2837772","title":"27实习百度AI后端开发一面 1h"}
+{"qid":"q-2835092-4","question":"CAS在哪里用？","content_id":"2835092","title":"国投智能java实习面经"}
+{"qid":"q-2835314-4","question":"CAS机制的原理？会出现什么问题？如何解决长时间自旋？","content_id":"2835314","title":"北京用友金融-java后端开发"}
+{"qid":"q-2833957-5","question":"介绍下CAS，CAS可能遇到的问题？","content_id":"2833957","title":"虾皮AI infra后端开发一面分享"}
+{"qid":"q-2833170-2","question":"CAS存在什么问题？","content_id":"2833170","title":"百度ai后端开发一面分享-日常实习"}
+{"qid":"q-2833012-10","question":"CAS操作是用户态还是内核态的？","content_id":"2833012","title":"拼多多服务端研发实习生 一面"}
+{"qid":"q-872133747653603328-6","question":"介绍下CAS，CAS可能遇到的问题？","content_id":"872133747653603328","title":"27届-日常实习-虾皮DataInfra-一面"}
+{"qid":"q-871416350042775552-7","question":"CAS原理是什么？","content_id":"871416350042775552","title":"浩鲸科技一面"}
+{"qid":"q-2829529-2","question":"CAS存在的问题是什么？","content_id":"2829529","title":"百度ai后端开发日常实习一面 55min"}
+{"qid":"q-2845511-6","question":"乐观锁的优缺点是什么？CAS是如何实现的？","content_id":"2845511","title":"浩鲸科技Java面经"}
+{"qid":"q-2845440-7","question":"CAS是什么？","content_id":"2845440","title":"字节暑期后端ai开发一面面经分享"}
+{"qid":"q-878737227990253568-3","question":"CAS的原理是什么？ABA问题如何解决？","content_id":"878737227990253568","title":"团子后端一面"}
+{"qid":"q-2844015-4","question":"CAS存在的问题是什么？","content_id":"2844015","title":"27实习AI后端开发一面-百度"}
+{"qid":"q-878291133086908416-2","question":"讲讲CAS的原理？","content_id":"878291133086908416","title":"小红书后端开发一面"}
+{"qid":"q-2843087-3","question":"CAS机制是什么？会出现什么问题（ABA）？长时间自旋怎么解决？","content_id":"2843087","title":"日常实习 用友后端ai开发面经分享"}
+{"qid":"q-2842831-6","question":"CAS实现的乐观锁有什么局限性？在哪些场景下有风险？","content_id":"2842831","title":"27实习面经-蚂蚁后端ai开发一面"}
+{"qid":"q-2842627-4","question":"CAS原理及ABA问题","content_id":"2842627","title":"4.24 腾讯云智 后端一面"}
+{"qid":"q-2841383-7","question":"乐观锁会有什么问题？","content_id":"2841383","title":"灵犀互娱    游戏服务器后端一面挂"}
+{"qid":"q-2826026-11","question":"CAS的ABA问题解释一下，如何避免这个问题","content_id":"2826026","title":"量子泛娱Java实习面经"}

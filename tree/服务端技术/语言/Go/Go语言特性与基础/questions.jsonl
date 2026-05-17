@@ -2,3 +2,5 @@
 {"qid":"q-2815096-11","question":"panic是如何捕获的？","content_id":"2815096","title":"腾讯CSIG后端开发日常实习一面面经"}
 {"qid":"q-2815096-14","question":"Go语言中的零值是什么？","content_id":"2815096","title":"腾讯CSIG后端开发日常实习一面面经"}
 {"qid":"q-2815096-15","question":"为什么两个项目分别使用了Gin框架和Kratos框架？","content_id":"2815096","title":"腾讯CSIG后端开发日常实习一面面经"}
+{"qid":"q-2810684-21","question":"解释器和编译型区别，为啥要用golang，还有runtime逃逸分析","content_id":"2810684","title":"字节 云计算后端实习 面经"}
+{"qid":"q-2843790-1","question":"Java的interface和Go的struct/interface在设计上有什么差异？","content_id":"2843790","title":"上海踏云齐光golang小厂 面经复盘"}

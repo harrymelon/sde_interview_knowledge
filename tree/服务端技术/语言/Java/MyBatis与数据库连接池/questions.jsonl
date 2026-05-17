@@ -5,3 +5,10 @@
 {"qid":"q-2794268-1","question":"常见数据库连接池的实现原理是什么？","content_id":"2794268","title":""}
 {"qid":"q-2667439-8","question":"Java数据库连接池是怎么实现的？","content_id":"2667439","title":"字节后端8.22二面"}
 {"qid":"q-864998819736387584-5","question":"MyBatis一、二级缓存是什么？","content_id":"864998819736387584","title":"顺丰java一面"}
+{"qid":"q-862367705284816896-6","question":"Mybatis中#{}和${}的区别","content_id":"862367705284816896","title":"26届 小厂java实习面经"}
+{"qid":"q-2808389-2","question":"用过Mybatisplus吗？分页原理是什么？分页关键字是什么？","content_id":"2808389","title":"软通动力后端一面"}
+{"qid":"q-2838038-7","question":"Mybatis中如何防止SQL注入的","content_id":"2838038","title":"腾讯AI后台开发27实习一面分享"}
+{"qid":"q-2835495-3","question":"Mybatis工程中主从操作需要做哪些适配？","content_id":"2835495","title":"字节后端ai开发一面分享 暑期实习"}
+{"qid":"q-2830549-8","question":"MyBatis底层是如何防止SQL注入的？它的核心原理机制是什么？","content_id":"2830549","title":"爱学习一面"}
+{"qid":"q-2830549-9","question":"在使用MyBatis Plus进行数据分页查询时，它的物理分页底层是如何实现的？拦截器（Interceptor）在这里起到了什么核心作用？","content_id":"2830549","title":"爱学习一面"}
+{"qid":"q-2830549-10","question":"框架在进行物理分页时，具体的分页参数（如当前页码、每页大小）在应用层和底层之间是如何封装和传递的？","content_id":"2830549","title":"爱学习一面"}

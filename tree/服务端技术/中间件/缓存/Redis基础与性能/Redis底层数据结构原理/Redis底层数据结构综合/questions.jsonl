@@ -19,3 +19,15 @@
 {"qid":"q-2815079-2","question":"Redis的Set底层是怎么存储/实现的？","content_id":"2815079","title":"字节暑期后端一面"}
 {"qid":"q-2814388-1","question":"Redis有哪些底层数据结构","content_id":"2814388","title":"春招Java后端开发 滴滴平台技术一二三面"}
 {"qid":"q-2593511-11","question":"Redis GEO的底层实现了解吗？","content_id":"2593511","title":"美团一面"}
+{"qid":"q-2808977-9","question":"Redis底层数据类型的组成和底层的扩容机制是怎样的？","content_id":"2808977","title":"微派 java秋招面经（排序挂）"}
+{"qid":"q-2804986-1","question":"redis中的set结构查询真的是O（1）吗？底层实现是？","content_id":"2804986","title":"中科闻歌-java实习面经"}
+{"qid":"q-2839211-13","question":"Redis的底层数据结构有哪些","content_id":"2839211","title":"TME一面凉经（后端）"}
+{"qid":"q-2837145-29","question":"Redis底层用了哪些数据结构？","content_id":"2837145","title":"荣耀Java开发工程师实习生 一面面经"}
+{"qid":"q-2837063-10","question":"跳表底层、压缩链表连锁更新及 listpack 解决方法","content_id":"2837063","title":"滴滴后端一面二面 面经"}
+{"qid":"q-2835106-22","question":"Redis 底层机制你熟悉哪些？","content_id":"2835106","title":"万类智生 后端开发面经"}
+{"qid":"q-2834547-3","question":"Redis底层数据结构是否完全基于跳表？","content_id":"2834547","title":"快手二面已挂-java后端"}
+{"qid":"q-872512773710696448-1","question":"了解Redis底层的存储逻辑吗？请解释Redis底层数据结构如何实现","content_id":"872512773710696448","title":"快手ai应用服务端开发 二面"}
+{"qid":"q-2831939-1","question":"Redis的String和ZSet底层实现是什么？","content_id":"2831939","title":"字节二面-后端"}
+{"qid":"q-2841470-6","question":"Redis常见数据结构有哪些？","content_id":"2841470","title":"美团ai全栈面经"}
+{"qid":"q-2841470-7","question":"压缩链表为什么会发生连锁更新？","content_id":"2841470","title":"美团ai全栈面经"}
+{"qid":"q-2841121-10","question":"HyperLogLog、ZSet、Bitmap 的底层原理和适用场景是什么？","content_id":"2841121","title":"腾讯视频 后端开发 面经"}

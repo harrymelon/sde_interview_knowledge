@@ -19,3 +19,31 @@
 {"qid":"q-864998819736387584-1","question":"String为什么设计为不可变类型？","content_id":"864998819736387584","title":"顺丰java一面"}
 {"qid":"q-864646969501704192-2","question":"String、StringBuilder、StringBuffer的区别是什么？","content_id":"864646969501704192","title":"成r科技一面"}
 {"qid":"q-2814748-3","question":"String、StringBuilder、StringBuffer的区别（不可变 vs 可变线程安全 vs 可变非线程安全）","content_id":"2814748","title":"得物2026春招 | 后端开发 | 面经 | Java面试"}
+{"qid":"q-864173066589409280-0","question":"String a='test' 和 new String('test')，a==b 和 a.equals(b) 结果及原因","content_id":"864173066589409280","title":"25年12月天阳科技Java后端开发工程师 一面"}
+{"qid":"q-863149485696745472-5","question":"Java的String为什么是不可变类型的？这么做的原因是什么？","content_id":"863149485696745472","title":"字节后端一面"}
+{"qid":"q-2810382-5","question":"String字符串池的对象","content_id":"2810382","title":"社招 北京 Java后端工程师"}
+{"qid":"q-862395801836720128-1","question":"在Java中循环拼接字符串，使用String、StringBuilder还是StringBuffer更合适？","content_id":"862395801836720128","title":"腾讯后台开发一面"}
+{"qid":"q-862367705284816896-1","question":"String、StringBuilder、StringBuffer的区别","content_id":"862367705284816896","title":"26届 小厂java实习面经"}
+{"qid":"q-2809039-5","question":"String为什么是不可变的？","content_id":"2809039","title":"货拉拉后端开发实习一面"}
+{"qid":"q-2809039-7","question":"StringBuffer和StringBuilder的区别是什么？","content_id":"2809039","title":"货拉拉后端开发实习一面"}
+{"qid":"q-2809039-8","question":"StringBuffer和字符串拼接的加号有什么区别？","content_id":"2809039","title":"货拉拉后端开发实习一面"}
+{"qid":"q-2808748-2","question":"如何将字符串列表（如a,b,c）拼接成a-\u003eb-\u003ec格式？","content_id":"2808748","title":"广州某小厂Java后端面经(线下)"}
+{"qid":"q-2807535-4","question":"String的长度是可变的吗","content_id":"2807535","title":"西安天源迪科Java开发实习"}
+{"qid":"q-2807535-5","question":"StringBuffer和StringBuilder的区别","content_id":"2807535","title":"西安天源迪科Java开发实习"}
+{"qid":"q-2806646-2","question":"Java字符串压缩原理是什么？","content_id":"2806646","title":"小红书一面（Java社招）"}
+{"qid":"q-860946444415438848-2","question":"String、StringBuilder、StringBuffer的区别与使用场景","content_id":"860946444415438848","title":"java大厂面经速览（今日已更新！）"}
+{"qid":"q-2805282-0","question":"String a = 10; b = a; String b = 20; 则b为，为什么？","content_id":"2805282","title":"第一次面试:Java全栈实习生面试题"}
+{"qid":"q-2805351-2","question":"如何将多个字符串如'a','b','c'拼接成'a-\u003eb-\u003ec'？","content_id":"2805351","title":"广州小厂爱奇创新后端面经"}
+{"qid":"q-2838038-2","question":"在Java中循环拼接字符串，可能要拼接几万次，使用String、StringBuilder还是StringBuffer比较合适","content_id":"2838038","title":"腾讯AI后台开发27实习一面分享"}
+{"qid":"q-2835139-1","question":"String、StringBuffer、StringBuilder三者的区别是什么？","content_id":"2835139","title":"美团ai暑期后端开发一面分享"}
+{"qid":"q-2833245-5","question":"string为什么会被设计成一个不可变结构","content_id":"2833245","title":"掌先3.26后端Java技术面凉经"}
+{"qid":"q-2831096-1","question":"String、StringBuffer、StringBuilder的区别是什么？","content_id":"2831096","title":"春秋航空-Java开发实习"}
+{"qid":"q-2829341-2","question":"String、StringBuffer、StringBuilder 有什么区别？","content_id":"2829341","title":"美团暑期后端一面 ：金融服务平台-技术平台"}
+{"qid":"q-2844574-5","question":"Java拼接字符串的方法有哪些（+运算符和StringBuilder.append）","content_id":"2844574","title":"中电信翼康科技有限公司（济南）一面（Java）"}
+{"qid":"q-2843870-3","question":"StringBuilder和StringBuffer的区别是什么？","content_id":"2843870","title":"字节27实习后端ai开发二面分享"}
+{"qid":"q-2843870-4","question":"StringBuffer具体是怎么实现的？","content_id":"2843870","title":"字节27实习后端ai开发二面分享"}
+{"qid":"q-2843870-5","question":"StringBuilder和StringBuffer哪个代价大？","content_id":"2843870","title":"字节27实习后端ai开发二面分享"}
+{"qid":"q-2843032-1","question":"String、StringBuffer、StringBuilder 的区别是什么？","content_id":"2843032","title":"暑期实习 AI后端开发一面-美团"}
+{"qid":"q-877594204157861888-0","question":"StringBuilder和StringBuffer的区别，以及线程安全问题","content_id":"877594204157861888","title":"微步在线Java一面"}
+{"qid":"q-2840700-14","question":"String、StringBuilder、StringBuffer的区别","content_id":"2840700","title":"招银网络科技春招（已OC"}
+{"qid":"q-2823559-1","question":"String类的常用方法","content_id":"2823559","title":"招银网络科技笔试 java后端方向"}

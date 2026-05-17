@@ -1,0 +1,12 @@
+{"qid":"q-847976149895376896-11","question":"Tokenizer的作用与类型","content_id":"847976149895376896","title":"2026的你，应该知道哪些AI面试题？"}
+{"qid":"q-2812046-17","question":"是否限制模型输入的context长度？","content_id":"2812046","title":"26.3.4 字节AI搜索一面"}
+{"qid":"q-2812046-18","question":"context长度限制的具体值是多少？","content_id":"2812046","title":"26.3.4 字节AI搜索一面"}
+{"qid":"q-2812046-19","question":"token与文本的换算关系是怎样的？一个token大约对应多少文本？","content_id":"2812046","title":"26.3.4 字节AI搜索一面"}
+{"qid":"q-2812046-20","question":"模型输入的最大窗口大小是多少？","content_id":"2812046","title":"26.3.4 字节AI搜索一面"}
+{"qid":"q-2838226-6","question":"大模型的滑动窗口和其他存储上下文的方法你知道哪些？","content_id":"2838226","title":"字节飞书golang一面"}
+{"qid":"q-2838226-7","question":"GPT现在支持多长的上下文？","content_id":"2838226","title":"字节飞书golang一面"}
+{"qid":"q-2838226-8","question":"有些时候我们会处理几万甚至几十万的数据，这样的情况下，现在大模型是如何处理这样超长长度的上下文的？","content_id":"2838226","title":"字节飞书golang一面"}
+{"qid":"q-2833990-11","question":"embedding模型底层是什么？什么是token？为什么最大token数是100w？","content_id":"2833990","title":"钉钉27暑期后端ai研发一面面经 1h"}
+{"qid":"q-2833990-13","question":"Transformer的词表是怎么构建的？","content_id":"2833990","title":"钉钉27暑期后端ai研发一面面经 1h"}
+{"qid":"q-2831358-3","question":"Token概念与模型最大token数限制原因","content_id":"2831358","title":"4.8 钉钉-S项目-暑期实习java研发一面"}
+{"qid":"q-2831358-5","question":"Transformer词表构建方式","content_id":"2831358","title":"4.8 钉钉-S项目-暑期实习java研发一面"}

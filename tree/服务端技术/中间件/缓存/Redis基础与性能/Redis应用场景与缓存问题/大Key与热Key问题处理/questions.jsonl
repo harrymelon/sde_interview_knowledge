@@ -19,3 +19,38 @@
 {"qid":"q-2815079-5","question":"大Key问题会给系统性能带来什么影响？如何解决或规避大Key问题？","content_id":"2815079","title":"字节暑期后端一面"}
 {"qid":"q-2814531-11","question":"如果用Redis的Hash结构存储100万用户数据会对系统产生什么影响？","content_id":"2814531","title":"JDS京东健康26校招微凉"}
 {"qid":"q-2814392-16","question":"Redis大key的解决方案（异步删除）","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}
+{"qid":"q-2813874-5","question":"Redis 的大 key 问题怎么解决？","content_id":"2813874","title":"药帮忙java二面+hr面 面经"}
+{"qid":"q-2813424-0","question":"Redis的热key问题是什么？如何解决？","content_id":"2813424","title":"滴滴后端日常实习一面（50min）"}
+{"qid":"q-863860210215985152-4","question":"大key问题怎么处理？","content_id":"863860210215985152","title":"腾讯后台开发一面"}
+{"qid":"q-2808982-19","question":"Redis大Key如何处理？","content_id":"2808982","title":"美团 后端日常实习（OC）"}
+{"qid":"q-2804909-10","question":"Redis的热key和大key是什么？怎么解决？","content_id":"2804909","title":"腾讯c++后台开发一面"}
+{"qid":"q-2838388-3","question":"Redis热Key问题是什么？如何处理？","content_id":"2838388","title":"小米日常实习后端AI开发一面分享"}
+{"qid":"q-2837696-15","question":"集合类型的最大 key 或容量一般怎么控制？","content_id":"2837696","title":"日常实习 字节AI后端开发一面 攒人品中"}
+{"qid":"q-2837180-0","question":"Redis 大 key 问题如何优化？告警出现后如何处理？","content_id":"2837180","title":"pdd服务端开发实习 三面"}
+{"qid":"q-2836338-17","question":"大Key如何发现和删除","content_id":"2836338","title":"TME后台开发暑期实习 酷我车载业务部 一面面经"}
+{"qid":"q-2835545-4","question":"热点key是通过什么来判断的？","content_id":"2835545","title":"快手后端日常实习一面"}
+{"qid":"q-2834830-7","question":"分布式缓存热Key问题的解决方案有哪些？","content_id":"2834830","title":"AI全栈开发暑期实习二面 美团"}
+{"qid":"q-2834544-5","question":"热点 key 问题你怎么解决？","content_id":"2834544","title":"懂车帝后端ai开发二面分享 1h"}
+{"qid":"q-2834082-15","question":"集合类型的最大 key 或容量一般怎么控制？","content_id":"2834082","title":"字节日常实习 AI后端开发一面分享"}
+{"qid":"q-2834065-3","question":"如何解决Redis大Key和热Key的问题？","content_id":"2834065","title":"字节后端ai开发-27日常实习一面"}
+{"qid":"q-2834010-8","question":"如何处理Redis热Key问题？","content_id":"2834010","title":"携程 旅游事业部 后端暑期 一面"}
+{"qid":"q-2833812-4","question":"如果一条笔记爆火了怎么办？","content_id":"2833812","title":"字节后端ai开发二面-日常实习 1h"}
+{"qid":"q-2833751-7","question":"Redis热点key和大key问题如何处理？","content_id":"2833751","title":"去哪儿 后端一面"}
+{"qid":"q-2833737-6","question":"Big key和热点key问题如何处理？","content_id":"2833737","title":"美团暑期后端一面（已挂）"}
+{"qid":"q-872519789489504256-0","question":"Redis大key如何优化？例如将hash结构拆成string，优化前后的key分别是什么？","content_id":"872519789489504256","title":"pdd服务端开发实习 二面"}
+{"qid":"q-872519789489504256-1","question":"大key触发了什么告警？例如CPU打满","content_id":"872519789489504256","title":"pdd服务端开发实习 二面"}
+{"qid":"q-871815930236391424-21","question":"怎么解决热key问题","content_id":"871815930236391424","title":"4.9美团一面复盘加分享"}
+{"qid":"q-2830536-4","question":"如何解决Redis大Key和热Key问题？","content_id":"2830536","title":"字节一二三hr面 java面经（已off）"}
+{"qid":"q-2830319-8","question":"热Key问题怎么处理？","content_id":"2830319","title":"携程ai后端暑期实习一面-攒人品中"}
+{"qid":"q-878737227990253568-11","question":"如何处理高并发场景下的热点数据更新冲突？","content_id":"878737227990253568","title":"团子后端一面"}
+{"qid":"q-2843793-7","question":"热点Key问题如何处理","content_id":"2843793","title":"27实习有赞后端AI开发一面面经分享"}
+{"qid":"q-878291133086908416-11","question":"项目B中，如何解决Redis大key问题？","content_id":"878291133086908416","title":"小红书后端开发一面"}
+{"qid":"q-2843487-9","question":"set出现大Key怎么进行解决","content_id":"2843487","title":"AI全栈开发一面分享-小红书 50min"}
+{"qid":"q-2843064-4","question":"如何解决Redis大Key和热Key的问题？","content_id":"2843064","title":"字节实习 AI后端开发一面 55min"}
+{"qid":"q-2842761-2","question":"热key问题是什么？如何解决？","content_id":"2842761","title":"小米后端ai开发实习一面分享 1h"}
+{"qid":"q-2840552-8","question":"Redis大Key和热Key问题如何处理","content_id":"2840552","title":"4.20 美团金融服务后端 一面"}
+{"qid":"q-2840502-14","question":"String 类型，如果 value 大小几十兆会怎么样？","content_id":"2840502","title":"腾讯后台开发TME酷我车载业务部 二面"}
+{"qid":"q-2840502-15","question":"Set 类型元素个数过多怎么办？","content_id":"2840502","title":"腾讯后台开发TME酷我车载业务部 二面"}
+{"qid":"q-2826862-2","question":"Redis的big keys怎么监控与避免","content_id":"2826862","title":"中国平安春招一面"}
+{"qid":"q-2823195-8","question":"Redis热点key问题如何解决？","content_id":"2823195","title":"有赞java一面"}
+{"qid":"q-2818409-16","question":"Redis 大 key 如何拆分？","content_id":"2818409","title":"腾讯 go 后端开发二面（透心凉）"}

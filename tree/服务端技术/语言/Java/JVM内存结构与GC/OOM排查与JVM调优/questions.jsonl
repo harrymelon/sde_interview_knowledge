@@ -38,3 +38,40 @@
 {"qid":"q-2446756-4","question":"JVM 调优你知道哪些？","content_id":"2446756","title":"用友金融 实习 JAVA"}
 {"qid":"q-2817779-5","question":"怎么解决 OOM 问题？","content_id":"2817779","title":"9377游戏｜后端开发 面经（含答案）"}
 {"qid":"q-2814166-1","question":"排查CPU 100%的流程是怎样的？Full GC在什么时候发生？如何优化？","content_id":"2814166","title":"某券商一面（Java社招）"}
+{"qid":"q-2463882-12","question":"内存泄漏可能发生在哪些场景？","content_id":"2463882","title":"卓望数码 后端开发 一面面经"}
+{"qid":"q-2463882-13","question":"怎么避免内存泄漏？","content_id":"2463882","title":"卓望数码 后端开发 一面面经"}
+{"qid":"q-2813317-3","question":"内存溢出、频繁GC可能是什么原因？怎么优化？","content_id":"2813317","title":"3.12腾讯视频后端一面"}
+{"qid":"q-864174736723410944-0","question":"如何通过jmap命令生成堆转储文件？","content_id":"864174736723410944","title":"25年12月天阳科技Java后端开发工程师 二面"}
+{"qid":"q-2813279-11","question":"Java服务内存突然100%如何快速止损并定位问题","content_id":"2813279","title":"好未来二面（oc）"}
+{"qid":"q-2813279-12","question":"内存飙高可能原因清单（请求积压、死锁、递归、大对象、Excel导入等）","content_id":"2813279","title":"好未来二面（oc）"}
+{"qid":"q-2812561-0","question":"Arthas 具体使用的指令还记得吗？它还能解决什么问题？","content_id":"2812561","title":"安恒信息Java开发实习"}
+{"qid":"q-2812342-1","question":"如何排查JVM异常和进行调优？","content_id":"2812342","title":"字节社招后端一面"}
+{"qid":"q-2811668-2","question":"OOM（内存溢出）的原因与排查方法","content_id":"2811668","title":"网易有道Java服务端日常实习一面（50min）"}
+{"qid":"q-2809839-2","question":"线上机器频繁出现内存溢出，一般如何处理？如何基于MAT通过dump文件定位问题代码？如何及时止损？dump文件如何去看？有哪些东西是GC Root？","content_id":"2809839","title":"航旅纵横java春招后端一面"}
+{"qid":"q-2807432-2","question":"如果系统经常出现内存溢出如何进行避免","content_id":"2807432","title":"北京小厂 Java 实习面经"}
+{"qid":"q-2806451-4","question":"线上 OOM 问题排查经历","content_id":"2806451","title":"京东一面（Java社招）"}
+{"qid":"q-860858674003070976-3","question":"哪些区域比较容易发生OOM","content_id":"860858674003070976","title":"杭州小厂 零零科技 后端面经"}
+{"qid":"q-860858674003070976-4","question":"程序计数器会不会发生OOM","content_id":"860858674003070976","title":"杭州小厂 零零科技 后端面经"}
+{"qid":"q-2804947-9","question":"会发生 OOM 的区域有哪些？举一下相应的发生场景","content_id":"2804947","title":"转转一面（二面挂）"}
+{"qid":"q-2839350-11","question":"如何在无头服务器上使用jps、jstack等工具定位问题","content_id":"2839350","title":"26届后端java/go求职心得"}
+{"qid":"q-2838226-16","question":"内存溢出和内存泄漏？以及常见场景","content_id":"2838226","title":"字节飞书golang一面"}
+{"qid":"q-2837145-26","question":"OOM如何排查优化？","content_id":"2837145","title":"荣耀Java开发工程师实习生 一面面经"}
+{"qid":"q-2837145-27","question":"实际用过MAT吗？","content_id":"2837145","title":"荣耀Java开发工程师实习生 一面面经"}
+{"qid":"q-2835495-8","question":"遇到OOM问题（如接口无响应）如何排查？","content_id":"2835495","title":"字节后端ai开发一面分享 暑期实习"}
+{"qid":"q-873660050688991232-12","question":"有线上排查经验吗？比如说线上遇到瓶颈了，内存溢出，接口不响应等经验？或者知道如何去解决这些问题吗？","content_id":"873660050688991232","title":"27届-暑期实习-腾讯-数据计算平台-一面"}
+{"qid":"q-2833812-14","question":"用Java时，有没有遇到过OOM问题？应该怎么定位？","content_id":"2833812","title":"字节后端ai开发二面-日常实习 1h"}
+{"qid":"q-2831981-1","question":"JVM调优，出现OOM如何排查","content_id":"2831981","title":"携程暑期实习Java后端面经"}
+{"qid":"q-2831510-7","question":"服务OOM一般什么情况下会发生？如何排查？","content_id":"2831510","title":"快手日常实习 AI后端一面 夯爆了"}
+{"qid":"q-2830465-9","question":"内存溢出类型及避免方法","content_id":"2830465","title":"字节暑期实习后端开发方向  已oc"}
+{"qid":"q-2830042-12","question":"StackOverflowError和OutOfMemoryError的区别、排查与解决方法","content_id":"2830042","title":"携程暑期-ai后端开发一面 1h"}
+{"qid":"q-2829773-2","question":"JVM的OOM一般在什么情况下发生？如何排查OOM？","content_id":"2829773","title":"携程ai后端开发二面-日常实习"}
+{"qid":"q-2829535-9","question":"频繁发生Full GC该怎么排查？","content_id":"2829535","title":"ai后端开发一面-美团实习面经分享"}
+{"qid":"q-2829535-10","question":"怎么定位到代码？","content_id":"2829535","title":"ai后端开发一面-美团实习面经分享"}
+{"qid":"q-2843337-8","question":"什么情况下会发生 Full GC？","content_id":"2843337","title":"AI后端开发实习面经分享-美团"}
+{"qid":"q-2843337-9","question":"频繁发生 Full GC 该怎么排查？","content_id":"2843337","title":"AI后端开发实习面经分享-美团"}
+{"qid":"q-2843337-10","question":"怎么定位到代码（Full GC 排查中的代码定位）？","content_id":"2843337","title":"AI后端开发实习面经分享-美团"}
+{"qid":"q-877594204157861888-4","question":"Java常用命令有哪些，遇到过哪些实际问题","content_id":"877594204157861888","title":"微步在线Java一面"}
+{"qid":"q-2842627-10","question":"JVM内存结构、OOM排查以及Linux top指令查看信息","content_id":"2842627","title":"4.24 腾讯云智 后端一面"}
+{"qid":"q-2841798-8","question":"栈溢出（StackOverflowError）是如何产生的？","content_id":"2841798","title":"字节一面凉经（后端开发）"}
+{"qid":"q-2840502-4","question":"JVM 常见问题排查常用命令有哪些？","content_id":"2840502","title":"腾讯后台开发TME酷我车载业务部 二面"}
+{"qid":"q-2826862-8","question":"JVM调优，发现OOM如何进行排查与调优","content_id":"2826862","title":"中国平安春招一面"}

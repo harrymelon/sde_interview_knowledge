@@ -1,0 +1,8 @@
+{"qid":"q-2809808-6","question":"Execute Plan 模式具体是怎么实现的？","content_id":"2809808","title":"快手杭州电商-大模型应用java一面面经"}
+{"qid":"q-2838449-1","question":"在设计出的场景中，拆分出的子任务有依赖的情形怎么处理？","content_id":"2838449","title":"27暑期实习美团后端agent开发二面"}
+{"qid":"q-2831507-5","question":"长程任务（Long-running task）的Agent是如何实现的？","content_id":"2831507","title":"美团 软件开发（全栈）暑期实习 面经全记录（一面"}
+{"qid":"q-2830874-2","question":"为什么需要Planer，如果没有Planer会怎么样？","content_id":"2830874","title":"字节一面面经（应该是后端）"}
+{"qid":"q-2830567-4","question":"Planner/Executor/Supervisor模式的优点是什么","content_id":"2830567","title":"字节tiktok ai后端开发一面-日常"}
+{"qid":"q-2830567-5","question":"在Planner/Executor/Supervisor模式中，拆分为3个agent和只使用1个agent最关键的优势和区别是什么","content_id":"2830567","title":"字节tiktok ai后端开发一面-日常"}
+{"qid":"q-2825014-7","question":"Plan-Exec要解决什么问题？","content_id":"2825014","title":"字节AI应用后端开发 一二三面 面经"}
+{"qid":"q-2835946-0","question":"React 模式与 Plan-execute 模式的区别及应用场景","content_id":"2835946","title":"27日常实习 美团ai后端开发一面"}

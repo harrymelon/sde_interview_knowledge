@@ -19,3 +19,18 @@
 {"qid":"q-2535627-2","question":"ConcurrentHashMap 的实现原理","content_id":"2535627","title":"高德Java 一面"}
 {"qid":"q-2532292-14","question":"JAVA中有哪些线程安全的类","content_id":"2532292","title":"邦盛科技JAVA一二面"}
 {"qid":"q-2495918-1","question":"如何实现一个阻塞队列？需要添加哪些成员变量？实现一个阻塞添加元素的方法","content_id":"2495918","title":"【26日常】掌上先机 timeline+ 面经汇总"}
+{"qid":"q-2812046-6","question":"解释写时复制（Copy-on-Write）的原理和应用？","content_id":"2812046","title":"26.3.4 字节AI搜索一面"}
+{"qid":"q-2806865-12","question":"ArrayList和LinkedList是线程安全的吗？有哪些线程安全的集合？","content_id":"2806865","title":"美团AI工具后端开发"}
+{"qid":"q-2806452-4","question":"请介绍一下线程安全的类有哪些？","content_id":"2806452","title":"转转-java开发-一面"}
+{"qid":"q-2806269-6","question":"CopyOnWriteArrayList原理","content_id":"2806269","title":"卓世科技java一面"}
+{"qid":"q-2839595-1","question":"有哪些线程安全的集合？","content_id":"2839595","title":"熙牛医疗一面  Java后端"}
+{"qid":"q-2839595-2","question":"请说一下CopyOnWriteArrayList的原理","content_id":"2839595","title":"熙牛医疗一面  Java后端"}
+{"qid":"q-2837145-21","question":"ArrayList是线程安全的吗？List里面有哪些是线程安全的？","content_id":"2837145","title":"荣耀Java开发工程师实习生 一面面经"}
+{"qid":"q-873562699769073664-8","question":"常用的集合ArrayList和CopyOnWriteArrayList","content_id":"873562699769073664","title":"阳光保险一面"}
+{"qid":"q-2833170-0","question":"Java有哪些线程安全的集合？","content_id":"2833170","title":"百度ai后端开发一面分享-日常实习"}
+{"qid":"q-2830567-14","question":"Java多线程并发模型：生产消费模型，有大量生产者和消费者，如何用Java并发机制实现","content_id":"2830567","title":"字节tiktok ai后端开发一面-日常"}
+{"qid":"q-871343540444397568-2","question":"如果一个列表需要线程安全，应该怎么办？","content_id":"871343540444397568","title":"pdd 服务端研发实习生 一面"}
+{"qid":"q-871343540444397568-3","question":"CopyOnWriteArrayList、Vector、Collections.synchronizedList的原理分别是什么？","content_id":"871343540444397568","title":"pdd 服务端研发实习生 一面"}
+{"qid":"q-2845363-2","question":"Java集合有哪些？对ConcurrentHashMap的理解是什么？","content_id":"2845363","title":"字节一面，后端财经"}
+{"qid":"q-2844015-2","question":"Java中线程安全的集合有哪些？","content_id":"2844015","title":"27实习AI后端开发一面-百度"}
+{"qid":"q-2840700-15","question":"有哪些集合是线程安全的","content_id":"2840700","title":"招银网络科技春招（已OC"}

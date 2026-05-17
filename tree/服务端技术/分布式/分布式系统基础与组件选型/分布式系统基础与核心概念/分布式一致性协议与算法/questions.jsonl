@@ -1,0 +1,20 @@
+{"qid":"q-2571174-19","question":"ZooKeeper节点数量的考量原因","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2534920-15","question":"给多一倍的节点，Raft集群性能如何变成两倍","content_id":"2534920","title":"腾讯一二面泡池子（已 offer）"}
+{"qid":"q-2470476-4","question":"Raft协议中的状态（日志、任期）如何持久化存储？如果不持久化会有什么问题？","content_id":"2470476","title":"小红书日常实习-分布式存储"}
+{"qid":"q-2817751-11","question":"分布式KV中网络分片后怎么解决脑裂的，讲讲Raft算法（Leader选举，日志复制...），Raft算法是为了解决什么问题的？","content_id":"2817751","title":"B站大会员后端开发一面"}
+{"qid":"q-2814992-9","question":"etcd的原理与缺点","content_id":"2814992","title":"腾讯实习后端开发一面面经"}
+{"qid":"q-2813111-6","question":"Raft算法中节点宕机恢复时数据复制导致带宽占用过大，如何解决？","content_id":"2813111","title":"腾讯QQ后台开发一面"}
+{"qid":"q-2808313-26","question":"Raft协议是什么？在数据库中有哪些应用？","content_id":"2808313","title":"2026年03月02日 11点28分腾讯ieg春招技术面二面"}
+{"qid":"q-2839832-0","question":"介绍 Raft 共识算法","content_id":"2839832","title":"wxg后台开发一面"}
+{"qid":"q-2839832-1","question":"Raft 中会不会有选不出 Leader 的情况","content_id":"2839832","title":"wxg后台开发一面"}
+{"qid":"q-2839832-2","question":"Raft 中脑裂是什么","content_id":"2839832","title":"wxg后台开发一面"}
+{"qid":"q-2839832-3","question":"避免 Raft 脑裂的方法","content_id":"2839832","title":"wxg后台开发一面"}
+{"qid":"q-2839832-4","question":"随机选举超时如何实现避免脑裂","content_id":"2839832","title":"wxg后台开发一面"}
+{"qid":"q-2837011-2","question":"Raft共识算法原理","content_id":"2837011","title":"腾讯光子后台开发面经"}
+{"qid":"q-2834561-29","question":"Raft与Paxos的区别","content_id":"2834561","title":"字节暑期后端面经（一共五轮技术面人傻了）"}
+{"qid":"q-2834484-17","question":"etcd是强一致性的吗？","content_id":"2834484","title":"腾讯后台开发一面-腾讯云-技术与产品服务"}
+{"qid":"q-2834484-18","question":"为什么在etcd中使用offset？","content_id":"2834484","title":"腾讯后台开发一面-腾讯云-技术与产品服务"}
+{"qid":"q-2834484-19","question":"请介绍etcd的watch机制。","content_id":"2834484","title":"腾讯后台开发一面-腾讯云-技术与产品服务"}
+{"qid":"q-2833665-6","question":"Nacos有AP模式和CP模式，你了解吗？","content_id":"2833665","title":"字节日常实习ai后端开发一面 拷打麻了"}
+{"qid":"q-2829775-0","question":"Raft 项目的动机是什么？","content_id":"2829775","title":"Anker 安克创新 - 后端 - 一面"}
+{"qid":"q-864165388366467072-2","question":"脑裂场景下如何保证一致性","content_id":"864165388366467072","title":"字节后端二面，比一面难多了"}

@@ -7,3 +7,12 @@
 {"qid":"q-2734965-5","question":"异步处理先返回成功，但后续处理失败怎么办？","content_id":"2734965","title":"tplink 后端一面"}
 {"qid":"q-2543734-11","question":"一个事务中MySQL写入数据后RabbitMQ已发送消息，此时回滚该如何处理","content_id":"2543734","title":"成都致远互联Java一面"}
 {"qid":"q-2817469-0","question":"事务消息在项目中是怎么用的？","content_id":"2817469","title":"字节 AIDP后端开发暑期实习一面"}
+{"qid":"q-863064805987319808-5","question":"RocketMQ事务消息的原理与使用场景","content_id":"863064805987319808","title":"途虎养车-Java开发-二面  面经"}
+{"qid":"q-2809039-0","question":"为什么选择RocketMQ事务消息来实现异步消息？","content_id":"2809039","title":"货拉拉后端开发实习一面"}
+{"qid":"q-2838127-12","question":"先写 Kafka，再执行业务操作，还是先执行业务再写 Kafka ？","content_id":"2838127","title":"27实习腾讯后端ai开发一面分享"}
+{"qid":"q-874223817629913088-2","question":"消息队列如何实现最终一致性？","content_id":"874223817629913088","title":"阿里淘天 Java 后端二面面经"}
+{"qid":"q-2834830-4","question":"MQ事务消息与分布式事务的实现原理","content_id":"2834830","title":"AI全栈开发暑期实习二面 美团"}
+{"qid":"q-2833725-2","question":"为什么要用MQ来异步发送？这里会不会出现一致性问题？","content_id":"2833725","title":"懂车帝AI后端开发实习一面分享 65分钟"}
+{"qid":"q-2832129-6","question":"RocketMQ的事务消息是怎么回事？","content_id":"2832129","title":"蚂蚁智能体与大模型暑期实习一面面经"}
+{"qid":"q-2840476-13","question":"秒杀中 Redis 预处理和 RocketMQ 发送消息不一致怎么办？分布式事务如何解决？","content_id":"2840476","title":"腾讯暑期面筋！"}
+{"qid":"q-2840476-14","question":"下游数据不一致时如何检查和回滚？RocketMQ 事务消息原理（定时回查）？","content_id":"2840476","title":"腾讯暑期面筋！"}

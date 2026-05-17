@@ -33,3 +33,28 @@
 {"qid":"q-2446709-4","question":"为什么Zset用跳表而不用红黑树或B+树？","content_id":"2446709","title":"快手秋招 Java 一面"}
 {"qid":"q-2446748-6","question":"为什么Redis的zset用跳表而不用B+树？","content_id":"2446748","title":"数字马力 JAVA 二面"}
 {"qid":"q-2814388-2","question":"ZSet如何插入数据实现平衡性","content_id":"2814388","title":"春招Java后端开发 滴滴平台技术一二三面"}
+{"qid":"q-2809648-1","question":"Zset 有序集合的底层实现是什么？","content_id":"2809648","title":"3.9字节懂车帝社招一面"}
+{"qid":"q-2809648-2","question":"为什么 Zset 底层用跳表而不用红黑树？","content_id":"2809648","title":"3.9字节懂车帝社招一面"}
+{"qid":"q-2809648-3","question":"跳表相比于红黑树有哪些优点？","content_id":"2809648","title":"3.9字节懂车帝社招一面"}
+{"qid":"q-2807441-6","question":"Redis的Zset底层数据结构是什么？","content_id":"2807441","title":"3.12腾讯QQ后台实习"}
+{"qid":"q-2805596-5","question":"ZSet有序集合底层实现原理","content_id":"2805596","title":"27届小米java后端日常实习二面"}
+{"qid":"q-2839456-1","question":"Zset有序集合的底层数据结构是怎样的？","content_id":"2839456","title":"字节跳动-中国广告与贸易-后端开发"}
+{"qid":"q-2839331-7","question":"Zset（有序集合）的底层实现原理是什么？","content_id":"2839331","title":""}
+{"qid":"q-2837696-11","question":"zset的底层结构是什么？","content_id":"2837696","title":"日常实习 字节AI后端开发一面 攒人品中"}
+{"qid":"q-2837132-4","question":"zset底层，常用指令","content_id":"2837132","title":"腾讯云智后台开发暑期二面（已过）"}
+{"qid":"q-2837028-0","question":"Redis的ZSet底层是怎么实现的？","content_id":"2837028","title":"荣耀暑期一面"}
+{"qid":"q-2837063-9","question":"Zset 有序集合底层实现 (跳表 + 压缩列表)","content_id":"2837063","title":"滴滴后端一面二面 面经"}
+{"qid":"q-874688561830756352-7","question":"Redis Zset 在数据量比较小时，底层采用的数据结构是什么","content_id":"874688561830756352","title":"腾讯 CSIG 后台开发 一面"}
+{"qid":"q-2836356-15","question":"ZSet底层数据结构","content_id":"2836356","title":"腾讯后端一面凉经"}
+{"qid":"q-2836072-8","question":"Redis Zset 底层实现是什么？","content_id":"2836072","title":"腾讯云go后端一面"}
+{"qid":"q-2835684-3","question":"zset的底层数据结构类型是什么？","content_id":"2835684","title":"美团ai后端开发一面 27日常实习一面"}
+{"qid":"q-2834082-11","question":"zset的底层结构是什么？","content_id":"2834082","title":"字节日常实习 AI后端开发一面分享"}
+{"qid":"q-2833725-17","question":"说下Redis的ZSet结构，使用跳表查询一条消息的时间复杂度是多少？","content_id":"2833725","title":"懂车帝AI后端开发实习一面分享 65分钟"}
+{"qid":"q-2833233-5","question":"Redis 的 zset 底层结构是什么？","content_id":"2833233","title":"腾讯AI后台开发一面面经分享"}
+{"qid":"q-2833012-17","question":"Redis Zset底层实现，为什么用压缩列表而非仅用跳表？","content_id":"2833012","title":"拼多多服务端研发实习生 一面"}
+{"qid":"q-2832254-7","question":"Redis的zset用来干什么？底层原理是什么？","content_id":"2832254","title":"淘天一面（后端社招）"}
+{"qid":"q-2831567-2","question":"Redis zset的底层实现是什么？","content_id":"2831567","title":"4.10虾皮后端实习一面"}
+{"qid":"q-2831393-18","question":"ZSet是怎么实现的","content_id":"2831393","title":"腾讯 ima 4-8 已挂"}
+{"qid":"q-2830536-22","question":"ZSet底层数据结构？","content_id":"2830536","title":"字节一二三hr面 java面经（已off）"}
+{"qid":"q-2829336-5","question":"ZSet的底层实现是什么","content_id":"2829336","title":"美团软件开发工程师（后端方向）一面"}
+{"qid":"q-2843741-5","question":"解释sorted set的原理","content_id":"2843741","title":"字节后端ai开发实习二面 1h"}

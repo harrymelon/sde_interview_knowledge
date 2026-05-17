@@ -11,3 +11,4 @@
 {"qid":"q-2538136-2","question":"如何排查JVM内存泄漏或OOM？是否使用过内存dump分析工具？","content_id":"2538136","title":"虎牙春招java一二面记录"}
 {"qid":"q-2520207-1","question":"解释JVM内存栈溢出和堆溢出的原因及实际出现场景。","content_id":"2520207","title":"深圳 其域创新公司Java后端 面经"}
 {"qid":"q-2538136-3","question":"如何查看Java进程的垃圾回收频率？用什么命令？","content_id":"2538136","title":"虎牙春招java一二面记录"}
+{"qid":"q-2826862-9","question":"内存泄漏的原因，如何检测","content_id":"2826862","title":"中国平安春招一面"}

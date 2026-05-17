@@ -25,3 +25,27 @@
 {"qid":"q-2814531-12","question":"10分钟自动关单如何实现？","content_id":"2814531","title":"JDS京东健康26校招微凉"}
 {"qid":"q-2814388-3","question":"RocketMQ的顺序性如何保证","content_id":"2814388","title":"春招Java后端开发 滴滴平台技术一二三面"}
 {"qid":"q-2814388-4","question":"如果要求三个队列要按ABC顺序执行该怎么办","content_id":"2814388","title":"春招Java后端开发 滴滴平台技术一二三面"}
+{"qid":"q-2813459-6","question":"如何用MQ实现延迟消息？如果不使用MQ，如何实现延迟取消订单？","content_id":"2813459","title":"虾皮SSC后台二面(已oc)"}
+{"qid":"q-2812062-25","question":"如何保证群聊和单聊消息的顺序性？","content_id":"2812062","title":"真实业务和场景题的疯狂拷打"}
+{"qid":"q-863438829556961280-0","question":"RocketMQ如何保证消息顺序消费？请结合订单ID分区路由和单线程消费机制详细说明。","content_id":"863438829556961280","title":"快手 Java开发 一面"}
+{"qid":"q-2807868-11","question":"讲讲RocketMQ延迟消息原理","content_id":"2807868","title":"快手Java后端一面"}
+{"qid":"q-2806452-23","question":"MQ在项目中如何使用的？延迟队列如何实现定时任务和解耦？","content_id":"2806452","title":"转转-java开发-一面"}
+{"qid":"q-2805971-25","question":"Kafka消息生产和消费的顺序是否一定一致，如何保证消息顺序性","content_id":"2805971","title":"小黑盒（一面）"}
+{"qid":"q-2805363-12","question":"订单智能释放使用了RocketMQ延迟消息+定时任务兜底方案，为什么不能只用RocketMQ延迟消息？","content_id":"2805363","title":"腾讯27暑期提前批后台一面"}
+{"qid":"q-2839808-7","question":"延时队列的用处是什么，为什么用延时队列，怎么实现的，分布式场景下会不会有问题","content_id":"2839808","title":"京东后端一面"}
+{"qid":"q-875339281990967296-11","question":"顺序消息是如何实现的？","content_id":"875339281990967296","title":"Pdd-二面-4.13"}
+{"qid":"q-875339281990967296-12","question":"RocketMQ为什么能支持顺序消息？和Kafka有什么区别？","content_id":"875339281990967296","title":"Pdd-二面-4.13"}
+{"qid":"q-874424595946749952-13","question":"Kafka 消息的顺序性","content_id":"874424595946749952","title":"杭州小厂后端一面"}
+{"qid":"q-2836338-12","question":"Kafka如何保证消息有序","content_id":"2836338","title":"TME后台开发暑期实习 酷我车载业务部 一面面经"}
+{"qid":"q-2836302-14","question":"消息优先级通过partition区分是如何实现的","content_id":"2836302","title":"xtransfer 高级开发 一面 JAVA 社招两年"}
+{"qid":"q-2834703-22","question":"RocketMQ 中如何保证消息的顺序性？","content_id":"2834703","title":"字节一二三面hr面 面经 后端开发"}
+{"qid":"q-2834003-20","question":"RabbitMQ如何保证消息的顺序消费？","content_id":"2834003","title":"腾讯云智后台开发暑期一面"}
+{"qid":"q-2833597-16","question":"RocketMQ的延时队列是如何设计的？","content_id":"2833597","title":"虾皮大模型后端开发一面-日常实习"}
+{"qid":"q-2831510-5","question":"Kafka如何保证消息的有序性？如何对Kafka的partition做分类？","content_id":"2831510","title":"快手日常实习 AI后端一面 夯爆了"}
+{"qid":"q-2830536-25","question":"如何保证消息消费有序？","content_id":"2830536","title":"字节一二三hr面 java面经（已off）"}
+{"qid":"q-2830275-11","question":"RabbitMQ延迟队列怎么实现？","content_id":"2830275","title":"字节暑期实习ai后端二面-日常实习"}
+{"qid":"q-878944913642045440-5","question":"Kafka是否天然支持优先级队列？如果消息队列只支持投递，如何实现优先级队列和延迟队列？","content_id":"878944913642045440","title":"腾讯 CSIG 后台开发 一面"}
+{"qid":"q-2842925-6","question":"延时队列的用处是什么，为什么用延时队列，怎么实现的，分布式场景下会不会有问题","content_id":"2842925","title":"27实习京东后端ai开发一面分享"}
+{"qid":"q-2840476-0","question":"消费者并发消费框架怎么设计和实现，保证并发消费且 offset 提交顺序以避免丢消息？","content_id":"2840476","title":"腾讯暑期面筋！"}
+{"qid":"q-2840476-9","question":"超时订单关闭怎么解决？如何进行技术选型（Redis 标识/rdelayqueue、MySQL 轮询、RocketMQ 定时任务）？","content_id":"2840476","title":"腾讯暑期面筋！"}
+{"qid":"q-2828540-10","question":"延迟队列处理超时订单时，怎么通过乐观锁解决支付关单冲突的？","content_id":"2828540","title":"快手java后端一面(oc版😼)"}

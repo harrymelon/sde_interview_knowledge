@@ -1,0 +1,18 @@
+{"qid":"q-2791345-20","question":"你设计的Agent是怎么实现ReAct模式的？详细讲讲","content_id":"2791345","title":"字节 后端开发 (Agent中台)一面凉"}
+{"qid":"q-857289028817727488-4","question":"ReAct 模式下 Agent 思考进入死循环怎么解决？","content_id":"857289028817727488","title":"再战27暑期实习！SenseTime后端开发一面"}
+{"qid":"q-2776522-1","question":"说一下ReAct设计模式？","content_id":"2776522","title":"凯通科技公司 Java实习"}
+{"qid":"q-2811383-4","question":"什么是ReAct模式（Agent中的推理-行动模式）","content_id":"2811383","title":"字节后端一面"}
+{"qid":"q-2817712-12","question":"大模型在Agent系统中是思考核心，那工具调用的触发主体是谁？是Agent解析字符串触发，还是大模型主动分析意图后调用？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-2817712-13","question":"大语言模型输出字符串的机制是什么？工具调用的触发时机具体在哪个环节？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-863532788627116032-2","question":"Agent 如何判断某轮 Tool Call 之后是否需要结束？","content_id":"863532788627116032","title":"腾讯后端暑期实习面试记录"}
+{"qid":"q-2837949-8","question":"你怎么理解 ReAct 模式？它跟普通的大模型聊天有什么本质区别？","content_id":"2837949","title":"快手实习agent后端开发二面 攒人品"}
+{"qid":"q-2830469-9","question":"ReAct 架构与工具调用的关系是什么？模型如何根据工具调用结果做出下一步决策？","content_id":"2830469","title":"腾讯云agent后台开发二面-暑期实习"}
+{"qid":"q-2829786-0","question":"介绍一下 ReAct 框架的具体实现流程，Agent 在什么情况下容易陷入思考死循环（Thought Loop）？","content_id":"2829786","title":"字节后端实习agent一面分享"}
+{"qid":"q-2843373-9","question":"说说你用的ReAct范式，能解释一下吗？","content_id":"2843373","title":"腾讯AI后端开发日常实习一面分享"}
+{"qid":"q-2842785-5","question":"讲讲大模型的React模式。","content_id":"2842785","title":"27日常实习字节Agent后端开发二面"}
+{"qid":"q-2842778-5","question":"讲讲大模型的React","content_id":"2842778","title":"27实习字节后端agent开发一面"}
+{"qid":"q-2825014-3","question":"ReAct是怎么用的？","content_id":"2825014","title":"字节AI应用后端开发 一二三面 面经"}
+{"qid":"q-2825014-4","question":"ReAct有什么缺点？","content_id":"2825014","title":"字节AI应用后端开发 一二三面 面经"}
+{"qid":"q-860857950934437888-10","question":"大模型在Agent中是否完全自主决策？","content_id":"860857950934437888","title":"27 暑期实习 腾讯 后台开发 一面（2026.3.4）"}
+{"qid":"q-2829854-2","question":"如果模型自主思考并选择调用工具或执行操作，这种方式有什么问题？","content_id":"2829854","title":"字节暑期后端agent开发一面"}
+{"qid":"q-2829854-9","question":"在同一业务领域为什么不考虑做成单Agent，让模型自主思考后再调用？","content_id":"2829854","title":"字节暑期后端agent开发一面"}

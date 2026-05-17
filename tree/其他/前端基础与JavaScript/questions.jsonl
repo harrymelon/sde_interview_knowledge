@@ -1,0 +1,20 @@
+{"qid":"q-2817712-24","question":"为什么`const a = {i:1, toString: function(){ return a.i++; }}; console.log(a==1 \u0026\u0026 a==2 \u0026\u0026 a==3)`会输出true？其底层类型转换和执行顺序是怎样的？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}
+{"qid":"q-2816267-16","question":"对HTML、DOM、JavaScript的掌握程度如何？","content_id":"2816267","title":"北大软件(郑州)java实习面经"}
+{"qid":"q-862971738391441408-7","question":"JavaScript和TypeScript的区别","content_id":"862971738391441408","title":"社招 北京 全栈"}
+{"qid":"q-862367705284816896-13","question":"前端1000条数据如何查询优化？","content_id":"862367705284816896","title":"26届 小厂java实习面经"}
+{"qid":"q-862367705284816896-15","question":"多级页面提交如何保证数据完整性？","content_id":"862367705284816896","title":"26届 小厂java实习面经"}
+{"qid":"q-862367705284816896-16","question":"怎么做大数据量导入？","content_id":"862367705284816896","title":"26届 小厂java实习面经"}
+{"qid":"q-861892975133986816-8","question":"Promise和async/await的区别","content_id":"861892975133986816","title":"抖音 - AI 全栈工程师 实习 一面二面凉经"}
+{"qid":"q-2805282-11","question":"BFC是什么，如何触发？","content_id":"2805282","title":"第一次面试:Java全栈实习生面试题"}
+{"qid":"q-2805282-12","question":"Promise地狱与回调的区别是什么？","content_id":"2805282","title":"第一次面试:Java全栈实习生面试题"}
+{"qid":"q-860907344115306496-7","question":"JS熟悉吗？NodeJS用过吗？","content_id":"860907344115306496","title":"27届-某智驾云平台后端开发"}
+{"qid":"q-2839224-15","question":"sessionStorage、localStorage、cookie 的区别是什么？","content_id":"2839224","title":"思谋一面（全栈）"}
+{"qid":"q-2838926-7","question":"如何处理错误状态（错误调试和排查）","content_id":"2838926","title":"腾讯27实习 ai后端开发面经 1h"}
+{"qid":"q-2838926-8","question":"JavaScript的原型链","content_id":"2838926","title":"腾讯27实习 ai后端开发面经 1h"}
+{"qid":"q-2838469-17","question":"V8引擎垃圾回收机制是什么？","content_id":"2838469","title":"美团ai全栈开发 实习一面 纯干货夯爆了"}
+{"qid":"q-2837668-1","question":"JavaScript和HTML基础知识有哪些常见面试题？","content_id":"2837668","title":"美团26春招笔试第五场/全栈方向"}
+{"qid":"q-2833245-8","question":"如何减少安装包体积","content_id":"2833245","title":"掌先3.26后端Java技术面凉经"}
+{"qid":"q-2840964-1","question":"Tailwind CSS 的特点及其内置了哪些内容？","content_id":"2840964","title":"苏州聚复 全栈开发 已OC 附TL"}
+{"qid":"q-2840964-2","question":"grid布局、flex布局、盒子模型的概念与区别","content_id":"2840964","title":"苏州聚复 全栈开发 已OC 附TL"}
+{"qid":"q-2840964-4","question":"ES6有哪些特性？如何实现异步？","content_id":"2840964","title":"苏州聚复 全栈开发 已OC 附TL"}
+{"qid":"q-2816267-17","question":"如何处理前后端联调中的参数校验和异常？","content_id":"2816267","title":"北大软件(郑州)java实习面经"}

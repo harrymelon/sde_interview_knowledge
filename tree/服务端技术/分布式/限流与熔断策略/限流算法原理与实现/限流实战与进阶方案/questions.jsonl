@@ -1,0 +1,16 @@
+{"qid":"q-2817256-4","question":"100 人同时请求打满大模型 API 限速（Rate Limit）怎么解决？","content_id":"2817256","title":"323腾讯金融科技后台开发"}
+{"qid":"q-2813311-4","question":"RateLimiter组件如何实现限流","content_id":"2813311","title":"携程3.18Java开发一面面经"}
+{"qid":"q-2807404-3","question":"如何对调用大模型的服务进行限流以保护计算资源？如何确保高并发下正常工作？","content_id":"2807404","title":"字节后端实习一面"}
+{"qid":"q-2804986-0","question":"说说单个long变量实现限流咋做的？","content_id":"2804986","title":"中科闻歌-java实习面经"}
+{"qid":"q-2838237-2","question":"Guava RateLimiter组件是如何实现限流的？","content_id":"2838237","title":"27实习 携程AI后端开发一面分享"}
+{"qid":"q-875371683769565184-6","question":"B 平台针对下游模型的 TPM、QPM 限制，如何限流处理","content_id":"875371683769565184","title":"字节 TikTok-Shop 后端开发 二面"}
+{"qid":"q-875371683769565184-7","question":"在采用令牌桶的基础上，任务具有不同的优先级，如何处理","content_id":"875371683769565184","title":"字节 TikTok-Shop 后端开发 二面"}
+{"qid":"q-2842935-1","question":"动态限流如何实现？RateLimiter的原理是什么？","content_id":"2842935","title":"Tiktok后端ai开发一面面经 1h"}
+{"qid":"q-2840568-1","question":"动态限流如何实现，RateLimiter的原理","content_id":"2840568","title":"TikTok 国际电商后端一面"}
+{"qid":"q-2535627-13","question":"外部恶意攻击接口的处理方法","content_id":"2535627","title":"高德Java 一面"}
+{"qid":"q-2750435-17","question":"如果第三方外部接口不希望我们频繁调用，如何解决？","content_id":"2750435","title":"cider后端一面"}
+{"qid":"q-2530782-1","question":"接口限流具体是如何实现的？","content_id":"2530782","title":"快看漫画-Java后端开发实习生OC"}
+{"qid":"q-2809853-1","question":"限流是怎么实现的？","content_id":"2809853","title":"字节- AML大模型后端开发-一二面"}
+{"qid":"q-2835092-3","question":"限流怎么实现？","content_id":"2835092","title":"国投智能java实习面经"}
+{"qid":"q-862395801836720128-7","question":"有哪些常见的限流方法？","content_id":"862395801836720128","title":"腾讯后台开发一面"}
+{"qid":"q-2812231-33","question":"限流算法","content_id":"2812231","title":"字节后端-推荐架构面经 已offer"}

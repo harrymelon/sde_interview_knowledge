@@ -1,0 +1,11 @@
+{"qid":"q-2785774-10","question":"说说Redis的一些常见命令","content_id":"2785774","title":"实在智能-Java开发-实习一面"}
+{"qid":"q-2571174-7","question":"Lua脚本执行时间很长，怎么排查","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2446748-0","question":"Redis的部署方式有哪些？","content_id":"2446748","title":"数字马力 JAVA 二面"}
+{"qid":"q-2816999-4","question":"Redis的基本使用方法","content_id":"2816999","title":"安恒信息Java开发实习"}
+{"qid":"q-2806894-1","question":"Redis Pipeline 的底层原理是什么？在项目中具体用来解决什么问题？用了哪些函数？","content_id":"2806894","title":"转转二面"}
+{"qid":"q-2806894-2","question":"除了 Redis Pipeline，还有哪些方式可以实现命令批处理？","content_id":"2806894","title":"转转二面"}
+{"qid":"q-874688561830756352-1","question":"Redis Pipeline 是原子性的吗","content_id":"874688561830756352","title":"腾讯 CSIG 后台开发 一面"}
+{"qid":"q-874688561830756352-2","question":"Pipeline 部分成功，如何定位以及解决","content_id":"874688561830756352","title":"腾讯 CSIG 后台开发 一面"}
+{"qid":"q-2814392-17","question":"Redis的SYNC指令的使用","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}
+{"qid":"q-873246417131692032-7","question":"使用Redis缓存用什么客户端，代码里怎么写","content_id":"873246417131692032","title":"中航信移动科技股份有限公司 java开发 已OC"}
+{"qid":"q-2845440-5","question":"Java有什么自带的Redis客户端或本地缓存？","content_id":"2845440","title":"字节暑期后端ai开发一面面经分享"}

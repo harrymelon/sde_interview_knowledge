@@ -15,3 +15,17 @@
 {"qid":"q-2777329-4","question":"怎么保证两个操作不被打断？","content_id":"2777329","title":"快手商业化Java日常实习二面凉经"}
 {"qid":"q-2542981-18","question":"Undo Log记录的内容是什么","content_id":"2542981","title":"滴滴日常后端一二面面经（排序ing）"}
 {"qid":"q-2598999-11","question":"MySQL事务是如何实现的？","content_id":"2598999","title":""}
+{"qid":"q-863815304080564224-12","question":"事务ACID特性，InnoDB存储引擎分别怎么保证的","content_id":"863815304080564224","title":"番茄小说后端开发 一面"}
+{"qid":"q-862335021128978432-0","question":"InnoDB 事务原子性是依靠什么机制保证的？","content_id":"862335021128978432","title":"星云联动 Java开发 二面"}
+{"qid":"q-2808720-8","question":"MySQL的事务特性以及实现原理是什么？","content_id":"2808720","title":"腾讯后台开发二面"}
+{"qid":"q-2804856-3","question":"MySQL ACID的实现原理","content_id":"2804856","title":"腾讯云后端开发日常实习一面凉经"}
+{"qid":"q-2837995-10","question":"MySQL事务的特性（ACID）及实现原理","content_id":"2837995","title":"腾讯AI后台开发二面分享"}
+{"qid":"q-2837961-10","question":"InnoDB 的事务是怎么实现的？","content_id":"2837961","title":"暑期实习 腾讯后端ai开发一面凉经"}
+{"qid":"q-2834014-1","question":"MySQL事务的四大特性是什么？如何实现？","content_id":"2834014","title":"北森云计算一面+HR"}
+{"qid":"q-2833597-11","question":"InnoDB事务是如何实现的？","content_id":"2833597","title":"虾皮大模型后端开发一面-日常实习"}
+{"qid":"q-2831067-13","question":"订单流程中如何用事务保证扣库存和生成订单的原子性？","content_id":"2831067","title":"27暑期携程 AI后端一面"}
+{"qid":"q-2829403-8","question":"解释数据库ACID特性，并用项目例子说明实现原理","content_id":"2829403","title":"ai后端开发暑期实习一面-蚂蚁"}
+{"qid":"q-2845511-5","question":"事务的原子性是什么？如何实现原子性？","content_id":"2845511","title":"浩鲸科技Java面经"}
+{"qid":"q-2845463-1","question":"怎么保证事务间的一致性","content_id":"2845463","title":"春招面经分享-携程后端ai开发一面"}
+{"qid":"q-2842972-10","question":"MySQL的事务特性以及实现原理","content_id":"2842972","title":"27实习面经-腾讯后端AI开发二面"}
+{"qid":"q-2824471-3","question":"MySQL如何实现事务的？底层原理是什么？","content_id":"2824471","title":"3.31飞猪java后端开发一面"}

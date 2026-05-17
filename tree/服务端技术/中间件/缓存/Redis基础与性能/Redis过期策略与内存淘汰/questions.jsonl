@@ -31,3 +31,32 @@
 {"qid":"q-2455681-2","question":"项目中用户数据的过期怎么判定的？","content_id":"2455681","title":"快手 后端开发 日常实习一面面经"}
 {"qid":"q-2444531-2","question":"Redis过期时间设置多久，超过过期时间会怎样？","content_id":"2444531","title":"盒马秋招Java二面"}
 {"qid":"q-2816472-7","question":"Redis存储时内存不够了怎么办？","content_id":"2816472","title":"携程 后端开发实习"}
+{"qid":"q-2812561-1","question":"Redis 如果内存满了，再查数据或者写数据会怎么办","content_id":"2812561","title":"安恒信息Java开发实习"}
+{"qid":"q-2812342-4","question":"Redis数据存储的Key数量限制、内存满了如何处理、过期数据淘汰策略","content_id":"2812342","title":"字节社招后端一面"}
+{"qid":"q-2812181-2","question":"缓存过期机制具体如何实现（例如两秒过期、十秒过期）？","content_id":"2812181","title":"26.3.17 腾讯QQ游戏中心二面"}
+{"qid":"q-2812181-4","question":"惰性淘汰方案会有什么问题？","content_id":"2812181","title":"26.3.17 腾讯QQ游戏中心二面"}
+{"qid":"q-2812052-17","question":"redis淘汰策略","content_id":"2812052","title":"熙牛医疗java一面面经"}
+{"qid":"q-2809612-11","question":"Redis的key过期策略有哪些？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2809612-12","question":"Redis过期删除后内存会立刻释放吗？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2809612-13","question":"Redis内存满了有哪些淘汰策略？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2806865-1","question":"Redis中访问很少的key因为内存不足怎么处理？","content_id":"2806865","title":"美团AI工具后端开发"}
+{"qid":"q-2839629-10","question":"Redis的内存淘汰策略有哪些","content_id":"2839629","title":"字节后端飞书低代码平台一面"}
+{"qid":"q-2839224-11","question":"Redis 过期删除策略有哪些？","content_id":"2839224","title":"思谋一面（全栈）"}
+{"qid":"q-2837145-30","question":"Redis过期删除策略和内存淘汰策略是什么？","content_id":"2837145","title":"荣耀Java开发工程师实习生 一面面经"}
+{"qid":"q-2836338-16","question":"Redis过期键删除策略和内存淘汰策略","content_id":"2836338","title":"TME后台开发暑期实习 酷我车载业务部 一面面经"}
+{"qid":"q-2835536-1","question":"Redis过期时间你是怎么评估的？有没有考虑内存淘汰策略？","content_id":"2835536","title":"保险外包Java岗"}
+{"qid":"q-2834703-2","question":"Redis常用的淘汰策略有哪些？如果让你实现Redis里面的最少使用淘汰策略（LRU）和基于频率的淘汰策略有哪些？","content_id":"2834703","title":"字节一二三面hr面 面经 后端开发"}
+{"qid":"q-2834703-29","question":"内存淘汰的触发机制是什么？","content_id":"2834703","title":"字节一二三面hr面 面经 后端开发"}
+{"qid":"q-2834678-9","question":"Redis内存淘汰策略","content_id":"2834678","title":"字节-日常实习-后台ai开发一面分享"}
+{"qid":"q-2834014-8","question":"Redis的过期策略和淘汰策略是什么？","content_id":"2834014","title":"北森云计算一面+HR"}
+{"qid":"q-2833003-6","question":"TTL时间设计得短，热点数据打入Redis，Redis这时候过期了怎么办","content_id":"2833003","title":"27实习字节后端ai开发一面 1h"}
+{"qid":"q-2831939-3","question":"Redis的过期策略有哪些？","content_id":"2831939","title":"字节二面-后端"}
+{"qid":"q-871815930236391424-18","question":"Redis的删除策略","content_id":"871815930236391424","title":"4.9美团一面复盘加分享"}
+{"qid":"q-2830605-12","question":"Redis的过期策略和内存淘汰机制？","content_id":"2830605","title":"9本无实习Java Agent阿里一面"}
+{"qid":"q-2830295-10","question":"Redis TTL和懒刷新的区别","content_id":"2830295","title":"小红书暑期实习 AI全栈开发 二面"}
+{"qid":"q-2845280-2","question":"介绍一下你了解的 Redis 缓存策略？","content_id":"2845280","title":"百度暑期实习后端AI开发二面凉经 好难"}
+{"qid":"q-2844806-5","question":"Redis的过期策略是怎么处理的？","content_id":"2844806","title":"27实习字节后端ai开发一面凉经分享"}
+{"qid":"q-2843681-1","question":"内存快溢出的时候，Redis是怎么清除内存的？","content_id":"2843681","title":"字节后端ai开发一面-实习面经分享"}
+{"qid":"q-2843487-3","question":"redis的内存淘汰策略","content_id":"2843487","title":"AI全栈开发一面分享-小红书 50min"}
+{"qid":"q-2843487-4","question":"redis的过期删除策略","content_id":"2843487","title":"AI全栈开发一面分享-小红书 50min"}
+{"qid":"q-2841798-3","question":"Redis的淘汰策略有哪些？","content_id":"2841798","title":"字节一面凉经（后端开发）"}

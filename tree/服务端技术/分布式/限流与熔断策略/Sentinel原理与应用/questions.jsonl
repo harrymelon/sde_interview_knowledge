@@ -7,3 +7,5 @@
 {"qid":"q-2604061-12","question":"除了Sentinel限流之外，可不可以用Redis做限流","content_id":"2604061","title":"soul java凉经，二面挂"}
 {"qid":"q-2604061-13","question":"Sentinel的原理和架构","content_id":"2604061","title":"soul java凉经，二面挂"}
 {"qid":"q-2528555-6","question":"Sentinel如何实现限流操作？","content_id":"2528555","title":"java小厂（0-20人）实习 一面面经（已oc"}
+{"qid":"q-861650239273308160-3","question":"Sentinel 限流熔断的原理与实现","content_id":"861650239273308160","title":"异工同智-Java开发  二面 面经"}
+{"qid":"q-2831555-9","question":"Sentinel是什么，有什么用，有哪些算法（数据统计算法和流量控制算法）","content_id":"2831555","title":"4.10京东后端实习一面凉经"}

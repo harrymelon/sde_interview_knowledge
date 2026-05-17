@@ -30,3 +30,38 @@
 {"qid":"q-864456050827612160-3","question":"如何解决Spring循环依赖问题（A依赖B，B依赖A）？","content_id":"864456050827612160","title":"用友 JAVA开发 - 一面"}
 {"qid":"q-2814864-8","question":"业务中出现循环依赖如何解决","content_id":"2814864","title":"广州联奕科技Java后端实习一面"}
 {"qid":"q-2814166-0","question":"Spring Bean的生命周期是怎样的？有没有使用过相关的Hook？","content_id":"2814166","title":"某券商一面（Java社招）"}
+{"qid":"q-876423852971065344-8","question":"Spring有哪些扩展机制？如何动态加载Bean？","content_id":"876423852971065344","title":"致远互联 Java开发一面"}
+{"qid":"q-2839595-17","question":"Spring Bean的作用域有哪些？","content_id":"2839595","title":"熙牛医疗一面  Java后端"}
+{"qid":"q-2838636-10","question":"说一下spring bean的生命周期，分为几个阶段","content_id":"2838636","title":"大二双非双一流本科后端开发小厂面经"}
+{"qid":"q-2838388-7","question":"Spring如何解决循环依赖问题？","content_id":"2838388","title":"小米日常实习后端AI开发一面分享"}
+{"qid":"q-874796779600998400-7","question":"Spring Bean的底层生命周期是怎样的？","content_id":"874796779600998400","title":"成都致远互联java后端一面"}
+{"qid":"q-2837145-20","question":"Spring怎么解决Bean对象循环依赖？","content_id":"2837145","title":"荣耀Java开发工程师实习生 一面面经"}
+{"qid":"q-2835946-8","question":"Bean 的作用域有哪些，怎么决定是单例还是其他作用域","content_id":"2835946","title":"27日常实习 美团ai后端开发一面"}
+{"qid":"q-2835587-2","question":"Bean生命周期在项目中的实际应用","content_id":"2835587","title":"邦盛科技面试"}
+{"qid":"q-2834588-10","question":"什么是Spring的循环依赖？怎么解决循环依赖？","content_id":"2834588","title":"4.10美团后端ai开发一面 攒人品中"}
+{"qid":"q-2834065-4","question":"Spring框架中Bean是如何初始化的？","content_id":"2834065","title":"字节后端ai开发-27日常实习一面"}
+{"qid":"q-2834065-5","question":"Spring如何解决Bean循环依赖问题？","content_id":"2834065","title":"字节后端ai开发-27日常实习一面"}
+{"qid":"q-2834011-10","question":"Bean的生命周期","content_id":"2834011","title":"快手 本地生活核心 后端暑期 一面"}
+{"qid":"q-873246417131692032-11","question":"Spring Bean的生命周期","content_id":"873246417131692032","title":"中航信移动科技股份有限公司 java开发 已OC"}
+{"qid":"q-2833737-12","question":"Spring循环依赖为什么不能解决构造器注入？","content_id":"2833737","title":"美团暑期后端一面（已挂）"}
+{"qid":"q-2833012-3","question":"Spring Boot中Bean的加载流程","content_id":"2833012","title":"拼多多服务端研发实习生 一面"}
+{"qid":"q-2833012-4","question":"Java如何实现类似C++析构函数的资源释放与优雅停机能力？","content_id":"2833012","title":"拼多多服务端研发实习生 一面"}
+{"qid":"q-2831096-32","question":"Spring Boot如何创建一个Bean？new一个对象怎么添加进容器？","content_id":"2831096","title":"春秋航空-Java开发实习"}
+{"qid":"q-2831070-14","question":"Spring怎么解决循环依赖？","content_id":"2831070","title":"美团暑期实习 ai后端一面分享"}
+{"qid":"q-2830915-7","question":"项目启动时初始化一个对象有哪些做法？","content_id":"2830915","title":"tme腾讯音乐后台开发暑期实习一面面经"}
+{"qid":"q-2830915-8","question":"Spring Boot的Bean生命周期","content_id":"2830915","title":"tme腾讯音乐后台开发暑期实习一面面经"}
+{"qid":"q-2830605-8","question":"Spring IoC容器启动流程和Bean生命周期是怎样的？","content_id":"2830605","title":"9本无实习Java Agent阿里一面"}
+{"qid":"q-2830549-16","question":"请深入讲解一下Spring的IOC容器是如何管理Bean的生命周期的？特别是遇到带有AOP增强的循环依赖时，三级缓存是如何精妙运作来解决这个死循环问题的？","content_id":"2830549","title":"爱学习一面"}
+{"qid":"q-2830536-5","question":"Spring框架中Bean如何初始化？","content_id":"2830536","title":"字节一二三hr面 java面经（已off）"}
+{"qid":"q-2830536-6","question":"Spring怎么解决Bean循环依赖问题？","content_id":"2830536","title":"字节一二三hr面 java面经（已off）"}
+{"qid":"q-2830306-7","question":"Spring如何解决循环依赖？","content_id":"2830306","title":"暑期实习-字节-ai后端一面面经"}
+{"qid":"q-871416350042775552-13","question":"Spring Bean的生命周期是怎样的？","content_id":"871416350042775552","title":"浩鲸科技一面"}
+{"qid":"q-878737227990253568-4","question":"Spring中Bean的完整生命周期是怎样的？","content_id":"878737227990253568","title":"团子后端一面"}
+{"qid":"q-2843064-5","question":"Spring框架中Bean是如何初始化的？","content_id":"2843064","title":"字节实习 AI后端开发一面 55min"}
+{"qid":"q-2842995-7","question":"bean的作用域，怎么决定它是单例的还是什么？","content_id":"2842995","title":"日常实习- AI后端开发一面-美团"}
+{"qid":"q-2842761-5","question":"Spring如何解决循环依赖问题？","content_id":"2842761","title":"小米后端ai开发实习一面分享 1h"}
+{"qid":"q-2840700-7","question":"Spring Bean的生命周期是怎样的","content_id":"2840700","title":"招银网络科技春招（已OC"}
+{"qid":"q-2840552-3","question":"构造器可以通过循环依赖解决吗","content_id":"2840552","title":"4.20 美团金融服务后端 一面"}
+{"qid":"q-2828551-0","question":"BeanPostProcessor 的原理与使用场景是什么？","content_id":"2828551","title":"一入后端深似海"}
+{"qid":"q-2828551-1","question":"Bean 的生命周期包括哪些阶段？","content_id":"2828551","title":"一入后端深似海"}
+{"qid":"q-2824126-5","question":"框架中类的嵌套循环问题如何处理（循环依赖）","content_id":"2824126","title":"27届 小红书PE全栈 一面 35min"}

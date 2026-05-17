@@ -26,3 +26,19 @@
 {"qid":"q-2470448-1","question":"基本数据类型的存储结构是怎样的？","content_id":"2470448","title":"雷火一二面服务端"}
 {"qid":"q-2442643-0","question":"你了解C++吗？","content_id":"2442643","title":"中煤科工重庆研究院"}
 {"qid":"q-864591054404710400-1","question":"STL容器有哪些？它们之间的关系和特点是什么？","content_id":"864591054404710400","title":"C++"}
+{"qid":"q-2813111-0","question":"可变参数函数使用不当导致越界访问段错误的原因是什么？","content_id":"2813111","title":"腾讯QQ后台开发一面"}
+{"qid":"q-2813079-1","question":"形参和实参的区别是什么？","content_id":"2813079","title":"攒人品-平旦科技-c++"}
+{"qid":"q-2813079-8","question":"C语言和C++的区别是什么？","content_id":"2813079","title":"攒人品-平旦科技-c++"}
+{"qid":"q-2810543-3","question":"C++中static关键字的作用与用法","content_id":"2810543","title":"中控技术  面试c++服务端  社招 一面+二面"}
+{"qid":"q-862012179757764608-0","question":"const 关键字的四种常见用法是什么？","content_id":"862012179757764608","title":"阿里 飞猪-C++研发工程师 一面"}
+{"qid":"q-2837358-1","question":"static 和 const 的多种用法和区别是什么？","content_id":"2837358","title":"字节一面"}
+{"qid":"q-2836567-2","question":"请解释C++ sort函数的底层排序原理（如内省排序、插入排序、快排等）。","content_id":"2836567","title":"柠檬微趣一面凉经"}
+{"qid":"q-2834526-0","question":"数组和链表有什么区别？","content_id":"2834526","title":"恒生电子一面面经分享"}
+{"qid":"q-872807493699715072-10","question":"static关键字的作用","content_id":"872807493699715072","title":"卓望数码 C++开发一面"}
+{"qid":"q-871416511011840000-3","question":"static关键字的作用与用法","content_id":"871416511011840000","title":"OD面经-Python转C"}
+{"qid":"q-871416511011840000-4","question":"const关键字的作用与用法","content_id":"871416511011840000","title":"OD面经-Python转C"}
+{"qid":"q-2829764-0","question":"C++ 的主要构造函数有哪些？","content_id":"2829764","title":"百度 - 后端 - 一面"}
+{"qid":"q-2829764-7","question":"手撕 String 拷贝构造函数","content_id":"2829764","title":"百度 - 后端 - 一面"}
+{"qid":"q-2845755-5","question":"static关键字用法（可以有this指针吗）？","content_id":"2845755","title":"博世面经"}
+{"qid":"q-2823507-2","question":"C++中static修饰变量和修饰函数有什么区别？","content_id":"2823507","title":"26.3.19 腾讯广告cpp一面"}
+{"qid":"q-2823507-4","question":"为什么static变量不会每次调用都重新初始化？","content_id":"2823507","title":"26.3.19 腾讯广告cpp一面"}

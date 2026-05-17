@@ -11,3 +11,8 @@
 {"qid":"q-2788359-14","question":"socket如何保证一次性读取完整数据？","content_id":"2788359","title":"字节26秋招 C++面经"}
 {"qid":"q-2781460-9","question":"Socket编程用过吗？","content_id":"2781460","title":"9.腾讯PCG后端实习一面挂"}
 {"qid":"q-2692379-14","question":"怎么处理多个客户端的请求连接","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
+{"qid":"q-2812208-16","question":"epoll的et跟it有什么区别？边缘触发要怎么调整代码","content_id":"2812208","title":"经纬恒润 C++开发实习一面"}
+{"qid":"q-875682428113670144-2","question":"什么是 Reactor 模型？","content_id":"875682428113670144","title":"滴滴C++一面复盘"}
+{"qid":"q-2837358-5","question":"epoll 水平触发和边缘触发有何差异？","content_id":"2837358","title":"字节一面"}
+{"qid":"q-2833737-8","question":"惊群效应是什么？","content_id":"2833737","title":"美团暑期后端一面（已挂）"}
+{"qid":"q-876934262254034944-0","question":"请描述TcpServer的实现思路和核心流程","content_id":"876934262254034944","title":"南京予芯 C++应用开发 实习"}

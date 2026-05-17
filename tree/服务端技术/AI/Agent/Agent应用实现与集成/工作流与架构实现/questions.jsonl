@@ -1,0 +1,39 @@
+{"qid":"q-2791575-20","question":"某智能oncall的agent系统的核心agent型架构是怎样的？","content_id":"2791575","title":"【Zuvi原里-全栈开发工程师-一面】技术面经"}
+{"qid":"q-2791575-21","question":"某智能oncall的agent系统开发中，除了使用相关AI工具外，做的最多的工作是哪些，具体是如何实现的？","content_id":"2791575","title":"【Zuvi原里-全栈开发工程师-一面】技术面经"}
+{"qid":"q-2777924-1","question":"整个产品的工作流架构是什么？","content_id":"2777924","title":"字节跳动即梦全栈一面"}
+{"qid":"q-2777464-8","question":"大模型Agent的构建流程是怎样的？","content_id":"2777464","title":"百度网盘 国际化Go实习一面凉经"}
+{"qid":"q-2779037-8","question":"AI项目后台调用API的代码位置以及整体代码架构是怎样的？","content_id":"2779037","title":"2026.1.7 蚂蚁集团-服务端研发（java）一面 40min"}
+{"qid":"q-2776522-0","question":"请说一下智能体是如何搭建的，使用了哪些模型，如何实现多模态特点？","content_id":"2776522","title":"凯通科技公司 Java实习"}
+{"qid":"q-2776522-2","question":"项目中智能助手是如何工作的？","content_id":"2776522","title":"凯通科技公司 Java实习"}
+{"qid":"q-2814417-2","question":"请详细解释Agent的具体实现流程","content_id":"2814417","title":"携程后端一面"}
+{"qid":"q-2812017-3","question":"智能体项目的技术栈和实现方式是什么？","content_id":"2812017","title":"腾讯S3 后台开发 一面凉经"}
+{"qid":"q-2838996-9","question":"Agent编排有了解过吗？","content_id":"2838996","title":"云智后台开发一面面经分享"}
+{"qid":"q-2837949-3","question":"你的 agent 项目整体是如何设计的？","content_id":"2837949","title":"快手实习agent后端开发二面 攒人品"}
+{"qid":"q-2837949-7","question":"一次会话请求从用户发出到模型返回的完整过程是什么？涉及到哪些类的调用和流转？","content_id":"2837949","title":"快手实习agent后端开发二面 攒人品"}
+{"qid":"q-2837949-9","question":"如果让你基于 ReAct 架构构建一个“天气问答智能体”，你需要开发哪些类和功能模块？","content_id":"2837949","title":"快手实习agent后端开发二面 攒人品"}
+{"qid":"q-2837734-0","question":"Agent内部具体的实现可以再详细介绍一下吗？","content_id":"2837734","title":"AI后台开发日常实习一面分享 字节"}
+{"qid":"q-2835106-7","question":"基于 Spring AI 的 AI Agent 整体流程是什么？","content_id":"2835106","title":"万类智生 后端开发面经"}
+{"qid":"q-2835106-8","question":"基础任务（比如查天气）完整流转逻辑是怎样的？","content_id":"2835106","title":"万类智生 后端开发面经"}
+{"qid":"q-2835106-15","question":"最小闭环（比如 “早上好” 交互）怎么实现？","content_id":"2835106","title":"万类智生 后端开发面经"}
+{"qid":"q-2834674-0","question":"Agent架构如何跑起来，包含哪些模块？","content_id":"2834674","title":"字节跳动tiktok后端三面"}
+{"qid":"q-2834081-7","question":"Agent执行过程是怎么流转的？","content_id":"2834081","title":"美团暑期后端AI开发二面 攒人品中"}
+{"qid":"q-2834484-26","question":"智能体消息传递是如何实现的？","content_id":"2834484","title":"腾讯后台开发一面-腾讯云-技术与产品服务"}
+{"qid":"q-2834484-27","question":"项目中的智能体状态流转是如何实现的？","content_id":"2834484","title":"腾讯后台开发一面-腾讯云-技术与产品服务"}
+{"qid":"q-873229176470331392-0","question":"在agent项目中，最核心的产出或创新性最足的部分是什么？","content_id":"873229176470331392","title":"小红书AI后端开发一面"}
+{"qid":"q-873229176470331392-1","question":"能否具体讲讲节点编排是如何实现的？与其他行业框架（如 Coze、Dify）相比有何异同？","content_id":"873229176470331392","title":"小红书AI后端开发一面"}
+{"qid":"q-2833140-1","question":"Agent内部具体的实现可以再详细介绍一下吗？","content_id":"2833140","title":"27字节AI后台开发日常实习一面"}
+{"qid":"q-2831333-1","question":"Agent 内部具体的实现可以再详细介绍一下吗？","content_id":"2831333","title":"字节ai后台开发日常实习一面分享"}
+{"qid":"q-2831393-0","question":"你是怎么构建这个agent的（组装链+执行链）","content_id":"2831393","title":"腾讯 ima 4-8 已挂"}
+{"qid":"q-2830874-4","question":"假设你来做一个Claude你要怎么做？","content_id":"2830874","title":"字节一面面经（应该是后端）"}
+{"qid":"q-2830567-0","question":"请详细介绍一下Agent项目的核心功能","content_id":"2830567","title":"字节tiktok ai后端开发一面-日常"}
+{"qid":"q-2830567-2","question":"系统有哪几个主要的组成部分","content_id":"2830567","title":"字节tiktok ai后端开发一面-日常"}
+{"qid":"q-2830182-3","question":"如何判断该调用哪一个Agent？代码具体怎么实现？","content_id":"2830182","title":"虾皮ai后端开发-暑期实习一面 攒人品"}
+{"qid":"q-2829786-5","question":"类 Manus 的 Agent 需要频繁操作环境，如何实现一个高可用的任务调度器，要考虑哪些方面？","content_id":"2829786","title":"字节后端实习agent一面分享"}
+{"qid":"q-2829786-10","question":"为什么 Agent 后端通常采用异步非阻塞模型？","content_id":"2829786","title":"字节后端实习agent一面分享"}
+{"qid":"q-2845363-4","question":"对AI agent的理解，开发时整个流程大概什么样？","content_id":"2845363","title":"字节一面，后端财经"}
+{"qid":"q-2845287-1","question":"讲一下你的AI功能的执行流程","content_id":"2845287","title":"面试官拷打AI项目时会问什么"}
+{"qid":"q-2845328-1","question":"介绍一下 AI Agent 项目的完整链路和解决的问题？","content_id":"2845328","title":"字节 二面 后端 面经"}
+{"qid":"q-2825014-6","question":"你用ReAct做过什么任务？","content_id":"2825014","title":"字节AI应用后端开发 一二三面 面经"}
+{"qid":"q-2818409-20","question":"有 Agent 开发相关的经历吗？Agent 开发如何实现？","content_id":"2818409","title":"腾讯 go 后端开发二面（透心凉）"}
+{"qid":"q-857289028817727488-6","question":"流式处理是怎么做的？","content_id":"857289028817727488","title":"再战27暑期实习！SenseTime后端开发一面"}
+{"qid":"q-860857950934437888-9","question":"用Spring AI实现Agent的过程是怎样的？","content_id":"860857950934437888","title":"27 暑期实习 腾讯 后台开发 一面（2026.3.4）"}

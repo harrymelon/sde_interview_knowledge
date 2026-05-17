@@ -4,3 +4,11 @@
 {"qid":"q-2796451-6","question":"有序和无序的Set有哪些？","content_id":"2796451","title":"武汉小厂浮木科技java面经"}
 {"qid":"q-2791001-0","question":"HashSet怎么获取所有元素？","content_id":"2791001","title":"车300Java开发"}
 {"qid":"q-2791001-1","question":"HashSet放入自定义对象，修改对象属性后再add会怎样？如何影响hashCode和equals？","content_id":"2791001","title":"车300Java开发"}
+{"qid":"q-2813311-11","question":"object中equals和hashCode方法必须同时改写的原因是什么，举例说明","content_id":"2813311","title":"携程3.18Java开发一面面经"}
+{"qid":"q-2807535-8","question":"Set存放有序吗，可以重复吗","content_id":"2807535","title":"西安天源迪科Java开发实习"}
+{"qid":"q-2806865-10","question":"Set底层是怎么实现的？","content_id":"2806865","title":"美团AI工具后端开发"}
+{"qid":"q-860946444415438848-7","question":"HashSet和TreeSet的区别与使用场景","content_id":"860946444415438848","title":"java大厂面经速览（今日已更新！）"}
+{"qid":"q-2836575-0","question":"HashSet的原理是什么？如何保证元素不重复？为什么说它线程不安全？","content_id":"2836575","title":"滴滴4-16Java面"}
+{"qid":"q-2835314-10","question":"HashSet如何保证数据唯一？如何实现的？","content_id":"2835314","title":"北京用友金融-java后端开发"}
+{"qid":"q-871741241912741888-4","question":"HashSet是如何实现去重的","content_id":"871741241912741888","title":"北京小厂一面"}
+{"qid":"q-2843087-8","question":"HashSet如何实现数据唯一？","content_id":"2843087","title":"日常实习 用友后端ai开发面经分享"}

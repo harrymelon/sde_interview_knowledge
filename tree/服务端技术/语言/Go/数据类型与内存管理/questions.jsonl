@@ -13,3 +13,6 @@
 {"qid":"q-2598399-2","question":"Go语言的导包方式（import机制）是怎样的？","content_id":"2598399","title":"腾讯TEG部门一面"}
 {"qid":"q-2546652-2","question":"Go的GC机制是什么，如何触发，主动和被动方式","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
 {"qid":"q-2546652-4","question":"Go中Map和sync.Map的区别，sync.Map如何实现并发安全","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
+{"qid":"q-2809612-0","question":"Go的基本数据类型有哪些？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2809612-1","question":"什么是值类型和引用类型，分别有哪些？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2825014-19","question":"堆的底层存储结构是什么？","content_id":"2825014","title":"字节AI应用后端开发 一二三面 面经"}

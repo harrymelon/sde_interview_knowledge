@@ -38,3 +38,43 @@
 {"qid":"q-2444531-1","question":"Redis用来做什么的？","content_id":"2444531","title":"盒马秋招Java二面"}
 {"qid":"q-2815079-4","question":"这个项目为什么选择用Redis来实现？","content_id":"2815079","title":"字节暑期后端一面"}
 {"qid":"q-2814440-8","question":"为什么对于持久化数据要优先选择MySQL？","content_id":"2814440","title":"淘米二面（oc）"}
+{"qid":"q-863921083571867648-3","question":"如何使用Redis代替Session实现短信登录？","content_id":"863921083571867648","title":"转转春招后端一面"}
+{"qid":"q-2811062-10","question":"项目中用到Redis的场景和数据结构","content_id":"2811062","title":"百度后台开发实习一面"}
+{"qid":"q-2811035-16","question":"项目中使用Redis的场景","content_id":"2811035","title":"药帮忙java一面面经"}
+{"qid":"q-2810643-17","question":"平时用 Redis 来做什么？","content_id":"2810643","title":"面试面到了童年回忆"}
+{"qid":"q-2810177-1","question":"Redis一般用在什么场景？","content_id":"2810177","title":"Java开发实习生"}
+{"qid":"q-2809855-1","question":"为什么不能光使用Redis?","content_id":"2809855","title":"京东-零售部门后端一面面经"}
+{"qid":"q-861917586647232512-4","question":"Redis缓存优化接口响应","content_id":"861917586647232512","title":"中通 JAVA软件开发  一面 面经"}
+{"qid":"q-2807535-11","question":"经常改变的数据适合存Redis吗","content_id":"2807535","title":"西安天源迪科Java开发实习"}
+{"qid":"q-2839936-8","question":"Redis主要用来做什么","content_id":"2839936","title":"富卫保险java开发"}
+{"qid":"q-876063067468066816-0","question":"为什么选Redis不选Memcached？","content_id":"876063067468066816","title":"华为后端一面，和大厂完全不是一个画风"}
+{"qid":"q-875371683769565184-10","question":"为什么选择 Redis 做缓存，还有什么应用场景","content_id":"875371683769565184","title":"字节 TikTok-Shop 后端开发 二面"}
+{"qid":"q-2838111-1","question":"为什么需要一层Redis缓存？只用Redis作为缓存的原因是什么？","content_id":"2838111","title":"字节后端一面"}
+{"qid":"q-2837964-1","question":"什么时候适合用 Redis 存数据？","content_id":"2837964","title":"字节27暑期实习后台开发一面 65min"}
+{"qid":"q-2837734-17","question":"Redis和MySQL在使用场景上有哪些区别？","content_id":"2837734","title":"AI后台开发日常实习一面分享 字节"}
+{"qid":"q-2836748-3","question":"Redis项目中主要用来做什么？","content_id":"2836748","title":"用友（澳门） base珠海（OC）"}
+{"qid":"q-874330827377627136-6","question":"项目中使用Redis缓存的场景","content_id":"874330827377627136","title":"翔宇医疗面经"}
+{"qid":"q-2833170-13","question":"Redis常用数据结构有哪些，分别适用于什么场景？","content_id":"2833170","title":"百度ai后端开发一面分享-日常实习"}
+{"qid":"q-2833140-17","question":"Redis和MySQL在使用场景上有哪些区别？","content_id":"2833140","title":"27字节AI后台开发日常实习一面"}
+{"qid":"q-2832129-1","question":"Redis在你项目中的作用是什么？","content_id":"2832129","title":"蚂蚁智能体与大模型暑期实习一面面经"}
+{"qid":"q-2830721-12","question":"Redis有哪些使用场景？","content_id":"2830721","title":"智乐活 1、2面 全栈"}
+{"qid":"q-2830567-13","question":"Redis能不能做存储，而不仅仅是缓存","content_id":"2830567","title":"字节tiktok ai后端开发一面-日常"}
+{"qid":"q-2830465-11","question":"Redis应用场景及为什么快","content_id":"2830465","title":"字节暑期实习后端开发方向  已oc"}
+{"qid":"q-2830182-6","question":"Redis缓存具体用在什么地方？在知识库/tool等场景吗？","content_id":"2830182","title":"虾皮ai后端开发-暑期实习一面 攒人品"}
+{"qid":"q-2829535-15","question":"用Redis主要是解决什么问题？","content_id":"2829535","title":"ai后端开发一面-美团实习面经分享"}
+{"qid":"q-2845662-6","question":"缓存使用场景","content_id":"2845662","title":"巨人网络｜26春招 游戏开发一面"}
+{"qid":"q-2845463-5","question":"redis常见应用场景","content_id":"2845463","title":"春招面经分享-携程后端ai开发一面"}
+{"qid":"q-2845451-6","question":"你在什么场景下使用了Redis？","content_id":"2845451","title":"暑期实习 京东后端Agent开发一面面经"}
+{"qid":"q-2843897-3","question":"为什么短信验证码存储在Redis？与其他内存数据库相比，为什么选择Redis？","content_id":"2843897","title":"腾讯云智研发后台开发一面"}
+{"qid":"q-2843793-5","question":"Redis的用途有哪些","content_id":"2843793","title":"27实习有赞后端AI开发一面面经分享"}
+{"qid":"q-2843337-15","question":"用 Redis 主要是解决什么问题？","content_id":"2843337","title":"AI后端开发实习面经分享-美团"}
+{"qid":"q-2843228-24","question":"MongoDB和Redis的适用场景分别是什么？","content_id":"2843228","title":"米哈游服务器一面"}
+{"qid":"q-2843228-25","question":"Redis和MySQL有什么区别？","content_id":"2843228","title":"米哈游服务器一面"}
+{"qid":"q-2842942-0","question":"除了做缓存和分布式锁，Redis 还能做什么？","content_id":"2842942","title":"字节日常实习后端ai开发一面 攒攒人品"}
+{"qid":"q-2842942-1","question":"什么时候适合用 Redis 存数据？","content_id":"2842942","title":"字节日常实习后端ai开发一面 攒攒人品"}
+{"qid":"q-2840502-13","question":"一般什么情况下会用 Redis？","content_id":"2840502","title":"腾讯后台开发TME酷我车载业务部 二面"}
+{"qid":"q-2824471-18","question":"Redis和Kafka分别用来做什么？为什么选择Kafka而不是RocketMQ？","content_id":"2824471","title":"3.31飞猪java后端开发一面"}
+{"qid":"q-2823195-6","question":"Redis的用途有哪些？","content_id":"2823195","title":"有赞java一面"}
+{"qid":"q-2820295-15","question":"Redis 缓存你是怎么理解和使用的？","content_id":"2820295","title":"万兴科技 golang后端开发实习生一面"}
+{"qid":"q-2821337-2","question":"项目为什么使用Redis？具体怎么使用的？","content_id":"2821337","title":"快手后端-Java开发二面面经"}
+{"qid":"q-2821337-4","question":"Redis的功能和职责是什么？你觉得Redis的瓶颈在哪里，或者说Redis的业务边缘是什么？","content_id":"2821337","title":"快手后端-Java开发二面面经"}

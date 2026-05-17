@@ -1,1 +1,11 @@
 {"qid":"q-2815083-6","question":"请讲解一下 RocketMQ 的工作原理。","content_id":"2815083","title":"字节暑期后端二面"}
+{"qid":"q-2811689-0","question":"讲一下RocketMQ在项目中的具体实现","content_id":"2811689","title":"虾皮SSC后端一面面经"}
+{"qid":"q-2811689-3","question":"RocketMQ在这个项目中有哪些弊端和优化方案","content_id":"2811689","title":"虾皮SSC后端一面面经"}
+{"qid":"q-2834703-16","question":"能大概解释一下 RocketMQ 的一些机制吗？","content_id":"2834703","title":"字节一二三面hr面 面经 后端开发"}
+{"qid":"q-2834703-17","question":"一条消息在 RocketMQ 中的完整消费流程是怎样的？","content_id":"2834703","title":"字节一二三面hr面 面经 后端开发"}
+{"qid":"q-2834703-18","question":"生产者是怎么将消息发送到 Broker 的？","content_id":"2834703","title":"字节一二三面hr面 面经 后端开发"}
+{"qid":"q-2834703-19","question":"消费者订阅后，消息是拉取还是推送的？","content_id":"2834703","title":"字节一二三面hr面 面经 后端开发"}
+{"qid":"q-2834703-23","question":"了解 Broker 的主从架构吗？","content_id":"2834703","title":"字节一二三面hr面 面经 后端开发"}
+{"qid":"q-2833725-16","question":"讲解一下RocketMQ发送/消费一条消息的底层实现。","content_id":"2833725","title":"懂车帝AI后端开发实习一面分享 65分钟"}
+{"qid":"q-2833597-14","question":"RocketMQ的存储设计有什么特点使其性能较高？","content_id":"2833597","title":"虾皮大模型后端开发一面-日常实习"}
+{"qid":"q-2833597-15","question":"RocketMQ有哪些高性能设计？","content_id":"2833597","title":"虾皮大模型后端开发一面-日常实习"}

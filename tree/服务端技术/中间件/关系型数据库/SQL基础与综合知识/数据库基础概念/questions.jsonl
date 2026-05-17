@@ -44,3 +44,28 @@
 {"qid":"q-865176678006325248-10","question":"解释DELETE和DROP操作的本质区别。","content_id":"865176678006325248","title":"北大软件(郑州)java实习面经"}
 {"qid":"q-2816267-10","question":"解释DELETE和DROP操作的本质区别。","content_id":"2816267","title":"北大软件(郑州)java实习面经"}
 {"qid":"q-2815273-2","question":"MySQL一张表最多能存多少字节？","content_id":"2815273","title":"京东jdy后端一面"}
+{"qid":"q-864092169466810368-2","question":"了解过MySQL的并发性能吗？","content_id":"864092169466810368","title":"3.18腾讯后台开发一面"}
+{"qid":"q-863862680451362816-1","question":"用过哪些DBMS类型（如MySQL、PostgreSQL等）","content_id":"863862680451362816","title":"社招 北京 Java后端工程师"}
+{"qid":"q-2813079-16","question":"MySQL和SQLite的区别是什么？","content_id":"2813079","title":"攒人品-平旦科技-c++"}
+{"qid":"q-2812014-1","question":"实习项目中为什么选用 PostgreSQL，和 MySQL 有什么区别？","content_id":"2812014","title":"百度 服务端开发 暑期实习 二面凉经"}
+{"qid":"q-2811953-13","question":"数据库有用过哪些？","content_id":"2811953","title":"比特鹰 春招一面"}
+{"qid":"q-2811587-2","question":"数据库笛卡尔积是什么？","content_id":"2811587","title":"广州某科技公司面经（20min）"}
+{"qid":"q-2811055-0","question":"有哪些基本数据模型","content_id":"2811055","title":"深圳某小厂Java后端面经(线上)"}
+{"qid":"q-2808720-4","question":"MySQL、Hive和Redis的区别与使用场景是什么？","content_id":"2808720","title":"腾讯后台开发二面"}
+{"qid":"q-2807630-2","question":"MySQL不同的连接方式有哪些？","content_id":"2807630","title":"广东长正 - Java开发 - 一面"}
+{"qid":"q-2839832-12","question":"OLTP 是什么","content_id":"2839832","title":"wxg后台开发一面"}
+{"qid":"q-2839350-2","question":"MySQL与PostgreSQL的区别是什么","content_id":"2839350","title":"26届后端java/go求职心得"}
+{"qid":"q-2838636-4","question":"你解释一下MySQL是什么","content_id":"2838636","title":"大二双非双一流本科后端开发小厂面经"}
+{"qid":"q-2837995-6","question":"MySQL、Hive、Redis的区别与使用场景","content_id":"2837995","title":"腾讯AI后台开发二面分享"}
+{"qid":"q-2836584-1","question":"MySQL基础知识点","content_id":"2836584","title":"双非大二，第三次面试就拿到实习了，过程有点梦幻"}
+{"qid":"q-874032534181470208-5","question":"MySQL、ClickHouse、MongoDB三者的最大区别是什么？","content_id":"874032534181470208","title":"恒生电子Java一面"}
+{"qid":"q-2835047-3","question":"讲一下你对MySQL的了解","content_id":"2835047","title":"28届济南小厂Java面经"}
+{"qid":"q-2834547-0","question":"数据库从建立连接开始，如何保证稳定性和性能？","content_id":"2834547","title":"快手二面已挂-java后端"}
+{"qid":"q-2833597-5","question":"项目中为什么选择Cassandra？与MySQL相比有什么优势？","content_id":"2833597","title":"虾皮大模型后端开发一面-日常实习"}
+{"qid":"q-872872127655927808-0","question":"请解释数据、数据库、数据库管理系统和数据库系统的概念。","content_id":"872872127655927808","title":"《JAVA面经实录》- 数据库面试题"}
+{"qid":"q-2831981-19","question":"MySQL单表数据量上限","content_id":"2831981","title":"携程暑期实习Java后端面经"}
+{"qid":"q-2830567-11","question":"简单对比一下MySQL和Redis各自的特点","content_id":"2830567","title":"字节tiktok ai后端开发一面-日常"}
+{"qid":"q-2830567-12","question":"MySQL的'关系型'是什么意思","content_id":"2830567","title":"字节tiktok ai后端开发一面-日常"}
+{"qid":"q-2845662-5","question":"数据库基础概念","content_id":"2845662","title":"巨人网络｜26春招 游戏开发一面"}
+{"qid":"q-2842972-6","question":"MySQL、Hive、Redis的区别与使用场景","content_id":"2842972","title":"27实习面经-腾讯后端AI开发二面"}
+{"qid":"q-2841499-8","question":"请介绍实习中使用的数据库，并说明它与MySQL的区别","content_id":"2841499","title":"字节搜索广告 后端开发一面"}

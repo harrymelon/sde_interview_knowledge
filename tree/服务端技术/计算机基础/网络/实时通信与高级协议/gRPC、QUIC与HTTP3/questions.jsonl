@@ -1,0 +1,10 @@
+{"qid":"q-856575758670524416-2","question":"gRPC 是基于 TCP 还是 UDP？","content_id":"856575758670524416","title":"字节飞书后台一面"}
+{"qid":"q-856575758670524416-3","question":"HTTP3 的优点是什么？为什么需要 QUIC 协议？","content_id":"856575758670524416","title":"字节飞书后台一面"}
+{"qid":"q-2748415-14","question":"为什么使用gRPC？与HTTP相比，gRPC的优缺点是什么？","content_id":"2748415","title":"百度后端日常一面"}
+{"qid":"q-2748415-15","question":"对于内部通信，gRPC调试比HTTP困难，为什么仍认为它是最优选择？","content_id":"2748415","title":"百度后端日常一面"}
+{"qid":"q-2748415-17","question":"如何对gRPC服务进行Debug？","content_id":"2748415","title":"百度后端日常一面"}
+{"qid":"q-861575905666211840-1","question":"了解QUIC协议","content_id":"861575905666211840","title":"腾讯 微信客户端-C++ 一面"}
+{"qid":"q-2834013-14","question":"HTTP3如何解决HTTP2在TCP上的队头阻塞？","content_id":"2834013","title":"字节后端ai开发一面-日常实习分享"}
+{"qid":"q-2834013-15","question":"为什么HTTP3基于QUIC，而不继续在TCP上优化？","content_id":"2834013","title":"字节后端ai开发一面-日常实习分享"}
+{"qid":"q-2830488-16","question":"HTTP/3的前向纠错机制","content_id":"2830488","title":"柠檬微趣C++一面"}
+{"qid":"q-2841383-5","question":"如何解决TCP拥塞控制问题？（QUIC协议）","content_id":"2841383","title":"灵犀互娱    游戏服务器后端一面挂"}

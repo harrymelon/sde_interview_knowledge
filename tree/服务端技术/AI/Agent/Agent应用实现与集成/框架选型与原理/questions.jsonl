@@ -1,0 +1,34 @@
+{"qid":"q-2780975-0","question":"使用LangGraph编写智能体的方法","content_id":"2780975","title":"虾皮datainfra agent后端开发一面面经"}
+{"qid":"q-2811624-1","question":"LangGraph框架的原理与使用","content_id":"2811624","title":"3.17字节后端开发agent相关"}
+{"qid":"q-2832828-6","question":"LangChain和LangGraph有什么区别？你的项目中到底使用了哪个框架？","content_id":"2832828","title":"快手后端开发实习二面（没凉！已OC）"}
+{"qid":"q-2832824-13","question":"你说你用了langchain和langgraph，介绍一下他们和二者的关系","content_id":"2832824","title":"快手后端开发实习一面面经"}
+{"qid":"q-2832824-15","question":"你知道langchain和langgraph框架在Java端的适配版本吗？有调研过吗？","content_id":"2832824","title":"快手后端开发实习一面面经"}
+{"qid":"q-2829995-0","question":"LangGraph智能体开发架构是什么样的？","content_id":"2829995","title":"腾讯后台开发二面凉经-内容服务部"}
+{"qid":"q-2829995-1","question":"LangGraph与LangChain的区别是什么？","content_id":"2829995","title":"腾讯后台开发二面凉经-内容服务部"}
+{"qid":"q-2838996-8","question":"LangChain和LangGraph有了解吗？","content_id":"2838996","title":"云智后台开发一面面经分享"}
+{"qid":"q-875371683769565184-0","question":"了解过其他 Agent 相关框架吗？比如 LangChain、LangGraph","content_id":"875371683769565184","title":"字节 TikTok-Shop 后端开发 二面"}
+{"qid":"q-872512773710696448-3","question":"你的Agent项目为什么选用Spring AI Alibaba？它和LangChain4j、Spring AI有什么区别？选型时如何考虑的？","content_id":"872512773710696448","title":"快手ai应用服务端开发 二面"}
+{"qid":"q-872512773710696448-4","question":"使用Spring AI Alibaba有哪些好的点和不方便的点？","content_id":"872512773710696448","title":"快手ai应用服务端开发 二面"}
+{"qid":"q-872512773710696448-6","question":"你了解龙虾（可能指LangChain或某个Agent框架）吗？对其技术细节有何了解？","content_id":"872512773710696448","title":"快手ai应用服务端开发 二面"}
+{"qid":"q-2816009-9","question":"了解过哪些Agent开发框架？","content_id":"2816009","title":"腾讯混元后台一面面经"}
+{"qid":"q-863532788627116032-0","question":"谈谈最近关注的 Agent 相关新闻或知识，例如 Claude Code 的设计和 Anthropic 的 Agent 工程实践","content_id":"863532788627116032","title":"腾讯后端暑期实习面试记录"}
+{"qid":"q-860857950934437888-1","question":"智能体与大模型如何交互协作？工作流程是怎样的？","content_id":"860857950934437888","title":"27 暑期实习 腾讯 后台开发 一面（2026.3.4）"}
+{"qid":"q-2834737-15","question":"业务中Agent的场景及使用的框架","content_id":"2834737","title":"京东物流 jdy实习 二面"}
+{"qid":"q-2843373-6","question":"项目中的Agent是如何实现的？用了什么框架？","content_id":"2843373","title":"腾讯AI后端开发日常实习一面分享"}
+{"qid":"q-2843300-14","question":"Agent项目用的什么模型","content_id":"2843300","title":"AI后端开发-美团实习一面 1h"}
+{"qid":"q-2842785-4","question":"LangChain和LangGraph框架提供了什么功能？优势在哪？","content_id":"2842785","title":"27日常实习字节Agent后端开发二面"}
+{"qid":"q-2842778-4","question":"你觉得langchain和langgraph框架提供了什么功能？优势在哪？","content_id":"2842778","title":"27实习字节后端agent开发一面"}
+{"qid":"q-2841526-6","question":"LangChain框架原理与应用","content_id":"2841526","title":"腾讯 WXG 后台开发（1面 + 2面 + 3面 + hr面）"}
+{"qid":"q-2827751-8","question":"LangChain框架的使用经验","content_id":"2827751","title":"4.3 飞猪 java后端二面"}
+{"qid":"q-2827751-9","question":"谷歌ADK和LangGraph框架的使用","content_id":"2827751","title":"4.3 飞猪 java后端二面"}
+{"qid":"q-2825014-2","question":"用LangChain/Agent框架时，一般要配哪些东西？","content_id":"2825014","title":"字节AI应用后端开发 一二三面 面经"}
+{"qid":"q-2821337-9","question":"为什么选择LangChain4j？","content_id":"2821337","title":"快手后端-Java开发二面面经"}
+{"qid":"q-2818381-0","question":"Agent项目用什么做的，选型原因，Agent框架了解吗","content_id":"2818381","title":"快手后端-Java开发一面面经"}
+{"qid":"q-2838464-2","question":"智能体是调用现成的吗？是自己做的还是基于别人的平台/开源项目开发的？","content_id":"2838464","title":"百特云享复面 Java后端日常实习"}
+{"qid":"q-2830567-3","question":"Spring AI Alibaba覆盖了你上面说的哪些部分","content_id":"2830567","title":"字节tiktok ai后端开发一面-日常"}
+{"qid":"q-2845287-2","question":"AI的框架，以及有哪些特性","content_id":"2845287","title":"面试官拷打AI项目时会问什么"}
+{"qid":"q-2845575-2","question":"Agent是如何调用底层模型的","content_id":"2845575","title":"蚂蚁agent后端开发一面凉经分享"}
+{"qid":"q-873229176470331392-2","question":"像 Dify 这类开源框架本身也支持定制，你的项目与它们的区别在哪里？","content_id":"873229176470331392","title":"小红书AI后端开发一面"}
+{"qid":"q-871815930236391424-1","question":"ReActAgent的think()-act()过程（对应LangChain4j的推理-行动-反馈）","content_id":"871815930236391424","title":"4.9美团一面复盘加分享"}
+{"qid":"q-2808313-12","question":"与大模型通信的部分是如何实现的？","content_id":"2808313","title":"2026年03月02日 11点28分腾讯ieg春招技术面二面"}
+{"qid":"q-2817712-11","question":"LangChain在你的项目中具体承担什么角色？是否仅作为大模型接口？如何实现框架的深度定制？","content_id":"2817712","title":"3.23腾讯视频后端二面（燃尽版）"}

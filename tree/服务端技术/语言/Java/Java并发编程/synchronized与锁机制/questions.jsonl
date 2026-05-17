@@ -36,3 +36,5 @@
 {"qid":"q-2527713-5","question":"什么是可重入锁？","content_id":"2527713","title":"Akulaku Java实习面经"}
 {"qid":"q-2616139-14","question":"如何排查java中的死锁？","content_id":"2616139","title":"6.9 字节跳动生活服后端实习一面记录"}
 {"qid":"q-2592748-30","question":"讲一下Java中所用到的锁","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2812062-3","question":"线程BLOCKED状态一般出现在什么情况下？","content_id":"2812062","title":"真实业务和场景题的疯狂拷打"}
+{"qid":"q-2807694-0","question":"线程哪些操作会释放锁资源？","content_id":"2807694","title":"27届成都某1000+ 人公司java实习一面（oc已拒）"}

@@ -24,3 +24,40 @@
 {"qid":"q-2814864-6","question":"在业务过程中如何实现一个轻量级锁","content_id":"2814864","title":"广州联奕科技Java后端实习一面"}
 {"qid":"q-2814864-7","question":"锁的升级过程","content_id":"2814864","title":"广州联奕科技Java后端实习一面"}
 {"qid":"q-2814748-4","question":"synchronized底层实现（ACC_SYNCHRONIZED标识、monitorenter/monitorexit指令、锁升级流程）","content_id":"2814748","title":"得物2026春招 | 后端开发 | 面经 | Java面试"}
+{"qid":"q-2466261-21","question":"synchronized 锁的作用域","content_id":"2466261","title":"小米-java-日常实习面经"}
+{"qid":"q-2466261-22","question":"synchronized 基于什么实现的？","content_id":"2466261","title":"小米-java-日常实习面经"}
+{"qid":"q-2466261-23","question":"synchronized 无锁、偏向锁、轻量级锁、重量级锁几个阶段怎么转换的？","content_id":"2466261","title":"小米-java-日常实习面经"}
+{"qid":"q-2812561-10","question":"synchronized 包裹一个代码块，外面的线程都想执行这个代码块，是随机争抢吗？","content_id":"2812561","title":"安恒信息Java开发实习"}
+{"qid":"q-2812052-6","question":"java中synchronized的锁升级过程是什么","content_id":"2812052","title":"熙牛医疗java一面面经"}
+{"qid":"q-2812052-7","question":"偏向锁，轻量级锁，重量级锁的时候，是怎么体现哪个线程持有这个锁的呢","content_id":"2812052","title":"熙牛医疗java一面面经"}
+{"qid":"q-2810382-10","question":"Java锁升级的原理","content_id":"2810382","title":"社招 北京 Java后端工程师"}
+{"qid":"q-862395801836720128-2","question":"synchronized关键字如何实现线程安全？可以用在遍历上吗？","content_id":"862395801836720128","title":"腾讯后台开发一面"}
+{"qid":"q-2804947-20","question":"详细讲一下 synchronized 的锁升级过程","content_id":"2804947","title":"转转一面（二面挂）"}
+{"qid":"q-876393541956624384-0","question":"解释synchronized锁升级的过程","content_id":"876393541956624384","title":"心虚是社死的前兆"}
+{"qid":"q-876046266558398464-0","question":"Synchronized 锁升级机制（对象头、偏向锁、轻量级锁、重量级锁、锁膨胀过程与性能差异）","content_id":"876046266558398464","title":"字节-TikTok-后端一面"}
+{"qid":"q-2838988-8","question":"synchronized关键字的锁升级过程是怎样的？","content_id":"2838988","title":"熙牛医疗一面 Java后端实习"}
+{"qid":"q-2838038-4","question":"synchronized可以去修饰遍历吗","content_id":"2838038","title":"腾讯AI后台开发27实习一面分享"}
+{"qid":"q-2837960-3","question":"方法上加 synchronized 除了阻塞多用户，还有其他问题吗？","content_id":"2837960","title":"蚂蚁暑期后端agent开发一面分享"}
+{"qid":"q-2837277-1","question":"synchronized的底层原理是什么，为什么可以实现防并发冲突","content_id":"2837277","title":"字节ai应用后端财经一面"}
+{"qid":"q-2836980-3","question":"synchronized底层的加锁升级机制是什么？","content_id":"2836980","title":"广州嘉为科技java后端一面"}
+{"qid":"q-2836980-4","question":"对象头的内存结构是怎样的？","content_id":"2836980","title":"广州嘉为科技java后端一面"}
+{"qid":"q-2836980-5","question":"Monitor是如何依赖操作系统底层实现的？","content_id":"2836980","title":"广州嘉为科技java后端一面"}
+{"qid":"q-2835139-14","question":"synchronized和volatile的区别是什么？synchronized底层原理？锁升级的机制？为什么要锁升级？","content_id":"2835139","title":"美团ai暑期后端开发一面分享"}
+{"qid":"q-2833522-18","question":"Java中synchronized关键字底层的加锁流程是怎样的？它如何保证多线程并发时能拦住其他线程？","content_id":"2833522","title":"27实习京东后端AI开发一面 攒人品"}
+{"qid":"q-2832975-16","question":"锁这块了解锁升级吗","content_id":"2832975","title":"腾讯暑期ai后台开发一面 攒人品中"}
+{"qid":"q-2833012-1","question":"Synchronized属于JVM层面还是其他层面的锁？","content_id":"2833012","title":"拼多多服务端研发实习生 一面"}
+{"qid":"q-2831096-29","question":"Synchronized关键字用过吗？它加在类上和加在方法上有什么区别？","content_id":"2831096","title":"春秋航空-Java开发实习"}
+{"qid":"q-2830929-8","question":"锁升级过程（synchronized）","content_id":"2830929","title":"货拉拉实习ai后端开发一面"}
+{"qid":"q-871813640653963264-2","question":"volatile和synchronized的区别是什么？","content_id":"871813640653963264","title":"4.9-腾讯金融-一面挂"}
+{"qid":"q-2830250-2","question":"synchronized有什么作用？它是怎么加锁的？","content_id":"2830250","title":"腾讯云智-暑期实习后端开发一二面"}
+{"qid":"q-2830250-17","question":"synchronized是重量级锁还是轻量级锁？","content_id":"2830250","title":"腾讯云智-暑期实习后端开发一二面"}
+{"qid":"q-2829804-5","question":"请讲解一下synchronized关键字。","content_id":"2829804","title":"ai后端开发日常实习一面-蚂蚁国际"}
+{"qid":"q-871343540444397568-4","question":"synchronized的原理是什么？它是公平锁吗？","content_id":"871343540444397568","title":"pdd 服务端研发实习生 一面"}
+{"qid":"q-2829341-16","question":"synchronized底层原理是什么？锁升级的机制是怎样的？为什么要锁升级？","content_id":"2829341","title":"美团暑期后端一面 ：金融服务平台-技术平台"}
+{"qid":"q-2845511-0","question":"Synchronized锁升级的原理是什么？","content_id":"2845511","title":"浩鲸科技Java面经"}
+{"qid":"q-2843305-12","question":"锁升级的过程是怎样的","content_id":"2843305","title":"暑期实习-腾讯ai后端开发一面分享"}
+{"qid":"q-2843032-14","question":"synchronized 和 volatile 的区别？synchronized 底层原理？锁升级的机制？为什么要锁升级？","content_id":"2843032","title":"暑期实习 AI后端开发一面-美团"}
+{"qid":"q-2841420-2","question":"synchronized底层是怎么实现的？","content_id":"2841420","title":"社招Java 华盛通一面"}
+{"qid":"q-2827751-18","question":"synchronized可重入锁在Java中如何实现？","content_id":"2827751","title":"4.3 飞猪 java后端二面"}
+{"qid":"q-2827415-10","question":"synchronized锁升级了解吗，可重入锁吗","content_id":"2827415","title":"3.31 美团食杂零售后端一面"}
+{"qid":"q-2827415-11","question":"如果不可重入，会出现什么情况","content_id":"2827415","title":"3.31 美团食杂零售后端一面"}

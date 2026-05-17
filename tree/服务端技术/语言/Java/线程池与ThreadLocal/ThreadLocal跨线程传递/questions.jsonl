@@ -3,3 +3,10 @@
 {"qid":"q-2780728-3","question":"如何用TTL封装异步线程池实现上下文传递","content_id":"2780728","title":"蔚来后台开发 凉经"}
 {"qid":"q-2790248-9","question":"生产环境中如何实现主线程和子线程的日志异步串联","content_id":"2790248","title":"字节后端二面"}
 {"qid":"q-857348280399736832-2","question":"ThreadLocal底层原理：为什么Key是弱引用？为什么会发生内存泄露？在线程池环境下会有什么风险？","content_id":"857348280399736832","title":"新华通运一面"}
+{"qid":"q-2834010-12","question":"ThreadLocal里的信息是如何传递下去的？","content_id":"2834010","title":"携程 旅游事业部 后端暑期 一面"}
+{"qid":"q-2833522-21","question":"若用ThreadLocal存储用户信息，在主线程内起异步线程，异步线程中能通过ThreadLocal拿到该用户信息吗？","content_id":"2833522","title":"27实习京东后端AI开发一面 攒人品"}
+{"qid":"q-2830302-1","question":"ThreadLocal与线程池共用时如何避免串值？","content_id":"2830302","title":"蚂蚁国际 ai后端开发 暑期实习一面"}
+{"qid":"q-2830319-12","question":"ThreadLocal里的信息是怎么传递下去的？","content_id":"2830319","title":"携程ai后端暑期实习一面-攒人品中"}
+{"qid":"q-2843793-1","question":"线程池上下文传递如何实现","content_id":"2843793","title":"27实习有赞后端AI开发一面面经分享"}
+{"qid":"q-2826026-5","question":"引入TTL解决实习遇到的问题的核心原理","content_id":"2826026","title":"量子泛娱Java实习面经"}
+{"qid":"q-2823195-2","question":"线程池上下文如何传递？","content_id":"2823195","title":"有赞java一面"}

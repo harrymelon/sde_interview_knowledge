@@ -1,0 +1,29 @@
+{"qid":"q-2785913-14","question":"select发生时锁的粒度","content_id":"2785913","title":"度小满（数据库后端开发）"}
+{"qid":"q-2785913-15","question":"如果select一个不存在的数据会有间隙锁，间隙锁的间隙怎么确定的","content_id":"2785913","title":"度小满（数据库后端开发）"}
+{"qid":"q-2664637-3","question":"Mysql的间隙锁是什么","content_id":"2664637","title":"京东零售后端秋招一面"}
+{"qid":"q-2546652-19","question":"MySQL的行锁和间隙锁，间隙锁锁的是什么","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
+{"qid":"q-2455672-12","question":"什么是间隙锁","content_id":"2455672","title":"美团 后端开发 日常实习一面面经"}
+{"qid":"q-2812005-18","question":"讲一下间隙锁","content_id":"2812005","title":"百度 服务端开发 暑期实习 一面"}
+{"qid":"q-2811383-3","question":"MySQL的间隙锁是什么","content_id":"2811383","title":"字节后端一面"}
+{"qid":"q-2837032-8","question":"详细讲讲行锁、间隙锁和临键锁。","content_id":"2837032","title":"虾皮后端开发面经"}
+{"qid":"q-2566751-13","question":"除了MVCC还用了什么实现隔离（select for update）","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2566751-14","question":"当前读是怎么加锁的","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2566751-15","question":"临键锁什么时候退化为间隙锁或记录锁","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2566751-16","question":"临键锁什么时候不会退化","content_id":"2566751","title":"美团后端二面 3.26（已OC）"}
+{"qid":"q-2768525-11","question":"如果引入锁机制（如间隙锁）来保证强一致性，请详细解释间隙锁的原理、定义和作用范围。","content_id":"2768525","title":"小小厂面经"}
+{"qid":"q-2840502-18","question":"一个表，name 字段是非唯一索引，有多条 name = 张三，这个时候查询 where name = 张三，是什么锁？","content_id":"2840502","title":"腾讯后台开发TME酷我车载业务部 二面"}
+{"qid":"q-2840502-20","question":"MySQL 什么情况下加记录锁？","content_id":"2840502","title":"腾讯后台开发TME酷我车载业务部 二面"}
+{"qid":"q-872133747653603328-8","question":"Mysql隔离级别，哪一种隔离级别有记录锁？","content_id":"872133747653603328","title":"27届-日常实习-虾皮DataInfra-一面"}
+{"qid":"q-2811689-9","question":"讲一下间隙锁的底层机制","content_id":"2811689","title":"虾皮SSC后端一面面经"}
+{"qid":"q-2830809-12","question":"SQL的行级锁原理","content_id":"2830809","title":"字节AI后端开发 实习二面 感觉无了"}
+{"qid":"q-2788871-3","question":"两个事务并发执行：事务A SELECT ... FOR UPDATE (id=7)，事务B INSERT (6,8,11)，说明执行结果及原因","content_id":"2788871","title":"百度国际化后台开发日常实习一面"}
+{"qid":"q-2446748-7","question":"MySQL中不同SQL语句（select、update、delete）的加锁情况分析","content_id":"2446748","title":"数字马力 JAVA 二面"}
+{"qid":"q-2446748-8","question":"delete from table where a=1 语句会加几个锁？","content_id":"2446748","title":"数字马力 JAVA 二面"}
+{"qid":"q-2558131-7","question":"MySQL执行update操作时，加锁是怎么加的","content_id":"2558131","title":"字节后端开发一面面经"}
+{"qid":"q-2572628-2","question":"MySQL行级锁的实现原理","content_id":"2572628","title":"快手Java日常一面"}
+{"qid":"q-2523761-2","question":"MySQL 加锁底层原理是什么？","content_id":"2523761","title":"饿了么面经"}
+{"qid":"q-2583726-5","question":"MySQL 写锁的底层是怎么实现的？","content_id":"2583726","title":"pdd服务器二面，"}
+{"qid":"q-2680728-7","question":"for update是表锁还是行锁？开销咋样？","content_id":"2680728","title":"滴滴正式批:"}
+{"qid":"q-2613716-4","question":"for update锁的原理与使用场景","content_id":"2613716","title":"双非腾讯云智后台开发oc面经"}
+{"qid":"q-2780420-7","question":"数据库中如果对一个数据有读有写的话，要加锁吗","content_id":"2780420","title":"蚂蚁金服后端校招一面 1h"}
+{"qid":"q-2615510-15","question":"如何写SQL来修改一条数据且只加行锁不影响其他人？","content_id":"2615510","title":"26民本 亚信万联-java实习 面试"}

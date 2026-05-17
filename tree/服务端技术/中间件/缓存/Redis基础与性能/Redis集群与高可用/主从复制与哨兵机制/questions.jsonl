@@ -1,0 +1,29 @@
+{"qid":"q-2788865-13","question":"Redis主从复制过程","content_id":"2788865","title":"字节日常实习二面"}
+{"qid":"q-846045342515621888-13","question":"哨兵机制会自动切换吗","content_id":"846045342515621888","title":"后端开发面试记录"}
+{"qid":"q-2785298-15","question":"有自己实际部署过哨兵相关内容吗？","content_id":"2785298","title":"记录下自己双非硕秋招面经"}
+{"qid":"q-2779397-13","question":"Redis主库挂了后写操作的有效性和一致性如何保证","content_id":"2779397","title":"快手Java后端开发-校招面经"}
+{"qid":"q-2777328-13","question":"Redis主库挂了之后无法承接写操作，期间的写操作有效性和一致性如何保证","content_id":"2777328","title":"快手Java日常实习一面"}
+{"qid":"q-2777310-1","question":"Redis崩了怎么办？","content_id":"2777310","title":"Java社招面试，我遇到的最刁钻的问题"}
+{"qid":"q-2664677-3","question":"Redis主从同步和增量同步的机制是什么？是否存在数据不一致风险？","content_id":"2664677","title":"shopee 一面8.19"}
+{"qid":"q-2592748-21","question":"详细讲一下哨兵模式，哨兵的作用是什么？","content_id":"2592748","title":"腾讯云智后台开发一面"}
+{"qid":"q-2475261-3","question":"Redis主从同步中增量复制和全量复制的过程","content_id":"2475261","title":"掌上先机JAVA后端开发一面"}
+{"qid":"q-2450152-13","question":"Redis的哨兵有什么用？","content_id":"2450152","title":"海兴电力_java一面二面"}
+{"qid":"q-2446748-1","question":"Redis主从架构的部署与配置","content_id":"2446748","title":"数字马力 JAVA 二面"}
+{"qid":"q-2446748-2","question":"Redis主从数据同步原理","content_id":"2446748","title":"数字马力 JAVA 二面"}
+{"qid":"q-863860210215985152-5","question":"Redis主从复制架构是怎样的？","content_id":"863860210215985152","title":"腾讯后台开发一面"}
+{"qid":"q-863860210215985152-6","question":"主从复制如何确保主从一致性？","content_id":"863860210215985152","title":"腾讯后台开发一面"}
+{"qid":"q-2811037-1","question":"Redis宕机后如何恢复数据？","content_id":"2811037","title":"字节财经后端一面"}
+{"qid":"q-2807441-10","question":"Redis哨兵机制是怎么工作的？","content_id":"2807441","title":"3.12腾讯QQ后台实习"}
+{"qid":"q-2806576-9","question":"Redis 哨兵模式","content_id":"2806576","title":"腾讯后台开发一面"}
+{"qid":"q-2839211-15","question":"哨兵模式的工作原理","content_id":"2839211","title":"TME一面凉经（后端）"}
+{"qid":"q-2838720-9","question":"如果Redis挂了会发生什么，你会怎么处理","content_id":"2838720","title":"汉得信息Java开发 4.09"}
+{"qid":"q-2835594-1","question":"Redis如何实现主从复制？当一个节点挂掉时如何判断是否真正挂掉？Redis主从同步的过程是怎样的？","content_id":"2835594","title":"虾皮后端ai开发 暑期实习一面面经"}
+{"qid":"q-2834703-30","question":"了解 Redis 的主从和哨兵架构吗？","content_id":"2834703","title":"字节一二三面hr面 面经 后端开发"}
+{"qid":"q-2834703-31","question":"哨兵是如何选举主节点的？","content_id":"2834703","title":"字节一二三面hr面 面经 后端开发"}
+{"qid":"q-2834703-32","question":"如果所有从节点都健康，只有主节点挂了，哨兵如何选出新主？","content_id":"2834703","title":"字节一二三面hr面 面经 后端开发"}
+{"qid":"q-2834678-8","question":"Redis主从同步的过程","content_id":"2834678","title":"字节-日常实习-后台ai开发一面分享"}
+{"qid":"q-2830536-23","question":"Redis主从复制？","content_id":"2830536","title":"字节一二三hr面 java面经（已off）"}
+{"qid":"q-878938775747846144-1","question":"Redis 主从同步与哨兵机制的工作流程是怎样的？","content_id":"878938775747846144","title":"度小满后端一面"}
+{"qid":"q-2844801-9","question":"Redis哨兵模式","content_id":"2844801","title":"27实习腾讯后端AI开发一面 70min"}
+{"qid":"q-2841470-5","question":"Redis主从同步过程是怎样的？","content_id":"2841470","title":"美团ai全栈面经"}
+{"qid":"q-2840744-6","question":"Redis怎么做高可用，主节点从节点切换时会不会丢数据","content_id":"2840744","title":"腾讯ai后台开发一面面经分享 1h"}

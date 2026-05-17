@@ -1,1 +1,3 @@
 {"qid":"q-2799010-6","question":"ElasticSearch的倒排索引底层原理？怎么配置？ES和数据库同步的方案？你们怎么同步的？如果发现ES搜索评分不准怎么解决？","content_id":"2799010","title":"腾讯后端一面面经"}
+{"qid":"q-2838911-2","question":"ES与mysql一致性","content_id":"2838911","title":"蚂蚁后端开发一面(47min)"}
+{"qid":"q-2838911-3","question":"数据过期问题","content_id":"2838911","title":"蚂蚁后端开发一面(47min)"}

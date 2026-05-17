@@ -1,0 +1,9 @@
+{"qid":"q-2567838-11","question":"UDP如何实现安全通信？需要增添什么属性？","content_id":"2567838","title":"灵犀互娱-日常实习-服务器开发- 一面二面hr面（已OC）"}
+{"qid":"q-2546652-7","question":"UDP协议如何知道对方的网络连接情况，QUIC协议的作用","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
+{"qid":"q-2546652-8","question":"保证UDP可靠性的手段有哪些","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
+{"qid":"q-2546652-9","question":"QUIC协议还可以用在哪些场景","content_id":"2546652","title":"腾讯IDC一面-后端开发go语言（1h10min）"}
+{"qid":"q-2542926-5","question":"如何让 UDP 变得比 TCP 更可靠？","content_id":"2542926","title":"腾讯会议部门 一面凉经"}
+{"qid":"q-2542926-6","question":"如何设计一个比 TCP 更好的 UDP 方案？如何保证性能更好更可靠？","content_id":"2542926","title":"腾讯会议部门 一面凉经"}
+{"qid":"q-2534920-18","question":"如何实现可靠UDP（冗余传输、序号等）","content_id":"2534920","title":"腾讯一二面泡池子（已 offer）"}
+{"qid":"q-2812053-4","question":"如何在UDP上实现可靠的传输？有哪些方法？","content_id":"2812053","title":"26.3.9 腾讯CSIG云架构音视频一面"}
+{"qid":"q-2840744-13","question":"TCP和UDP的区别，UDP为什么快，使用场景，能不能做成可靠的","content_id":"2840744","title":"腾讯ai后台开发一面面经分享 1h"}

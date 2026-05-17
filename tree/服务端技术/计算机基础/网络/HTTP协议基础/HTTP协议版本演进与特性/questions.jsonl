@@ -19,3 +19,28 @@
 {"qid":"q-2530782-6","question":"HTTP/2服务器推送是如何实现的？","content_id":"2530782","title":"快看漫画-Java后端开发实习生OC"}
 {"qid":"q-2457146-16","question":"HTTP/1.0、HTTP/1.1、HTTP/2.0的区别","content_id":"2457146","title":"9.4 腾讯新闻 后端一面面经"}
 {"qid":"q-2457146-17","question":"使用HTTP传输一个特别大的文件，分块传输的步骤","content_id":"2457146","title":"9.4 腾讯新闻 后端一面面经"}
+{"qid":"q-2809853-5","question":"HTTP2和HTTP1的区别","content_id":"2809853","title":"字节- AML大模型后端开发-一二面"}
+{"qid":"q-2808977-16","question":"HTTP长连接说一下它的工作原理。","content_id":"2808977","title":"微派 java秋招面经（排序挂）"}
+{"qid":"q-2808977-17","question":"HTTP长连接什么情况下会断开？","content_id":"2808977","title":"微派 java秋招面经（排序挂）"}
+{"qid":"q-861892975133986816-5","question":"HTTP3与QUIC协议的原理","content_id":"861892975133986816","title":"抖音 - AI 全栈工程师 实习 一面二面凉经"}
+{"qid":"q-2805971-2","question":"阐述HTTP/2与HTTP/1.1的区别与优化点","content_id":"2805971","title":"小黑盒（一面）"}
+{"qid":"q-2804918-4","question":"HTTP有哪些版本？它们之间的区别是什么？","content_id":"2804918","title":"字节后端一面"}
+{"qid":"q-2804856-13","question":"HTTP/3使用UDP+QUIC的原理","content_id":"2804856","title":"腾讯云后端开发日常实习一面凉经"}
+{"qid":"q-2839224-3","question":"HTTP 三个版本（1.0、1.1、2.0）各自有哪些细节特性？","content_id":"2839224","title":"思谋一面（全栈）"}
+{"qid":"q-2838996-22","question":"HTTP/1和HTTP/2有哪些核心改进？追问：HTTP/2头部压缩中服务端和客户端都有索引表，这个索引怎么去看？HTTP/2的多路复用是怎样的？和以前的网络模型有什么区别？现在的浏览器里HTTP/2底层模型是什么？HTTP/3底层有什么变化？","content_id":"2838996","title":"云智后台开发一面面经分享"}
+{"qid":"q-2838469-15","question":"HTTP3协议核心区别精华是什么？","content_id":"2838469","title":"美团ai全栈开发 实习一面 纯干货夯爆了"}
+{"qid":"q-2838469-16","question":"HTTP3性能更好，为什么内网微服务依然多用HTTP2？HTTP2内网优势是什么？","content_id":"2838469","title":"美团ai全栈开发 实习一面 纯干货夯爆了"}
+{"qid":"q-2834013-10","question":"了解哪些HTTP版本？各版本特性是什么？","content_id":"2834013","title":"字节后端ai开发一面-日常实习分享"}
+{"qid":"q-2834013-11","question":"HTTP队头阻塞是什么？","content_id":"2834013","title":"字节后端ai开发一面-日常实习分享"}
+{"qid":"q-2834013-12","question":"队头阻塞是否只存在于HTTP层面？","content_id":"2834013","title":"字节后端ai开发一面-日常实习分享"}
+{"qid":"q-872599725722132480-7","question":"HTTP协议各个版本的区别","content_id":"872599725722132480","title":"红茶移动Java开发一面"}
+{"qid":"q-2831303-13","question":"了解哪些HTTP版本各版本特性","content_id":"2831303","title":"字节后端开发一面热经"}
+{"qid":"q-2831303-14","question":"HTTP队头阻塞是什么","content_id":"2831303","title":"字节后端开发一面热经"}
+{"qid":"q-2831303-15","question":"队头阻塞是否只存在于HTTP层面","content_id":"2831303","title":"字节后端开发一面热经"}
+{"qid":"q-2831303-17","question":"HTTP3如何解决HTTP2在TCP上的队头阻塞","content_id":"2831303","title":"字节后端开发一面热经"}
+{"qid":"q-2831303-18","question":"为什么HTTP3基于QUIC而不继续在TCP上优化","content_id":"2831303","title":"字节后端开发一面热经"}
+{"qid":"q-2843114-12","question":"了解哪些HTTP版本，各版本特性","content_id":"2843114","title":"AI后端开发一面分享-字节实习"}
+{"qid":"q-2843114-13","question":"HTTP队头阻塞是什么","content_id":"2843114","title":"AI后端开发一面分享-字节实习"}
+{"qid":"q-2843114-14","question":"队头阻塞是否只存在于HTTP层面","content_id":"2843114","title":"AI后端开发一面分享-字节实习"}
+{"qid":"q-2843114-16","question":"HTTP3如何解决HTTP2在TCP上的队头阻塞","content_id":"2843114","title":"AI后端开发一面分享-字节实习"}
+{"qid":"q-2843114-17","question":"为什么HTTP3基于QUIC而不继续在TCP上优化","content_id":"2843114","title":"AI后端开发一面分享-字节实习"}

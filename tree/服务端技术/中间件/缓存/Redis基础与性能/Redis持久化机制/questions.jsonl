@@ -41,3 +41,39 @@
 {"qid":"q-2815083-4","question":"请讲解一下 Redis 持久化的原理（RDB 和 AOF）。","content_id":"2815083","title":"字节暑期后端二面"}
 {"qid":"q-2814882-6","question":"redis持久化机制有几种，rdb会丢数据吗","content_id":"2814882","title":"字节后端暑期实习一面"}
 {"qid":"q-2814392-15","question":"Redis的持久化方式及AOF压缩日志","content_id":"2814392","title":"紫东太初 golang后端开发工程师实习一面"}
+{"qid":"q-2466261-24","question":"Redis 持久化机制有哪些？","content_id":"2466261","title":"小米-java-日常实习面经"}
+{"qid":"q-2812181-17","question":"Redis的持久化机制有哪些？具体是哪两种方式？","content_id":"2812181","title":"26.3.17 腾讯QQ游戏中心二面"}
+{"qid":"q-2812052-16","question":"redis持久化策略","content_id":"2812052","title":"熙牛医疗java一面面经"}
+{"qid":"q-2811953-10","question":"Redis的RDB和AOF有什么区别？","content_id":"2811953","title":"比特鹰 春招一面"}
+{"qid":"q-2809612-14","question":"Redis持久化方案有哪些？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2809612-15","question":"RDB和AOF区别是什么？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2809309-0","question":"Redis默认持久化策略是什么？","content_id":"2809309","title":"字节二面秒挂"}
+{"qid":"q-2809309-2","question":"服务重启后Redis缓存数据是否会丢失？","content_id":"2809309","title":"字节二面秒挂"}
+{"qid":"q-861958482033942528-0","question":"Redis的持久化方案有哪些？","content_id":"861958482033942528","title":"途虎养车-Java开发-一面  面经"}
+{"qid":"q-2808313-0","question":"请解释Redis持久化中AOF和RDB的原理","content_id":"2808313","title":"2026年03月02日 11点28分腾讯ieg春招技术面二面"}
+{"qid":"q-2838996-19","question":"怎么保证Redis数据不丢失？","content_id":"2838996","title":"云智后台开发一面面经分享"}
+{"qid":"q-2838996-21","question":"RDB和AOF的对比","content_id":"2838996","title":"云智后台开发一面面经分享"}
+{"qid":"q-2837964-2","question":"Redis 有多少种持久化策略？","content_id":"2837964","title":"字节27暑期实习后台开发一面 65min"}
+{"qid":"q-2837964-3","question":"讲讲 RDB 的过程？它是怎么做的复制？","content_id":"2837964","title":"字节27暑期实习后台开发一面 65min"}
+{"qid":"q-2836367-4","question":"数据丢失问题的讨论","content_id":"2836367","title":"腾讯日常实习 ai后台开发 一面分享"}
+{"qid":"q-2835092-5","question":"Redis持久化方式有哪些？","content_id":"2835092","title":"国投智能java实习面经"}
+{"qid":"q-2835069-18","question":"Redis的持久化机制有哪些","content_id":"2835069","title":"快手Java日常实习一面"}
+{"qid":"q-2835069-19","question":"RDB和AOF分别在哪些场景适用","content_id":"2835069","title":"快手Java日常实习一面"}
+{"qid":"q-2834678-7","question":"Redis的持久化方案有哪些？有什么区别？执行BGsave时能否处理其他请求？","content_id":"2834678","title":"字节-日常实习-后台ai开发一面分享"}
+{"qid":"q-2834547-1","question":"Redis丢数据怎么办？","content_id":"2834547","title":"快手二面已挂-java后端"}
+{"qid":"q-2834561-6","question":"Redis的几种持久化机制","content_id":"2834561","title":"字节暑期后端面经（一共五轮技术面人傻了）"}
+{"qid":"q-2833857-1","question":"Redis的持久化机制有哪些？","content_id":"2833857","title":"不少厂还在问，别对“AI 时代”太乐观"}
+{"qid":"q-2832975-14","question":"redis持久化实现","content_id":"2832975","title":"腾讯暑期ai后台开发一面 攒人品中"}
+{"qid":"q-871521961380241408-8","question":"Redis的持久化机制有哪些？在项目中是如何配置的？","content_id":"871521961380241408","title":"27届-暑期实习-字节国际广告CRM-一面凉经"}
+{"qid":"q-2845440-4","question":"Redis丢数据怎么办？","content_id":"2845440","title":"字节暑期后端ai开发一面面经分享"}
+{"qid":"q-878291133086908416-3","question":"Redis的持久化方式及区别是什么？","content_id":"878291133086908416","title":"小红书后端开发一面"}
+{"qid":"q-2843305-10","question":"Redis持久化是如何实现的","content_id":"2843305","title":"暑期实习-腾讯ai后端开发一面分享"}
+{"qid":"q-2842942-2","question":"Redis 有多少种持久化策略？","content_id":"2842942","title":"字节日常实习后端ai开发一面 攒攒人品"}
+{"qid":"q-2842942-3","question":"讲讲 RDB 的过程以及它是怎么做复制的？","content_id":"2842942","title":"字节日常实习后端ai开发一面 攒攒人品"}
+{"qid":"q-2842596-9","question":"介绍一下Redis的持久化机制以及优缺点，各自适应什么场景","content_id":"2842596","title":"字节跳动-后端研发实习生（ai agent）-安全与风控 一面面经"}
+{"qid":"q-2841499-1","question":"请简述Redis的持久化机制","content_id":"2841499","title":"字节搜索广告 后端开发一面"}
+{"qid":"q-2840873-4","question":"Redis 的 RDB 和 AOF 两种持久化机制有什么区别？AOF 里记录的是什么内容？","content_id":"2840873","title":"快手27暑期 ai后端开发一面分享"}
+{"qid":"q-2840744-5","question":"Redis服务重启之后，数据会丢吗，持久化方法有哪些","content_id":"2840744","title":"腾讯ai后台开发一面面经分享 1h"}
+{"qid":"q-2840502-8","question":"Redis 持久化方式有哪些？","content_id":"2840502","title":"腾讯后台开发TME酷我车载业务部 二面"}
+{"qid":"q-2840502-9","question":"先后执行 set name 张三 和 set name 李四 在 AOF 持久化过程中都写入 AOF 文件吗？","content_id":"2840502","title":"腾讯后台开发TME酷我车载业务部 二面"}
+{"qid":"q-2828540-11","question":"Redis持久化是怎么配置的？","content_id":"2828540","title":"快手java后端一面(oc版😼)"}

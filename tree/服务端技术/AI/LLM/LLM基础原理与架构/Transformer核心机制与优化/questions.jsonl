@@ -1,0 +1,21 @@
+{"qid":"q-2794758-1","question":"Transformer的架构、QKV的作用和注意力机制","content_id":"2794758","title":"tts ai后端实习生一面"}
+{"qid":"q-2792249-8","question":"讲讲Transformer模型","content_id":"2792249","title":"京东后端-二面"}
+{"qid":"q-2794758-10","question":"Stable Diffusion和ViT的原理，以及视觉如何被大模型处理","content_id":"2794758","title":"tts ai后端实习生一面"}
+{"qid":"q-847976149895376896-12","question":"位置编码（RoPE等）的原理","content_id":"847976149895376896","title":"2026的你，应该知道哪些AI面试题？"}
+{"qid":"q-847976149895376896-13","question":"FlashAttention的原理","content_id":"847976149895376896","title":"2026的你，应该知道哪些AI面试题？"}
+{"qid":"q-847976149895376896-14","question":"GQA（分组查询注意力）的原理","content_id":"847976149895376896","title":"2026的你，应该知道哪些AI面试题？"}
+{"qid":"q-2778167-2","question":"Transformer的原理是什么？","content_id":"2778167","title":"快手后端实习二面 50min"}
+{"qid":"q-2777891-5","question":"transformer了解吗？","content_id":"2777891","title":"27日常实习京东科技后端二面"}
+{"qid":"q-2777552-8","question":"transformer的输入输出流程","content_id":"2777552","title":"光启之境科技（初创公司）一面面经"}
+{"qid":"q-2817256-5","question":"Dense 与 MoE（混合专家）架构的区别？","content_id":"2817256","title":"323腾讯金融科技后台开发"}
+{"qid":"q-2811606-6","question":"Transformer架构中的自注意力机制原理是什么？","content_id":"2811606","title":"货拉拉java实习面"}
+{"qid":"q-2837583-2","question":"是否了解Transformer？","content_id":"2837583","title":"27日常实习 美团AI后端二面分享"}
+{"qid":"q-2836156-2","question":"是否了解Transformer？","content_id":"2836156","title":"ai后端开发日常实习 美团二面分享"}
+{"qid":"q-2836255-8","question":"Transformer的架构","content_id":"2836255","title":"美团暑期 后端ai开发一面凉经分享"}
+{"qid":"q-2830757-1","question":"为什么使用Transformer模型而不用其他模型如LSTM？","content_id":"2830757","title":"字节tiktok后端二面"}
+{"qid":"q-2829542-0","question":"Transformer 为什么能替代 RNN 成为大模型主流架构？","content_id":"2829542","title":"快手后端ai agent算法面经分享"}
+{"qid":"q-2829542-1","question":"Self-Attention 的计算过程是什么，时间复杂度为什么高？","content_id":"2829542","title":"快手后端ai agent算法面经分享"}
+{"qid":"q-2829542-2","question":"Multi-Head Attention 的作用是什么，为什么要分多个头？","content_id":"2829542","title":"快手后端ai agent算法面经分享"}
+{"qid":"q-2829542-3","question":"位置编码为什么必要，绝对位置编码和相对位置编码有什么区别？","content_id":"2829542","title":"快手后端ai agent算法面经分享"}
+{"qid":"q-2829542-20","question":"什么是 MoE 模型，为什么它能在参数规模很大时控制推理成本？","content_id":"2829542","title":"快手后端ai agent算法面经分享"}
+{"qid":"q-2842044-6","question":"请讲解Transformer架构原理","content_id":"2842044","title":"腾讯视频暑期后端二面"}

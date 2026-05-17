@@ -1,0 +1,26 @@
+{"qid":"q-2792447-1","question":"Kafka 如何保证消息不丢失？","content_id":"2792447","title":"双非字节跳动OC 后端 交易与广告 三面 面经"}
+{"qid":"q-2788871-12","question":"Kafka如何解决消息丢失问题（包括网络问题导致的消息丢失）？","content_id":"2788871","title":"百度国际化后台开发日常实习一面"}
+{"qid":"q-2785316-3","question":"Kafka如何保证消息不丢失","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2795623-16","question":"Kafka如何实现消息可靠性机制？","content_id":"2795623","title":"共比邻AI后端实习一面面经"}
+{"qid":"q-2714419-10","question":"Kafka如何保证消息不丢失（生产确认、消费offset、Leader-Follower机制）","content_id":"2714419","title":"虾皮后端日常一面面经"}
+{"qid":"q-2688469-8","question":"Kafka怎么保证消息不丢失","content_id":"2688469","title":"顺丰后端一面 9.11"}
+{"qid":"q-2617839-9","question":"Kafka有哪些组件？broker是什么？如何保证消息不丢失？","content_id":"2617839","title":"6.12 字节跳动生活服务后端实习二面记录"}
+{"qid":"q-2579528-4","question":"Kafka保证消息不丢失有做哪些设计？","content_id":"2579528","title":"万物心选二面（40min）"}
+{"qid":"q-2554077-1","question":"Kafka如何保证消息的持久性和不丢失？","content_id":"2554077","title":"字节后端实习面经+TL"}
+{"qid":"q-2812342-3","question":"Kafka如何保证数据不丢失？","content_id":"2812342","title":"字节社招后端一面"}
+{"qid":"q-2810801-6","question":"Kafka 如何保证消息不丢失？","content_id":"2810801","title":"超星集团java一面"}
+{"qid":"q-2809612-24","question":"Kafka为什么会出现消息丢失？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2809612-25","question":"如何避免Kafka消息丢失？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-2809612-26","question":"Kafka的at least once机制是什么？","content_id":"2809612","title":"春招以来最舒服的一场试"}
+{"qid":"q-861385090713071616-1","question":"Kafka发送消息失败如何处理？","content_id":"861385090713071616","title":"2025-11-05 KK集团一二面"}
+{"qid":"q-861385090713071616-2","question":"Kafka的持久化机制？","content_id":"861385090713071616","title":"2025-11-05 KK集团一二面"}
+{"qid":"q-861385090713071616-3","question":"Kafka消息丢失的原因和处理？","content_id":"861385090713071616","title":"2025-11-05 KK集团一二面"}
+{"qid":"q-2834003-18","question":"Kafka如何保证消息不丢失？","content_id":"2834003","title":"腾讯云智后台开发暑期一面"}
+{"qid":"q-2843517-0","question":"Kafka如何保证消息不丢？","content_id":"2843517","title":"27日常实习 腾讯AI后台开发一面"}
+{"qid":"q-2842627-6","question":"Kafka怎么保证高可用和消息不丢失","content_id":"2842627","title":"4.24 腾讯云智 后端一面"}
+{"qid":"q-2842627-11","question":"Kafka异步处理流程（文档处理流向）及异常处理","content_id":"2842627","title":"4.24 腾讯云智 后端一面"}
+{"qid":"q-2840476-2","question":"Kafka 在极端情况下为什么会丢消息？","content_id":"2840476","title":"腾讯暑期面筋！"}
+{"qid":"q-2826146-2","question":"Kafka如何确保消息被成功消费？","content_id":"2826146","title":"字节后端一面"}
+{"qid":"q-2838127-10","question":"如果使用 Kafka 异步操作写库，写的时机是什么时候？是这些操作完了再写还是先写再操作？","content_id":"2838127","title":"27实习腾讯后端ai开发一面分享"}
+{"qid":"q-2838127-11","question":"怎么保证消息不丢失？","content_id":"2838127","title":"27实习腾讯后端ai开发一面分享"}
+{"qid":"q-2808720-0","question":"Kafka在什么情况下会丢失消息？","content_id":"2808720","title":"腾讯后台开发二面"}

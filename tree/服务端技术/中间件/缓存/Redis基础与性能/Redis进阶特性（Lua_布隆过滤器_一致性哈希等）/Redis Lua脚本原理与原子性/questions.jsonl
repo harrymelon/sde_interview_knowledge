@@ -1,0 +1,28 @@
+{"qid":"q-2786439-0","question":"Lua 脚本在实际中用来干嘛？","content_id":"2786439","title":"jdy-创新零售后端一面-40min"}
+{"qid":"q-2786439-1","question":"为什么 Lua 脚本能保证 Redis 原子性操作？","content_id":"2786439","title":"jdy-创新零售后端一面-40min"}
+{"qid":"q-2781465-1","question":"Lua脚本对Redis发出的指令是一条还是多条？Redis内部如何执行Lua脚本确保原子性？","content_id":"2781465","title":"字节tts后端校招一面"}
+{"qid":"q-2735282-24","question":"Lua脚本在分布式环境下能否保证原子性？","content_id":"2735282","title":"回旋加速 golang后端一面 11.4"}
+{"qid":"q-2692379-2","question":"Lua脚本是干什么的","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
+{"qid":"q-2571174-5","question":"Redis使用Lua脚本的好处","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-2571174-6","question":"Redis为什么选择Lua作为原子性操作","content_id":"2571174","title":"淘天一二面凉经"}
+{"qid":"q-865630750865903616-0","question":"你为什么在项目中使用Lua脚本？Lua脚本在Redis中的作用是什么？","content_id":"865630750865903616","title":"字节飞书后端一面面经分享"}
+{"qid":"q-2816849-1","question":"你会用到 Lua 脚本在 Redis 中做一些操作吗？","content_id":"2816849","title":"浙健体检Java后端开发一面--已约2面"}
+{"qid":"q-2813317-17","question":"Redis里为什么要用Lua脚本？Lua能保证什么？","content_id":"2813317","title":"3.12腾讯视频后端一面"}
+{"qid":"q-2813317-18","question":"Redis集群模式下，Lua脚本还能保证原子性吗？跨slot可以吗？","content_id":"2813317","title":"3.12腾讯视频后端一面"}
+{"qid":"q-2813279-4","question":"Redis为什么用Lua脚本保证自增和过期时间原子性","content_id":"2813279","title":"好未来二面（oc）"}
+{"qid":"q-2810966-0","question":"Lua脚本如何实现原子性？","content_id":"2810966","title":"字节 后端开发实习生-基础技术 一面"}
+{"qid":"q-2809855-0","question":"为什么需要引入Redis+Lua脚本?","content_id":"2809855","title":"京东-零售部门后端一面面经"}
+{"qid":"q-2805363-9","question":"在Lua脚本里面怎么定义一个变量？","content_id":"2805363","title":"腾讯27暑期提前批后台一面"}
+{"qid":"q-2839808-9","question":"lua脚本里干了什么，为什么可以实现原子化","content_id":"2839808","title":"京东后端一面"}
+{"qid":"q-2837145-12","question":"Lua脚本能保证原子性吗？","content_id":"2837145","title":"荣耀Java开发工程师实习生 一面面经"}
+{"qid":"q-2837145-32","question":"Lua脚本里Redis key怎么构成的？","content_id":"2837145","title":"荣耀Java开发工程师实习生 一面面经"}
+{"qid":"q-2834561-30","question":"Lua脚本怎么保证原子性？","content_id":"2834561","title":"字节暑期后端面经（一共五轮技术面人傻了）"}
+{"qid":"q-2831393-15","question":"Lua脚本的原子性是怎么实现的","content_id":"2831393","title":"腾讯 ima 4-8 已挂"}
+{"qid":"q-2845414-1","question":"Lua脚本如何保证原子性？在Redis集群环境下Lua脚本还能保证原子性吗？","content_id":"2845414","title":"pdd后端ai开发二面分享-27实习"}
+{"qid":"q-2843318-2","question":"Redis脚本在集群模式下会有一致性问题吗？如何解决？","content_id":"2843318","title":"京东ai后台开发暑期实习一面分享"}
+{"qid":"q-2842925-8","question":"lua脚本里干了什么，为什么可以实现原子化","content_id":"2842925","title":"27实习京东后端ai开发一面分享"}
+{"qid":"q-2831579-2","question":"Redis脚本在集群模式下会有一致性问题吗？如何解决？","content_id":"2831579","title":"27京东暑期ai后端开发面经分享"}
+{"qid":"q-873992050780270592-0","question":"Redis Lua脚本保证的原子性具体是指什么？","content_id":"873992050780270592","title":"杭州观妙科技-java岗面经"}
+{"qid":"q-2835092-1","question":"Redis如何保证原子性？","content_id":"2835092","title":"国投智能java实习面经"}
+{"qid":"q-2833597-8","question":"Redis + Lua脚本具体是如何实现的？涉及哪些数据结构和命令？","content_id":"2833597","title":"虾皮大模型后端开发一面-日常实习"}
+{"qid":"q-2843300-7","question":"Redis中Lua脚本的用途","content_id":"2843300","title":"AI后端开发-美团实习一面 1h"}
