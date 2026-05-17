@@ -7,3 +7,9 @@
 {"qid":"q-841222161753706496-6","question":"Java 中的异常体系是什么样的？","content_id":"841222161753706496","title":"Java 常考面试题汇总"}
 {"qid":"q-2791467-1","question":"JDK和JRE的区别是什么？","content_id":"2791467","title":"momenta后端实习二面"}
 {"qid":"q-2781934-10","question":"手撕switch语句：跳出应使用什么语句？","content_id":"2781934","title":"广州小厂爱奇创新Java实习面经"}
+{"qid":"q-2777851-4","question":"try中有return语句，finally还会执行吗？","content_id":"2777851","title":"京东科技后端实习一面"}
+{"qid":"q-2777445-16","question":"Java 异常处理中，try中return A，finally中 return B，最后返回什么?","content_id":"2777445","title":"美团Java后端开发实习二面"}
+{"qid":"q-2748333-3","question":"Java中checked exception和unchecked exception有什么区别？","content_id":"2748333","title":"深圳智能思创科技有限公司-初面"}
+{"qid":"q-2748333-4","question":"PDF解析失败时异常处理是怎么做的？","content_id":"2748333","title":"深圳智能思创科技有限公司-初面"}
+{"qid":"q-2738102-9","question":"try-catch的finally一定会执行吗？有没有不会执行的情况？","content_id":"2738102","title":"图拉斯二面"}
+{"qid":"q-2698749-4","question":"Java异常处理机制（try-catch-finally、异常分类等）","content_id":"2698749","title":"厦门岛内中场JAVA开发笔试"}

@@ -9,3 +9,12 @@
 {"qid":"q-2781624-15","question":"是否遇到MySQL主从延迟的情况？","content_id":"2781624","title":"18.滴滴-效能平台后端实习一面"}
 {"qid":"q-2781624-16","question":"如何获取MySQL主从延迟情况？","content_id":"2781624","title":"18.滴滴-效能平台后端实习一面"}
 {"qid":"q-2781491-19","question":"CDC底层原理","content_id":"2781491","title":"字节后端日常一二三面面经（oc）"}
+{"qid":"q-2779397-12","question":"MySQL集群的搭建方式（主从同步、binlog、relaylog、哨兵模式）","content_id":"2779397","title":"快手Java后端开发-校招面经"}
+{"qid":"q-2778167-4","question":"MySQL主从复制的步骤是什么？","content_id":"2778167","title":"快手后端实习二面 50min"}
+{"qid":"q-2777329-3","question":"怎么解决主从延迟问题？","content_id":"2777329","title":"快手商业化Java日常实习二面凉经"}
+{"qid":"q-2777328-12","question":"MySQL集群的搭建方式（主从同步、binlog、relaylog、哨兵模式）","content_id":"2777328","title":"快手Java日常实习一面"}
+{"qid":"q-2777310-2","question":"MySQL服务器全部宕机了怎么办？","content_id":"2777310","title":"Java社招面试，我遇到的最刁钻的问题"}
+{"qid":"q-2778530-5","question":"MySQL的主从数据同步是怎么实现的","content_id":"2778530","title":"携程后端开发日常实习二面"}
+{"qid":"q-2778378-25","question":"MySQL的主从同步机制是怎么样的？","content_id":"2778378","title":"小鹏汽车后端开发校招面经 攒人品"}
+{"qid":"q-2748333-12","question":"读写分离是如何实现的？","content_id":"2748333","title":"深圳智能思创科技有限公司-初面"}
+{"qid":"q-2661686-8","question":"MySQL 集群如何实现高可用？","content_id":"2661686","title":"某二线城市小厂golang面经."}

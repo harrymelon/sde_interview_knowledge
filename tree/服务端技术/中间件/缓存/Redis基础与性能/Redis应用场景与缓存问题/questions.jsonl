@@ -20,3 +20,35 @@
 {"qid":"q-2781462-2","question":"项目和实习中用到了Redis，具体用来干嘛？","content_id":"2781462","title":"11.北京瓜子二手车后端实习一面面经（2025年4月3投递，4月3约面）"}
 {"qid":"q-2781463-2","question":"Redis 单点登录是如何实现的？","content_id":"2781463","title":"12.北京百度后端实习一面面经（2025年3月30投递-不确定，4月8约面）"}
 {"qid":"q-840588378700541952-6","question":"Redis与本地缓存对比的优点？","content_id":"840588378700541952","title":"上海禾赛科技 （java后端实习）一面"}
+{"qid":"q-2780119-1","question":"项目中缓存的应用场景有哪些？","content_id":"2780119","title":"百度后端开发一面-实习面经"}
+{"qid":"q-2780119-8","question":"Redis的应用场景及持久化策略","content_id":"2780119","title":"百度后端开发一面-实习面经"}
+{"qid":"q-2780217-4","question":"Redis的zset实现排行榜，实现分数相同按照时间顺序排序，怎么做?","content_id":"2780217","title":"亚马逊Java后端一面-实习面经"}
+{"qid":"q-2779454-1","question":"Redis如何实现滑动窗口？滑动窗口限流的作用是什么？","content_id":"2779454","title":"小鹏汽车二面（没绷住）"}
+{"qid":"q-2779397-16","question":"从持久缓存加载数据到Redis的加载策略设计思路","content_id":"2779397","title":"快手Java后端开发-校招面经"}
+{"qid":"q-2778261-7","question":"为什么要用Redis做缓存以及Redis的优势","content_id":"2778261","title":"字节飞书后端实习一面 感觉凉了..."}
+{"qid":"q-837660497750028288-0","question":"Caffeine缓存主要存储了什么数据？","content_id":"837660497750028288","title":"字节飞书AI后端一面凉经"}
+{"qid":"q-2777816-0","question":"单机项目有必要使用Redis吗？","content_id":"2777816","title":"27实习小厂java后端二面"}
+{"qid":"q-2777798-3","question":"Redis限流是怎么实现的","content_id":"2777798","title":"小厂Java后端日常实习一面"}
+{"qid":"q-2777798-6","question":"缓存工单的key如何设计","content_id":"2777798","title":"小厂Java后端日常实习一面"}
+{"qid":"q-2777722-5","question":"视频播放页的基础元数据、实时计数、动态状态分别适合本地缓存、分布式缓存还是直接读存储？请陈述选型理由。","content_id":"2777722","title":"字节后端二面 实习面经 1h"}
+{"qid":"q-2777705-7","question":"MySQL 与 Redis 的核心差异与适用场景","content_id":"2777705","title":"字节OD后端开发技术二面"}
+{"qid":"q-2777321-16","question":"商户缓存，介绍一下场景，要缓存哪些信息？","content_id":"2777321","title":"字节今日头条Java日常实习一面凉经"}
+{"qid":"q-2777318-6","question":"怎么解决热Key问题？Redis扛不住怎么办？","content_id":"2777318","title":"小红书Java日常实习一面"}
+{"qid":"q-2777334-17","question":"一般在什么场景下会使用Redis？","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}
+{"qid":"q-2778372-7","question":"Redis的使用场景","content_id":"2778372","title":"滴滴后端开发 26校招 二面"}
+{"qid":"q-2750435-10","question":"Redis除了做分布式锁，在实习中还有哪些应用场景？","content_id":"2750435","title":"cider后端一面"}
+{"qid":"q-2748333-13","question":"引入Redis优化证书查询时，如何设计缓存的key？","content_id":"2748333","title":"深圳智能思创科技有限公司-初面"}
+{"qid":"q-2726924-14","question":"如何使用Redis设计用户购物车缓存？","content_id":"2726924","title":"百度后端日常二面（云方向）"}
+{"qid":"q-2717721-4","question":"分布式缓存有哪些优点？","content_id":"2717721","title":"美团-大模型后台开发实习生-道心破碎版"}
+{"qid":"q-2717721-5","question":"热点数据的筛选策略有哪些？","content_id":"2717721","title":"美团-大模型后台开发实习生-道心破碎版"}
+{"qid":"q-2717721-12","question":"项目中如何使用Redis？","content_id":"2717721","title":"美团-大模型后台开发实习生-道心破碎版"}
+{"qid":"q-2701211-3","question":"用Redis扛高QPS时，与DB组合使用有哪些风险点？","content_id":"2701211","title":"网易云音乐java一面"}
+{"qid":"q-2701211-5","question":"Redis热点key的处理方法有哪些？","content_id":"2701211","title":"网易云音乐java一面"}
+{"qid":"q-2701211-8","question":"Redis热点key拆分成多个子key后，更新时如何保证数据一致？","content_id":"2701211","title":"网易云音乐java一面"}
+{"qid":"q-2701211-17","question":"Redis的大Key有哪些风险点？","content_id":"2701211","title":"网易云音乐java一面"}
+{"qid":"q-2702636-20","question":"你在实习过程中用过Redis吗？用了哪些数据类型？解决了什么业务问题？","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2700457-8","question":"你的服务是单机服务为什么还用redis本地缓存不就够了","content_id":"2700457","title":"波克城市一面 9.23"}
+{"qid":"q-2692379-20","question":"LoadingCache了解吗","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
+{"qid":"q-2685815-21","question":"Redis常用的用途","content_id":"2685815","title":"美团-核心本地商业后端一面-9.9（凉）"}
+{"qid":"q-2685815-25","question":"你项目Caffeine用来干啥的","content_id":"2685815","title":"美团-核心本地商业后端一面-9.9（凉）"}
+{"qid":"q-2666306-7","question":"简述Redis的使用场景","content_id":"2666306","title":"美团 后端 一面"}

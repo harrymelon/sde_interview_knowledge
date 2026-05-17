@@ -11,3 +11,15 @@
 {"qid":"q-2790248-12","question":"MyBatis中#{}和${}的区别","content_id":"2790248","title":"字节后端二面"}
 {"qid":"q-2790248-13","question":"MyBatis中@Param注解的作用","content_id":"2790248","title":"字节后端二面"}
 {"qid":"q-2790248-14","question":"MyBatis中如何实现分表查询","content_id":"2790248","title":"字节后端二面"}
+{"qid":"q-2778948-0","question":"如何查询最后登录的1000名用户，字段包含最后登录时间","content_id":"2778948","title":"深圳高益科技有限公司笔试"}
+{"qid":"q-2778948-1","question":"如何编写SQL将表中含有某个字段的记录将该字段值修改为0","content_id":"2778948","title":"深圳高益科技有限公司笔试"}
+{"qid":"q-2778948-2","question":"如何查询表中重复的昵称","content_id":"2778948","title":"深圳高益科技有限公司笔试"}
+{"qid":"q-838038489668046848-3","question":"SQL查询成绩最高的前三条记录","content_id":"838038489668046848","title":"27小厂Java后端实习"}
+{"qid":"q-2739811-7","question":"创建索引的 SQL 语法是什么？","content_id":"2739811","title":"安恒信息二面（我还以为是hr面，结果是技术面）"}
+{"qid":"q-2726924-3","question":"SQL题：统计student表中各个年龄的学生数量","content_id":"2726924","title":"百度后端日常二面（云方向）"}
+{"qid":"q-2726924-4","question":"SQL题：统计同一个年龄学生超过20人的年龄","content_id":"2726924","title":"百度后端日常二面（云方向）"}
+{"qid":"q-2722227-1","question":"批量SQL INSERT操作时，每条记录的列结构不固定时如何解决？","content_id":"2722227","title":"乐牛游戏 游戏服务端开发工程师 凉经"}
+{"qid":"q-2698749-8","question":"SQL基本语法包括哪些内容？","content_id":"2698749","title":"厦门岛内中场JAVA开发笔试"}
+{"qid":"q-2693075-0","question":"查询每个 act_id 对应的最晚插入记录，如何编写 SQL？","content_id":"2693075","title":"美团后端面经（意向）"}
+{"qid":"q-2675377-7","question":"游戏场景下要执行多少次UPDATE SQL语句如何分析？","content_id":"2675377","title":"点点互动-服务端-笔试"}
+{"qid":"q-2666837-8","question":"SQL join考察","content_id":"2666837","title":"美团java后端一面(挂)"}

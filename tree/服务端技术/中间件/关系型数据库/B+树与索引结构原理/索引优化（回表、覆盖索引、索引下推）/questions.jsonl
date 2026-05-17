@@ -6,3 +6,13 @@
 {"qid":"q-2797570-8","question":"InnoDB的索引结构是怎样的，查询name和age字段索引要怎么建？","content_id":"2797570","title":"焦点科技java后端一面30min"}
 {"qid":"q-2790121-8","question":"对 MySQL 索引的了解及项目中的使用场景？","content_id":"2790121","title":"新大陆Java面经"}
 {"qid":"q-2791575-18","question":"请介绍Innodb中索引的数据结构，并说明为何选择该结构，该结构对索引设计有何指导意义？","content_id":"2791575","title":"【Zuvi原里-全栈开发工程师-一面】技术面经"}
+{"qid":"q-2778153-11","question":"什么是回表查询","content_id":"2778153","title":"滴滴后端开发一面-实习面经"}
+{"qid":"q-2777340-16","question":"主键索引是否需要回表查询","content_id":"2777340","title":"高德地图交易业务Java日常实习一面"}
+{"qid":"q-2778500-1","question":"覆盖索引的概念和优化原理","content_id":"2778500","title":"快手后端实习二面"}
+{"qid":"q-2778378-7","question":"百万订单表的覆盖索引的设计的原理是什么？","content_id":"2778378","title":"小鹏汽车后端开发校招面经 攒人品"}
+{"qid":"q-2734965-6","question":"请描述数据库二级索引回表的过程。","content_id":"2734965","title":"tplink 后端一面"}
+{"qid":"q-2735282-6","question":"什么是回表查询？","content_id":"2735282","title":"回旋加速 golang后端一面 11.4"}
+{"qid":"q-2675321-2","question":"假如加了(a,b)联合索引，查询时还有非索引字段c，查询流程是怎样的？","content_id":"2675321","title":"秋招小红书后端凉经（社区技术）"}
+{"qid":"q-2674686-5","question":"什么是二次回表？","content_id":"2674686","title":"美团后端一面"}
+{"qid":"q-2672828-6","question":"什么是回表？请举例说明","content_id":"2672828","title":"淘天java 26日后端一面"}
+{"qid":"q-2672828-7","question":"如何避免回表？","content_id":"2672828","title":"淘天java 26日后端一面"}

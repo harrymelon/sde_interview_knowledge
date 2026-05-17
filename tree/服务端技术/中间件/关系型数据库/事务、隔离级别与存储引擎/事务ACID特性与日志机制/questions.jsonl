@@ -8,3 +8,24 @@
 {"qid":"q-2788865-12","question":"MySQL日志介绍（包括binlog、redo log、undo log）","content_id":"2788865","title":"字节日常实习二面"}
 {"qid":"q-2785316-15","question":"redo log日志的作用","content_id":"2785316","title":"虾皮一面"}
 {"qid":"q-2780420-2","question":"主机突然断电了，日志会丢失吗","content_id":"2780420","title":"蚂蚁金服后端校招一面 1h"}
+{"qid":"q-2779397-20","question":"事务如何开启","content_id":"2779397","title":"快手Java后端开发-校招面经"}
+{"qid":"q-2778261-0","question":"binlog、redolog、undolog的作用是什么","content_id":"2778261","title":"字节飞书后端实习一面 感觉凉了..."}
+{"qid":"q-2778195-3","question":"MySQL有哪些日志？redo log和undo log的区别和联系是什么？","content_id":"2778195","title":"美团后端java日常实习一面"}
+{"qid":"q-2778039-13","question":"MySQL有哪些日志类型？展开讲讲它们的区别。","content_id":"2778039","title":"27实习小红书后端开发一面"}
+{"qid":"q-2777399-22","question":"MySQL有哪些日志？Redo Log是在存储引擎层还是服务层？","content_id":"2777399","title":"美团Java后端开发实习一面"}
+{"qid":"q-2777329-4","question":"怎么保证两个操作不被打断？","content_id":"2777329","title":"快手商业化Java日常实习二面凉经"}
+{"qid":"q-2777328-20","question":"事务如何开启","content_id":"2777328","title":"快手Java日常实习一面"}
+{"qid":"q-2777334-14","question":"MySQL的事务有哪些特性？怎么保证这些特性？","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}
+{"qid":"q-2778522-3","question":"MySQL事务四大特性及实现原理","content_id":"2778522","title":"快手后端日常实习一面凉经"}
+{"qid":"q-2778530-4","question":"MySQL的日志分别有什么作用","content_id":"2778530","title":"携程后端开发日常实习二面"}
+{"qid":"q-2767092-6","question":"MySQL中的事务有哪几个特性？","content_id":"2767092","title":"快手大模型后端日常一面"}
+{"qid":"q-2767092-7","question":"MySQL是如何保证事务的原子性、持久性、隔离性、一致性的？这四个性分别通过什么实现？","content_id":"2767092","title":"快手大模型后端日常一面"}
+{"qid":"q-2746765-24","question":"事务的ACID四大特性","content_id":"2746765","title":"清程极智后端日常一面"}
+{"qid":"q-2741509-7","question":"事务的四大特性（ACID）","content_id":"2741509","title":"oppo后端研发日常实习凉经"}
+{"qid":"q-2735282-8","question":"Redo log、Undo log、Binlog的作用","content_id":"2735282","title":"回旋加速 golang后端一面 11.4"}
+{"qid":"q-2714419-6","question":"事务是什么？在项目中如何使用事务？","content_id":"2714419","title":"虾皮后端日常一面面经"}
+{"qid":"q-2714419-7","question":"事务失效的原因及事务回滚失败的处理方式","content_id":"2714419","title":"虾皮后端日常一面面经"}
+{"qid":"q-2702636-14","question":"MySQL的InnoDB存储引擎是如何实现事务ACID特性的？","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2675321-3","question":"MySQL的redo log和undo log分别有什么作用？","content_id":"2675321","title":"秋招小红书后端凉经（社区技术）"}
+{"qid":"q-2675321-4","question":"如果MySQL宕机后redo log写入成功但binlog未写入，重启后会怎样？","content_id":"2675321","title":"秋招小红书后端凉经（社区技术）"}
+{"qid":"q-2661686-10","question":"事务的 ACID 特性是什么，如何理解事务？","content_id":"2661686","title":"某二线城市小厂golang面经."}

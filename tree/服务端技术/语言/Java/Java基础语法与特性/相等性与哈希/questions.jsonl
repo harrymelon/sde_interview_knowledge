@@ -9,3 +9,4 @@
 {"qid":"q-2788440-2","question":"equals与hashcode的关系，只重写一个不重写另一个会发生什么","content_id":"2788440","title":"快手后端一面"}
 {"qid":"q-2780374-14","question":"重写equals为什么通常要重写hashCode？","content_id":"2780374","title":"得物秋招Java后端面试记录"}
 {"qid":"q-840882315994599424-0","question":"为什么必须同时重写 equals 和 hashCode 方法？","content_id":"840882315994599424","title":"java面试重点总结"}
+{"qid":"q-2778133-2","question":"Java中==和equals的区别是什么","content_id":"2778133","title":"小米后端开发一面-27实习面经"}

@@ -7,3 +7,10 @@
 {"qid":"q-2785316-6","question":"Kafka是否可以无限增加Consumer数量来提升消费能力","content_id":"2785316","title":"虾皮一面"}
 {"qid":"q-2785316-7","question":"消费者数量大于分区数量时会出现什么情况","content_id":"2785316","title":"虾皮一面"}
 {"qid":"q-2785316-8","question":"消费者数量多于分区时消费者如何竞争分区","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2780217-7","question":"Kafka，单分区单消费者实例，如何提高吞吐量?","content_id":"2780217","title":"亚马逊Java后端一面-实习面经"}
+{"qid":"q-2779548-4","question":"消息队列出现消息堆积怎么处理？","content_id":"2779548","title":"美团27实习后端二面 45min"}
+{"qid":"q-2779565-7","question":"Kafka单分区单消费者实例如何提高吞吐量？","content_id":"2779565","title":"亚马逊Java后端开发一面凉经"}
+{"qid":"q-2777464-3","question":"遇到过消息积压吗？怎么处理的？","content_id":"2777464","title":"百度网盘 国际化Go实习一面凉经"}
+{"qid":"q-2767088-3","question":"Kafka的rebalance机制持续时间较长会有什么影响，怎么解决","content_id":"2767088","title":"字节tiktok后端日常二面"}
+{"qid":"q-2767090-3","question":"Kafka出现消息消费lag（消费延迟、消息堆积）时，如何排查问题？怎么处理？","content_id":"2767090","title":"字节tiktok后端日常一面"}
+{"qid":"q-2701211-9","question":"通过MQ发送200万条数据，如何最快消费完？","content_id":"2701211","title":"网易云音乐java一面"}

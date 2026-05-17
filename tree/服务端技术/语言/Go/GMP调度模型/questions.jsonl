@@ -6,3 +6,24 @@
 {"qid":"q-2791345-6","question":"当P的本地队列为空或者不为空时，它会怎么去调度G（协程）？","content_id":"2791345","title":"字节 后端开发 (Agent中台)一面凉"}
 {"qid":"q-2780402-0","question":"Golang中的GMP调度模型是如何工作的？P的作用是什么？","content_id":"2780402","title":"腾讯Golang开发一面-校招面经"}
 {"qid":"q-2791575-10","question":"请介绍Golang的协程和进程的模型。","content_id":"2791575","title":"【Zuvi原里-全栈开发工程师-一面】技术面经"}
+{"qid":"q-2777501-0","question":"请详细讲讲Golang的GMP模型，以及各组件之间的协作流程?","content_id":"2777501","title":"哔哩哔哩golang后端实习面经"}
+{"qid":"q-2777550-2","question":"Golang的Goroutine和线程的区别是什么？GOMAXPROCS的作用是什么？","content_id":"2777550","title":"得物后端Go实习一面"}
+{"qid":"q-2777550-6","question":"Golang调度器M-P-G模型的具体实现是什么？如何理解Goroutine的抢占式调度？","content_id":"2777550","title":"得物后端Go实习一面"}
+{"qid":"q-2777464-12","question":"GMP模型原理是怎样的？","content_id":"2777464","title":"百度网盘 国际化Go实习一面凉经"}
+{"qid":"q-2777394-10","question":"Go语言GMP调度模型及原理？","content_id":"2777394","title":"快手Java后端开发实习一面凉经"}
+{"qid":"q-2777394-11","question":"为什么Go要引入P这个概念？","content_id":"2777394","title":"快手Java后端开发实习一面凉经"}
+{"qid":"q-2777292-11","question":"介绍一下GMP模型。","content_id":"2777292","title":"虾皮后端golang实习一面凉经"}
+{"qid":"q-2777292-12","question":"协程创建的时机。","content_id":"2777292","title":"虾皮后端golang实习一面凉经"}
+{"qid":"q-2777292-13","question":"M的创建时机，什么时候销毁M？","content_id":"2777292","title":"虾皮后端golang实习一面凉经"}
+{"qid":"q-2777292-14","question":"P的创建时机，P的数量怎么确定，有什么参数可以初始化？","content_id":"2777292","title":"虾皮后端golang实习一面凉经"}
+{"qid":"q-2778372-1","question":"Go协程调度原理","content_id":"2778372","title":"滴滴后端开发 26校招 二面"}
+{"qid":"q-2768525-21","question":"请讲解一下Go的GMP调度模型。","content_id":"2768525","title":"小小厂面经"}
+{"qid":"q-2768525-22","question":"当一个Goroutine发生I/O阻塞时，M（机器线程）和P（逻辑处理器）是如何进行调度的？","content_id":"2768525","title":"小小厂面经"}
+{"qid":"q-2747665-8","question":"Go中goroutine的底层调度是如何实现的","content_id":"2747665","title":"处子面--整个麻住了"}
+{"qid":"q-2748415-28","question":"goroutine和线程的区别是什么？","content_id":"2748415","title":"百度后端日常一面"}
+{"qid":"q-2746765-16","question":"GMP模型与GM模型的区别，为什么需要P，P的作用及优化点","content_id":"2746765","title":"清程极智后端日常一面"}
+{"qid":"q-2735282-2","question":"GMP调度模型是什么？","content_id":"2735282","title":"回旋加速 golang后端一面 11.4"}
+{"qid":"q-2694201-4","question":"解释Go的GMP模型","content_id":"2694201","title":"9.16 滴滴日常实习一面后端"}
+{"qid":"q-2694201-5","question":"为什么Go要设计GMP模型？","content_id":"2694201","title":"9.16 滴滴日常实习一面后端"}
+{"qid":"q-2687055-7","question":"请讲一下Go的调度（GMP模型）。","content_id":"2687055","title":"字节-生活服务-后端实习-一面"}
+{"qid":"q-2661686-3","question":"GMP 调度模型是什么？","content_id":"2661686","title":"某二线城市小厂golang面经."}

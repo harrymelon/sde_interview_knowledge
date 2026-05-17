@@ -8,3 +8,17 @@
 {"qid":"q-2787532-9","question":"ThreadLocal的底层原理、内存泄漏原因以及通常用法","content_id":"2787532","title":"字节日常实习一面"}
 {"qid":"q-846688662325620736-13","question":"ThreadLocal 的原理、内存泄漏问题及解决方案","content_id":"846688662325620736","title":"Java高薪必备八股文：春招备战指南"}
 {"qid":"q-2780371-4","question":"ThreadLocal的实现原理与内存泄漏防范方法是什么？","content_id":"2780371","title":"网易校招Java后端一面技术面"}
+{"qid":"q-2777696-1","question":"ThreadLocal的实现原理和它解决的问题是什么？","content_id":"2777696","title":"高德java后端开发实习一面 50min"}
+{"qid":"q-2777448-1","question":"ThreadLocal底层原理是什么？使用时要注意什么？","content_id":"2777448","title":"腾讯日常后端一面"}
+{"qid":"q-2777352-1","question":"ThreadLocal的实现原理和解决的问题是什么？","content_id":"2777352","title":"27实习高德Java后端二面"}
+{"qid":"q-2777340-19","question":"ThreadLocal的原理以及如何处理哈希冲突","content_id":"2777340","title":"高德地图交易业务Java日常实习一面"}
+{"qid":"q-2777307-2","question":"ThreadLocal的使用场景和原理是什么？","content_id":"2777307","title":"快手Java日常实习一面凉经"}
+{"qid":"q-2777307-3","question":"ThreadLocal会产生什么问题？","content_id":"2777307","title":"快手Java日常实习一面凉经"}
+{"qid":"q-2777307-4","question":"子进程能访问父进程的ThreadLocal值吗？为什么？","content_id":"2777307","title":"快手Java日常实习一面凉经"}
+{"qid":"q-2778912-16","question":"项目中用到的 ThreadLocal 可能会出现什么问题？","content_id":"2778912","title":"京东后端实习一面凉经（2026-1-6）"}
+{"qid":"q-2739684-7","question":"ThreadLocal的原理是什么？为什么会内存泄漏？","content_id":"2739684","title":"金山wps服务端一面"}
+{"qid":"q-2701211-13","question":"ThreadLocal的原理是什么？什么场景下使用？","content_id":"2701211","title":"网易云音乐java一面"}
+{"qid":"q-2701211-14","question":"ThreadLocal使用要注意什么？会出现什么问题？","content_id":"2701211","title":"网易云音乐java一面"}
+{"qid":"q-2701211-15","question":"一般在什么时候删除ThreadLocal？","content_id":"2701211","title":"网易云音乐java一面"}
+{"qid":"q-2701437-7","question":"ThreadLocal内存泄露的底层原因是什么，和使用有关系吗？","content_id":"2701437","title":"快手-商业化JAVA一面"}
+{"qid":"q-2695362-1","question":"ThreadLocal在项目中怎么使用的，解决了什么问题？","content_id":"2695362","title":"海信软件开发一面"}

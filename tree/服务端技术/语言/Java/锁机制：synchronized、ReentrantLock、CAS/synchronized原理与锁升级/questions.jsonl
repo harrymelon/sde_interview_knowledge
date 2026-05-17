@@ -5,3 +5,6 @@
 {"qid":"q-2785913-2","question":"synchronized自旋在底层是怎么实现的","content_id":"2785913","title":"度小满（数据库后端开发）"}
 {"qid":"q-2785913-3","question":"synchronized锁升级是怎么实现的","content_id":"2785913","title":"度小满（数据库后端开发）"}
 {"qid":"q-2782135-3","question":"synchronized 是如何实现的？它是重量级锁还是轻量级锁？","content_id":"2782135","title":"弘云咨询 全栈实习"}
+{"qid":"q-2777340-0","question":"synchronized的底层原理、字节码指令、锁升级及偏向锁/轻量级锁/重量级锁的实现","content_id":"2777340","title":"高德地图交易业务Java日常实习一面"}
+{"qid":"q-2702636-1","question":"请说明synchronized锁升级的过程。","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2702636-2","question":"轻量级锁基于CAS自旋实现，其默认自旋次数是多少？从轻量级锁升级到重量级锁的临界条件是什么？","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}

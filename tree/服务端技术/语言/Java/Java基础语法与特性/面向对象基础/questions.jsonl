@@ -16,3 +16,25 @@
 {"qid":"q-2788907-1","question":"final关键字的作用是什么？","content_id":"2788907","title":"字节国际化广告后端一面"}
 {"qid":"q-2788907-2","question":"可以用final修饰抽象类吗？","content_id":"2788907","title":"字节国际化广告后端一面"}
 {"qid":"q-840588378700541952-8","question":"如何访问私有方法？反射是否破坏了private的面向对象设计？","content_id":"840588378700541952","title":"上海禾赛科技 （java后端实习）一面"}
+{"qid":"q-2777851-2","question":"请谈谈对多态的理解","content_id":"2777851","title":"京东科技后端实习一面"}
+{"qid":"q-2777851-3","question":"请谈谈抽象类和接口的区别","content_id":"2777851","title":"京东科技后端实习一面"}
+{"qid":"q-2777851-12","question":"深拷贝怎么实现？","content_id":"2777851","title":"京东科技后端实习一面"}
+{"qid":"q-2778004-10","question":"面向对象三大特性","content_id":"2778004","title":"字节日常实习后端一面"}
+{"qid":"q-2778004-11","question":"如何实现多态","content_id":"2778004","title":"字节日常实习后端一面"}
+{"qid":"q-2777334-1","question":"Java面向对象有哪些特点？","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}
+{"qid":"q-2777307-10","question":"Java的三大特性是什么？多态是怎么体现的？","content_id":"2777307","title":"快手Java日常实习一面凉经"}
+{"qid":"q-2778522-2","question":"Java的三大特性怎么理解","content_id":"2778522","title":"快手后端日常实习一面凉经"}
+{"qid":"q-838069125107699712-0","question":"Java中的访问修饰符有哪些？","content_id":"838069125107699712","title":"华宇软件（实习） 一面面经"}
+{"qid":"q-838069125107699712-1","question":"静态代码块的作用和执行时机","content_id":"838069125107699712","title":"华宇软件（实习） 一面面经"}
+{"qid":"q-2748333-0","question":"面向对象的三大特性是什么？","content_id":"2748333","title":"深圳智能思创科技有限公司-初面"}
+{"qid":"q-2748333-1","question":"在实际项目中举出使用面向对象三大特性的例子。","content_id":"2748333","title":"深圳智能思创科技有限公司-初面"}
+{"qid":"q-2704208-2","question":"面向对象的基本特征是什么？","content_id":"2704208","title":"乐牛游戏笔试"}
+{"qid":"q-2698749-0","question":"Java protected修饰符的作用是什么？","content_id":"2698749","title":"厦门岛内中场JAVA开发笔试"}
+{"qid":"q-2698749-2","question":"Java继承的规则和注意事项有哪些？","content_id":"2698749","title":"厦门岛内中场JAVA开发笔试"}
+{"qid":"q-2698749-7","question":"构造方法的特点和注意事项是什么？","content_id":"2698749","title":"厦门岛内中场JAVA开发笔试"}
+{"qid":"q-2698749-12","question":"重载（Overloading）与重写（Overriding）的区别是什么？","content_id":"2698749","title":"厦门岛内中场JAVA开发笔试"}
+{"qid":"q-2692379-43","question":"Java效率比C++慢很多，那为什么还要这样实现","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
+{"qid":"q-2692379-45","question":"说一下Java和C++的区别还有你对Java设计理念的理解","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
+{"qid":"q-2693075-13","question":"protected 修饰符的作用域，什么时候用","content_id":"2693075","title":"美团后端面经（意向）"}
+{"qid":"q-2693075-23","question":"Object 类中的常见方法有哪些","content_id":"2693075","title":"美团后端面经（意向）"}
+{"qid":"q-2666306-19","question":"深拷贝与浅拷贝的区别？","content_id":"2666306","title":"美团 后端 一面"}

@@ -1,0 +1,13 @@
+{"qid":"q-854826146066599936-12","question":"epoll原理与使用","content_id":"854826146066599936","title":"C++后端开发面试准备指南及大厂真题整理"}
+{"qid":"q-2788359-5","question":"epoll如何与非阻塞I/O配合？为什么阻塞I/O不行？","content_id":"2788359","title":"字节26秋招 C++面经"}
+{"qid":"q-2788359-6","question":"epoll和select的区别？用途区别？","content_id":"2788359","title":"字节26秋招 C++面经"}
+{"qid":"q-2788359-7","question":"select适用于什么场景？","content_id":"2788359","title":"字节26秋招 C++面经"}
+{"qid":"q-2788359-8","question":"select有什么弊端？","content_id":"2788359","title":"字节26秋招 C++面经"}
+{"qid":"q-2788359-9","question":"epoll适用于什么场景？","content_id":"2788359","title":"字节26秋招 C++面经"}
+{"qid":"q-2788359-10","question":"epoll有什么弊端？","content_id":"2788359","title":"字节26秋招 C++面经"}
+{"qid":"q-2788359-11","question":"epoll的水平触发和边缘触发有什么区别？","content_id":"2788359","title":"字节26秋招 C++面经"}
+{"qid":"q-2788359-12","question":"边缘触发有什么弊端？适用于什么场景？水平触发呢？","content_id":"2788359","title":"字节26秋招 C++面经"}
+{"qid":"q-2788359-13","question":"如何解决边缘触发可能漏读数据的问题？","content_id":"2788359","title":"字节26秋招 C++面经"}
+{"qid":"q-2788359-14","question":"socket如何保证一次性读取完整数据？","content_id":"2788359","title":"字节26秋招 C++面经"}
+{"qid":"q-2781460-9","question":"Socket编程用过吗？","content_id":"2781460","title":"9.腾讯PCG后端实习一面挂"}
+{"qid":"q-2692379-14","question":"怎么处理多个客户端的请求连接","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}

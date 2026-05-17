@@ -4,3 +4,21 @@
 {"qid":"q-2780371-12","question":"AQS同步器原理及ReentrantLock实现是什么？","content_id":"2780371","title":"网易校招Java后端一面技术面"}
 {"qid":"q-2785913-4","question":"可重入锁的机制怎么实现的","content_id":"2785913","title":"度小满（数据库后端开发）"}
 {"qid":"q-2785913-5","question":"如何判断当前持有锁的是不是自己","content_id":"2785913","title":"度小满（数据库后端开发）"}
+{"qid":"q-2780119-9","question":"lock与tryLock的区别","content_id":"2780119","title":"百度后端开发一面-实习面经"}
+{"qid":"q-2777891-17","question":"AQS 原理大概能讲一下吗？","content_id":"2777891","title":"27日常实习京东科技后端二面"}
+{"qid":"q-2777705-2","question":"AQS 的核心思想、队列结构与加锁/释放流程","content_id":"2777705","title":"字节OD后端开发技术二面"}
+{"qid":"q-2777334-8","question":"公平锁的底层是怎么实现的？","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}
+{"qid":"q-2778380-6","question":"AQS 的原理是什么？独占模式和共享模式有什么区别？","content_id":"2778380","title":"百度java一面 28届的第一次大厂面试 感觉g了"}
+{"qid":"q-2753426-6","question":"讲讲AQS","content_id":"2753426","title":"11.25深圳中小厂全栈"}
+{"qid":"q-2739811-17","question":"ReentrantLock 的原理是什么？","content_id":"2739811","title":"安恒信息二面（我还以为是hr面，结果是技术面）"}
+{"qid":"q-2739811-19","question":"AQS 的数据结构是什么？","content_id":"2739811","title":"安恒信息二面（我还以为是hr面，结果是技术面）"}
+{"qid":"q-2739811-20","question":"AQS 中的 state 变量用什么修饰？","content_id":"2739811","title":"安恒信息二面（我还以为是hr面，结果是技术面）"}
+{"qid":"q-2717721-16","question":"CountDownLatch的原理是什么？","content_id":"2717721","title":"美团-大模型后台开发实习生-道心破碎版"}
+{"qid":"q-2702636-4","question":"JUC包中乐观锁实现（如ReentrantLock、CountDownLatch等）底层依赖的抽象类AQS，其底层实现逻辑是什么？","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2702636-5","question":"AQS中的公平锁和非公平锁是如何实现的？","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2701437-9","question":"AQS框架的过程是怎样的？","content_id":"2701437","title":"快手-商业化JAVA一面"}
+{"qid":"q-2701437-10","question":"ReentrantLock底层实现是否会有阻塞过程？","content_id":"2701437","title":"快手-商业化JAVA一面"}
+{"qid":"q-2672828-3","question":"ReentrantLock的尝试机制（tryLock）是什么？","content_id":"2672828","title":"淘天java 26日后端一面"}
+{"qid":"q-2667196-2","question":"请解释AQS的原理","content_id":"2667196","title":"快手一面凉经"}
+{"qid":"q-2667196-3","question":"哪些锁用到了AQS？","content_id":"2667196","title":"快手一面凉经"}
+{"qid":"q-2664637-8","question":"java的可重入锁是如何实现的","content_id":"2664637","title":"京东零售后端秋招一面"}

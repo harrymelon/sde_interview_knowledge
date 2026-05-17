@@ -23,3 +23,18 @@
 {"qid":"q-2781624-12","question":"IoC和AOP通俗易懂的描述？","content_id":"2781624","title":"18.滴滴-效能平台后端实习一面"}
 {"qid":"q-2791001-4","question":"@Service注解是加在哪里的？","content_id":"2791001","title":"车300Java开发"}
 {"qid":"q-2791001-5","question":"如果Service要使用新的实现类，怎么换？","content_id":"2791001","title":"车300Java开发"}
+{"qid":"q-2778039-18","question":"Spring有哪些常用注解？依赖注入使用什么注解？","content_id":"2778039","title":"27实习小红书后端开发一面"}
+{"qid":"q-2777987-7","question":"IOC是怎么实现的？","content_id":"2777987","title":"京东后端实习一面"}
+{"qid":"q-2777987-9","question":"什么是Bean？它代表什么？","content_id":"2777987","title":"京东后端实习一面"}
+{"qid":"q-2778004-14","question":"Spring的控制反转","content_id":"2778004","title":"字节日常实习后端一面"}
+{"qid":"q-2777328-23","question":"Spring中用到了哪些设计模式","content_id":"2777328","title":"快手Java日常实习一面"}
+{"qid":"q-2777321-12","question":"Bean的两种状态，单例和非单例，这两种方式对比一下？","content_id":"2777321","title":"字节今日头条Java日常实习一面凉经"}
+{"qid":"q-2778522-6","question":"Spring的IoC是什么，如何理解依赖注入","content_id":"2778522","title":"快手后端日常实习一面凉经"}
+{"qid":"q-838038489668046848-6","question":"什么是Spring Bean","content_id":"838038489668046848","title":"27小厂Java后端实习"}
+{"qid":"q-2741509-1","question":"OC（IoC）的概念与理解","content_id":"2741509","title":"oppo后端研发日常实习凉经"}
+{"qid":"q-2730759-1","question":"IOC的原理是什么？","content_id":"2730759","title":"去哪儿java开发一天三面"}
+{"qid":"q-2730759-2","question":"IOC实现时使用了哪些设计模式？","content_id":"2730759","title":"去哪儿java开发一天三面"}
+{"qid":"q-2685815-0","question":"介绍一下Spring的容器","content_id":"2685815","title":"美团-核心本地商业后端一面-9.9（凉）"}
+{"qid":"q-2693075-16","question":"Spring Bean 使用什么设计模式","content_id":"2693075","title":"美团后端面经（意向）"}
+{"qid":"q-2669559-9","question":"一个接口有多个实现，如何指定注入一个具体实现","content_id":"2669559","title":"万得秋招一面"}
+{"qid":"q-2664637-1","question":"BeanFactory和FactoryBean的区别是什么","content_id":"2664637","title":"京东零售后端秋招一面"}

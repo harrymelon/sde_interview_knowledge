@@ -6,3 +6,13 @@
 {"qid":"q-842801019334455296-3","question":"Agent项目自纠错（Plan-Verify-Replan）架构效果如何评估？","content_id":"842801019334455296","title":"腾讯后端日常实习二面(已OC)+一点随笔"}
 {"qid":"q-857289028817727488-3","question":"Agent 工作时工具调用失败或者超时怎么处理？","content_id":"857289028817727488","title":"再战27暑期实习！SenseTime后端开发一面"}
 {"qid":"q-857289028817727488-6","question":"流式处理是怎么做的？","content_id":"857289028817727488","title":"再战27暑期实习！SenseTime后端开发一面"}
+{"qid":"q-2777924-0","question":"Agent工作流和工具重构的原因及如何防止后续效果劣化","content_id":"2777924","title":"字节跳动即梦全栈一面"}
+{"qid":"q-2777924-1","question":"整个产品的工作流架构是什么？","content_id":"2777924","title":"字节跳动即梦全栈一面"}
+{"qid":"q-2777891-6","question":"在实习时是否做过一些 agent 相关的工作？","content_id":"2777891","title":"27日常实习京东科技后端二面"}
+{"qid":"q-2777464-8","question":"大模型Agent的构建流程是怎样的？","content_id":"2777464","title":"百度网盘 国际化Go实习一面凉经"}
+{"qid":"q-2777445-6","question":"大模型应用中，意图识别(Intent Recognition)是如何实现的?","content_id":"2777445","title":"美团Java后端开发实习二面"}
+{"qid":"q-2779037-8","question":"AI项目后台调用API的代码位置以及整体代码架构是怎样的？","content_id":"2779037","title":"2026.1.7 蚂蚁集团-服务端研发（java）一面 40min"}
+{"qid":"q-2776522-0","question":"请说一下智能体是如何搭建的，使用了哪些模型，如何实现多模态特点？","content_id":"2776522","title":"凯通科技公司 Java实习"}
+{"qid":"q-2776522-2","question":"项目中智能助手是如何工作的？","content_id":"2776522","title":"凯通科技公司 Java实习"}
+{"qid":"q-2687055-2","question":"Agent调工具失败时应该如何处理？","content_id":"2687055","title":"字节-生活服务-后端实习-一面"}
+{"qid":"q-2664677-7","question":"实习中Agent工具（Function Calling）是怎么实现的？","content_id":"2664677","title":"shopee 一面8.19"}

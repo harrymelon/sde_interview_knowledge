@@ -1,0 +1,4 @@
+{"qid":"q-2788590-0","question":"Go 中的 context 是什么？在项目及实习中如何用到？举例说明","content_id":"2788590","title":"百度后端一面"}
+{"qid":"q-2777464-6","question":"Go Context的作用及能否传nil？","content_id":"2777464","title":"百度网盘 国际化Go实习一面凉经"}
+{"qid":"q-2777292-7","question":"介绍一下Go的context的功能。","content_id":"2777292","title":"虾皮后端golang实习一面凉经"}
+{"qid":"q-2777292-8","question":"context取消后，子协程通过什么感知并取消？","content_id":"2777292","title":"虾皮后端golang实习一面凉经"}

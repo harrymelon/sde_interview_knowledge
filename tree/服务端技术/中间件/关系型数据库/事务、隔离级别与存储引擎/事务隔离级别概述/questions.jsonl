@@ -11,3 +11,22 @@
 {"qid":"q-2780374-17","question":"数据库的隔离级别","content_id":"2780374","title":"得物秋招Java后端面试记录"}
 {"qid":"q-2781491-7","question":"三道SQL题，分析事务执行结果","content_id":"2781491","title":"字节后端日常一二三面面经（oc）"}
 {"qid":"q-854826146066599936-16","question":"MySQL事务与隔离级别","content_id":"854826146066599936","title":"C++后端开发面试准备指南及大厂真题整理"}
+{"qid":"q-2777798-13","question":"事务的隔离级别有哪些","content_id":"2777798","title":"小厂Java后端日常实习一面"}
+{"qid":"q-2777705-6","question":"MySQL 事务与事务隔离级别","content_id":"2777705","title":"字节OD后端开发技术二面"}
+{"qid":"q-2777464-14","question":"MySQL事务隔离级别有哪些？","content_id":"2777464","title":"百度网盘 国际化Go实习一面凉经"}
+{"qid":"q-2777321-6","question":"介绍一下MySQL的事务的隔离级别。","content_id":"2777321","title":"字节今日头条Java日常实习一面凉经"}
+{"qid":"q-2777321-7","question":"幻读是一个什么样的场景？","content_id":"2777321","title":"字节今日头条Java日常实习一面凉经"}
+{"qid":"q-2777321-9","question":"你项目中用到的是哪个隔离级别，为什么这么选择？","content_id":"2777321","title":"字节今日头条Java日常实习一面凉经"}
+{"qid":"q-2777321-10","question":"如果现在让你选择一个隔离级别，你会参考哪些条件去选择隔离级别？","content_id":"2777321","title":"字节今日头条Java日常实习一面凉经"}
+{"qid":"q-2778912-6","question":"MySQL 默认隔离级别是什么？","content_id":"2778912","title":"京东后端实习一面凉经（2026-1-6）"}
+{"qid":"q-2778378-28","question":"MySQL隔离级别有哪些？默认是哪个？","content_id":"2778378","title":"小鹏汽车后端开发校招面经 攒人品"}
+{"qid":"q-2778281-5","question":"MySQL有哪几种隔离级别","content_id":"2778281","title":"滴滴后端实习二面 55min"}
+{"qid":"q-2746765-23","question":"MySQL的事务隔离级别及默认级别","content_id":"2746765","title":"清程极智后端日常一面"}
+{"qid":"q-2735282-7","question":"事务的隔离级别有哪些？脏读和不可重复读是什么？","content_id":"2735282","title":"回旋加速 golang后端一面 11.4"}
+{"qid":"q-2726924-2","question":"InnoDB的隔离级别有哪些？","content_id":"2726924","title":"百度后端日常二面（云方向）"}
+{"qid":"q-2720957-2","question":"MySQL 的事务隔离级别有哪些？","content_id":"2720957","title":"27四非本，字节后端实习OC"}
+{"qid":"q-2695362-6","question":"数据库的事务特性是什么？隔离机制有哪些？","content_id":"2695362","title":"海信软件开发一面"}
+{"qid":"q-2682123-6","question":"解释脏读、幻读、不可重复读的区别","content_id":"2682123","title":"南京小米 java实习一面"}
+{"qid":"q-2672828-4","question":"什么是幻读？请举例说明","content_id":"2672828","title":"淘天java 26日后端一面"}
+{"qid":"q-2661686-5","question":"数据库事务隔离级别有哪些？","content_id":"2661686","title":"某二线城市小厂golang面经."}
+{"qid":"q-2666306-12","question":"解释“可重复读”隔离级别。","content_id":"2666306","title":"美团 后端 一面"}

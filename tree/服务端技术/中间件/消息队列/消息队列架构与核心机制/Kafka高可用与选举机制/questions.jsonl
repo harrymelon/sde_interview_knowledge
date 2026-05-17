@@ -1,0 +1,7 @@
+{"qid":"q-2795731-5","question":"Kafka中replication.factor配置的作用是什么？","content_id":"2795731","title":"社招 北京 Java后端工程师"}
+{"qid":"q-2785316-9","question":"Kafka中Leader和Follower的选举过程，以及Leader挂了以后如何重新选举","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2785316-10","question":"Kafka多分区写入时是等待所有分区都写成功才返回，还是自己写成功就返回","content_id":"2785316","title":"虾皮一面"}
+{"qid":"q-2777845-8","question":"Kafka怎么防止脑裂？","content_id":"2777845","title":"字节tiktokshop后端实习生一面面经"}
+{"qid":"q-2777891-21","question":"Kafka 的高可用是怎么实现的？","content_id":"2777891","title":"27日常实习京东科技后端二面"}
+{"qid":"q-2777891-22","question":"Kafka 的选举机制是怎么实现的？","content_id":"2777891","title":"27日常实习京东科技后端二面"}
+{"qid":"q-2777228-5","question":"如果Kafka宕机，如何处理","content_id":"2777228","title":"携程后端日常实习 已OC"}

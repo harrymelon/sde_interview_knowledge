@@ -1,0 +1,17 @@
+{"qid":"q-2783947-5","question":"Redisson实现分布式锁的原理是什么？","content_id":"2783947","title":"高顿教育后端实习岗位oc"}
+{"qid":"q-841002190931013632-5","question":"分布式锁是怎么实现的？","content_id":"841002190931013632","title":"百度后端日常实习一面"}
+{"qid":"q-841002190931013632-6","question":"Redisson的分布式锁是怎么实现的？","content_id":"841002190931013632","title":"百度后端日常实习一面"}
+{"qid":"q-2786131-2","question":"项目中实际使用的Redisson锁类型，以及对应的Lua脚本实现细节","content_id":"2786131","title":"杭州某小厂Java后端开发实习生面试"}
+{"qid":"q-2778171-2","question":"基于Redis的分布式锁有哪些问题？如何通过Redisson改进？请介绍Redisson分布式锁源码实现。","content_id":"2778171","title":"美团Java开发日常实习一面"}
+{"qid":"q-2777228-11","question":"Redisson解决了什么问题？它能够减少流量吗","content_id":"2777228","title":"携程后端日常实习 已OC"}
+{"qid":"q-2778912-17","question":"Redis 的“看门狗”机制是什么？","content_id":"2778912","title":"京东后端实习一面凉经（2026-1-6）"}
+{"qid":"q-2735988-2","question":"Redisson 分布式锁的实现原理是什么？","content_id":"2735988","title":"11.5古茗java一面 30min"}
+{"qid":"q-2664637-9","question":"如果想实现可重入的分布式锁要如何实现呢","content_id":"2664637","title":"京东零售后端秋招一面"}
+{"qid":"q-2781624-7","question":"除了Redis，还有哪些分布式锁方案（MySQL、Zookeeper）？","content_id":"2781624","title":"18.滴滴-效能平台后端实习一面"}
+{"qid":"q-2781624-8","question":"Zookeeper做分布式锁的原理了解吗？","content_id":"2781624","title":"18.滴滴-效能平台后端实习一面"}
+{"qid":"q-2780380-7","question":"分布式锁的Redlock算法争议","content_id":"2780380","title":"网易后端开发校招二面-攒人品"}
+{"qid":"q-2768525-14","question":"是否了解Redlock算法？它在Redis集群中是如何工作的？","content_id":"2768525","title":"小小厂面经"}
+{"qid":"q-2753426-14","question":"防超卖的滑块锁是怎么设计的？","content_id":"2753426","title":"11.25深圳中小厂全栈"}
+{"qid":"q-2741509-11","question":"项目中分布式锁的具体实现","content_id":"2741509","title":"oppo后端研发日常实习凉经"}
+{"qid":"q-2799010-5","question":"Redis分布式锁有什么用？限流器怎么做？为什么用Redis锁？这个锁支持分布式高可用吗？设计一个分布式高可用的锁。","content_id":"2799010","title":"腾讯后端一面面经"}
+{"qid":"q-854766261299900416-11","question":"Redission实现的分布式锁做什么用？","content_id":"854766261299900416","title":"他山科技一面"}

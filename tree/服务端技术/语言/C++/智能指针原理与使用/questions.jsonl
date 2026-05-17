@@ -12,3 +12,16 @@
 {"qid":"q-849945145783877632-0","question":"C++中的智能指针有哪些？它们的区别和使用场景是什么？","content_id":"849945145783877632","title":"字节跳动C++开发一面"}
 {"qid":"q-848289871868260352-1","question":"智能指针的实现原理是什么？shared_ptr和unique_ptr有什么区别？","content_id":"848289871868260352","title":"大华C++ 一面总结"}
 {"qid":"q-2781693-3","question":"项目中为什么使用unique_ptr而不是shared_ptr？","content_id":"2781693","title":"01.14 经纬恒润c++开发一面凉经"}
+{"qid":"q-2780286-2","question":"shared_ptr有什么问题？weak_ptr如何解决的？","content_id":"2780286","title":"智元机器人校招C++后端一面"}
+{"qid":"q-2779967-9","question":"C++提供了哪几套智能指针？RAII思想如何解决内存问题？","content_id":"2779967","title":"腾讯C++后端实习一面"}
+{"qid":"q-2779967-10","question":"weak_ptr为什么被引入？请举例说明循环引用问题。","content_id":"2779967","title":"腾讯C++后端实习一面"}
+{"qid":"q-2779967-11","question":"shared_ptr有哪些常用函数？","content_id":"2779967","title":"腾讯C++后端实习一面"}
+{"qid":"q-2779967-12","question":"能在构造函数中调用shared_from_this吗？","content_id":"2779967","title":"腾讯C++后端实习一面"}
+{"qid":"q-2747665-1","question":"C++智能指针如何自动销毁","content_id":"2747665","title":"处子面--整个麻住了"}
+{"qid":"q-2712774-22","question":"智能指针的原理与使用","content_id":"2712774","title":"经纬恒润一面c++"}
+{"qid":"q-2710215-22","question":"C++智能指针的原理和使用场景？","content_id":"2710215","title":"经纬恒润一面c++"}
+{"qid":"q-2698153-0","question":"智能指针的底层原理及手撕shared_ptr实现","content_id":"2698153","title":"拼多多服务端一面"}
+{"qid":"q-2680611-20","question":"shared_ptr 的控制块设计？","content_id":"2680611","title":"影石C++一面"}
+{"qid":"q-2680611-21","question":"shared_ptr 的引用计数存储在哪里？","content_id":"2680611","title":"影石C++一面"}
+{"qid":"q-2672446-2","question":"C++智能指针有哪些？原理是什么？如何使用？","content_id":"2672446","title":"秋招记录14——美团后端一面"}
+{"qid":"q-2663028-2","question":"智能指针的原理与使用","content_id":"2663028","title":"26届秋招面经 - 小米"}

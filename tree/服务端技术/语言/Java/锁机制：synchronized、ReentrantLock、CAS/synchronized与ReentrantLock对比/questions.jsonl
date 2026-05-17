@@ -6,3 +6,6 @@
 {"qid":"q-2789413-1","question":"synchronized和ReentrantLock的区别是什么？","content_id":"2789413","title":"蔚来一面（挂）"}
 {"qid":"q-2788865-5","question":"synchronized和ReentrantLock的区别","content_id":"2788865","title":"字节日常实习二面"}
 {"qid":"q-846688662325620736-10","question":"synchronized 和 ReentrantLock 的区别，synchronized 的锁升级过程","content_id":"846688662325620736","title":"Java高薪必备八股文：春招备战指南"}
+{"qid":"q-2777334-7","question":"synchronized锁和Lock锁有什么区别？","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}
+{"qid":"q-2739811-18","question":"synchronized 和 ReentrantLock 有什么区别？","content_id":"2739811","title":"安恒信息二面（我还以为是hr面，结果是技术面）"}
+{"qid":"q-2672828-2","question":"ReentrantLock 和 synchronized的区别","content_id":"2672828","title":"淘天java 26日后端一面"}

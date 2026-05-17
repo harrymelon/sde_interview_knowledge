@@ -5,3 +5,21 @@
 {"qid":"q-842801019334455296-2","question":"MySQL和Redis的使用场景是什么？","content_id":"842801019334455296","title":"腾讯后端日常实习二面(已OC)+一点随笔"}
 {"qid":"q-2781731-5","question":"Oracle和MySQL有什么区别？","content_id":"2781731","title":"北京小厂- Java"}
 {"qid":"q-2791295-3","question":"熟悉哪种数据库？","content_id":"2791295","title":"小厂Java面试"}
+{"qid":"q-2779928-5","question":"如何防止SQL注入","content_id":"2779928","title":"Shopee后端开发一面-实习面经"}
+{"qid":"q-2779397-18","question":"OLAP和OLTP的概念","content_id":"2779397","title":"快手Java后端开发-校招面经"}
+{"qid":"q-2778004-17","question":"什么是索引","content_id":"2778004","title":"字节日常实习后端一面"}
+{"qid":"q-2777776-0","question":"常用数据库用的是哪个？","content_id":"2777776","title":"广州小厂java开发实习技术面面经"}
+{"qid":"q-2777705-5","question":"MySQL 数据迁移有哪些方式？（导入/binlog/工具）","content_id":"2777705","title":"字节OD后端开发技术二面"}
+{"qid":"q-2777328-18","question":"OLAP和OLTP的区别","content_id":"2777328","title":"快手Java日常实习一面"}
+{"qid":"q-2777321-0","question":"介绍一下什么是索引？","content_id":"2777321","title":"字节今日头条Java日常实习一面凉经"}
+{"qid":"q-2778372-5","question":"除了MySQL还用过哪些数据库","content_id":"2778372","title":"滴滴后端开发 26校招 二面"}
+{"qid":"q-2746765-17","question":"什么是索引？","content_id":"2746765","title":"清程极智后端日常一面"}
+{"qid":"q-2746765-22","question":"索引的缺点和维护成本","content_id":"2746765","title":"清程极智后端日常一面"}
+{"qid":"q-2738102-5","question":"数据库中视图与临时表的区别及各自适用场景？","content_id":"2738102","title":"图拉斯二面"}
+{"qid":"q-2726924-1","question":"使用的MySQL版本以及存储引擎是什么？","content_id":"2726924","title":"百度后端日常二面（云方向）"}
+{"qid":"q-2722227-4","question":"MySQL的数据存储在哪？","content_id":"2722227","title":"乐牛游戏 游戏服务端开发工程师 凉经"}
+{"qid":"q-2722227-6","question":"说说MySQL客户端/服务器协议","content_id":"2722227","title":"乐牛游戏 游戏服务端开发工程师 凉经"}
+{"qid":"q-2660081-0","question":"Redis、MySQL、Elasticsearch 的使用场景分别是什么？","content_id":"2660081","title":"8.15 京东java一面（求一面过，挂）"}
+{"qid":"q-2666306-6","question":"简述PostgreSQL的使用场景","content_id":"2666306","title":"美团 后端 一面"}
+{"qid":"q-2666306-9","question":"PostgreSQL 与 MySQL 在底层实现或功能扩展上有什么区别？","content_id":"2666306","title":"美团 后端 一面"}
+{"qid":"q-2666306-10","question":"时序数据库与普通关系型数据库在需求上有哪些不同？","content_id":"2666306","title":"美团 后端 一面"}

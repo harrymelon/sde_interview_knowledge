@@ -7,3 +7,17 @@
 {"qid":"q-2789395-10","question":"Redis高性能的原理是什么？","content_id":"2789395","title":"字节日常实习三面 (已oc)"}
 {"qid":"q-2789062-7","question":"Redis为什么快？","content_id":"2789062","title":"牛客JAVA后端一面"}
 {"qid":"q-2788907-18","question":"Redis是单线程，为什么性能那么好？","content_id":"2788907","title":"字节国际化广告后端一面"}
+{"qid":"q-2778111-2","question":"Redis性能好的原因有哪些？","content_id":"2778111","title":"小红书java后端开发二面-27实习"}
+{"qid":"q-2777963-3","question":"Redis的单线程模型是怎样的？","content_id":"2777963","title":"minimax agent后端"}
+{"qid":"q-2777307-8","question":"Redis的IO复用机制是什么？使用哪种机制（如epoll）？","content_id":"2777307","title":"快手Java日常实习一面凉经"}
+{"qid":"q-2778378-12","question":"Redis比MySQL抗压能力强的主要原因是什么？","content_id":"2778378","title":"小鹏汽车后端开发校招面经 攒人品"}
+{"qid":"q-2739684-14","question":"Redis速度快的原因是什么？","content_id":"2739684","title":"金山wps服务端一面"}
+{"qid":"q-2739684-15","question":"Redis是单线程的，它能避免进程上下文切换吗？","content_id":"2739684","title":"金山wps服务端一面"}
+{"qid":"q-2726924-10","question":"Redis为什么快？","content_id":"2726924","title":"百度后端日常二面（云方向）"}
+{"qid":"q-2701437-16","question":"Redis为什么高性能？","content_id":"2701437","title":"快手-商业化JAVA一面"}
+{"qid":"q-2700255-8","question":"为什么Redis使用单线程？","content_id":"2700255","title":"招银云创Java开发一面（30min）"}
+{"qid":"q-2687055-8","question":"Redis为什么那么快？","content_id":"2687055","title":"字节-生活服务-后端实习-一面"}
+{"qid":"q-2675321-7","question":"Redis除了基于内存以外，还有哪些原因使其性能很高？","content_id":"2675321","title":"秋招小红书后端凉经（社区技术）"}
+{"qid":"q-2674944-10","question":"Redis为什么比较快？","content_id":"2674944","title":"虾皮秋招一面"}
+{"qid":"q-2670349-7","question":"Redis的线程模型","content_id":"2670349","title":"虾皮一面"}
+{"qid":"q-2666306-15","question":"Redis 为什么快？","content_id":"2666306","title":"美团 后端 一面"}

@@ -7,3 +7,14 @@
 {"qid":"q-855178267047817216-1","question":"如何查看CPU状态？从哪些层面分析？","content_id":"855178267047817216","title":"Momenta C++ ⼀⾯凉经"}
 {"qid":"q-2787838-8","question":"top命令发现系统负载高但CPU使用率低咋排查原因，怎么解决","content_id":"2787838","title":"迅雷网络 风控后端一面"}
 {"qid":"q-858133296532713472-1","question":"什么是多核 CPU 的伪共享（False Sharing）？如何解决？","content_id":"858133296532713472","title":"得物 软件开发-C++ 二面"}
+{"qid":"q-2779951-2","question":"什么样的操作或计算更消耗CPU？","content_id":"2779951","title":"小红书后端校招一面"}
+{"qid":"q-2779951-3","question":"如何排查Java程序中哪些方法占用了最多的CPU？有哪些工具（如jstack、arthas）？","content_id":"2779951","title":"小红书后端校招一面"}
+{"qid":"q-2779951-4","question":"如何用Arthas监控Java应用中短时间内占用CPU最多的方法？","content_id":"2779951","title":"小红书后端校招一面"}
+{"qid":"q-2779974-11","question":"CPU利用率操作系统是怎么计算出来的？","content_id":"2779974","title":"白日梦服务端凉经"}
+{"qid":"q-2779928-7","question":"CPU使用率飙升怎么排查","content_id":"2779928","title":"Shopee后端开发一面-实习面经"}
+{"qid":"q-2779278-3","question":"什么样的操作更消耗CPU？","content_id":"2779278","title":"小红书后端校招二面"}
+{"qid":"q-2777226-2","question":"请讲解NEON指令集优化。","content_id":"2777226","title":"蔚来C++实习生二面"}
+{"qid":"q-2778948-3","question":"使用top命令发现内存飙高99%，如何排查原因","content_id":"2778948","title":"深圳高益科技有限公司笔试"}
+{"qid":"q-2730759-11","question":"如何排查CPU使用率高的原因？","content_id":"2730759","title":"去哪儿java开发一天三面"}
+{"qid":"q-2682123-13","question":"CPU飙高如何定位具体的代码？","content_id":"2682123","title":"南京小米 java实习一面"}
+{"qid":"q-2669746-9","question":"基于CPU的分支预测讲一下","content_id":"2669746","title":"端点科技二面java"}

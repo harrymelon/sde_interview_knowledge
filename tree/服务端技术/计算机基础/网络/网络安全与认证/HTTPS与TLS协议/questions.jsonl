@@ -1,0 +1,12 @@
+{"qid":"q-2796193-4","question":"HTTPS的工作原理","content_id":"2796193","title":"美团后端一面  agent开发"}
+{"qid":"q-2795714-5","question":"HTTPS中S（对称加密）的原理","content_id":"2795714","title":"算力大陆后端开发面经"}
+{"qid":"q-2777963-4","question":"HTTPS的握手流程是怎样的？","content_id":"2777963","title":"minimax agent后端"}
+{"qid":"q-2777924-7","question":"TLS握手流程是怎样的？","content_id":"2777924","title":"字节跳动即梦全栈一面"}
+{"qid":"q-2777586-0","question":"HTTPS加密的流程是什么？","content_id":"2777586","title":"快手快star 后端开发校招一面"}
+{"qid":"q-2767087-5","question":"HTTPS中的S指的是什么？HTTPS是如何保证通信安全的？","content_id":"2767087","title":"字节剪映后端日常一面"}
+{"qid":"q-2714419-1","question":"详细介绍HTTPS加密过程，包括对称加密、非对称加密、CA证书及防篡改机制","content_id":"2714419","title":"虾皮后端日常一面面经"}
+{"qid":"q-2685815-18","question":"HTTPS有哪些过程","content_id":"2685815","title":"美团-核心本地商业后端一面-9.9（凉）"}
+{"qid":"q-2685815-19","question":"为什么HTTPS中既用对称加密又用非对称加密","content_id":"2685815","title":"美团-核心本地商业后端一面-9.9（凉）"}
+{"qid":"q-2685815-20","question":"HTTPS如何防止信息篡改","content_id":"2685815","title":"美团-核心本地商业后端一面-9.9（凉）"}
+{"qid":"q-838544445564825600-4","question":"如何确保HTTPS证书的真实性？","content_id":"838544445564825600","title":"莉莉丝游戏 golang服务器开发 实习面经"}
+{"qid":"q-2778178-15","question":"HTTPS请求中如何与CA交互进行证书验证？对称加密和非对称加密在其中的作用是什么？","content_id":"2778178","title":"携程后端实习一面 1h"}

@@ -21,3 +21,26 @@
 {"qid":"q-2788360-0","question":"MySQL查询速度慢的可能原因有哪些？","content_id":"2788360","title":"字节后端开发实习转正一面凉经"}
 {"qid":"q-2788360-1","question":"发现MySQL查询慢后，应该如何排查和优化？","content_id":"2788360","title":"字节后端开发实习转正一面凉经"}
 {"qid":"q-2785913-8","question":"如何优化SQL select * from table1 where a=1 and b=0，怎么加索引","content_id":"2785913","title":"度小满（数据库后端开发）"}
+{"qid":"q-2780119-11","question":"MySQL执行计划中关注的参数","content_id":"2780119","title":"百度后端开发一面-实习面经"}
+{"qid":"q-2777705-4","question":"如何排查慢 SQL？（执行计划/慢日志/索引）","content_id":"2777705","title":"字节OD后端开发技术二面"}
+{"qid":"q-2777321-3","question":"有遇到过一些慢查询的场景吗？知道什么是慢查询吗？","content_id":"2777321","title":"字节今日头条Java日常实习一面凉经"}
+{"qid":"q-2777321-4","question":"explain关键字你通常会关注哪些输出信息作为判断？","content_id":"2777321","title":"字节今日头条Java日常实习一面凉经"}
+{"qid":"q-2778820-8","question":"你是如何排查慢SQL的？","content_id":"2778820","title":"汉得信息已offer一面面经分享"}
+{"qid":"q-2778820-9","question":"使用Explain主要看哪些列？","content_id":"2778820","title":"汉得信息已offer一面面经分享"}
+{"qid":"q-2778530-7","question":"慢SQL调优你会怎么做","content_id":"2778530","title":"携程后端开发日常实习二面"}
+{"qid":"q-2778500-0","question":"慢SQL调优经验","content_id":"2778500","title":"快手后端实习二面"}
+{"qid":"q-2776522-8","question":"如果确定是慢SQL问题，如何定位具体问题，优化？","content_id":"2776522","title":"凯通科技公司 Java实习"}
+{"qid":"q-2753426-8","question":"慢查询怎么SQL调优？","content_id":"2753426","title":"11.25深圳中小厂全栈"}
+{"qid":"q-2748415-12","question":"如何定位和解决慢查询问题？","content_id":"2748415","title":"百度后端日常一面"}
+{"qid":"q-2739811-6","question":"数据库层面如何排查定位慢查询？","content_id":"2739811","title":"安恒信息二面（我还以为是hr面，结果是技术面）"}
+{"qid":"q-2735988-5","question":"线上出现慢 SQL 的排查优化思路是什么？","content_id":"2735988","title":"11.5古茗java一面 30min"}
+{"qid":"q-2731574-5","question":"对数据库的了解（除了MySQL）以及慢查询如何优化","content_id":"2731574","title":"科大讯飞一面（Java）"}
+{"qid":"q-2726168-6","question":"EXPLAIN除了索引情况还能提供哪些信息？","content_id":"2726168","title":"社招-JAVA后端-久其软件一面"}
+{"qid":"q-2720957-4","question":"讲一下怎么解决 SQL 慢查询的问题","content_id":"2720957","title":"27四非本，字节后端实习OC"}
+{"qid":"q-2717721-14","question":"MySQL慢查询如何优化？","content_id":"2717721","title":"美团-大模型后台开发实习生-道心破碎版"}
+{"qid":"q-2702636-8","question":"使用explain分析SQL时，核心关注哪些指标？这些指标如何帮助优化？","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2700255-5","question":"请介绍一下MySQL的慢查询日志和执行计划","content_id":"2700255","title":"招银云创Java开发一面（30min）"}
+{"qid":"q-2688469-6","question":"MySQL怎么排查慢SQL","content_id":"2688469","title":"顺丰后端一面 9.11"}
+{"qid":"q-2673922-3","question":"MySQL慢查询如何定位","content_id":"2673922","title":"8.29 友谊时光java实习一面"}
+{"qid":"q-2666837-3","question":"慢SQL调查流程","content_id":"2666837","title":"美团java后端一面(挂)"}
+{"qid":"q-2661686-0","question":"SQL 慢查询优化如何通过 explain 和索引来进行？","content_id":"2661686","title":"某二线城市小厂golang面经."}

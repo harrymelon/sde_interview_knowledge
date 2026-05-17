@@ -18,3 +18,37 @@
 {"qid":"q-2781491-28","question":"HashMap全方位八股","content_id":"2781491","title":"字节后端日常一二三面面经（oc）"}
 {"qid":"q-2780374-8","question":"HashMap扩容流程","content_id":"2780374","title":"得物秋招Java后端面试记录"}
 {"qid":"q-2780360-5","question":"Java HashMap的存储方式是什么？","content_id":"2780360","title":"京东Java后端开发一面-日常实习"}
+{"qid":"q-2779545-2","question":"请讲解HashMap的工作原理","content_id":"2779545","title":"美团27实习后端一面"}
+{"qid":"q-2779397-0","question":"介绍HashMap的扩容机制、寻址方式以及为什么扩容是二倍","content_id":"2779397","title":"快手Java后端开发-校招面经"}
+{"qid":"q-2779397-1","question":"1000个key-value放入HashMap后，最终数组桶的数量是多少","content_id":"2779397","title":"快手Java后端开发-校招面经"}
+{"qid":"q-2778133-3","question":"HashMap的key和value是否允许为null","content_id":"2778133","title":"小米后端开发一面-27实习面经"}
+{"qid":"q-2778133-4","question":"HashMap如何存储键值对，Entry内部数据结构，key和value如何存储","content_id":"2778133","title":"小米后端开发一面-27实习面经"}
+{"qid":"q-2778133-5","question":"HashMap中key冲突时如何处理，为什么从JDK7的头插法改为JDK8的尾插法，各有何优缺点","content_id":"2778133","title":"小米后端开发一面-27实习面经"}
+{"qid":"q-2777851-5","question":"请讲讲HashMap的实现原理","content_id":"2777851","title":"京东科技后端实习一面"}
+{"qid":"q-2778004-7","question":"介绍一下HashMap的扩容因子和初始容量","content_id":"2778004","title":"字节日常实习后端一面"}
+{"qid":"q-2777816-4","question":"HashMap的扩容机制是什么？扩容之后一直删除节点会发生什么？","content_id":"2777816","title":"27实习小厂java后端二面"}
+{"qid":"q-2777417-2","question":"讲一下Java的HashMap","content_id":"2777417","title":"java面经"}
+{"qid":"q-2777328-0","question":"介绍HashMap的扩容机制、寻址方式以及扩容为什么是二倍","content_id":"2777328","title":"快手Java日常实习一面"}
+{"qid":"q-2777328-1","question":"当前有1000个k-v结构数据放入HashMap中，最终HashMap中数组桶是什么情况（2048个桶）","content_id":"2777328","title":"快手Java日常实习一面"}
+{"qid":"q-2777318-12","question":"详细介绍HashMap（结构、扩容、寻址put过程、hash冲突）","content_id":"2777318","title":"小红书Java日常实习一面"}
+{"qid":"q-2777318-13","question":"还有哪些处理hash冲突的方式？","content_id":"2777318","title":"小红书Java日常实习一面"}
+{"qid":"q-2777334-2","question":"介绍一下HashMap","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}
+{"qid":"q-2777334-5","question":"HashMap在JDK 7和JDK 8中有什么区别？","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}
+{"qid":"q-2777307-11","question":"介绍一下HashMap（扩容机制、寻址、为什么扩容是二倍）。","content_id":"2777307","title":"快手Java日常实习一面凉经"}
+{"qid":"q-2777307-12","question":"HashMap中怎样解决hash冲突？","content_id":"2777307","title":"快手Java日常实习一面凉经"}
+{"qid":"q-2777307-13","question":"HashMap中默认的负载因子（加载因子）是多少？","content_id":"2777307","title":"快手Java日常实习一面凉经"}
+{"qid":"q-2778820-1","question":"HashMap的基本数据结构是什么？","content_id":"2778820","title":"汉得信息已offer一面面经分享"}
+{"qid":"q-2778522-1","question":"HashMap的结构和特点","content_id":"2778522","title":"快手后端日常实习一面凉经"}
+{"qid":"q-2767092-1","question":"HashMap的数据结构是什么样的？","content_id":"2767092","title":"快手大模型后端日常一面"}
+{"qid":"q-2738102-7","question":"Java里HashMap的底层实现逻辑简要描述一下","content_id":"2738102","title":"图拉斯二面"}
+{"qid":"q-2735988-0","question":"HashMap 底层源码看过吗？简单讲一下有哪些部分","content_id":"2735988","title":"11.5古茗java一面 30min"}
+{"qid":"q-2735988-1","question":"HashMap 是怎么扩容的？扩容会有什么影响？","content_id":"2735988","title":"11.5古茗java一面 30min"}
+{"qid":"q-2725004-1","question":"Java中HashMap是干什么的，主要用途？插入、删除时间复杂度？什么时候链表变红黑树？","content_id":"2725004","title":"字节后端日常一面"}
+{"qid":"q-2720957-1","question":"讲一下 HashMap 的底层原理以及扩容机制","content_id":"2720957","title":"27四非本，字节后端实习OC"}
+{"qid":"q-2692379-17","question":"Hashmap底层说一下","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
+{"qid":"q-2692379-18","question":"怎么尽量提升插入和查询的效率","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
+{"qid":"q-2692379-19","question":"如果要查找快，查询快，还有解决非空的问题，怎么做","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
+{"qid":"q-2680728-2","question":"HashMap怎么实现的？","content_id":"2680728","title":"滴滴正式批:"}
+{"qid":"q-2666837-0","question":"HashMap底层数据结构和put流程","content_id":"2666837","title":"美团java后端一面(挂)"}
+{"qid":"q-2664637-6","question":"为什么HashMap不采用ThreadLocalMap解决哈希冲突的方法（开放寻址法）","content_id":"2664637","title":"京东零售后端秋招一面"}
+{"qid":"q-2664677-0","question":"HashMap底层原理是什么？","content_id":"2664677","title":"shopee 一面8.19"}

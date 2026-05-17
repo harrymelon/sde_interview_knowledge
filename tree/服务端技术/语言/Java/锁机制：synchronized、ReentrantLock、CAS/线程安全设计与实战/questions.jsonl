@@ -15,3 +15,15 @@
 {"qid":"q-2781621-2","question":"并发场景下使用数组会有什么问题","content_id":"2781621","title":"16.上海哈啰后端校招一面"}
 {"qid":"q-2781621-3","question":"如何保证数组线程安全","content_id":"2781621","title":"16.上海哈啰后端校招一面"}
 {"qid":"q-2781621-4","question":"并发操作数组时线程的阻塞情况是怎样的？读写都阻塞吗？","content_id":"2781621","title":"16.上海哈啰后端校招一面"}
+{"qid":"q-2780217-9","question":"不使用synchronized和Lock如何设计一个线程安全的单例?","content_id":"2780217","title":"亚马逊Java后端一面-实习面经"}
+{"qid":"q-2779565-9","question":"不使用synchronized和Lock如何设计一个线程安全的单例？","content_id":"2779565","title":"亚马逊Java后端开发一面凉经"}
+{"qid":"q-2777696-5","question":"实现线程安全的懒加载单例模式","content_id":"2777696","title":"高德java后端开发实习一面 50min"}
+{"qid":"q-2777328-10","question":"三个线程顺序打印a,b,c有哪几种实现方式","content_id":"2777328","title":"快手Java日常实习一面"}
+{"qid":"q-2777318-9","question":"Java中有哪些不同的方法可以保证线程安全？","content_id":"2777318","title":"小红书Java日常实习一面"}
+{"qid":"q-2731574-3","question":"多线程访问变量产生线程安全的根本原因是什么，如何解决","content_id":"2731574","title":"科大讯飞一面（Java）"}
+{"qid":"q-2730759-7","question":"Java开发中如何避免死锁？","content_id":"2730759","title":"去哪儿java开发一天三面"}
+{"qid":"q-2726924-17","question":"Java解决线程不安全问题的方法","content_id":"2726924","title":"百度后端日常二面（云方向）"}
+{"qid":"q-2705841-13","question":"哈希表有哈希冲突时要锁头节点，用synchronized怎么实现“发现冲突才走加锁逻辑”？代码层面如何判断或编写这种逻辑？","content_id":"2705841","title":"快手-商业化JAVA二面"}
+{"qid":"q-2701437-8","question":"线程安全主要解决什么问题？你对线程安全的理解？","content_id":"2701437","title":"快手-商业化JAVA一面"}
+{"qid":"q-2693075-25","question":"滑动窗口如何保证线程安全问题","content_id":"2693075","title":"美团后端面经（意向）"}
+{"qid":"q-2673204-10","question":"分析代码块中锁的位置（lock放在哪里）","content_id":"2673204","title":"美团8.21和8.28一面"}

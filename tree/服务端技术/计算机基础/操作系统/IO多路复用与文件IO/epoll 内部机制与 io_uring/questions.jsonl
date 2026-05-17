@@ -1,0 +1,5 @@
+{"qid":"q-2781472-6","question":"为什么 epoll 底层用红黑树管理","content_id":"2781472","title":"15.字节跳动-懂车帝后端校招二面（挂）"}
+{"qid":"q-2779974-2","question":"epoll的事件驱动有哪几种触发方式？","content_id":"2779974","title":"白日梦服务端凉经"}
+{"qid":"q-2666306-18","question":"io_uring 是什么？相对 epoll 的优势？","content_id":"2666306","title":"美团 后端 一面"}
+{"qid":"q-2784548-4","question":"epoll相比select/poll的优势是什么？","content_id":"2784548","title":"腾讯，微信基础研发，后端开发面经"}
+{"qid":"q-2672446-3","question":"epoll相比select/poll的优点是什么？","content_id":"2672446","title":"秋招记录14——美团后端一面"}

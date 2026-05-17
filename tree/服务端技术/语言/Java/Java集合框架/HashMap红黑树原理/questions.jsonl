@@ -6,3 +6,6 @@
 {"qid":"q-2791469-20","question":"为什么要用红黑树？","content_id":"2791469","title":"字节后端实习一面"}
 {"qid":"q-846357926959644672-1","question":"JDK8的HashMap为什么要引入红黑树？","content_id":"846357926959644672","title":"智慧用能低碳研究院 - Java - 实习一面"}
 {"qid":"q-2780371-0","question":"HashMap在JDK8中做了哪些优化？","content_id":"2780371","title":"网易校招Java后端一面技术面"}
+{"qid":"q-2779545-3","question":"讲一讲你对红黑树的了解","content_id":"2779545","title":"美团27实习后端一面"}
+{"qid":"q-2777334-3","question":"为什么HashMap要把链表转换为红黑树？","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}
+{"qid":"q-2777334-4","question":"红黑树查找的时间复杂度是多少？","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}

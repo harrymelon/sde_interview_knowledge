@@ -8,3 +8,14 @@
 {"qid":"q-851566535247212544-0","question":"什么是模板？模板的作用是什么？","content_id":"851566535247212544","title":"C++ 模板与泛型编程面试题"}
 {"qid":"q-851566535247212544-1","question":"typename和class在模板中的区别是什么？","content_id":"851566535247212544","title":"C++ 模板与泛型编程面试题"}
 {"qid":"q-2781693-1","question":"为什么把ffmpeg编译成动态库而不是静态库？","content_id":"2781693","title":"01.14 经纬恒润c++开发一面凉经"}
+{"qid":"q-2712774-8","question":"C++中#include \"\"与#include \u003c\u003e的区别","content_id":"2712774","title":"经纬恒润一面c++"}
+{"qid":"q-2712774-18","question":"关键字inline的作用","content_id":"2712774","title":"经纬恒润一面c++"}
+{"qid":"q-2712774-19","question":"什么场景下使用内联函数","content_id":"2712774","title":"经纬恒润一面c++"}
+{"qid":"q-2710215-8","question":"C++中#include \"\"和#include \u003c\u003e的区别是什么？","content_id":"2710215","title":"经纬恒润一面c++"}
+{"qid":"q-2710215-18","question":"C++中inline关键字的作用是什么？","content_id":"2710215","title":"经纬恒润一面c++"}
+{"qid":"q-2710215-19","question":"什么场景下应该使用内联函数？","content_id":"2710215","title":"经纬恒润一面c++"}
+{"qid":"q-2700563-4","question":"C/C++程序编译过程以及编译器做了哪些工作？","content_id":"2700563","title":"2025.9.23 美团C++软件一面"}
+{"qid":"q-2698153-3","question":"从代码到运行经历了哪些步骤，每个步骤的内容是什么","content_id":"2698153","title":"拼多多服务端一面"}
+{"qid":"q-2680611-10","question":"dynamic_cast、static_cast 的区别？","content_id":"2680611","title":"影石C++一面"}
+{"qid":"q-2680611-22","question":"程序编译过程？（源码到二进制）","content_id":"2680611","title":"影石C++一面"}
+{"qid":"q-2680611-23","question":"动态链接为什么要加上 -fPIC 标记？","content_id":"2680611","title":"影石C++一面"}

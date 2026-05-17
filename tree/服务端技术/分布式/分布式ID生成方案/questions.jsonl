@@ -1,3 +1,16 @@
 {"qid":"q-2782248-7","question":"分布式ID生成是怎么实现的？","content_id":"2782248","title":"实在智能-Java开发工程师-终面-45min"}
 {"qid":"q-2780380-1","question":"分布式ID生成方案的对比与选型","content_id":"2780380","title":"网易后端开发校招二面-攒人品"}
 {"qid":"q-2780374-1","question":"分布式ID高性能改造，做了哪些方面的性能优化？","content_id":"2780374","title":"得物秋招Java后端面试记录"}
+{"qid":"q-2778195-7","question":"基于Redis如何生成全局ID？如何保证ID长度一致？","content_id":"2778195","title":"美团后端java日常实习一面"}
+{"qid":"q-2777528-4","question":"分布式ID生成方案有哪些？","content_id":"2777528","title":"字节Golang后端实习一面"}
+{"qid":"q-2777445-5","question":"为什么使用雪花算法?如何解决时钟回拨问题?","content_id":"2777445","title":"美团Java后端开发实习二面"}
+{"qid":"q-2777399-13","question":"雪花算法生成的ID结构是什么？存在什么问题？","content_id":"2777399","title":"美团Java后端开发实习一面"}
+{"qid":"q-2778912-9","question":"设计一个分布式主键ID，有哪些方案？","content_id":"2778912","title":"京东后端实习一面凉经（2026-1-6）"}
+{"qid":"q-2768525-4","question":"项目中MySQL自增ID结合xxx实现平台ID生成方案的具体实现是怎样的？","content_id":"2768525","title":"小小厂面经"}
+{"qid":"q-2768525-5","question":"这个自增ID是如何获取的？","content_id":"2768525","title":"小小厂面经"}
+{"qid":"q-2768525-6","question":"是否有专门用于生成ID的表？","content_id":"2768525","title":"小小厂面经"}
+{"qid":"q-2768525-7","question":"ID存储在哪里？","content_id":"2768525","title":"小小厂面经"}
+{"qid":"q-2768525-8","question":"具体获取ID的流程是什么？","content_id":"2768525","title":"小小厂面经"}
+{"qid":"q-2682123-19","question":"分布式ID生成方案中的雪花算法原理是什么？","content_id":"2682123","title":"南京小米 java实习一面"}
+{"qid":"q-2671310-14","question":"分表后的主键ID是怎么处理的？","content_id":"2671310","title":"美团后端秋招一面"}
+{"qid":"q-2666837-5","question":"唯一ID生成方案","content_id":"2666837","title":"美团java后端一面(挂)"}

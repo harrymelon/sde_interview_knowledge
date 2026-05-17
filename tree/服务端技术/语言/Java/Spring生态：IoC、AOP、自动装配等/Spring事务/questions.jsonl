@@ -7,3 +7,11 @@
 {"qid":"q-840588378700541952-5","question":"事务的传播行为？","content_id":"840588378700541952","title":"上海禾赛科技 （java后端实习）一面"}
 {"qid":"q-840588378700541952-7","question":"Spring中预先加载的注解及顺序？","content_id":"840588378700541952","title":"上海禾赛科技 （java后端实习）一面"}
 {"qid":"q-846688662325620736-16","question":"Spring 事务的传播行为和隔离级别","content_id":"846688662325620736","title":"Java高薪必备八股文：春招备战指南"}
+{"qid":"q-2780119-10","question":"Spring事务的实现原理、适用场景及失效情况","content_id":"2780119","title":"百度后端开发一面-实习面经"}
+{"qid":"q-2779397-21","question":"在A方法中调用B方法，B方法上加了@Transactional注解，B的事务会生效吗","content_id":"2779397","title":"快手Java后端开发-校招面经"}
+{"qid":"q-2779326-6","question":"Spring中的NESTED知道吗","content_id":"2779326","title":"SHEIN java后端开发一面校招面经"}
+{"qid":"q-2778039-19","question":"@Transactional在什么情况下会失效？","content_id":"2778039","title":"27实习小红书后端开发一面"}
+{"qid":"q-2777554-2","question":"什么是事务的传播行为？","content_id":"2777554","title":"26Java秋招顺丰面试时间线"}
+{"qid":"q-2777328-21","question":"在A方法上调用B方法，B方法上使用了@transaction注解，B中的事务会生效吗？","content_id":"2777328","title":"快手Java日常实习一面"}
+{"qid":"q-2778820-4","question":"Spring的事务和事务失效情况有哪些？","content_id":"2778820","title":"汉得信息已offer一面面经分享"}
+{"qid":"q-2710521-3","question":"在同一个类中，事务方法A调用事务方法B，事务是否会生效？为什么？如果不生效怎么才能生效？","content_id":"2710521","title":"联友科技（武汉）Java一面"}

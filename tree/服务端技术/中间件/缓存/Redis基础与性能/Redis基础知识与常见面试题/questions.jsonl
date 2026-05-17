@@ -11,3 +11,13 @@
 {"qid":"q-2784269-2","question":"Redis的基础知识有哪些？","content_id":"2784269","title":"大三，学院本，第一个实习历程"}
 {"qid":"q-2784086-4","question":"Redis相关知识点考察","content_id":"2784086","title":"哈啰校招面试(一面，二面，笔试)"}
 {"qid":"q-2780351-3","question":"Redis设计过程中需要考虑哪些问题？","content_id":"2780351","title":"得物校招Go后端三面面经 攒人品"}
+{"qid":"q-2779928-0","question":"如何删除Redis中的大key","content_id":"2779928","title":"Shopee后端开发一面-实习面经"}
+{"qid":"q-2779454-0","question":"Redis大key是什么？如何定义多大的Key算大？有什么影响和解决方案？如何拆分？","content_id":"2779454","title":"小鹏汽车二面（没绷住）"}
+{"qid":"q-2777987-13","question":"Redis的原理是什么？","content_id":"2777987","title":"京东后端实习一面"}
+{"qid":"q-2777776-3","question":"Redis和MySQL的区别是什么？","content_id":"2777776","title":"广州小厂java开发实习技术面面经"}
+{"qid":"q-2777334-12","question":"MySQL和Redis的区别是什么？","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}
+{"qid":"q-2769770-4","question":"如何评估部署Redis应该申请多少内存资源或资源占用？","content_id":"2769770","title":"腾讯二面"}
+{"qid":"q-2739684-18","question":"Redis中指令是原子操作吗？安全吗？","content_id":"2739684","title":"金山wps服务端一面"}
+{"qid":"q-2731574-7","question":"Redis内部的原理","content_id":"2731574","title":"科大讯飞一面（Java）"}
+{"qid":"q-2693075-14","question":"Redis 是什么语言实现的","content_id":"2693075","title":"美团后端面经（意向）"}
+{"qid":"q-2693075-15","question":"如何评估 Redis 缓存内存大小是否充足","content_id":"2693075","title":"美团后端面经（意向）"}

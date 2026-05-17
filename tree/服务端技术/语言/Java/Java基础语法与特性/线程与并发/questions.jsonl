@@ -8,3 +8,31 @@
 {"qid":"q-2781934-1","question":"Thread.sleep(0)有什么意义？有什么替代方法？","content_id":"2781934","title":"广州小厂爱奇创新Java实习面经"}
 {"qid":"q-851143575956910080-2","question":"volatile关键字可以用来修饰方法吗？","content_id":"851143575956910080","title":"转码选手的寻找暑期实习之路（1）-腾讯HR与管理线后台开发一面"}
 {"qid":"q-2781466-5","question":"Java有没有用过option？","content_id":"2781466","title":"字节tts后端校招二面（挂）"}
+{"qid":"q-2779951-10","question":"实现3个线程轮流打印1、2、3，重复五次","content_id":"2779951","title":"小红书后端校招一面"}
+{"qid":"q-2779278-12","question":"三个线程轮流打印1、2、3重复五次，如何实现？","content_id":"2779278","title":"小红书后端校招二面"}
+{"qid":"q-2779397-10","question":"三个线程顺序打印a,b,c有哪些实现方式","content_id":"2779397","title":"快手Java后端开发-校招面经"}
+{"qid":"q-2778195-1","question":"Java线程有哪几种状态？","content_id":"2778195","title":"美团后端java日常实习一面"}
+{"qid":"q-2778133-7","question":"如何创建子线程","content_id":"2778133","title":"小米后端开发一面-27实习面经"}
+{"qid":"q-2778133-8","question":"Thread和Runnable有什么区别","content_id":"2778133","title":"小米后端开发一面-27实习面经"}
+{"qid":"q-2777696-6","question":"实现一个生产者消费者模式，生产者生产1-100的随机数，队列最多存放5个元素，消费者消费并打印","content_id":"2777696","title":"高德java后端开发实习一面 50min"}
+{"qid":"q-2777705-0","question":"Java 中如何等待多个线程执行完成？CountDownLatch / CyclicBarrier / CompletableFuture 原理","content_id":"2777705","title":"字节OD后端开发技术二面"}
+{"qid":"q-2777352-6","question":"实现一个生产者消费者模式（阻塞队列，容量5，生产1-100随机数）","content_id":"2777352","title":"27实习高德Java后端二面"}
+{"qid":"q-2777399-20","question":"Java线程的状态有哪些？IO操作时线程处于什么状态？","content_id":"2777399","title":"美团Java后端开发实习一面"}
+{"qid":"q-838483750089453568-4","question":"CompletableFuture的实现原理是怎样的","content_id":"838483750089453568","title":"26秋招小结 含面经碎碎念版"}
+{"qid":"q-2779037-1","question":"请谈谈对Java多线程的了解","content_id":"2779037","title":"2026.1.7 蚂蚁集团-服务端研发（java）一面 40min"}
+{"qid":"q-2778380-9","question":"两个线程如何交替打印数字？","content_id":"2778380","title":"百度java一面 28届的第一次大厂面试 感觉g了"}
+{"qid":"q-2767090-1","question":"Java线程和OS线程之间是什么关系？","content_id":"2767090","title":"字节tiktok后端日常一面"}
+{"qid":"q-2767090-2","question":"Java中有没有机制可以避免线程死锁？如何避免死锁？","content_id":"2767090","title":"字节tiktok后端日常一面"}
+{"qid":"q-2753426-4","question":"介绍下JUC关键的类或者API","content_id":"2753426","title":"11.25深圳中小厂全栈"}
+{"qid":"q-2711674-0","question":"请介绍一下协程的概念和原理","content_id":"2711674","title":"传音控股二面（Java）"}
+{"qid":"q-2710521-1","question":"项目中多线程怎么用的？遇见了什么问题？","content_id":"2710521","title":"联友科技（武汉）Java一面"}
+{"qid":"q-2717721-10","question":"虚拟线程和普通线程的区别是什么？","content_id":"2717721","title":"美团-大模型后台开发实习生-道心破碎版"}
+{"qid":"q-2705841-8","question":"从单线程切换到多线程，应该有哪些注意的点？","content_id":"2705841","title":"快手-商业化JAVA二面"}
+{"qid":"q-2702636-0","question":"现有a、b、c三个线程，如何实现按需循环执行（a执行完执行b，b执行完执行c，c执行完回头执行a）？","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2701437-11","question":"多线程之间如何进行通信？","content_id":"2701437","title":"快手-商业化JAVA一面"}
+{"qid":"q-2695362-2","question":"异步操作的时候会有什么问题？","content_id":"2695362","title":"海信软件开发一面"}
+{"qid":"q-2682123-10","question":"Java中线程安全的数据结构有哪些？","content_id":"2682123","title":"南京小米 java实习一面"}
+{"qid":"q-2693075-8","question":"Java 语言线程模型，现在使用的是什么线程模型","content_id":"2693075","title":"美团后端面经（意向）"}
+{"qid":"q-2675377-6","question":"Java多线程的基础知识有哪些？","content_id":"2675377","title":"点点互动-服务端-笔试"}
+{"qid":"q-2674944-0","question":"CompletableFuture的使用场景是什么？","content_id":"2674944","title":"虾皮秋招一面"}
+{"qid":"q-2673204-7","question":"Java中的Future是什么？如何理解？","content_id":"2673204","title":"美团8.21和8.28一面"}

@@ -11,3 +11,18 @@
 {"qid":"q-2781491-11","question":"线上内存泄露排查","content_id":"2781491","title":"字节后端日常一二三面面经（oc）"}
 {"qid":"q-2780380-6","question":"线上Full GC频繁的排查思路","content_id":"2780380","title":"网易后端开发校招二面-攒人品"}
 {"qid":"q-2781460-2","question":"如何排查Java OOM问题？用过jinfo、火焰图等工具吗？","content_id":"2781460","title":"9.腾讯PCG后端实习一面挂"}
+{"qid":"q-2780130-1","question":"jstack命令执行前有什么依赖或限制条件？","content_id":"2780130","title":"快手Java后端校招面经 攒人品版"}
+{"qid":"q-2779278-4","question":"如何排查Java程序中哪些方法占用了更多CPU？有哪些工具？","content_id":"2779278","title":"小红书后端校招二面"}
+{"qid":"q-2779278-5","question":"如何查看10分钟内占用CPU最多的方法？jstack的作用是什么？","content_id":"2779278","title":"小红书后端校招二面"}
+{"qid":"q-2779278-6","question":"Arthas工具如何进行CPU排查？","content_id":"2779278","title":"小红书后端校招二面"}
+{"qid":"q-2778167-6","question":"项目中有哪些JVM调优经验？","content_id":"2778167","title":"快手后端实习二面 50min"}
+{"qid":"q-2778133-10","question":"内存溢出通常出现在哪些区域","content_id":"2778133","title":"小米后端开发一面-27实习面经"}
+{"qid":"q-2778820-6","question":"JVM Full GC频繁怎么排查？","content_id":"2778820","title":"汉得信息已offer一面面经分享"}
+{"qid":"q-2754523-8","question":"JVM总FullGC咋整？","content_id":"2754523","title":"E签宝 Java 一面"}
+{"qid":"q-2739811-3","question":"jstack 命令具体查看哪些信息？","content_id":"2739811","title":"安恒信息二面（我还以为是hr面，结果是技术面）"}
+{"qid":"q-2739811-4","question":"jstack 主要排查什么问题？","content_id":"2739811","title":"安恒信息二面（我还以为是hr面，结果是技术面）"}
+{"qid":"q-2739811-5","question":"除了 jstack，还有哪些 JDK 分析工具？","content_id":"2739811","title":"安恒信息二面（我还以为是hr面，结果是技术面）"}
+{"qid":"q-2739811-11","question":"Java 层面业务处理耗时如何优化？","content_id":"2739811","title":"安恒信息二面（我还以为是hr面，结果是技术面）"}
+{"qid":"q-2701437-6","question":"频繁出现Full GC如何排查？","content_id":"2701437","title":"快手-商业化JAVA一面"}
+{"qid":"q-2666837-1","question":"JVM底层和OOM发生区域","content_id":"2666837","title":"美团java后端一面(挂)"}
+{"qid":"q-2667196-5","question":"有进行过JVM调参吗？为什么要进行这样的调参？","content_id":"2667196","title":"快手一面凉经"}

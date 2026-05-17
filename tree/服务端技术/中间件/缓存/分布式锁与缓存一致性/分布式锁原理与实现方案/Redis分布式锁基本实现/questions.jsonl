@@ -1,0 +1,20 @@
+{"qid":"q-2789756-10","question":"Redis分布式锁如何实现？SETNX的value可以随便传吗？有什么要求？","content_id":"2789756","title":"百度国际化后台开发日常实习二面"}
+{"qid":"q-2781466-2","question":"Setnx原理？","content_id":"2781466","title":"字节tts后端校招二面（挂）"}
+{"qid":"q-2778182-0","question":"Redis如何实现分布式锁？","content_id":"2778182","title":"字节后端实习二面凉经"}
+{"qid":"q-2778039-16","question":"Redis如何实现分布式锁？","content_id":"2778039","title":"27实习小红书后端开发一面"}
+{"qid":"q-2777292-0","question":"Redis分布式锁如何实现？如何确保加锁成功？如何删锁？","content_id":"2777292","title":"虾皮后端golang实习一面凉经"}
+{"qid":"q-2778178-0","question":"Redis分布式锁的实现原理是什么？","content_id":"2778178","title":"携程后端实习一面 1h"}
+{"qid":"q-2777329-5","question":"分布式锁怎么实现？","content_id":"2777329","title":"快手商业化Java日常实习二面凉经"}
+{"qid":"q-2777328-17","question":"Redis分布式锁的实现","content_id":"2777328","title":"快手Java日常实习一面"}
+{"qid":"q-2777334-19","question":"介绍Redis实现的分布式锁","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}
+{"qid":"q-2701211-6","question":"Redis加锁时，什么时候加锁、什么时候释放锁？两个请求抢锁如何设计？用什么命令抢锁和释放？","content_id":"2701211","title":"网易云音乐java一面"}
+{"qid":"q-2701211-7","question":"如何保证Redis锁一定会被释放？","content_id":"2701211","title":"网易云音乐java一面"}
+{"qid":"q-2692379-1","question":"redis加锁解锁的本身操作是什么","content_id":"2692379","title":"出身寒微，却攥住鹅厂的入场券"}
+{"qid":"q-2750435-9","question":"请说说Redis分布式锁的原理和实现。","content_id":"2750435","title":"cider后端一面"}
+{"qid":"q-2739684-17","question":"Redis中分布式锁如何实现？","content_id":"2739684","title":"金山wps服务端一面"}
+{"qid":"q-2777696-3","question":"分布式锁是怎么实现的？","content_id":"2777696","title":"高德java后端开发实习一面 50min"}
+{"qid":"q-2768525-12","question":"如何保证分布式锁操作的原子性？","content_id":"2768525","title":"小小厂面经"}
+{"qid":"q-2768525-13","question":"是否有实际使用Lua脚本的经验？（针对锁的原子释放）","content_id":"2768525","title":"小小厂面经"}
+{"qid":"q-2746765-33","question":"第二个项目中数据不一致的原因及如何用Redis分布式锁解决（将不一致率从5%降至05%）","content_id":"2746765","title":"清程极智后端日常一面"}
+{"qid":"q-2797570-5","question":"项目中的分布式锁是怎么实现的？","content_id":"2797570","title":"焦点科技java后端一面30min"}
+{"qid":"q-2779397-17","question":"Redis中分布式锁的实现","content_id":"2779397","title":"快手Java后端开发-校招面经"}

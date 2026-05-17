@@ -13,3 +13,22 @@
 {"qid":"q-2785298-10","question":"讲讲MySQL索引的底层","content_id":"2785298","title":"记录下自己双非硕秋招面经"}
 {"qid":"q-2784254-0","question":"数据库索引的实现原理是什么？为什么使用该原理？","content_id":"2784254","title":"超级额新的字节tt国际直播一面"}
 {"qid":"q-2782135-6","question":"InnoDB 的底层实现原理是什么","content_id":"2782135","title":"弘云咨询 全栈实习"}
+{"qid":"q-2778261-3","question":"MySQL中索引使用了什么数据结构以及为什么选择该数据结构","content_id":"2778261","title":"字节飞书后端实习一面 感觉凉了..."}
+{"qid":"q-2778039-10","question":"MySQL索引的底层结构是什么？请展开讲讲。","content_id":"2778039","title":"27实习小红书后端开发一面"}
+{"qid":"q-2778004-19","question":"索引的存储结构？为什么树低查询效率高","content_id":"2778004","title":"字节日常实习后端一面"}
+{"qid":"q-2777334-13","question":"MySQL的索引结构是什么？","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}
+{"qid":"q-2778522-4","question":"MySQL索引为什么使用B+树","content_id":"2778522","title":"快手后端日常实习一面凉经"}
+{"qid":"q-2768525-16","question":"MySQL索引的底层实现是什么？","content_id":"2768525","title":"小小厂面经"}
+{"qid":"q-2768525-17","question":"请讲解一下对B+树的理解。","content_id":"2768525","title":"小小厂面经"}
+{"qid":"q-2768525-18","question":"B+树的非叶子节点存储什么？","content_id":"2768525","title":"小小厂面经"}
+{"qid":"q-2739684-8","question":"MySQL索引常用的数据结构是什么？","content_id":"2739684","title":"金山wps服务端一面"}
+{"qid":"q-2739811-9","question":"为什么创建索引适合用自增主键？","content_id":"2739811","title":"安恒信息二面（我还以为是hr面，结果是技术面）"}
+{"qid":"q-2734965-7","question":"请讲讲B+树的具体结构，以及如何查找一个整数。","content_id":"2734965","title":"tplink 后端一面"}
+{"qid":"q-2735282-5","question":"为什么MySQL用B+树做索引？","content_id":"2735282","title":"回旋加速 golang后端一面 11.4"}
+{"qid":"q-2714419-5","question":"联合索引查询到叶子节点的具体流程，包括数据页和页目录","content_id":"2714419","title":"虾皮后端日常一面面经"}
+{"qid":"q-2702636-10","question":"InnoDB存储引擎底层用什么数据结构存储数据和索引？","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2702636-11","question":"B+树有什么特点？","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2702636-12","question":"一个三层的B+树大概能存储多少数据？其评估思路是什么？","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2702636-13","question":"若MySQL页大小为16K，以主键索引为例，一页大概能存储多少数据？","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2693075-11","question":"MySQL B+树原理","content_id":"2693075","title":"美团后端面经（意向）"}
+{"qid":"q-2661686-7","question":"为什么 MySQL 要用 B+ 树做索引而不是直接顺序存储按行检索？","content_id":"2661686","title":"某二线城市小厂golang面经."}

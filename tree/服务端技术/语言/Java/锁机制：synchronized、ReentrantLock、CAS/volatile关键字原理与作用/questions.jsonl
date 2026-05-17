@@ -6,3 +6,13 @@
 {"qid":"q-2792178-5","question":"volatile会导致线程阻塞嘛？","content_id":"2792178","title":"转码选手的寻找暑期实习之路（1）-腾讯HR与管理线后台开发一面"}
 {"qid":"q-846688662325620736-11","question":"volatile 关键字的作用和原理（可见性、禁止指令重排）","content_id":"846688662325620736","title":"Java高薪必备八股文：春招备战指南"}
 {"qid":"q-2786439-3","question":"Java 中的 volatile 关键字有什么作用？","content_id":"2786439","title":"jdy-创新零售后端一面-40min"}
+{"qid":"q-2777987-11","question":"volatile保证可见性的原理是什么？","content_id":"2777987","title":"京东后端实习一面"}
+{"qid":"q-2777891-13","question":"volatile 的原理大概能讲一下吗？","content_id":"2777891","title":"27日常实习京东科技后端二面"}
+{"qid":"q-2777891-14","question":"两个线程都要去读并加工写同一个 volatile 修饰的属性，另一个线程怎么知道应该要先去主内存读？它们之间的通知机制是怎么实现的？","content_id":"2777891","title":"27日常实习京东科技后端二面"}
+{"qid":"q-2777340-1","question":"volatile的实现原理以及JMM（Java内存模型）","content_id":"2777340","title":"高德地图交易业务Java日常实习一面"}
+{"qid":"q-2777318-10","question":"volatile能保证线程安全吗？","content_id":"2777318","title":"小红书Java日常实习一面"}
+{"qid":"q-2739811-21","question":"volatile 关键字有什么特性？","content_id":"2739811","title":"安恒信息二面（我还以为是hr面，结果是技术面）"}
+{"qid":"q-2739811-22","question":"volatile 如何保证可见性？","content_id":"2739811","title":"安恒信息二面（我还以为是hr面，结果是技术面）"}
+{"qid":"q-2701437-12","question":"共享变量存在可见性问题，该如何解决？","content_id":"2701437","title":"快手-商业化JAVA一面"}
+{"qid":"q-2701437-13","question":"如何理解指令重排？在单例模式双重锁检查中，不加volatile关键字时，指令重排可能会出现什么问题？","content_id":"2701437","title":"快手-商业化JAVA一面"}
+{"qid":"q-2695362-5","question":"Synchronized和volatile关键字是做什么的？有什么区别？","content_id":"2695362","title":"海信软件开发一面"}

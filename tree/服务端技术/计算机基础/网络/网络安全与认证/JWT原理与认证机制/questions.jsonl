@@ -1,0 +1,16 @@
+{"qid":"q-857348280399736832-3","question":"JWT为什么能降低服务端的存储压力？","content_id":"857348280399736832","title":"新华通运一面"}
+{"qid":"q-857348280399736832-4","question":"JWT会有什么安全风险？例如token被盗等","content_id":"857348280399736832","title":"新华通运一面"}
+{"qid":"q-2795714-7","question":"JWT原理及项目中如何使用","content_id":"2795714","title":"算力大陆后端开发面经"}
+{"qid":"q-2789209-9","question":"项目中为什么用JWT，和cookie-session相比有何优势","content_id":"2789209","title":"腾讯2026技术提前批后台开发一面"}
+{"qid":"q-2789477-5","question":"JWT的刷新机制怎么设计？","content_id":"2789477","title":"b站Java日常实习面经"}
+{"qid":"q-2785774-6","question":"请介绍一下JWT","content_id":"2785774","title":"实在智能-Java开发-实习一面"}
+{"qid":"q-2785774-7","question":"同一用户在客户端A和客户端B生成JWT，客户端B修改用户信息后两个JWT会冲突吗？如何解决？","content_id":"2785774","title":"实在智能-Java开发-实习一面"}
+{"qid":"q-2784403-8","question":"双token的校验机制讲一讲","content_id":"2784403","title":"百度后端一二面"}
+{"qid":"q-2782248-6","question":"项目用户登录鉴权是怎么实现的？cookie、session和JWT有什么区别？","content_id":"2782248","title":"实在智能-Java开发工程师-终面-45min"}
+{"qid":"q-2767087-6","question":"JWT和Session的核心区别是什么？","content_id":"2767087","title":"字节剪映后端日常一面"}
+{"qid":"q-2767090-4","question":"JWT原理，JWT的token存储在客户端什么位置？","content_id":"2767090","title":"字节tiktok后端日常一面"}
+{"qid":"q-2767090-6","question":"JWT内部结构，如何防止篡改，加密算法？","content_id":"2767090","title":"字节tiktok后端日常一面"}
+{"qid":"q-2734965-1","question":"请解释JWT的原理、优点和缺点。","content_id":"2734965","title":"tplink 后端一面"}
+{"qid":"q-2791345-12","question":"请详细说明微信扫码登录的完整流程和背后发生的原理","content_id":"2791345","title":"字节 后端开发 (Agent中台)一面凉"}
+{"qid":"q-2710521-5","question":"登录鉴权的方法有哪些？","content_id":"2710521","title":"联友科技（武汉）Java一面"}
+{"qid":"q-2795144-18","question":"Cookie和Session的区别是什么？","content_id":"2795144","title":"润科通用Java实习"}

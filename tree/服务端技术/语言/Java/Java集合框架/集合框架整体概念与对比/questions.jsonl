@@ -9,3 +9,17 @@
 {"qid":"q-845423300489510912-5","question":"集合List、Set、Map的区别和应用","content_id":"845423300489510912","title":"云徙科技[成都] 全栈开发 一面"}
 {"qid":"q-840588378700541952-1","question":"List和Set的区别？","content_id":"840588378700541952","title":"上海禾赛科技 （java后端实习）一面"}
 {"qid":"q-2781491-27","question":"Java常见集合以及各自底层","content_id":"2781491","title":"字节后端日常一二三面面经（oc）"}
+{"qid":"q-2779397-4","question":"List和Set集合的区别","content_id":"2779397","title":"快手Java后端开发-校招面经"}
+{"qid":"q-2779163-4","question":"Java集合框架中各类集合的作用和底层实现是什么？","content_id":"2779163","title":"小红书一二面凉经"}
+{"qid":"q-2778004-6","question":"介绍一下Java集合框架","content_id":"2778004","title":"字节日常实习后端一面"}
+{"qid":"q-2777891-15","question":"数组阻塞队列的底层数据结构有了解吗？","content_id":"2777891","title":"27日常实习京东科技后端二面"}
+{"qid":"q-2777816-3","question":"Caffeine和HashMap有什么区别？","content_id":"2777816","title":"27实习小厂java后端二面"}
+{"qid":"q-2777328-4","question":"List和Set集合的区别","content_id":"2777328","title":"快手Java日常实习一面"}
+{"qid":"q-2754523-0","question":"Java常用集合有哪些？哪些线程不安全？","content_id":"2754523","title":"E签宝 Java 一面"}
+{"qid":"q-2763749-12","question":"Java集合框架整体概念与常见问题","content_id":"2763749","title":"26届双非本秋招总结"}
+{"qid":"q-2704208-3","question":"Java集合架构包含哪些内容？","content_id":"2704208","title":"乐牛游戏笔试"}
+{"qid":"q-2700255-1","question":"请说一下Java集合类型List和Map的区别","content_id":"2700255","title":"招银云创Java开发一面（30min）"}
+{"qid":"q-2672828-0","question":"简单描述一下常用集合类的适用场景及线程安全性","content_id":"2672828","title":"淘天java 26日后端一面"}
+{"qid":"q-2672828-1","question":"ArrayList 和 HashMap的增删改查复杂度","content_id":"2672828","title":"淘天java 26日后端一面"}
+{"qid":"q-2669559-10","question":"并发环境下使用集合有哪些注意点","content_id":"2669559","title":"万得秋招一面"}
+{"qid":"q-2664637-7","question":"如果要想实现可以按put的顺序遍历HashMap，要怎么实现呢？那如果要想改变其中的顺序呢","content_id":"2664637","title":"京东零售后端秋招一面"}

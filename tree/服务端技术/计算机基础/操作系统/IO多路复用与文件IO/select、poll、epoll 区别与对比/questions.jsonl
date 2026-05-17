@@ -1,0 +1,11 @@
+{"qid":"q-2791936-4","question":"select、poll、epoll有什么区别？","content_id":"2791936","title":"字节java日常一面"}
+{"qid":"q-850671110495465472-0","question":"请详细说明I/O多路复用的原理，并对比select、poll和epoll的区别","content_id":"850671110495465472","title":"锐明科技 C++开发-一面 面经"}
+{"qid":"q-2779974-3","question":"IO多路复用模型的select和epoll有什么区别？","content_id":"2779974","title":"白日梦服务端凉经"}
+{"qid":"q-2778111-5","question":"epoll和select有什么区别？","content_id":"2778111","title":"小红书java后端开发二面-27实习"}
+{"qid":"q-2712774-17","question":"select、poll、epoll的区别与使用","content_id":"2712774","title":"经纬恒润一面c++"}
+{"qid":"q-2710215-17","question":"select、poll、epoll的区别和适用场景是什么？","content_id":"2710215","title":"经纬恒润一面c++"}
+{"qid":"q-2693075-9","question":"select、poll、epoll 区别","content_id":"2693075","title":"美团后端面经（意向）"}
+{"qid":"q-2674944-12","question":"select和epoll的区别是什么？","content_id":"2674944","title":"虾皮秋招一面"}
+{"qid":"q-2666306-17","question":"select 与 epoll 的区别？","content_id":"2666306","title":"美团 后端 一面"}
+{"qid":"q-2777845-12","question":"IO多路复用有哪些方式？它们的区别是什么？","content_id":"2777845","title":"字节tiktokshop后端实习生一面面经"}
+{"qid":"q-2781472-7","question":"为什么 select 的文件描述符集合是有序的","content_id":"2781472","title":"15.字节跳动-懂车帝后端校招二面（挂）"}

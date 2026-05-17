@@ -1,0 +1,8 @@
+{"qid":"q-2788359-0","question":"操作系统怎么读取磁盘文件？","content_id":"2788359","title":"字节26秋招 C++面经"}
+{"qid":"q-2788359-1","question":"操作系统如何根据文件地址找到文件在磁盘上的位置？","content_id":"2788359","title":"字节26秋招 C++面经"}
+{"qid":"q-2788359-2","question":"文件指针偏移量存储在什么地方？","content_id":"2788359","title":"字节26秋招 C++面经"}
+{"qid":"q-2781472-4","question":"文件描述符是什么","content_id":"2781472","title":"15.字节跳动-懂车帝后端校招二面（挂）"}
+{"qid":"q-2767088-9","question":"FD在什么情况下会被创建？本地文件IO读写是否会创建FD","content_id":"2767088","title":"字节tiktok后端日常二面"}
+{"qid":"q-2780402-6","question":"什么是零拷贝技术？在Golang中如何实现零拷贝？","content_id":"2780402","title":"腾讯Golang开发一面-校招面经"}
+{"qid":"q-2779545-5","question":"什么是零拷贝？","content_id":"2779545","title":"美团27实习后端一面"}
+{"qid":"q-2777845-7","question":"什么是零拷贝？","content_id":"2777845","title":"字节tiktokshop后端实习生一面面经"}

@@ -17,3 +17,31 @@
 {"qid":"q-2784185-18","question":"MySQL数据库性能优化方法（表结构、索引、分库分表等）","content_id":"2784185","title":"2025.1.8西安易谷网络小厂面试"}
 {"qid":"q-841830464737292288-6","question":"查询大量数据很慢的优化方法（分库分表、EXPLAIN等）","content_id":"841830464737292288","title":"百度日常实习后端二面热经（没凉，已OC，感谢面试官捞捞）"}
 {"qid":"q-2780371-13","question":"数据库索引下推优化原理是什么？","content_id":"2780371","title":"网易校招Java后端一面技术面"}
+{"qid":"q-2780217-8","question":"你是如何进行SQL调优的?","content_id":"2780217","title":"亚马逊Java后端一面-实习面经"}
+{"qid":"q-2780217-13","question":"假设数据库成为了性能瓶颈点，动态数据查询如何提升效率?","content_id":"2780217","title":"亚马逊Java后端一面-实习面经"}
+{"qid":"q-2779565-8","question":"你是如何进行SQL调优的？","content_id":"2779565","title":"亚马逊Java后端开发一面凉经"}
+{"qid":"q-2779565-13","question":"数据库成为性能瓶颈，动态数据查询如何提升效率？","content_id":"2779565","title":"亚马逊Java后端开发一面凉经"}
+{"qid":"q-2779326-15","question":"假如产品给了你一个数据查询场景，一个表有20个字段，在前端页面提供了15个可填写字段，也可以不填，可以数据筛选，同时支持模糊查询，将查询的数据展示出来。你觉得这个需求实现起来最困难的点是什么？","content_id":"2779326","title":"SHEIN java后端开发一面校招面经"}
+{"qid":"q-2779326-16","question":"你觉得应该如何解决这个问题","content_id":"2779326","title":"SHEIN java后端开发一面校招面经"}
+{"qid":"q-2778153-12","question":"如何优化数据库性能","content_id":"2778153","title":"滴滴后端开发一面-实习面经"}
+{"qid":"q-2777816-2","question":"将上下文存数据库，每次读写太慢怎么办？","content_id":"2777816","title":"27实习小厂java后端二面"}
+{"qid":"q-2777501-5","question":"MySQL的索引类型有哪些?如何优化慢查询?","content_id":"2777501","title":"哔哩哔哩golang后端实习面经"}
+{"qid":"q-2778820-10","question":"如何优化`select * from order where userid and status`这样的查询？","content_id":"2778820","title":"汉得信息已offer一面面经分享"}
+{"qid":"q-2778820-11","question":"如何优化order by time desc？","content_id":"2778820","title":"汉得信息已offer一面面经分享"}
+{"qid":"q-2778372-4","question":"MySQL做过哪些优化","content_id":"2778372","title":"滴滴后端开发 26校招 二面"}
+{"qid":"q-838069125107699712-3","question":"一条慢SQL如何优化","content_id":"838069125107699712","title":"华宇软件（实习） 一面面经"}
+{"qid":"q-2763749-2","question":"分页查询优化与索引设计","content_id":"2763749","title":"26届双非本秋招总结"}
+{"qid":"q-2763749-8","question":"MySQL SQL优化常见手段","content_id":"2763749","title":"26届双非本秋招总结"}
+{"qid":"q-2748333-11","question":"分页查询是如何优化的？","content_id":"2748333","title":"深圳智能思创科技有限公司-初面"}
+{"qid":"q-2738102-3","question":"除了加索引、精简字段，数据库性能还有哪些优化方向？","content_id":"2738102","title":"图拉斯二面"}
+{"qid":"q-2735988-6","question":"SQL 优化的手段有哪些？优化思路是什么？","content_id":"2735988","title":"11.5古茗java一面 30min"}
+{"qid":"q-2726168-0","question":"怎么优化慢SQL？","content_id":"2726168","title":"社招-JAVA后端-久其软件一面"}
+{"qid":"q-2710521-2","question":"项目中SQL怎么优化慢查询的？","content_id":"2710521","title":"联友科技（武汉）Java一面"}
+{"qid":"q-2704184-1","question":"请介绍SQL优化的方法","content_id":"2704184","title":"CVTE一面（Java）"}
+{"qid":"q-2702636-7","question":"若线上有一个MySQL需要优化，请说明你的优化思路。","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2702636-9","question":"若explain分析无问题、已加索引，但MySQL整体速度仍很慢，还有哪些优化思路和手段？","content_id":"2702636","title":"小红书-后端开发-商业技术一面80min"}
+{"qid":"q-2700457-10","question":"SQL优化怎么个思路","content_id":"2700457","title":"波克城市一面 9.23"}
+{"qid":"q-2688469-7","question":"复杂场景下多个join都走了索引但还是很慢，怎么解决","content_id":"2688469","title":"顺丰后端一面 9.11"}
+{"qid":"q-2685815-27","question":"SQL优化怎么优化","content_id":"2685815","title":"美团-核心本地商业后端一面-9.9（凉）"}
+{"qid":"q-2680728-0","question":"如何优化数据库查询？","content_id":"2680728","title":"滴滴正式批:"}
+{"qid":"q-2670349-6","question":"查询数据库使用limit 10000,10有什么弊端及解决方案","content_id":"2670349","title":"虾皮一面"}

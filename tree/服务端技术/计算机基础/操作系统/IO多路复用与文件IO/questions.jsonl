@@ -1,16 +1,2 @@
-{"qid":"q-2796208-6","question":"讲一下I/O多路复用","content_id":"2796208","title":"腾讯HR与管理线后台 实习 开发一面"}
-{"qid":"q-2791936-3","question":"讲一下IO多路复用","content_id":"2791936","title":"字节java日常一面"}
-{"qid":"q-2791936-4","question":"select、poll、epoll有什么区别？","content_id":"2791936","title":"字节java日常一面"}
-{"qid":"q-850671110495465472-0","question":"请详细说明I/O多路复用的原理，并对比select、poll和epoll的区别","content_id":"850671110495465472","title":"锐明科技 C++开发-一面 面经"}
-{"qid":"q-2788359-0","question":"操作系统怎么读取磁盘文件？","content_id":"2788359","title":"字节26秋招 C++面经"}
-{"qid":"q-2788359-1","question":"操作系统如何根据文件地址找到文件在磁盘上的位置？","content_id":"2788359","title":"字节26秋招 C++面经"}
-{"qid":"q-2788359-2","question":"文件指针偏移量存储在什么地方？","content_id":"2788359","title":"字节26秋招 C++面经"}
-{"qid":"q-2788359-3","question":"什么是非阻塞I/O？","content_id":"2788359","title":"字节26秋招 C++面经"}
-{"qid":"q-2788359-4","question":"非阻塞I/O有哪几种？","content_id":"2788359","title":"字节26秋招 C++面经"}
-{"qid":"q-2781472-4","question":"文件描述符是什么","content_id":"2781472","title":"15.字节跳动-懂车帝后端校招二面（挂）"}
-{"qid":"q-2781472-5","question":"说一下 IO 多路复用","content_id":"2781472","title":"15.字节跳动-懂车帝后端校招二面（挂）"}
-{"qid":"q-2781472-6","question":"为什么 epoll 底层用红黑树管理","content_id":"2781472","title":"15.字节跳动-懂车帝后端校招二面（挂）"}
-{"qid":"q-2781472-7","question":"为什么 select 的文件描述符集合是有序的","content_id":"2781472","title":"15.字节跳动-懂车帝后端校招二面（挂）"}
-{"qid":"q-2781472-8","question":"异步 IO 和非阻塞 IO 的区别","content_id":"2781472","title":"15.字节跳动-懂车帝后端校招二面（挂）"}
-{"qid":"q-2780402-6","question":"什么是零拷贝技术？在Golang中如何实现零拷贝？","content_id":"2780402","title":"腾讯Golang开发一面-校招面经"}
-{"qid":"q-2784548-4","question":"epoll相比select/poll的优势是什么？","content_id":"2784548","title":"腾讯，微信基础研发，后端开发面经"}
+{"qid":"q-2710215-7","question":"如何优化日志库，例如捕获cout和printf的输出？","content_id":"2710215","title":"经纬恒润一面c++"}
+{"qid":"q-2693075-5","question":"调用一次查询 maven 中央仓库接口的 IO 时间是多少？设计并发策略需要关注什么","content_id":"2693075","title":"美团后端面经（意向）"}

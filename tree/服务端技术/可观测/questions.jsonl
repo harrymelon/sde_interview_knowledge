@@ -8,3 +8,6 @@
 {"qid":"q-2780364-3","question":"系统性能如何评估？用到的指标是什么？","content_id":"2780364","title":"小鹏汽车秋招Java后端面试记录"}
 {"qid":"q-2780364-30","question":"系统随机3%接口超时，分布在不同接口，如何排查生产问题？","content_id":"2780364","title":"小鹏汽车秋招Java后端面试记录"}
 {"qid":"q-2780360-11","question":"日志级别debug和info的区别及原理？","content_id":"2780360","title":"京东Java后端开发一面-日常实习"}
+{"qid":"q-2778004-5","question":"怎么根据AOP和MDC实现全链路日志追踪","content_id":"2778004","title":"字节日常实习后端一面"}
+{"qid":"q-2777554-4","question":"如何估算执行日志每天产生的数据量？","content_id":"2777554","title":"26Java秋招顺丰面试时间线"}
+{"qid":"q-2776979-8","question":"多线程任务、定时任务如何排查错误？","content_id":"2776979","title":"沥泉科技 Golang 社招技术面"}

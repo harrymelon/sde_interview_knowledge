@@ -3,3 +3,5 @@
 {"qid":"q-2795144-14","question":"XXL-JOB主要做了什么？还用过哪些其他定时任务框架？","content_id":"2795144","title":"润科通用Java实习"}
 {"qid":"q-2786131-6","question":"XXL-Job执行器路由策略、完整任务调度流程、任务执行失败的处理方案","content_id":"2786131","title":"杭州某小厂Java后端开发实习生面试"}
 {"qid":"q-2786131-7","question":"XXL-Job的注册发现机制（结合与Nacos的相似点展开）","content_id":"2786131","title":"杭州某小厂Java后端开发实习生面试"}
+{"qid":"q-2777394-2","question":"定时任务触发如何避免多计划并发导致的流量峰值？","content_id":"2777394","title":"快手Java后端开发实习一面凉经"}
+{"qid":"q-2778380-5","question":"XXL-Job 分片广播索引的原理是什么？","content_id":"2778380","title":"百度java一面 28届的第一次大厂面试 感觉g了"}

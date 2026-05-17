@@ -21,3 +21,25 @@
 {"qid":"q-2781464-6","question":"Redis支持哪些数据类型？","content_id":"2781464","title":"北京百度后端实习二面"}
 {"qid":"q-2783947-2","question":"项目中为什么要使用Redis的hash数据结构？","content_id":"2783947","title":"高顿教育后端实习岗位oc"}
 {"qid":"q-2784185-15","question":"Redis中ZSet和Set的区别","content_id":"2784185","title":"2025.1.8西安易谷网络小厂面试"}
+{"qid":"q-2779565-4","question":"Redis的zset实现排行榜，分数相同按照时间顺序排序如何做？","content_id":"2779565","title":"亚马逊Java后端开发一面凉经"}
+{"qid":"q-2778261-8","question":"Redis有哪些数据结构","content_id":"2778261","title":"字节飞书后端实习一面 感觉凉了..."}
+{"qid":"q-2778178-8","question":"Redis的Bitmap数据类型原理是什么？","content_id":"2778178","title":"携程后端实习一面 1h"}
+{"qid":"q-2778039-14","question":"Redis主要的数据类型有哪些？","content_id":"2778039","title":"27实习小红书后端开发一面"}
+{"qid":"q-2777798-7","question":"Redis有哪些数据类型","content_id":"2777798","title":"小厂Java后端日常实习一面"}
+{"qid":"q-2777464-10","question":"Redis数据结构（ZSet、Bitmap）的应用场景及限制？","content_id":"2777464","title":"百度网盘 国际化Go实习一面凉经"}
+{"qid":"q-2777340-20","question":"Redis常用的数据结构有哪些","content_id":"2777340","title":"高德地图交易业务Java日常实习一面"}
+{"qid":"q-2777321-22","question":"介绍一下点赞排行是个什么功能？为什么使用zset呢？","content_id":"2777321","title":"字节今日头条Java日常实习一面凉经"}
+{"qid":"q-2778912-2","question":"Redis 有哪几种数据结构？","content_id":"2778912","title":"京东后端实习一面凉经（2026-1-6）"}
+{"qid":"q-2778378-21","question":"Redis有哪些数据结构？","content_id":"2778378","title":"小鹏汽车后端开发校招面经 攒人品"}
+{"qid":"q-838038489668046848-8","question":"Redis常见数据类型有哪些","content_id":"838038489668046848","title":"27小厂Java后端实习"}
+{"qid":"q-2754523-6","question":"实现用户积分排行榜用啥？","content_id":"2754523","title":"E签宝 Java 一面"}
+{"qid":"q-2750435-11","question":"Redis做缓存时存储对象用什么数据结构？为什么不用String？两者有什么区别？","content_id":"2750435","title":"cider后端一面"}
+{"qid":"q-2739684-19","question":"Redis中使用String保存一个图片的二进制码，末尾可能有'\\0'，后续读取可以恢复图片吗？","content_id":"2739684","title":"金山wps服务端一面"}
+{"qid":"q-2735988-3","question":"Redis 的数据结构有哪些？","content_id":"2735988","title":"11.5古茗java一面 30min"}
+{"qid":"q-2735282-10","question":"Redis有哪些数据结构？","content_id":"2735282","title":"回旋加速 golang后端一面 11.4"}
+{"qid":"q-2701287-6","question":"介绍一下Redis的zset","content_id":"2701287","title":"腾讯 QQ 后端开发实习二面"}
+{"qid":"q-2701287-7","question":"Redis有哪些数据结构？你用过哪些？","content_id":"2701287","title":"腾讯 QQ 后端开发实习二面"}
+{"qid":"q-2688469-12","question":"Redis有哪些数据结构","content_id":"2688469","title":"顺丰后端一面 9.11"}
+{"qid":"q-2673922-6","question":"Redis排序的数据结构，分数相同先到先得如何实现","content_id":"2673922","title":"8.29 友谊时光java实习一面"}
+{"qid":"q-2673204-1","question":"Redis的基本数据类型和应用场景有哪些？","content_id":"2673204","title":"美团8.21和8.28一面"}
+{"qid":"q-2666306-13","question":"Redis 最基础的数据结构有哪些？","content_id":"2666306","title":"美团 后端 一面"}

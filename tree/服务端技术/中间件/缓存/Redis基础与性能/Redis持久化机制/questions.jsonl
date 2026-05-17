@@ -8,3 +8,11 @@
 {"qid":"q-2781621-7","question":"Redis为什么使用RDB+AOF混合持久化模式？","content_id":"2781621","title":"16.上海哈啰后端校招一面"}
 {"qid":"q-2781621-8","question":"提高RDB备份频率能否消除RDB的劣势？","content_id":"2781621","title":"16.上海哈啰后端校招一面"}
 {"qid":"q-2781624-17","question":"Redis线上丢失过数据吗？丢失原因是什么？","content_id":"2781624","title":"18.滴滴-效能平台后端实习一面"}
+{"qid":"q-2778189-0","question":"Redis持久化机制有哪些？","content_id":"2778189","title":"27实习字节后端日常一面"}
+{"qid":"q-2778039-17","question":"Redis的持久化操作有哪些？","content_id":"2778039","title":"27实习小红书后端开发一面"}
+{"qid":"q-2777798-10","question":"Redis持久化机制有哪些","content_id":"2777798","title":"小厂Java后端日常实习一面"}
+{"qid":"q-838483750089453568-3","question":"Redis持久化机制有哪些？请介绍其原理","content_id":"838483750089453568","title":"26秋招小结 含面经碎碎念版"}
+{"qid":"q-2754523-5","question":"怎么保证Redis数据不丢失？","content_id":"2754523","title":"E签宝 Java 一面"}
+{"qid":"q-2726924-13","question":"Redis的持久化方式","content_id":"2726924","title":"百度后端日常二面（云方向）"}
+{"qid":"q-2688469-14","question":"Redis持久化有哪些方式","content_id":"2688469","title":"顺丰后端一面 9.11"}
+{"qid":"q-2661686-9","question":"Redis 故障后如何保障数据一致性和不丢失内容？","content_id":"2661686","title":"某二线城市小厂golang面经."}

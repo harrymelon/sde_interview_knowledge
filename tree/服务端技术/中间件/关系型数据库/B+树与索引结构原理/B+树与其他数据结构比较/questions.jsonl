@@ -6,3 +6,15 @@
 {"qid":"q-2785913-11","question":"B+树和B树的区别","content_id":"2785913","title":"度小满（数据库后端开发）"}
 {"qid":"q-2781463-4","question":"B+树和B树的区别是什么？","content_id":"2781463","title":"12.北京百度后端实习一面面经（2025年3月30投递-不确定，4月8约面）"}
 {"qid":"q-2781463-6","question":"为什么 MySQL 不使用跳表作为索引结构？","content_id":"2781463","title":"12.北京百度后端实习一面面经（2025年3月30投递-不确定，4月8约面）"}
+{"qid":"q-2780217-2","question":"为什么MySQL用B+树,MongoDB用B树?","content_id":"2780217","title":"亚马逊Java后端一面-实习面经"}
+{"qid":"q-2779565-2","question":"为什么MySQL用B+树，MongoDB用B树？","content_id":"2779565","title":"亚马逊Java后端开发一面凉经"}
+{"qid":"q-2777964-0","question":"为什么MySQL使用B+树而不是跳表？","content_id":"2777964","title":"腾讯后端实习一面 1h"}
+{"qid":"q-2777924-11","question":"B树和B+树结构有何区别，各自优劣是什么？","content_id":"2777924","title":"字节跳动即梦全栈一面"}
+{"qid":"q-2777445-13","question":"MySQL 索引 B+树和 B树的区别?","content_id":"2777445","title":"美团Java后端开发实习二面"}
+{"qid":"q-2777307-16","question":"B+树和B树的区别是什么？","content_id":"2777307","title":"快手Java日常实习一面凉经"}
+{"qid":"q-2777307-17","question":"从树高层面看，B树和B+树哪个树更高？","content_id":"2777307","title":"快手Java日常实习一面凉经"}
+{"qid":"q-2778281-6","question":"MySQL底层为什么用B+树而不是B树","content_id":"2778281","title":"滴滴后端实习二面 55min"}
+{"qid":"q-2746765-18","question":"B+树和B树的区别，MySQL为什么选择B+树作为索引结构？","content_id":"2746765","title":"清程极智后端日常一面"}
+{"qid":"q-2739684-9","question":"B+树和B树相比优势是什么？","content_id":"2739684","title":"金山wps服务端一面"}
+{"qid":"q-2700457-13","question":"单索引和联合索引的时间复杂度分别是多少","content_id":"2700457","title":"波克城市一面 9.23"}
+{"qid":"q-2671794-3","question":"B树和B+树有什么区别？","content_id":"2671794","title":"秋招快手一面Java开发工程师凉经"}

@@ -8,3 +8,15 @@
 {"qid":"q-846688662325620736-15","question":"Spring Bean 的生命周期","content_id":"846688662325620736","title":"Java高薪必备八股文：春招备战指南"}
 {"qid":"q-2792451-5","question":"Spring创建Bean的过程是怎么利用工厂模式的？","content_id":"2792451","title":"小厂java实习"}
 {"qid":"q-2790248-18","question":"如何在Bean属性注入之后执行一段逻辑","content_id":"2790248","title":"字节后端二面"}
+{"qid":"q-2777851-11","question":"Spring中循环依赖怎么解决？","content_id":"2777851","title":"京东科技后端实习一面"}
+{"qid":"q-2778004-13","question":"什么是懒加载","content_id":"2778004","title":"字节日常实习后端一面"}
+{"qid":"q-2778004-15","question":"Spring创建对象是单例吗","content_id":"2778004","title":"字节日常实习后端一面"}
+{"qid":"q-2778004-16","question":"Bean的管理机制存在哪些问题","content_id":"2778004","title":"字节日常实习后端一面"}
+{"qid":"q-2777394-9","question":"请介绍一下三级缓存结构？","content_id":"2777394","title":"快手Java后端开发实习一面凉经"}
+{"qid":"q-2777340-18","question":"Spring中Bean的加载流程","content_id":"2777340","title":"高德地图交易业务Java日常实习一面"}
+{"qid":"q-2777334-11","question":"Spring中对于循环依赖是怎么解决的？","content_id":"2777334","title":"哈啰Java日常实习一面 35min"}
+{"qid":"q-2778820-5","question":"Spring Bean的生命周期是怎样的？","content_id":"2778820","title":"汉得信息已offer一面面经分享"}
+{"qid":"q-2778380-7","question":"Spring 的 ApplicationContext 原理是什么？Bean 的生命周期是怎样的？","content_id":"2778380","title":"百度java一面 28届的第一次大厂面试 感觉g了"}
+{"qid":"q-838038489668046848-7","question":"Spring Bean的生命周期","content_id":"838038489668046848","title":"27小厂Java后端实习"}
+{"qid":"q-2735988-8","question":"Spring 容器的加载过程和 Bean 的初始化流程是什么？三级缓存的作用是什么？","content_id":"2735988","title":"11.5古茗java一面 30min"}
+{"qid":"q-2685815-1","question":"循环依赖怎么解决的","content_id":"2685815","title":"美团-核心本地商业后端一面-9.9（凉）"}

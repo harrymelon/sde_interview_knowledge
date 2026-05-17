@@ -3,3 +3,6 @@
 {"qid":"q-857348066750234624-8","question":"针对于LRU缓存策略，实现的话用什么数据结构？","content_id":"857348066750234624","title":"字节crm后端一面"}
 {"qid":"q-2791970-1","question":"手撕 LRU 算法","content_id":"2791970","title":"快手java面试算法题整理"}
 {"qid":"q-2781466-4","question":"手撕LRU后，问如果保证线程安全要在哪里加锁？","content_id":"2781466","title":"字节tts后端校招二面（挂）"}
+{"qid":"q-2780130-8","question":"LRU缓存淘汰策略的实现思路。","content_id":"2780130","title":"快手Java后端校招面经 攒人品版"}
+{"qid":"q-2779163-13","question":"手写LRU缓存（手撕lru缓存）","content_id":"2779163","title":"小红书一二面凉经"}
+{"qid":"q-2777321-26","question":"手撕带TTL的LRU。","content_id":"2777321","title":"字节今日头条Java日常实习一面凉经"}

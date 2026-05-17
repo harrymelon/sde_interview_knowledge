@@ -7,3 +7,4 @@
 {"qid":"q-2796546-7","question":"对话压缩是如何做的，上下文窗口策略？为什么固定轮次为15轮","content_id":"2796546","title":"若比邻AI后端实习二面"}
 {"qid":"q-2796546-8","question":"工具执行过程应该放在上下文里嘛","content_id":"2796546","title":"若比邻AI后端实习二面"}
 {"qid":"q-2796546-9","question":"类似的上下文压缩策略你了解过有哪些（答claude code）","content_id":"2796546","title":"若比邻AI后端实习二面"}
+{"qid":"q-2777963-0","question":"如何维护多异步任务下上下文窗口不被污染？","content_id":"2777963","title":"minimax agent后端"}

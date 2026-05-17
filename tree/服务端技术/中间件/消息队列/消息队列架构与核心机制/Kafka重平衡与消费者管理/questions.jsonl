@@ -1,0 +1,5 @@
+{"qid":"q-2779454-4","question":"Kafka的消息重平衡（Rebalance）是什么？","content_id":"2779454","title":"小鹏汽车二面（没绷住）"}
+{"qid":"q-2777845-6","question":"Kafka的Rebalance机制你了解吗？","content_id":"2777845","title":"字节tiktokshop后端实习生一面面经"}
+{"qid":"q-2777845-9","question":"Kafka用什么维护offset？最新版本还依赖ZK吗？原因是什么？","content_id":"2777845","title":"字节tiktokshop后端实习生一面面经"}
+{"qid":"q-2767088-4","question":"什么情况下会触发Kafka的rebalance？如何降低consumer重启次数","content_id":"2767088","title":"字节tiktok后端日常二面"}
+{"qid":"q-2701211-10","question":"一个topic创建16个partition，200个机器消费时，消费机制是怎样的？","content_id":"2701211","title":"网易云音乐java一面"}

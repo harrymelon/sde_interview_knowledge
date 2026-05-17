@@ -5,3 +5,15 @@
 {"qid":"q-846045342515621888-15","question":"Redis的过期key是怎么删除的","content_id":"846045342515621888","title":"后端开发面试记录"}
 {"qid":"q-2781465-2","question":"Redis中key是主动删除还是被动删除？Redis怎么知道key是否过期？","content_id":"2781465","title":"字节tts后端校招一面"}
 {"qid":"q-2781465-3","question":"惰性删除和定期删除各自的优劣","content_id":"2781465","title":"字节tts后端校招一面"}
+{"qid":"q-2779163-2","question":"Redis的过期删除策略有哪些？","content_id":"2779163","title":"小红书一二面凉经"}
+{"qid":"q-2777798-9","question":"Redis过期删除策略有哪些","content_id":"2777798","title":"小厂Java后端日常实习一面"}
+{"qid":"q-2777448-4","question":"Redis的缓存策略有哪些？","content_id":"2777448","title":"腾讯日常后端一面"}
+{"qid":"q-2778378-24","question":"Redis内存淘汰策略有哪些？","content_id":"2778378","title":"小鹏汽车后端开发校招面经 攒人品"}
+{"qid":"q-2778281-4","question":"Redis的过期时间是如何实现的","content_id":"2778281","title":"滴滴后端实习二面 55min"}
+{"qid":"q-2769770-5","question":"管理缓存的生命周期的策略是什么？","content_id":"2769770","title":"腾讯二面"}
+{"qid":"q-2726924-12","question":"Redis中Key过期后清理机制","content_id":"2726924","title":"百度后端日常二面（云方向）"}
+{"qid":"q-2714419-2","question":"Redis的内存淘汰策略有哪些？默认淘汰策略是什么？不同场景下如何选择？","content_id":"2714419","title":"虾皮后端日常一面面经"}
+{"qid":"q-2700255-7","question":"请介绍一下Redis的删除策略","content_id":"2700255","title":"招银云创Java开发一面（30min）"}
+{"qid":"q-2680728-3","question":"Redis的淘汰策略有哪些？","content_id":"2680728","title":"滴滴正式批:"}
+{"qid":"q-2680728-4","question":"Redis怎么实现淘汰策略的？懒加载+字典那个","content_id":"2680728","title":"滴滴正式批:"}
+{"qid":"q-2675321-6","question":"Redis EXPIRE的工作原理是怎样的？","content_id":"2675321","title":"秋招小红书后端凉经（社区技术）"}

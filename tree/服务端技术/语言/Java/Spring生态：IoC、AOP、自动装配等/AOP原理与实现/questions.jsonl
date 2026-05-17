@@ -20,3 +20,13 @@
 {"qid":"q-858303196983259136-16","question":"自定义注解的设计方法","content_id":"858303196983259136","title":"【面经】2026四方精创-港资金融银行中级java开发外包岗-18K"}
 {"qid":"q-2792583-2","question":"为什么不用Spring自带的缓存注解而使用自定义注解实现缓存？","content_id":"2792583","title":"小厂Java电话面试"}
 {"qid":"q-2784185-6","question":"Spring中同步和异步注解的使用","content_id":"2784185","title":"2025.1.8西安易谷网络小厂面试"}
+{"qid":"q-2778171-0","question":"Spring AOP的底层实现原理是什么？","content_id":"2778171","title":"美团Java开发日常实习一面"}
+{"qid":"q-2777987-8","question":"AOP是怎么实现的？","content_id":"2777987","title":"京东后端实习一面"}
+{"qid":"q-837660497750028288-2","question":"Spring AOP是如何实现的？","content_id":"837660497750028288","title":"字节飞书AI后端一面凉经"}
+{"qid":"q-2778522-7","question":"Spring的AOP是什么，原理是什么","content_id":"2778522","title":"快手后端日常实习一面凉经"}
+{"qid":"q-2735988-9","question":"Spring AOP 的两种动态代理实现是什么？它们会导致哪些 @Transactional 注解失效问题？","content_id":"2735988","title":"11.5古茗java一面 30min"}
+{"qid":"q-2741509-0","question":"AOP 的实现原理与特点","content_id":"2741509","title":"oppo后端研发日常实习凉经"}
+{"qid":"q-2710521-4","question":"项目中AOP如何使用的？AOP的底层原理是什么？","content_id":"2710521","title":"联友科技（武汉）Java一面"}
+{"qid":"q-2685815-2","question":"动态代理的实现方式","content_id":"2685815","title":"美团-核心本地商业后端一面-9.9（凉）"}
+{"qid":"q-2685815-3","question":"什么情况下JDK和CGLIB动态代理都用不了","content_id":"2685815","title":"美团-核心本地商业后端一面-9.9（凉）"}
+{"qid":"q-2664637-0","question":"Spring AOP原理是什么，Java的反射和代理有哪几种","content_id":"2664637","title":"京东零售后端秋招一面"}
