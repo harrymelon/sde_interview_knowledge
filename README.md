@@ -16,6 +16,6 @@ tree/
 
 ## 来源
 
-`/Users/xukangcheng/projects/agent/learn_agent/data/list_data_full.jsonl`
+`../learn_agent/data/list_data_full.jsonl`
 
 由 `learn_agent/tools/knowledge` ingest，详细 taxonomy 与字段约定见 `learn_agent/tools/knowledge/taxonomy.go`。
